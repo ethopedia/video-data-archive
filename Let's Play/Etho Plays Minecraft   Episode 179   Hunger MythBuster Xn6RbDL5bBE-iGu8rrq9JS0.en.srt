@@ -1,0 +1,7895 @@
+1
+00:00:03,860 --> 00:00:08,790
+
+[Music]
+
+2
+00:00:08,790 --> 00:00:08,800
+
+ 
+
+3
+00:00:08,800 --> 00:00:09,270
+
+ah
+
+4
+00:00:09,270 --> 00:00:09,280
+ah
+ 
+
+5
+00:00:09,280 --> 00:00:12,310
+ah
+yeah feels so good so
+
+6
+00:00:12,310 --> 00:00:12,320
+yeah feels so good so
+ 
+
+7
+00:00:12,320 --> 00:00:19,189
+yeah feels so good so
+good it is finally done
+
+8
+00:00:19,189 --> 00:00:19,199
+
+ 
+
+9
+00:00:19,199 --> 00:00:22,550
+
+the mob system is built we are up in the
+
+10
+00:00:22,550 --> 00:00:22,560
+the mob system is built we are up in the
+ 
+
+11
+00:00:22,560 --> 00:00:25,910
+the mob system is built we are up in the
+cloud level here
+
+12
+00:00:25,910 --> 00:00:25,920
+
+ 
+
+13
+00:00:25,920 --> 00:00:29,429
+
+oh that's interesting apparently if you
+
+14
+00:00:29,429 --> 00:00:29,439
+oh that's interesting apparently if you
+ 
+
+15
+00:00:29,439 --> 00:00:29,750
+oh that's interesting apparently if you
+have
+
+16
+00:00:29,750 --> 00:00:29,760
+have
+ 
+
+17
+00:00:29,760 --> 00:00:35,270
+have
+f1 down you can't see the numbers
+
+18
+00:00:35,270 --> 00:00:35,280
+
+ 
+
+19
+00:00:35,280 --> 00:00:37,270
+
+learn something new every day today
+
+20
+00:00:37,270 --> 00:00:37,280
+learn something new every day today
+ 
+
+21
+00:00:37,280 --> 00:00:38,709
+learn something new every day today
+we're going to be learning a lot of new
+
+22
+00:00:38,709 --> 00:00:38,719
+we're going to be learning a lot of new
+ 
+
+23
+00:00:38,719 --> 00:00:40,389
+we're going to be learning a lot of new
+things but we'll get to that in a little
+
+24
+00:00:40,389 --> 00:00:40,399
+things but we'll get to that in a little
+ 
+
+25
+00:00:40,399 --> 00:00:41,270
+things but we'll get to that in a little
+bit
+
+26
+00:00:41,270 --> 00:00:41,280
+bit
+ 
+
+27
+00:00:41,280 --> 00:00:44,310
+bit
+um f5 f5
+
+28
+00:00:44,310 --> 00:00:44,320
+um f5 f5
+ 
+
+29
+00:00:44,320 --> 00:00:46,869
+um f5 f5
+there we go uh yeah we're done the mob
+
+30
+00:00:46,869 --> 00:00:46,879
+there we go uh yeah we're done the mob
+ 
+
+31
+00:00:46,879 --> 00:00:49,110
+there we go uh yeah we're done the mob
+system it goes way up here
+
+32
+00:00:49,110 --> 00:00:49,120
+system it goes way up here
+ 
+
+33
+00:00:49,120 --> 00:00:52,549
+system it goes way up here
+12 layers 1200 spawning spaces
+
+34
+00:00:52,549 --> 00:00:52,559
+12 layers 1200 spawning spaces
+ 
+
+35
+00:00:52,559 --> 00:00:55,990
+12 layers 1200 spawning spaces
+in it it is very
+
+36
+00:00:55,990 --> 00:00:56,000
+in it it is very
+ 
+
+37
+00:00:56,000 --> 00:01:00,709
+in it it is very
+very big very efficient let's go
+
+38
+00:01:00,709 --> 00:01:00,719
+very big very efficient let's go
+ 
+
+39
+00:01:00,719 --> 00:01:02,310
+very big very efficient let's go
+down through here there's a lighting
+
+40
+00:01:02,310 --> 00:01:02,320
+down through here there's a lighting
+ 
+
+41
+00:01:02,320 --> 00:01:04,310
+down through here there's a lighting
+system in it which works
+
+42
+00:01:04,310 --> 00:01:04,320
+system in it which works
+ 
+
+43
+00:01:04,320 --> 00:01:08,390
+system in it which works
+very well ouch as you can see the lights
+
+44
+00:01:08,390 --> 00:01:08,400
+very well ouch as you can see the lights
+ 
+
+45
+00:01:08,400 --> 00:01:13,030
+very well ouch as you can see the lights
+are on right now
+
+46
+00:01:13,030 --> 00:01:13,040
+are on right now
+ 
+
+47
+00:01:13,040 --> 00:01:14,230
+are on right now
+that looks really cool when you look
+
+48
+00:01:14,230 --> 00:01:14,240
+that looks really cool when you look
+ 
+
+49
+00:01:14,240 --> 00:01:16,469
+that looks really cool when you look
+down at the center like this
+
+50
+00:01:16,469 --> 00:01:16,479
+down at the center like this
+ 
+
+51
+00:01:16,479 --> 00:01:18,230
+down at the center like this
+by the way if you hold shift the water
+
+52
+00:01:18,230 --> 00:01:18,240
+by the way if you hold shift the water
+ 
+
+53
+00:01:18,240 --> 00:01:20,469
+by the way if you hold shift the water
+won't push you off blocks either
+
+54
+00:01:20,469 --> 00:01:20,479
+won't push you off blocks either
+ 
+
+55
+00:01:20,479 --> 00:01:24,830
+won't push you off blocks either
+a little trick i learned while building
+
+56
+00:01:24,830 --> 00:01:24,840
+
+ 
+
+57
+00:01:24,840 --> 00:01:30,390
+
+this
+
+58
+00:01:30,390 --> 00:01:30,400
+
+ 
+
+59
+00:01:30,400 --> 00:01:33,590
+
+yeah so it's done uh the only thing left
+
+60
+00:01:33,590 --> 00:01:33,600
+yeah so it's done uh the only thing left
+ 
+
+61
+00:01:33,600 --> 00:01:35,429
+yeah so it's done uh the only thing left
+to do now is to light up the caves in
+
+62
+00:01:35,429 --> 00:01:35,439
+to do now is to light up the caves in
+ 
+
+63
+00:01:35,439 --> 00:01:35,990
+to do now is to light up the caves in
+the area
+
+64
+00:01:35,990 --> 00:01:36,000
+the area
+ 
+
+65
+00:01:36,000 --> 00:01:38,230
+the area
+and until i do that it's going to be
+
+66
+00:01:38,230 --> 00:01:38,240
+and until i do that it's going to be
+ 
+
+67
+00:01:38,240 --> 00:01:41,749
+and until i do that it's going to be
+pretty slow rates
+
+68
+00:01:41,749 --> 00:01:41,759
+pretty slow rates
+ 
+
+69
+00:01:41,759 --> 00:01:45,350
+pretty slow rates
+ouch not another slime
+
+70
+00:01:45,350 --> 00:01:45,360
+ouch not another slime
+ 
+
+71
+00:01:45,360 --> 00:01:48,550
+ouch not another slime
+in here even wow
+
+72
+00:01:48,550 --> 00:01:48,560
+
+ 
+
+73
+00:01:48,560 --> 00:01:51,830
+
+first time i saw one in here
+
+74
+00:01:51,830 --> 00:01:51,840
+first time i saw one in here
+ 
+
+75
+00:01:51,840 --> 00:01:55,030
+first time i saw one in here
+yep so yeah
+
+76
+00:01:55,030 --> 00:01:55,040
+yep so yeah
+ 
+
+77
+00:01:55,040 --> 00:01:56,950
+yep so yeah
+next thing to do will be light up light
+
+78
+00:01:56,950 --> 00:01:56,960
+next thing to do will be light up light
+ 
+
+79
+00:01:56,960 --> 00:01:59,670
+next thing to do will be light up light
+up the caves work on the emp units hook
+
+80
+00:01:59,670 --> 00:01:59,680
+up the caves work on the emp units hook
+ 
+
+81
+00:01:59,680 --> 00:02:02,469
+up the caves work on the emp units hook
+up the sorting systems and
+
+82
+00:02:02,469 --> 00:02:02,479
+up the sorting systems and
+ 
+
+83
+00:02:02,479 --> 00:02:04,389
+up the sorting systems and
+all the fun stuff starts now the hard
+
+84
+00:02:04,389 --> 00:02:04,399
+all the fun stuff starts now the hard
+ 
+
+85
+00:02:04,399 --> 00:02:06,230
+all the fun stuff starts now the hard
+part is done
+
+86
+00:02:06,230 --> 00:02:06,240
+part is done
+ 
+
+87
+00:02:06,240 --> 00:02:08,550
+part is done
+but really the next thing i want to do
+
+88
+00:02:08,550 --> 00:02:08,560
+but really the next thing i want to do
+ 
+
+89
+00:02:08,560 --> 00:02:09,830
+but really the next thing i want to do
+is get rid of
+
+90
+00:02:09,830 --> 00:02:09,840
+is get rid of
+ 
+
+91
+00:02:09,840 --> 00:02:12,869
+is get rid of
+all this land between the mob
+
+92
+00:02:12,869 --> 00:02:12,879
+all this land between the mob
+ 
+
+93
+00:02:12,879 --> 00:02:16,790
+all this land between the mob
+system and here so that's about
+
+94
+00:02:16,790 --> 00:02:16,800
+system and here so that's about
+ 
+
+95
+00:02:16,800 --> 00:02:19,510
+system and here so that's about
+20 blocks up we got to take outs a lot
+
+96
+00:02:19,510 --> 00:02:19,520
+20 blocks up we got to take outs a lot
+ 
+
+97
+00:02:19,520 --> 00:02:20,949
+20 blocks up we got to take outs a lot
+of blocks
+
+98
+00:02:20,949 --> 00:02:20,959
+of blocks
+ 
+
+99
+00:02:20,959 --> 00:02:24,309
+of blocks
+uh i'm gonna use tnt for that
+
+100
+00:02:24,309 --> 00:02:24,319
+uh i'm gonna use tnt for that
+ 
+
+101
+00:02:24,319 --> 00:02:27,589
+uh i'm gonna use tnt for that
+let's go take a look outside if i can
+
+102
+00:02:27,589 --> 00:02:27,599
+let's go take a look outside if i can
+ 
+
+103
+00:02:27,599 --> 00:02:30,390
+let's go take a look outside if i can
+find my way out of here
+
+104
+00:02:30,390 --> 00:02:30,400
+find my way out of here
+ 
+
+105
+00:02:30,400 --> 00:02:33,750
+find my way out of here
+oh yeah i'm gonna try maybe
+
+106
+00:02:33,750 --> 00:02:33,760
+oh yeah i'm gonna try maybe
+ 
+
+107
+00:02:33,760 --> 00:02:35,990
+oh yeah i'm gonna try maybe
+have another tube in the middle and
+
+108
+00:02:35,990 --> 00:02:36,000
+have another tube in the middle and
+ 
+
+109
+00:02:36,000 --> 00:02:38,869
+have another tube in the middle and
+we'll have slimes going through that
+
+110
+00:02:38,869 --> 00:02:38,879
+we'll have slimes going through that
+ 
+
+111
+00:02:38,879 --> 00:02:42,229
+we'll have slimes going through that
+i think that might be cool if we can
+
+112
+00:02:42,229 --> 00:02:42,239
+i think that might be cool if we can
+ 
+
+113
+00:02:42,239 --> 00:02:44,150
+i think that might be cool if we can
+find a slime chunk around here and make
+
+114
+00:02:44,150 --> 00:02:44,160
+find a slime chunk around here and make
+ 
+
+115
+00:02:44,160 --> 00:02:45,589
+find a slime chunk around here and make
+it work out if not
+
+116
+00:02:45,589 --> 00:02:45,599
+it work out if not
+ 
+
+117
+00:02:45,599 --> 00:02:49,350
+it work out if not
+oh well oh yeah and the repairs on the
+
+118
+00:02:49,350 --> 00:02:49,360
+oh well oh yeah and the repairs on the
+ 
+
+119
+00:02:49,360 --> 00:02:50,710
+oh well oh yeah and the repairs on the
+silverfish
+
+120
+00:02:50,710 --> 00:02:50,720
+silverfish
+ 
+
+121
+00:02:50,720 --> 00:02:54,229
+silverfish
+room have sort of been taking place
+
+122
+00:02:54,229 --> 00:02:54,239
+room have sort of been taking place
+ 
+
+123
+00:02:54,239 --> 00:02:57,750
+room have sort of been taking place
+i cleared out the big mess underneath
+
+124
+00:02:57,750 --> 00:02:57,760
+i cleared out the big mess underneath
+ 
+
+125
+00:02:57,760 --> 00:03:00,949
+i cleared out the big mess underneath
+and killed most the silverfish i think
+
+126
+00:03:00,949 --> 00:03:00,959
+and killed most the silverfish i think
+ 
+
+127
+00:03:00,959 --> 00:03:03,110
+and killed most the silverfish i think
+i broke the blocks encouraged them to
+
+128
+00:03:03,110 --> 00:03:03,120
+i broke the blocks encouraged them to
+ 
+
+129
+00:03:03,120 --> 00:03:04,149
+i broke the blocks encouraged them to
+come out and then
+
+130
+00:03:04,149 --> 00:03:04,159
+come out and then
+ 
+
+131
+00:03:04,159 --> 00:03:07,350
+come out and then
+kill them all all that i could find
+
+132
+00:03:07,350 --> 00:03:07,360
+kill them all all that i could find
+ 
+
+133
+00:03:07,360 --> 00:03:11,670
+kill them all all that i could find
+so hopefully that mess is cleaned up got
+
+134
+00:03:11,670 --> 00:03:11,680
+so hopefully that mess is cleaned up got
+ 
+
+135
+00:03:11,680 --> 00:03:12,149
+so hopefully that mess is cleaned up got
+rid of
+
+136
+00:03:12,149 --> 00:03:12,159
+rid of
+ 
+
+137
+00:03:12,159 --> 00:03:15,350
+rid of
+a lot more of the lava and i'm still
+
+138
+00:03:15,350 --> 00:03:15,360
+a lot more of the lava and i'm still
+ 
+
+139
+00:03:15,360 --> 00:03:17,270
+a lot more of the lava and i'm still
+parkouring around here
+
+140
+00:03:17,270 --> 00:03:17,280
+parkouring around here
+ 
+
+141
+00:03:17,280 --> 00:03:18,949
+parkouring around here
+i'll cut to outside because this might
+
+142
+00:03:18,949 --> 00:03:18,959
+i'll cut to outside because this might
+ 
+
+143
+00:03:18,959 --> 00:03:24,630
+i'll cut to outside because this might
+take me a while to get out of
+
+144
+00:03:24,630 --> 00:03:24,640
+
+ 
+
+145
+00:03:24,640 --> 00:03:26,869
+
+all right let's jump off i'll show you
+
+146
+00:03:26,869 --> 00:03:26,879
+all right let's jump off i'll show you
+ 
+
+147
+00:03:26,879 --> 00:03:31,190
+all right let's jump off i'll show you
+how high up it is
+
+148
+00:03:31,190 --> 00:03:31,200
+
+ 
+
+149
+00:03:31,200 --> 00:03:33,030
+
+quite a ways this is what it looks like
+
+150
+00:03:33,030 --> 00:03:33,040
+quite a ways this is what it looks like
+ 
+
+151
+00:03:33,040 --> 00:03:38,070
+quite a ways this is what it looks like
+from down below
+
+152
+00:03:38,070 --> 00:03:38,080
+
+ 
+
+153
+00:03:38,080 --> 00:03:39,830
+
+it looks a lot better as snow i gotta
+
+154
+00:03:39,830 --> 00:03:39,840
+it looks a lot better as snow i gotta
+ 
+
+155
+00:03:39,840 --> 00:03:42,309
+it looks a lot better as snow i gotta
+say compared to cobble or wood it looks
+
+156
+00:03:42,309 --> 00:03:42,319
+say compared to cobble or wood it looks
+ 
+
+157
+00:03:42,319 --> 00:03:45,270
+say compared to cobble or wood it looks
+really cool i might add some more
+
+158
+00:03:45,270 --> 00:03:45,280
+really cool i might add some more
+ 
+
+159
+00:03:45,280 --> 00:03:45,990
+really cool i might add some more
+character to
+
+160
+00:03:45,990 --> 00:03:46,000
+character to
+ 
+
+161
+00:03:46,000 --> 00:03:48,309
+character to
+it in the future but for now i'm just
+
+162
+00:03:48,309 --> 00:03:48,319
+it in the future but for now i'm just
+ 
+
+163
+00:03:48,319 --> 00:03:49,750
+it in the future but for now i'm just
+happy
+
+164
+00:03:49,750 --> 00:03:49,760
+happy
+ 
+
+165
+00:03:49,760 --> 00:03:52,949
+happy
+with the general look of it although
+
+166
+00:03:52,949 --> 00:03:52,959
+with the general look of it although
+ 
+
+167
+00:03:52,959 --> 00:03:55,270
+with the general look of it although
+i do have to say i do not recommend
+
+168
+00:03:55,270 --> 00:03:55,280
+i do have to say i do not recommend
+ 
+
+169
+00:03:55,280 --> 00:03:56,309
+i do have to say i do not recommend
+making
+
+170
+00:03:56,309 --> 00:03:56,319
+making
+ 
+
+171
+00:03:56,319 --> 00:04:00,229
+making
+one out of snow because that took a long
+
+172
+00:04:00,229 --> 00:04:00,239
+one out of snow because that took a long
+ 
+
+173
+00:04:00,239 --> 00:04:03,429
+one out of snow because that took a long
+time to farm all that snow believe it or
+
+174
+00:04:03,429 --> 00:04:03,439
+time to farm all that snow believe it or
+ 
+
+175
+00:04:03,439 --> 00:04:05,910
+time to farm all that snow believe it or
+not even with the snow golems
+
+176
+00:04:05,910 --> 00:04:05,920
+not even with the snow golems
+ 
+
+177
+00:04:05,920 --> 00:04:08,789
+not even with the snow golems
+it took a long time i went through a
+
+178
+00:04:08,789 --> 00:04:08,799
+it took a long time i went through a
+ 
+
+179
+00:04:08,799 --> 00:04:10,630
+it took a long time i went through a
+good stack of iron on
+
+180
+00:04:10,630 --> 00:04:10,640
+good stack of iron on
+ 
+
+181
+00:04:10,640 --> 00:04:14,550
+good stack of iron on
+shovels and
+
+182
+00:04:14,550 --> 00:04:14,560
+shovels and
+ 
+
+183
+00:04:14,560 --> 00:04:17,430
+shovels and
+basically every shovel gets you 64
+
+184
+00:04:17,430 --> 00:04:17,440
+basically every shovel gets you 64
+ 
+
+185
+00:04:17,440 --> 00:04:18,710
+basically every shovel gets you 64
+blocks of snow
+
+186
+00:04:18,710 --> 00:04:18,720
+blocks of snow
+ 
+
+187
+00:04:18,720 --> 00:04:21,430
+blocks of snow
+every iron shovel is what i worked it
+
+188
+00:04:21,430 --> 00:04:21,440
+every iron shovel is what i worked it
+ 
+
+189
+00:04:21,440 --> 00:04:24,550
+every iron shovel is what i worked it
+out to be about
+
+190
+00:04:24,550 --> 00:04:24,560
+
+ 
+
+191
+00:04:24,560 --> 00:04:27,670
+
+and yeah i was using cobble ones at at
+
+192
+00:04:27,670 --> 00:04:27,680
+and yeah i was using cobble ones at at
+ 
+
+193
+00:04:27,680 --> 00:04:28,070
+and yeah i was using cobble ones at at
+first
+
+194
+00:04:28,070 --> 00:04:28,080
+first
+ 
+
+195
+00:04:28,080 --> 00:04:30,150
+first
+but i just got fed up with them breaking
+
+196
+00:04:30,150 --> 00:04:30,160
+but i just got fed up with them breaking
+ 
+
+197
+00:04:30,160 --> 00:04:32,390
+but i just got fed up with them breaking
+all the time so i switched to iron
+
+198
+00:04:32,390 --> 00:04:32,400
+all the time so i switched to iron
+ 
+
+199
+00:04:32,400 --> 00:04:38,710
+all the time so i switched to iron
+iron shovels and that just took forever
+
+200
+00:04:38,710 --> 00:04:38,720
+
+ 
+
+201
+00:04:38,720 --> 00:04:43,670
+
+but anyway it's done yay
+
+202
+00:04:43,670 --> 00:04:43,680
+but anyway it's done yay
+ 
+
+203
+00:04:43,680 --> 00:04:46,230
+but anyway it's done yay
+uh today we're going to be talking
+
+204
+00:04:46,230 --> 00:04:46,240
+uh today we're going to be talking
+ 
+
+205
+00:04:46,240 --> 00:04:47,990
+uh today we're going to be talking
+today's going to be a taki episode we're
+
+206
+00:04:47,990 --> 00:04:48,000
+today's going to be a taki episode we're
+ 
+
+207
+00:04:48,000 --> 00:04:49,510
+today's going to be a taki episode we're
+not really going to build anything
+
+208
+00:04:49,510 --> 00:04:49,520
+not really going to build anything
+ 
+
+209
+00:04:49,520 --> 00:04:52,710
+not really going to build anything
+uh i learned something new today
+
+210
+00:04:52,710 --> 00:04:52,720
+uh i learned something new today
+ 
+
+211
+00:04:52,720 --> 00:04:55,350
+uh i learned something new today
+and this is going to be sort of a
+
+212
+00:04:55,350 --> 00:04:55,360
+and this is going to be sort of a
+ 
+
+213
+00:04:55,360 --> 00:04:58,070
+and this is going to be sort of a
+mythbusters episode so
+
+214
+00:04:58,070 --> 00:04:58,080
+mythbusters episode so
+ 
+
+215
+00:04:58,080 --> 00:05:00,070
+mythbusters episode so
+i'm gonna set up some signs and then we
+
+216
+00:05:00,070 --> 00:05:00,080
+i'm gonna set up some signs and then we
+ 
+
+217
+00:05:00,080 --> 00:05:02,870
+i'm gonna set up some signs and then we
+will get started because i got to
+
+218
+00:05:02,870 --> 00:05:02,880
+will get started because i got to
+ 
+
+219
+00:05:02,880 --> 00:05:07,029
+will get started because i got to
+share some information
+
+220
+00:05:07,029 --> 00:05:07,039
+
+ 
+
+221
+00:05:07,039 --> 00:05:10,629
+
+oh yeah so this thing's working a lot
+
+222
+00:05:10,629 --> 00:05:10,639
+oh yeah so this thing's working a lot
+ 
+
+223
+00:05:10,639 --> 00:05:11,510
+oh yeah so this thing's working a lot
+better now
+
+224
+00:05:11,510 --> 00:05:11,520
+better now
+ 
+
+225
+00:05:11,520 --> 00:05:15,189
+better now
+that we have a few more layers on it
+
+226
+00:05:15,189 --> 00:05:15,199
+that we have a few more layers on it
+ 
+
+227
+00:05:15,199 --> 00:05:17,430
+that we have a few more layers on it
+but once we get the caves all lit up
+
+228
+00:05:17,430 --> 00:05:17,440
+but once we get the caves all lit up
+ 
+
+229
+00:05:17,440 --> 00:05:19,270
+but once we get the caves all lit up
+around here it's going to make a huge
+
+230
+00:05:19,270 --> 00:05:19,280
+around here it's going to make a huge
+ 
+
+231
+00:05:19,280 --> 00:05:19,990
+around here it's going to make a huge
+difference
+
+232
+00:05:19,990 --> 00:05:20,000
+difference
+ 
+
+233
+00:05:20,000 --> 00:05:23,270
+difference
+it'll be a lot lot better so we'll try
+
+234
+00:05:23,270 --> 00:05:23,280
+it'll be a lot lot better so we'll try
+ 
+
+235
+00:05:23,280 --> 00:05:24,150
+it'll be a lot lot better so we'll try
+to do that sometime
+
+236
+00:05:24,150 --> 00:05:24,160
+to do that sometime
+ 
+
+237
+00:05:24,160 --> 00:05:28,629
+to do that sometime
+soon but
+
+238
+00:05:28,629 --> 00:05:28,639
+soon but
+ 
+
+239
+00:05:28,639 --> 00:05:32,230
+soon but
+check it out the signs are set up
+
+240
+00:05:32,230 --> 00:05:32,240
+check it out the signs are set up
+ 
+
+241
+00:05:32,240 --> 00:05:34,469
+check it out the signs are set up
+charts are already here you are about to
+
+242
+00:05:34,469 --> 00:05:34,479
+charts are already here you are about to
+ 
+
+243
+00:05:34,479 --> 00:05:37,270
+charts are already here you are about to
+get schooled my friends
+
+244
+00:05:37,270 --> 00:05:37,280
+get schooled my friends
+ 
+
+245
+00:05:37,280 --> 00:05:40,950
+get schooled my friends
+today's mythbuster episode is going to
+
+246
+00:05:40,950 --> 00:05:40,960
+today's mythbuster episode is going to
+ 
+
+247
+00:05:40,960 --> 00:05:41,350
+today's mythbuster episode is going to
+be
+
+248
+00:05:41,350 --> 00:05:41,360
+be
+ 
+
+249
+00:05:41,360 --> 00:05:45,670
+be
+about the minecraft hunger system
+
+250
+00:05:45,670 --> 00:05:45,680
+about the minecraft hunger system
+ 
+
+251
+00:05:45,680 --> 00:05:48,390
+about the minecraft hunger system
+and i'm going to wager a bet that the
+
+252
+00:05:48,390 --> 00:05:48,400
+and i'm going to wager a bet that the
+ 
+
+253
+00:05:48,400 --> 00:05:50,550
+and i'm going to wager a bet that the
+majority of the people that play this
+
+254
+00:05:50,550 --> 00:05:50,560
+majority of the people that play this
+ 
+
+255
+00:05:50,560 --> 00:05:51,029
+majority of the people that play this
+game
+
+256
+00:05:51,029 --> 00:05:51,039
+game
+ 
+
+257
+00:05:51,039 --> 00:05:54,550
+game
+have no idea how it works and before
+
+258
+00:05:54,550 --> 00:05:54,560
+have no idea how it works and before
+ 
+
+259
+00:05:54,560 --> 00:05:57,189
+have no idea how it works and before
+today i was also one of them
+
+260
+00:05:57,189 --> 00:05:57,199
+today i was also one of them
+ 
+
+261
+00:05:57,199 --> 00:05:58,870
+today i was also one of them
+and the reason for that is because the
+
+262
+00:05:58,870 --> 00:05:58,880
+and the reason for that is because the
+ 
+
+263
+00:05:58,880 --> 00:06:01,590
+and the reason for that is because the
+hunger system in this game is very
+
+264
+00:06:01,590 --> 00:06:01,600
+hunger system in this game is very
+ 
+
+265
+00:06:01,600 --> 00:06:04,469
+hunger system in this game is very
+unintuitive or in other words you
+
+266
+00:06:04,469 --> 00:06:04,479
+unintuitive or in other words you
+ 
+
+267
+00:06:04,479 --> 00:06:06,550
+unintuitive or in other words you
+wouldn't know how it works unless
+
+268
+00:06:06,550 --> 00:06:06,560
+wouldn't know how it works unless
+ 
+
+269
+00:06:06,560 --> 00:06:09,670
+wouldn't know how it works unless
+you spent many hours trying to figure it
+
+270
+00:06:09,670 --> 00:06:09,680
+you spent many hours trying to figure it
+ 
+
+271
+00:06:09,680 --> 00:06:10,230
+you spent many hours trying to figure it
+out
+
+272
+00:06:10,230 --> 00:06:10,240
+out
+ 
+
+273
+00:06:10,240 --> 00:06:14,230
+out
+or if you were to
+
+274
+00:06:14,230 --> 00:06:14,240
+or if you were to
+ 
+
+275
+00:06:14,240 --> 00:06:15,830
+or if you were to
+look at the game code you might figure
+
+276
+00:06:15,830 --> 00:06:15,840
+look at the game code you might figure
+ 
+
+277
+00:06:15,840 --> 00:06:17,749
+look at the game code you might figure
+it out that way
+
+278
+00:06:17,749 --> 00:06:17,759
+it out that way
+ 
+
+279
+00:06:17,759 --> 00:06:20,070
+it out that way
+or if you had someone explain it to you
+
+280
+00:06:20,070 --> 00:06:20,080
+or if you had someone explain it to you
+ 
+
+281
+00:06:20,080 --> 00:06:21,749
+or if you had someone explain it to you
+like i'm going to try to
+
+282
+00:06:21,749 --> 00:06:21,759
+like i'm going to try to
+ 
+
+283
+00:06:21,759 --> 00:06:25,670
+like i'm going to try to
+today in this episode so
+
+284
+00:06:25,670 --> 00:06:25,680
+today in this episode so
+ 
+
+285
+00:06:25,680 --> 00:06:29,110
+today in this episode so
+how does it work oh boy where do we
+
+286
+00:06:29,110 --> 00:06:29,120
+how does it work oh boy where do we
+ 
+
+287
+00:06:29,120 --> 00:06:31,189
+how does it work oh boy where do we
+begin
+
+288
+00:06:31,189 --> 00:06:31,199
+begin
+ 
+
+289
+00:06:31,199 --> 00:06:32,870
+begin
+well let's start from the beginning the
+
+290
+00:06:32,870 --> 00:06:32,880
+well let's start from the beginning the
+ 
+
+291
+00:06:32,880 --> 00:06:34,230
+well let's start from the beginning the
+way i originally
+
+292
+00:06:34,230 --> 00:06:34,240
+way i originally
+ 
+
+293
+00:06:34,240 --> 00:06:36,469
+way i originally
+thought it worked and as i'm sure many
+
+294
+00:06:36,469 --> 00:06:36,479
+thought it worked and as i'm sure many
+ 
+
+295
+00:06:36,479 --> 00:06:37,990
+thought it worked and as i'm sure many
+of you
+
+296
+00:06:37,990 --> 00:06:38,000
+of you
+ 
+
+297
+00:06:38,000 --> 00:06:41,990
+of you
+also agreed i'm going to eat this
+
+298
+00:06:41,990 --> 00:06:42,000
+
+ 
+
+299
+00:06:42,000 --> 00:06:44,790
+
+another one i'm going to jump around a
+
+300
+00:06:44,790 --> 00:06:44,800
+another one i'm going to jump around a
+ 
+
+301
+00:06:44,800 --> 00:06:49,990
+another one i'm going to jump around a
+little bit
+
+302
+00:06:49,990 --> 00:06:50,000
+
+ 
+
+303
+00:06:50,000 --> 00:06:52,230
+
+so actually maybe before we get going
+
+304
+00:06:52,230 --> 00:06:52,240
+so actually maybe before we get going
+ 
+
+305
+00:06:52,240 --> 00:06:53,270
+so actually maybe before we get going
+here
+
+306
+00:06:53,270 --> 00:06:53,280
+here
+ 
+
+307
+00:06:53,280 --> 00:06:57,189
+here
+i'm going to say one thing
+
+308
+00:06:57,189 --> 00:06:57,199
+
+ 
+
+309
+00:06:57,199 --> 00:06:59,510
+
+once my hunger gets down just a sec just
+
+310
+00:06:59,510 --> 00:06:59,520
+once my hunger gets down just a sec just
+ 
+
+311
+00:06:59,520 --> 00:07:02,070
+once my hunger gets down just a sec just
+a sec
+
+312
+00:07:02,070 --> 00:07:02,080
+a sec
+ 
+
+313
+00:07:02,080 --> 00:07:04,870
+a sec
+all right and we'll jump a few more
+
+314
+00:07:04,870 --> 00:07:04,880
+all right and we'll jump a few more
+ 
+
+315
+00:07:04,880 --> 00:07:07,909
+all right and we'll jump a few more
+times
+
+316
+00:07:07,909 --> 00:07:07,919
+
+ 
+
+317
+00:07:07,919 --> 00:07:10,629
+
+there we go so it just went down uh
+
+318
+00:07:10,629 --> 00:07:10,639
+there we go so it just went down uh
+ 
+
+319
+00:07:10,639 --> 00:07:12,390
+there we go so it just went down uh
+jumping is going to be our staple in
+
+320
+00:07:12,390 --> 00:07:12,400
+jumping is going to be our staple in
+ 
+
+321
+00:07:12,400 --> 00:07:13,430
+jumping is going to be our staple in
+this episode
+
+322
+00:07:13,430 --> 00:07:13,440
+this episode
+ 
+
+323
+00:07:13,440 --> 00:07:16,230
+this episode
+for measuring our hunger it just went
+
+324
+00:07:16,230 --> 00:07:16,240
+for measuring our hunger it just went
+ 
+
+325
+00:07:16,240 --> 00:07:17,749
+for measuring our hunger it just went
+down
+
+326
+00:07:17,749 --> 00:07:17,759
+down
+ 
+
+327
+00:07:17,759 --> 00:07:20,150
+down
+every 20 times we jump it's going to go
+
+328
+00:07:20,150 --> 00:07:20,160
+every 20 times we jump it's going to go
+ 
+
+329
+00:07:20,160 --> 00:07:22,629
+every 20 times we jump it's going to go
+down half a bar
+
+330
+00:07:22,629 --> 00:07:22,639
+down half a bar
+ 
+
+331
+00:07:22,639 --> 00:07:25,830
+down half a bar
+1 2 3 4 5 6 7
+
+332
+00:07:25,830 --> 00:07:25,840
+1 2 3 4 5 6 7
+ 
+
+333
+00:07:25,840 --> 00:07:29,270
+1 2 3 4 5 6 7
+8 9 10 11 12 13 14
+
+334
+00:07:29,270 --> 00:07:29,280
+8 9 10 11 12 13 14
+ 
+
+335
+00:07:29,280 --> 00:07:32,710
+8 9 10 11 12 13 14
+15 16 17
+
+336
+00:07:32,710 --> 00:07:32,720
+15 16 17
+ 
+
+337
+00:07:32,720 --> 00:07:36,790
+15 16 17
+18 19 and here goes 20.
+
+338
+00:07:36,790 --> 00:07:36,800
+18 19 and here goes 20.
+ 
+
+339
+00:07:36,800 --> 00:07:39,270
+18 19 and here goes 20.
+one two three four five six seven eight
+
+340
+00:07:39,270 --> 00:07:39,280
+one two three four five six seven eight
+ 
+
+341
+00:07:39,280 --> 00:07:39,990
+one two three four five six seven eight
+nine 10
+
+342
+00:07:39,990 --> 00:07:40,000
+nine 10
+ 
+
+343
+00:07:40,000 --> 00:07:43,110
+nine 10
+11 12 13 14 15 16 17 18
+
+344
+00:07:43,110 --> 00:07:43,120
+11 12 13 14 15 16 17 18
+ 
+
+345
+00:07:43,120 --> 00:07:46,390
+11 12 13 14 15 16 17 18
+19 20. so
+
+346
+00:07:46,390 --> 00:07:46,400
+19 20. so
+ 
+
+347
+00:07:46,400 --> 00:07:50,869
+19 20. so
+that's our easy to reproduce measurement
+
+348
+00:07:50,869 --> 00:07:50,879
+that's our easy to reproduce measurement
+ 
+
+349
+00:07:50,879 --> 00:07:54,309
+that's our easy to reproduce measurement
+system
+
+350
+00:07:54,309 --> 00:07:54,319
+
+ 
+
+351
+00:07:54,319 --> 00:07:56,550
+
+okay so the way i originally thought the
+
+352
+00:07:56,550 --> 00:07:56,560
+okay so the way i originally thought the
+ 
+
+353
+00:07:56,560 --> 00:07:57,510
+okay so the way i originally thought the
+hunger worked
+
+354
+00:07:57,510 --> 00:07:57,520
+hunger worked
+ 
+
+355
+00:07:57,520 --> 00:08:00,869
+hunger worked
+is if right now i'm down two and a half
+
+356
+00:08:00,869 --> 00:08:00,879
+is if right now i'm down two and a half
+ 
+
+357
+00:08:00,879 --> 00:08:02,629
+is if right now i'm down two and a half
+bars right
+
+358
+00:08:02,629 --> 00:08:02,639
+bars right
+ 
+
+359
+00:08:02,639 --> 00:08:05,749
+bars right
+eating steak recovers for
+
+360
+00:08:05,749 --> 00:08:05,759
+eating steak recovers for
+ 
+
+361
+00:08:05,759 --> 00:08:09,110
+eating steak recovers for
+four of those so i thought there was an
+
+362
+00:08:09,110 --> 00:08:09,120
+four of those so i thought there was an
+ 
+
+363
+00:08:09,120 --> 00:08:10,830
+four of those so i thought there was an
+overflow to it
+
+364
+00:08:10,830 --> 00:08:10,840
+overflow to it
+ 
+
+365
+00:08:10,840 --> 00:08:14,869
+overflow to it
+where it'll it only shows 10 but i
+
+366
+00:08:14,869 --> 00:08:14,879
+where it'll it only shows 10 but i
+ 
+
+367
+00:08:14,879 --> 00:08:15,589
+where it'll it only shows 10 but i
+thought
+
+368
+00:08:15,589 --> 00:08:15,599
+thought
+ 
+
+369
+00:08:15,599 --> 00:08:18,629
+thought
+in this case i would have what's
+
+370
+00:08:18,629 --> 00:08:18,639
+in this case i would have what's
+ 
+
+371
+00:08:18,639 --> 00:08:22,070
+in this case i would have what's
+two and a half 11 and a half hunger
+
+372
+00:08:22,070 --> 00:08:22,080
+two and a half 11 and a half hunger
+ 
+
+373
+00:08:22,080 --> 00:08:25,110
+two and a half 11 and a half hunger
+at the moment or or food i should say 11
+
+374
+00:08:25,110 --> 00:08:25,120
+at the moment or or food i should say 11
+ 
+
+375
+00:08:25,120 --> 00:08:26,390
+at the moment or or food i should say 11
+and a half food
+
+376
+00:08:26,390 --> 00:08:26,400
+and a half food
+ 
+
+377
+00:08:26,400 --> 00:08:28,950
+and a half food
+i thought there would be a 1.5 overflow
+
+378
+00:08:28,950 --> 00:08:28,960
+i thought there would be a 1.5 overflow
+ 
+
+379
+00:08:28,960 --> 00:08:30,550
+i thought there would be a 1.5 overflow
+there that's the way i thought it always
+
+380
+00:08:30,550 --> 00:08:30,560
+there that's the way i thought it always
+ 
+
+381
+00:08:30,560 --> 00:08:33,029
+there that's the way i thought it always
+worked because
+
+382
+00:08:33,029 --> 00:08:33,039
+worked because
+ 
+
+383
+00:08:33,039 --> 00:08:34,469
+worked because
+anybody that's played this game for a
+
+384
+00:08:34,469 --> 00:08:34,479
+anybody that's played this game for a
+ 
+
+385
+00:08:34,479 --> 00:08:36,149
+anybody that's played this game for a
+while knows that if you were to eat a
+
+386
+00:08:36,149 --> 00:08:36,159
+while knows that if you were to eat a
+ 
+
+387
+00:08:36,159 --> 00:08:37,670
+while knows that if you were to eat a
+watermelon
+
+388
+00:08:37,670 --> 00:08:37,680
+watermelon
+ 
+
+389
+00:08:37,680 --> 00:08:39,909
+watermelon
+when you're when your food's at nine and
+
+390
+00:08:39,909 --> 00:08:39,919
+when you're when your food's at nine and
+ 
+
+391
+00:08:39,919 --> 00:08:40,709
+when you're when your food's at nine and
+a half
+
+392
+00:08:40,709 --> 00:08:40,719
+a half
+ 
+
+393
+00:08:40,719 --> 00:08:43,190
+a half
+compared to when you would eat a steak
+
+394
+00:08:43,190 --> 00:08:43,200
+compared to when you would eat a steak
+ 
+
+395
+00:08:43,200 --> 00:08:45,269
+compared to when you would eat a steak
+when it's nine and a half
+
+396
+00:08:45,269 --> 00:08:45,279
+when it's nine and a half
+ 
+
+397
+00:08:45,279 --> 00:08:49,190
+when it's nine and a half
+uh generally the steak
+
+398
+00:08:49,190 --> 00:08:49,200
+uh generally the steak
+ 
+
+399
+00:08:49,200 --> 00:08:51,670
+uh generally the steak
+would keep you full a lot longer than
+
+400
+00:08:51,670 --> 00:08:51,680
+would keep you full a lot longer than
+ 
+
+401
+00:08:51,680 --> 00:08:54,310
+would keep you full a lot longer than
+the watermelon that's
+
+402
+00:08:54,310 --> 00:08:54,320
+the watermelon that's
+ 
+
+403
+00:08:54,320 --> 00:09:00,150
+the watermelon that's
+pretty pretty well known and
+
+404
+00:09:00,150 --> 00:09:00,160
+
+ 
+
+405
+00:09:00,160 --> 00:09:02,710
+
+i think a lot of people figured that's
+
+406
+00:09:02,710 --> 00:09:02,720
+i think a lot of people figured that's
+ 
+
+407
+00:09:02,720 --> 00:09:03,990
+i think a lot of people figured that's
+the way it works
+
+408
+00:09:03,990 --> 00:09:04,000
+the way it works
+ 
+
+409
+00:09:04,000 --> 00:09:06,310
+the way it works
+but it turns out there's actually two
+
+410
+00:09:06,310 --> 00:09:06,320
+but it turns out there's actually two
+ 
+
+411
+00:09:06,320 --> 00:09:07,990
+but it turns out there's actually two
+different hunger bars in this
+
+412
+00:09:07,990 --> 00:09:08,000
+different hunger bars in this
+ 
+
+413
+00:09:08,000 --> 00:09:11,269
+different hunger bars in this
+game and most most information for this
+
+414
+00:09:11,269 --> 00:09:11,279
+game and most most information for this
+ 
+
+415
+00:09:11,279 --> 00:09:11,910
+game and most most information for this
+episode
+
+416
+00:09:11,910 --> 00:09:11,920
+episode
+ 
+
+417
+00:09:11,920 --> 00:09:16,389
+episode
+comes from the minecraft wiki uh
+
+418
+00:09:16,389 --> 00:09:16,399
+comes from the minecraft wiki uh
+ 
+
+419
+00:09:16,399 --> 00:09:19,030
+comes from the minecraft wiki uh
+from the uhc comments one that comes up
+
+420
+00:09:19,030 --> 00:09:19,040
+from the uhc comments one that comes up
+ 
+
+421
+00:09:19,040 --> 00:09:19,910
+from the uhc comments one that comes up
+quite often
+
+422
+00:09:19,910 --> 00:09:19,920
+quite often
+ 
+
+423
+00:09:19,920 --> 00:09:23,750
+quite often
+is that i waste my food in it
+
+424
+00:09:23,750 --> 00:09:23,760
+is that i waste my food in it
+ 
+
+425
+00:09:23,760 --> 00:09:27,269
+is that i waste my food in it
+i eat and waste food and i've always
+
+426
+00:09:27,269 --> 00:09:27,279
+i eat and waste food and i've always
+ 
+
+427
+00:09:27,279 --> 00:09:29,590
+i eat and waste food and i've always
+sort of rolled my eyes at that comments
+
+428
+00:09:29,590 --> 00:09:29,600
+sort of rolled my eyes at that comments
+ 
+
+429
+00:09:29,600 --> 00:09:31,990
+sort of rolled my eyes at that comments
+it comes up quite often some of the
+
+430
+00:09:31,990 --> 00:09:32,000
+it comes up quite often some of the
+ 
+
+431
+00:09:32,000 --> 00:09:34,470
+it comes up quite often some of the
+other guys get it too
+
+432
+00:09:34,470 --> 00:09:34,480
+other guys get it too
+ 
+
+433
+00:09:34,480 --> 00:09:36,150
+other guys get it too
+people that stayed are pretty much
+
+434
+00:09:36,150 --> 00:09:36,160
+people that stayed are pretty much
+ 
+
+435
+00:09:36,160 --> 00:09:37,990
+people that stayed are pretty much
+trolls so they're doing it
+
+436
+00:09:37,990 --> 00:09:38,000
+trolls so they're doing it
+ 
+
+437
+00:09:38,000 --> 00:09:40,310
+trolls so they're doing it
+i don't know why they say it's it's
+
+438
+00:09:40,310 --> 00:09:40,320
+i don't know why they say it's it's
+ 
+
+439
+00:09:40,320 --> 00:09:43,910
+i don't know why they say it's it's
+never with a good attitude it's like
+
+440
+00:09:43,910 --> 00:09:43,920
+never with a good attitude it's like
+ 
+
+441
+00:09:43,920 --> 00:09:45,509
+never with a good attitude it's like
+i can't stand watching this guy he
+
+442
+00:09:45,509 --> 00:09:45,519
+i can't stand watching this guy he
+ 
+
+443
+00:09:45,519 --> 00:09:47,269
+i can't stand watching this guy he
+always wastes his food he's such an
+
+444
+00:09:47,269 --> 00:09:47,279
+always wastes his food he's such an
+ 
+
+445
+00:09:47,279 --> 00:09:48,150
+always wastes his food he's such an
+idiot type
+
+446
+00:09:48,150 --> 00:09:48,160
+idiot type
+ 
+
+447
+00:09:48,160 --> 00:09:51,590
+idiot type
+comment you know and turns out there's
+
+448
+00:09:51,590 --> 00:09:51,600
+comment you know and turns out there's
+ 
+
+449
+00:09:51,600 --> 00:09:53,990
+comment you know and turns out there's
+actually some truth to it though
+
+450
+00:09:53,990 --> 00:09:54,000
+actually some truth to it though
+ 
+
+451
+00:09:54,000 --> 00:09:56,790
+actually some truth to it though
+although the comment itself is still
+
+452
+00:09:56,790 --> 00:09:56,800
+although the comment itself is still
+ 
+
+453
+00:09:56,800 --> 00:09:58,949
+although the comment itself is still
+very stupid for many reasons
+
+454
+00:09:58,949 --> 00:09:58,959
+very stupid for many reasons
+ 
+
+455
+00:09:58,959 --> 00:10:02,870
+very stupid for many reasons
+uh anyway
+
+456
+00:10:02,870 --> 00:10:02,880
+uh anyway
+ 
+
+457
+00:10:02,880 --> 00:10:04,470
+uh anyway
+well i'm going to collect my thoughts
+
+458
+00:10:04,470 --> 00:10:04,480
+well i'm going to collect my thoughts
+ 
+
+459
+00:10:04,480 --> 00:10:05,829
+well i'm going to collect my thoughts
+for a second here so i don't say
+
+460
+00:10:05,829 --> 00:10:05,839
+for a second here so i don't say
+ 
+
+461
+00:10:05,839 --> 00:10:06,389
+for a second here so i don't say
+anything
+
+462
+00:10:06,389 --> 00:10:06,399
+anything
+ 
+
+463
+00:10:06,399 --> 00:10:10,389
+anything
+incorrect
+
+464
+00:10:10,389 --> 00:10:10,399
+
+ 
+
+465
+00:10:10,399 --> 00:10:12,310
+
+yeah so i was going through my uhc
+
+466
+00:10:12,310 --> 00:10:12,320
+yeah so i was going through my uhc
+ 
+
+467
+00:10:12,320 --> 00:10:15,030
+yeah so i was going through my uhc
+comments again today the latest episode
+
+468
+00:10:15,030 --> 00:10:15,040
+comments again today the latest episode
+ 
+
+469
+00:10:15,040 --> 00:10:16,949
+comments again today the latest episode
+and once again i have gotten one of
+
+470
+00:10:16,949 --> 00:10:16,959
+and once again i have gotten one of
+ 
+
+471
+00:10:16,959 --> 00:10:19,269
+and once again i have gotten one of
+those i hate watching this guy because
+
+472
+00:10:19,269 --> 00:10:19,279
+those i hate watching this guy because
+ 
+
+473
+00:10:19,279 --> 00:10:21,269
+those i hate watching this guy because
+he wastes his food
+
+474
+00:10:21,269 --> 00:10:21,279
+he wastes his food
+ 
+
+475
+00:10:21,279 --> 00:10:24,710
+he wastes his food
+comments and people kind of rang into
+
+476
+00:10:24,710 --> 00:10:24,720
+comments and people kind of rang into
+ 
+
+477
+00:10:24,720 --> 00:10:25,350
+comments and people kind of rang into
+him about it
+
+478
+00:10:25,350 --> 00:10:25,360
+him about it
+ 
+
+479
+00:10:25,360 --> 00:10:26,790
+him about it
+about how he's wrong and there's an
+
+480
+00:10:26,790 --> 00:10:26,800
+about how he's wrong and there's an
+ 
+
+481
+00:10:26,800 --> 00:10:29,190
+about how he's wrong and there's an
+overflow value and
+
+482
+00:10:29,190 --> 00:10:29,200
+overflow value and
+ 
+
+483
+00:10:29,200 --> 00:10:32,550
+overflow value and
+etc etc uh and it kind of had me
+
+484
+00:10:32,550 --> 00:10:32,560
+etc etc uh and it kind of had me
+ 
+
+485
+00:10:32,560 --> 00:10:33,829
+etc etc uh and it kind of had me
+wondering you know had it
+
+486
+00:10:33,829 --> 00:10:33,839
+wondering you know had it
+ 
+
+487
+00:10:33,839 --> 00:10:35,750
+wondering you know had it
+had me curious how does the food
+
+488
+00:10:35,750 --> 00:10:35,760
+had me curious how does the food
+ 
+
+489
+00:10:35,760 --> 00:10:37,509
+had me curious how does the food
+actually work in this game because i've
+
+490
+00:10:37,509 --> 00:10:37,519
+actually work in this game because i've
+ 
+
+491
+00:10:37,519 --> 00:10:38,790
+actually work in this game because i've
+never
+
+492
+00:10:38,790 --> 00:10:38,800
+never
+ 
+
+493
+00:10:38,800 --> 00:10:41,670
+never
+actually tried to figure it out and i
+
+494
+00:10:41,670 --> 00:10:41,680
+actually tried to figure it out and i
+ 
+
+495
+00:10:41,680 --> 00:10:43,509
+actually tried to figure it out and i
+decided to check out the wiki page
+
+496
+00:10:43,509 --> 00:10:43,519
+decided to check out the wiki page
+ 
+
+497
+00:10:43,519 --> 00:10:45,829
+decided to check out the wiki page
+on hunger see if it had anything
+
+498
+00:10:45,829 --> 00:10:45,839
+on hunger see if it had anything
+ 
+
+499
+00:10:45,839 --> 00:10:48,150
+on hunger see if it had anything
+interesting to say about it
+
+500
+00:10:48,150 --> 00:10:48,160
+interesting to say about it
+ 
+
+501
+00:10:48,160 --> 00:10:49,990
+interesting to say about it
+and it turns out somebody has actually
+
+502
+00:10:49,990 --> 00:10:50,000
+and it turns out somebody has actually
+ 
+
+503
+00:10:50,000 --> 00:10:51,910
+and it turns out somebody has actually
+gone and looked at the game code and
+
+504
+00:10:51,910 --> 00:10:51,920
+gone and looked at the game code and
+ 
+
+505
+00:10:51,920 --> 00:10:52,949
+gone and looked at the game code and
+figured out
+
+506
+00:10:52,949 --> 00:10:52,959
+figured out
+ 
+
+507
+00:10:52,959 --> 00:10:55,990
+figured out
+exactly the method to it and
+
+508
+00:10:55,990 --> 00:10:56,000
+exactly the method to it and
+ 
+
+509
+00:10:56,000 --> 00:10:58,829
+exactly the method to it and
+exact data values for the food in the
+
+510
+00:10:58,829 --> 00:10:58,839
+exact data values for the food in the
+ 
+
+511
+00:10:58,839 --> 00:11:02,069
+exact data values for the food in the
+game and as well as exact data values
+
+512
+00:11:02,069 --> 00:11:02,079
+game and as well as exact data values
+ 
+
+513
+00:11:02,079 --> 00:11:03,910
+game and as well as exact data values
+for the different actions in the game
+
+514
+00:11:03,910 --> 00:11:03,920
+for the different actions in the game
+ 
+
+515
+00:11:03,920 --> 00:11:05,030
+for the different actions in the game
+and how they
+
+516
+00:11:05,030 --> 00:11:05,040
+and how they
+ 
+
+517
+00:11:05,040 --> 00:11:08,550
+and how they
+take away your food so
+
+518
+00:11:08,550 --> 00:11:08,560
+take away your food so
+ 
+
+519
+00:11:08,560 --> 00:11:10,630
+take away your food so
+it's very interesting i or at least i
+
+520
+00:11:10,630 --> 00:11:10,640
+it's very interesting i or at least i
+ 
+
+521
+00:11:10,640 --> 00:11:12,230
+it's very interesting i or at least i
+thought it was and i encourage you to
+
+522
+00:11:12,230 --> 00:11:12,240
+thought it was and i encourage you to
+ 
+
+523
+00:11:12,240 --> 00:11:13,990
+thought it was and i encourage you to
+check it out i'll try uh
+
+524
+00:11:13,990 --> 00:11:14,000
+check it out i'll try uh
+ 
+
+525
+00:11:14,000 --> 00:11:15,430
+check it out i'll try uh
+post the link to the page in the
+
+526
+00:11:15,430 --> 00:11:15,440
+post the link to the page in the
+ 
+
+527
+00:11:15,440 --> 00:11:17,190
+post the link to the page in the
+description
+
+528
+00:11:17,190 --> 00:11:17,200
+description
+ 
+
+529
+00:11:17,200 --> 00:11:19,110
+description
+and we're kind of gonna go over that
+
+530
+00:11:19,110 --> 00:11:19,120
+and we're kind of gonna go over that
+ 
+
+531
+00:11:19,120 --> 00:11:20,389
+and we're kind of gonna go over that
+info today
+
+532
+00:11:20,389 --> 00:11:20,399
+info today
+ 
+
+533
+00:11:20,399 --> 00:11:24,150
+info today
+and uh dissect it a little bit do a
+
+534
+00:11:24,150 --> 00:11:24,160
+and uh dissect it a little bit do a
+ 
+
+535
+00:11:24,160 --> 00:11:24,470
+and uh dissect it a little bit do a
+little
+
+536
+00:11:24,470 --> 00:11:24,480
+little
+ 
+
+537
+00:11:24,480 --> 00:11:27,910
+little
+a few tests here there's a little bit of
+
+538
+00:11:27,910 --> 00:11:27,920
+a few tests here there's a little bit of
+ 
+
+539
+00:11:27,920 --> 00:11:29,030
+a few tests here there's a little bit of
+conflicting if
+
+540
+00:11:29,030 --> 00:11:29,040
+conflicting if
+ 
+
+541
+00:11:29,040 --> 00:11:30,949
+conflicting if
+info on it there's two charts that don't
+
+542
+00:11:30,949 --> 00:11:30,959
+info on it there's two charts that don't
+ 
+
+543
+00:11:30,959 --> 00:11:32,790
+info on it there's two charts that don't
+really seem to
+
+544
+00:11:32,790 --> 00:11:32,800
+really seem to
+ 
+
+545
+00:11:32,800 --> 00:11:36,550
+really seem to
+agree with each other totally um
+
+546
+00:11:36,550 --> 00:11:36,560
+agree with each other totally um
+ 
+
+547
+00:11:36,560 --> 00:11:38,710
+agree with each other totally um
+but overall is pretty accurate and
+
+548
+00:11:38,710 --> 00:11:38,720
+but overall is pretty accurate and
+ 
+
+549
+00:11:38,720 --> 00:11:40,150
+but overall is pretty accurate and
+there's a few things i wasn't really
+
+550
+00:11:40,150 --> 00:11:40,160
+there's a few things i wasn't really
+ 
+
+551
+00:11:40,160 --> 00:11:40,710
+there's a few things i wasn't really
+sure about
+
+552
+00:11:40,710 --> 00:11:40,720
+sure about
+ 
+
+553
+00:11:40,720 --> 00:11:44,310
+sure about
+either which i would like to check out
+
+554
+00:11:44,310 --> 00:11:44,320
+either which i would like to check out
+ 
+
+555
+00:11:44,320 --> 00:11:47,590
+either which i would like to check out
+um so first of all like i said there's
+
+556
+00:11:47,590 --> 00:11:47,600
+um so first of all like i said there's
+ 
+
+557
+00:11:47,600 --> 00:11:50,550
+um so first of all like i said there's
+two different food bars in this game
+
+558
+00:11:50,550 --> 00:11:50,560
+two different food bars in this game
+ 
+
+559
+00:11:50,560 --> 00:11:54,550
+two different food bars in this game
+there's this one here that we can see
+
+560
+00:11:54,550 --> 00:11:54,560
+
+ 
+
+561
+00:11:54,560 --> 00:11:57,030
+
+and there's also a separate one an
+
+562
+00:11:57,030 --> 00:11:57,040
+and there's also a separate one an
+ 
+
+563
+00:11:57,040 --> 00:11:57,990
+and there's also a separate one an
+invisible one
+
+564
+00:11:57,990 --> 00:11:58,000
+invisible one
+ 
+
+565
+00:11:58,000 --> 00:12:00,870
+invisible one
+called the saturation bar which we can't
+
+566
+00:12:00,870 --> 00:12:00,880
+called the saturation bar which we can't
+ 
+
+567
+00:12:00,880 --> 00:12:01,990
+called the saturation bar which we can't
+see
+
+568
+00:12:01,990 --> 00:12:02,000
+see
+ 
+
+569
+00:12:02,000 --> 00:12:05,430
+see
+both of them have 20 points
+
+570
+00:12:05,430 --> 00:12:05,440
+both of them have 20 points
+ 
+
+571
+00:12:05,440 --> 00:12:07,829
+both of them have 20 points
+maximum that we can have so each of
+
+572
+00:12:07,829 --> 00:12:07,839
+maximum that we can have so each of
+ 
+
+573
+00:12:07,839 --> 00:12:09,190
+maximum that we can have so each of
+these food
+
+574
+00:12:09,190 --> 00:12:09,200
+these food
+ 
+
+575
+00:12:09,200 --> 00:12:11,110
+these food
+bars each of these chicken legs counts
+
+576
+00:12:11,110 --> 00:12:11,120
+bars each of these chicken legs counts
+ 
+
+577
+00:12:11,120 --> 00:12:12,710
+bars each of these chicken legs counts
+as two points
+
+578
+00:12:12,710 --> 00:12:12,720
+as two points
+ 
+
+579
+00:12:12,720 --> 00:12:15,750
+as two points
+so we have three five seven seven and a
+
+580
+00:12:15,750 --> 00:12:15,760
+so we have three five seven seven and a
+ 
+
+581
+00:12:15,760 --> 00:12:16,470
+so we have three five seven seven and a
+half here
+
+582
+00:12:16,470 --> 00:12:16,480
+half here
+ 
+
+583
+00:12:16,480 --> 00:12:19,990
+half here
+which times that by twos 15 points
+
+584
+00:12:19,990 --> 00:12:20,000
+which times that by twos 15 points
+ 
+
+585
+00:12:20,000 --> 00:12:22,829
+which times that by twos 15 points
+is our food value here out of a total of
+
+586
+00:12:22,829 --> 00:12:22,839
+is our food value here out of a total of
+ 
+
+587
+00:12:22,839 --> 00:12:23,990
+is our food value here out of a total of
+20.
+
+588
+00:12:23,990 --> 00:12:24,000
+20.
+ 
+
+589
+00:12:24,000 --> 00:12:26,310
+20.
+if we were to eat this steak it's good
+
+590
+00:12:26,310 --> 00:12:26,320
+if we were to eat this steak it's good
+ 
+
+591
+00:12:26,320 --> 00:12:27,590
+if we were to eat this steak it's good
+for eight points
+
+592
+00:12:27,590 --> 00:12:27,600
+for eight points
+ 
+
+593
+00:12:27,600 --> 00:12:31,269
+for eight points
+and uh there's only room for five points
+
+594
+00:12:31,269 --> 00:12:31,279
+and uh there's only room for five points
+ 
+
+595
+00:12:31,279 --> 00:12:31,670
+and uh there's only room for five points
+here
+
+596
+00:12:31,670 --> 00:12:31,680
+here
+ 
+
+597
+00:12:31,680 --> 00:12:33,910
+here
+so three points would actually go to
+
+598
+00:12:33,910 --> 00:12:33,920
+so three points would actually go to
+ 
+
+599
+00:12:33,920 --> 00:12:36,949
+so three points would actually go to
+waste because there is no
+
+600
+00:12:36,949 --> 00:12:36,959
+waste because there is no
+ 
+
+601
+00:12:36,959 --> 00:12:39,670
+waste because there is no
+overflow on this bar so you can actually
+
+602
+00:12:39,670 --> 00:12:39,680
+overflow on this bar so you can actually
+ 
+
+603
+00:12:39,680 --> 00:12:41,829
+overflow on this bar so you can actually
+waste food in this game and most people
+
+604
+00:12:41,829 --> 00:12:41,839
+waste food in this game and most people
+ 
+
+605
+00:12:41,839 --> 00:12:43,030
+waste food in this game and most people
+do
+
+606
+00:12:43,030 --> 00:12:43,040
+do
+ 
+
+607
+00:12:43,040 --> 00:12:46,310
+do
+um from ignorance
+
+608
+00:12:46,310 --> 00:12:46,320
+um from ignorance
+ 
+
+609
+00:12:46,320 --> 00:12:49,030
+um from ignorance
+and convenience and other reasons as
+
+610
+00:12:49,030 --> 00:12:49,040
+and convenience and other reasons as
+ 
+
+611
+00:12:49,040 --> 00:12:50,829
+and convenience and other reasons as
+well i'm sure
+
+612
+00:12:50,829 --> 00:12:50,839
+well i'm sure
+ 
+
+613
+00:12:50,839 --> 00:12:53,670
+well i'm sure
+um like i said i had no idea how this
+
+614
+00:12:53,670 --> 00:12:53,680
+um like i said i had no idea how this
+ 
+
+615
+00:12:53,680 --> 00:12:54,550
+um like i said i had no idea how this
+worked until
+
+616
+00:12:54,550 --> 00:12:54,560
+worked until
+ 
+
+617
+00:12:54,560 --> 00:12:57,990
+worked until
+i read the wiki page today
+
+618
+00:12:57,990 --> 00:12:58,000
+
+ 
+
+619
+00:12:58,000 --> 00:12:59,990
+
+but anyway there's two different food
+
+620
+00:12:59,990 --> 00:13:00,000
+but anyway there's two different food
+ 
+
+621
+00:13:00,000 --> 00:13:02,069
+but anyway there's two different food
+bars and every food item in this game
+
+622
+00:13:02,069 --> 00:13:02,079
+bars and every food item in this game
+ 
+
+623
+00:13:02,079 --> 00:13:03,030
+bars and every food item in this game
+also has
+
+624
+00:13:03,030 --> 00:13:03,040
+also has
+ 
+
+625
+00:13:03,040 --> 00:13:05,190
+also has
+two different food values and i have
+
+626
+00:13:05,190 --> 00:13:05,200
+two different food values and i have
+ 
+
+627
+00:13:05,200 --> 00:13:07,269
+two different food values and i have
+them arranged from least to greatest
+
+628
+00:13:07,269 --> 00:13:07,279
+them arranged from least to greatest
+ 
+
+629
+00:13:07,279 --> 00:13:09,110
+them arranged from least to greatest
+here
+
+630
+00:13:09,110 --> 00:13:09,120
+here
+ 
+
+631
+00:13:09,120 --> 00:13:14,389
+here
+cookies as you know are garbage
+
+632
+00:13:14,389 --> 00:13:14,399
+
+ 
+
+633
+00:13:14,399 --> 00:13:16,470
+
+but if you look at spider-eyes and
+
+634
+00:13:16,470 --> 00:13:16,480
+but if you look at spider-eyes and
+ 
+
+635
+00:13:16,480 --> 00:13:17,910
+but if you look at spider-eyes and
+watermelon for example
+
+636
+00:13:17,910 --> 00:13:17,920
+watermelon for example
+ 
+
+637
+00:13:17,920 --> 00:13:21,269
+watermelon for example
+both of them recover one or two points
+
+638
+00:13:21,269 --> 00:13:21,279
+both of them recover one or two points
+ 
+
+639
+00:13:21,279 --> 00:13:23,750
+both of them recover one or two points
+on this bar here
+
+640
+00:13:23,750 --> 00:13:23,760
+on this bar here
+ 
+
+641
+00:13:23,760 --> 00:13:26,230
+on this bar here
+but they have two completely different
+
+642
+00:13:26,230 --> 00:13:26,240
+but they have two completely different
+ 
+
+643
+00:13:26,240 --> 00:13:26,870
+but they have two completely different
+values
+
+644
+00:13:26,870 --> 00:13:26,880
+values
+ 
+
+645
+00:13:26,880 --> 00:13:32,829
+values
+this one's 5.2 and this one's 3.2
+
+646
+00:13:32,829 --> 00:13:32,839
+
+ 
+
+647
+00:13:32,839 --> 00:13:34,069
+
+so
+
+648
+00:13:34,069 --> 00:13:34,079
+so
+ 
+
+649
+00:13:34,079 --> 00:13:36,389
+so
+top the the number two at the top here
+
+650
+00:13:36,389 --> 00:13:36,399
+top the the number two at the top here
+ 
+
+651
+00:13:36,399 --> 00:13:37,829
+top the the number two at the top here
+is the one we know
+
+652
+00:13:37,829 --> 00:13:37,839
+is the one we know
+ 
+
+653
+00:13:37,839 --> 00:13:40,790
+is the one we know
+that's goes two points to this food bar
+
+654
+00:13:40,790 --> 00:13:40,800
+that's goes two points to this food bar
+ 
+
+655
+00:13:40,800 --> 00:13:42,870
+that's goes two points to this food bar
+and then also adds 1.2
+
+656
+00:13:42,870 --> 00:13:42,880
+and then also adds 1.2
+ 
+
+657
+00:13:42,880 --> 00:13:45,750
+and then also adds 1.2
+points to the saturation bar which we
+
+658
+00:13:45,750 --> 00:13:45,760
+points to the saturation bar which we
+ 
+
+659
+00:13:45,760 --> 00:13:47,030
+points to the saturation bar which we
+can't see
+
+660
+00:13:47,030 --> 00:13:47,040
+can't see
+ 
+
+661
+00:13:47,040 --> 00:13:50,069
+can't see
+so for a total of 3.2
+
+662
+00:13:50,069 --> 00:13:50,079
+so for a total of 3.2
+ 
+
+663
+00:13:50,079 --> 00:13:54,310
+so for a total of 3.2
+food value if we go over to spider eyes
+
+664
+00:13:54,310 --> 00:13:54,320
+food value if we go over to spider eyes
+ 
+
+665
+00:13:54,320 --> 00:13:54,710
+food value if we go over to spider eyes
+they
+
+666
+00:13:54,710 --> 00:13:54,720
+they
+ 
+
+667
+00:13:54,720 --> 00:13:56,470
+they
+are quite a bit better actually they
+
+668
+00:13:56,470 --> 00:13:56,480
+are quite a bit better actually they
+ 
+
+669
+00:13:56,480 --> 00:13:57,990
+are quite a bit better actually they
+have
+
+670
+00:13:57,990 --> 00:13:58,000
+have
+ 
+
+671
+00:13:58,000 --> 00:14:00,629
+have
+two points plus 3.2 to the saturation
+
+672
+00:14:00,629 --> 00:14:00,639
+two points plus 3.2 to the saturation
+ 
+
+673
+00:14:00,639 --> 00:14:01,110
+two points plus 3.2 to the saturation
+bar
+
+674
+00:14:01,110 --> 00:14:01,120
+bar
+ 
+
+675
+00:14:01,120 --> 00:14:04,150
+bar
+for a total of 5.2 that's
+
+676
+00:14:04,150 --> 00:14:04,160
+for a total of 5.2 that's
+ 
+
+677
+00:14:04,160 --> 00:14:05,590
+for a total of 5.2 that's
+over a time and a half better than
+
+678
+00:14:05,590 --> 00:14:05,600
+over a time and a half better than
+ 
+
+679
+00:14:05,600 --> 00:14:08,550
+over a time and a half better than
+watermelon even though they seem to be
+
+680
+00:14:08,550 --> 00:14:08,560
+watermelon even though they seem to be
+ 
+
+681
+00:14:08,560 --> 00:14:09,670
+watermelon even though they seem to be
+the same
+
+682
+00:14:09,670 --> 00:14:09,680
+the same
+ 
+
+683
+00:14:09,680 --> 00:14:11,750
+the same
+according to what we can see on the main
+
+684
+00:14:11,750 --> 00:14:11,760
+according to what we can see on the main
+ 
+
+685
+00:14:11,760 --> 00:14:13,350
+according to what we can see on the main
+food bar here
+
+686
+00:14:13,350 --> 00:14:13,360
+food bar here
+ 
+
+687
+00:14:13,360 --> 00:14:17,350
+food bar here
+so you can you know when the saturation
+
+688
+00:14:17,350 --> 00:14:17,360
+so you can you know when the saturation
+ 
+
+689
+00:14:17,360 --> 00:14:17,990
+so you can you know when the saturation
+bar
+
+690
+00:14:17,990 --> 00:14:18,000
+bar
+ 
+
+691
+00:14:18,000 --> 00:14:21,030
+bar
+is empty if your your main food bar
+
+692
+00:14:21,030 --> 00:14:21,040
+is empty if your your main food bar
+ 
+
+693
+00:14:21,040 --> 00:14:24,150
+is empty if your your main food bar
+is jittering uh that's the only
+
+694
+00:14:24,150 --> 00:14:24,160
+is jittering uh that's the only
+ 
+
+695
+00:14:24,160 --> 00:14:27,829
+is jittering uh that's the only
+real visible sign of it right now my
+
+696
+00:14:27,829 --> 00:14:27,839
+real visible sign of it right now my
+ 
+
+697
+00:14:27,839 --> 00:14:29,670
+real visible sign of it right now my
+food bar is not jittering but if i jump
+
+698
+00:14:29,670 --> 00:14:29,680
+food bar is not jittering but if i jump
+ 
+
+699
+00:14:29,680 --> 00:14:31,189
+food bar is not jittering but if i jump
+around a little bit
+
+700
+00:14:31,189 --> 00:14:31,199
+around a little bit
+ 
+
+701
+00:14:31,199 --> 00:14:33,030
+around a little bit
+we can use up our saturation bar
+
+702
+00:14:33,030 --> 00:14:33,040
+we can use up our saturation bar
+ 
+
+703
+00:14:33,040 --> 00:14:37,350
+we can use up our saturation bar
+completely and you can see now
+
+704
+00:14:37,350 --> 00:14:37,360
+
+ 
+
+705
+00:14:37,360 --> 00:14:38,949
+
+just so happened i didn't have much in
+
+706
+00:14:38,949 --> 00:14:38,959
+just so happened i didn't have much in
+ 
+
+707
+00:14:38,959 --> 00:14:40,550
+just so happened i didn't have much in
+it so it
+
+708
+00:14:40,550 --> 00:14:40,560
+it so it
+ 
+
+709
+00:14:40,560 --> 00:14:43,509
+it so it
+emptied pretty quick there and now the
+
+710
+00:14:43,509 --> 00:14:43,519
+emptied pretty quick there and now the
+ 
+
+711
+00:14:43,519 --> 00:14:45,189
+emptied pretty quick there and now the
+the food bar is jumping up and down
+
+712
+00:14:45,189 --> 00:14:45,199
+the food bar is jumping up and down
+ 
+
+713
+00:14:45,199 --> 00:14:46,790
+the food bar is jumping up and down
+which means
+
+714
+00:14:46,790 --> 00:14:46,800
+which means
+ 
+
+715
+00:14:46,800 --> 00:14:48,870
+which means
+my second food bar is at zero and now
+
+716
+00:14:48,870 --> 00:14:48,880
+my second food bar is at zero and now
+ 
+
+717
+00:14:48,880 --> 00:14:49,910
+my second food bar is at zero and now
+we're using up
+
+718
+00:14:49,910 --> 00:14:49,920
+we're using up
+ 
+
+719
+00:14:49,920 --> 00:14:52,470
+we're using up
+this food bar here you only use up this
+
+720
+00:14:52,470 --> 00:14:52,480
+this food bar here you only use up this
+ 
+
+721
+00:14:52,480 --> 00:14:53,910
+this food bar here you only use up this
+food bar here if
+
+722
+00:14:53,910 --> 00:14:53,920
+food bar here if
+ 
+
+723
+00:14:53,920 --> 00:14:56,550
+food bar here if
+if your saturation one is empty and then
+
+724
+00:14:56,550 --> 00:14:56,560
+if your saturation one is empty and then
+ 
+
+725
+00:14:56,560 --> 00:15:01,670
+if your saturation one is empty and then
+this starts jittering
+
+726
+00:15:01,670 --> 00:15:01,680
+
+ 
+
+727
+00:15:01,680 --> 00:15:03,509
+
+alrighty so maybe we'll go through all
+
+728
+00:15:03,509 --> 00:15:03,519
+alrighty so maybe we'll go through all
+ 
+
+729
+00:15:03,519 --> 00:15:05,590
+alrighty so maybe we'll go through all
+the food items here and see what their
+
+730
+00:15:05,590 --> 00:15:05,600
+the food items here and see what their
+ 
+
+731
+00:15:05,600 --> 00:15:07,509
+the food items here and see what their
+actual food values are for the two
+
+732
+00:15:07,509 --> 00:15:07,519
+actual food values are for the two
+ 
+
+733
+00:15:07,519 --> 00:15:09,430
+actual food values are for the two
+different bars
+
+734
+00:15:09,430 --> 00:15:09,440
+different bars
+ 
+
+735
+00:15:09,440 --> 00:15:12,710
+different bars
+one at a time first of all cookies
+
+736
+00:15:12,710 --> 00:15:12,720
+one at a time first of all cookies
+ 
+
+737
+00:15:12,720 --> 00:15:15,590
+one at a time first of all cookies
+recovers one point to the main food bar
+
+738
+00:15:15,590 --> 00:15:15,600
+recovers one point to the main food bar
+ 
+
+739
+00:15:15,600 --> 00:15:16,269
+recovers one point to the main food bar
+and
+
+740
+00:15:16,269 --> 00:15:16,279
+and
+ 
+
+741
+00:15:16,279 --> 00:15:19,750
+and
+0.2 to the
+
+742
+00:15:19,750 --> 00:15:19,760
+0.2 to the
+ 
+
+743
+00:15:19,760 --> 00:15:22,629
+0.2 to the
+saturation bar or the overflow bar
+
+744
+00:15:22,629 --> 00:15:22,639
+saturation bar or the overflow bar
+ 
+
+745
+00:15:22,639 --> 00:15:24,389
+saturation bar or the overflow bar
+basically is what it is
+
+746
+00:15:24,389 --> 00:15:24,399
+basically is what it is
+ 
+
+747
+00:15:24,399 --> 00:15:28,389
+basically is what it is
+for a combined total of 1.2 points
+
+748
+00:15:28,389 --> 00:15:28,399
+for a combined total of 1.2 points
+ 
+
+749
+00:15:28,399 --> 00:15:30,389
+for a combined total of 1.2 points
+and we know from our jumping experiment
+
+750
+00:15:30,389 --> 00:15:30,399
+and we know from our jumping experiment
+ 
+
+751
+00:15:30,399 --> 00:15:31,430
+and we know from our jumping experiment
+before
+
+752
+00:15:31,430 --> 00:15:31,440
+before
+ 
+
+753
+00:15:31,440 --> 00:15:36,310
+before
+we can jump 20 times per point so
+
+754
+00:15:36,310 --> 00:15:36,320
+we can jump 20 times per point so
+ 
+
+755
+00:15:36,320 --> 00:15:39,430
+we can jump 20 times per point so
+if we were to eat a cookie and get
+
+756
+00:15:39,430 --> 00:15:39,440
+if we were to eat a cookie and get
+ 
+
+757
+00:15:39,440 --> 00:15:42,629
+if we were to eat a cookie and get
+no food wasted from it 1.2 times
+
+758
+00:15:42,629 --> 00:15:42,639
+no food wasted from it 1.2 times
+ 
+
+759
+00:15:42,639 --> 00:15:46,629
+no food wasted from it 1.2 times
+20. eating a single cookie would allow
+
+760
+00:15:46,629 --> 00:15:46,639
+20. eating a single cookie would allow
+ 
+
+761
+00:15:46,639 --> 00:15:47,509
+20. eating a single cookie would allow
+us to jump
+
+762
+00:15:47,509 --> 00:15:47,519
+us to jump
+ 
+
+763
+00:15:47,519 --> 00:15:51,430
+us to jump
+24 times assuming we're not doing any
+
+764
+00:15:51,430 --> 00:15:51,440
+24 times assuming we're not doing any
+ 
+
+765
+00:15:51,440 --> 00:15:53,269
+24 times assuming we're not doing any
+other action that
+
+766
+00:15:53,269 --> 00:15:53,279
+other action that
+ 
+
+767
+00:15:53,279 --> 00:15:55,910
+other action that
+takes away our food anyway moving on
+
+768
+00:15:55,910 --> 00:15:55,920
+takes away our food anyway moving on
+ 
+
+769
+00:15:55,920 --> 00:15:57,509
+takes away our food anyway moving on
+that's how that works
+
+770
+00:15:57,509 --> 00:15:57,519
+that's how that works
+ 
+
+771
+00:15:57,519 --> 00:16:00,310
+that's how that works
+uh raw chicken raw fish and watermelon
+
+772
+00:16:00,310 --> 00:16:00,320
+uh raw chicken raw fish and watermelon
+ 
+
+773
+00:16:00,320 --> 00:16:02,310
+uh raw chicken raw fish and watermelon
+all have the exact same values as each
+
+774
+00:16:02,310 --> 00:16:02,320
+all have the exact same values as each
+ 
+
+775
+00:16:02,320 --> 00:16:03,189
+all have the exact same values as each
+other
+
+776
+00:16:03,189 --> 00:16:03,199
+other
+ 
+
+777
+00:16:03,199 --> 00:16:05,829
+other
+two points to the main food one 1.2 to
+
+778
+00:16:05,829 --> 00:16:05,839
+two points to the main food one 1.2 to
+ 
+
+779
+00:16:05,839 --> 00:16:06,790
+two points to the main food one 1.2 to
+saturation
+
+780
+00:16:06,790 --> 00:16:06,800
+saturation
+ 
+
+781
+00:16:06,800 --> 00:16:10,150
+saturation
+for a total of three point two robbie
+
+782
+00:16:10,150 --> 00:16:10,160
+for a total of three point two robbie
+ 
+
+783
+00:16:10,160 --> 00:16:11,110
+for a total of three point two robbie
+for pork
+
+784
+00:16:11,110 --> 00:16:11,120
+for pork
+ 
+
+785
+00:16:11,120 --> 00:16:14,710
+for pork
+rotten flesh again all have the same
+
+786
+00:16:14,710 --> 00:16:14,720
+rotten flesh again all have the same
+ 
+
+787
+00:16:14,720 --> 00:16:18,870
+rotten flesh again all have the same
+values three to the main 1.8 to the
+
+788
+00:16:18,870 --> 00:16:18,880
+values three to the main 1.8 to the
+ 
+
+789
+00:16:18,880 --> 00:16:22,870
+values three to the main 1.8 to the
+overflow for a total of 4.8
+
+790
+00:16:22,870 --> 00:16:22,880
+overflow for a total of 4.8
+ 
+
+791
+00:16:22,880 --> 00:16:26,069
+overflow for a total of 4.8
+spider eyes my personal favorite and i
+
+792
+00:16:26,069 --> 00:16:26,079
+spider eyes my personal favorite and i
+ 
+
+793
+00:16:26,079 --> 00:16:27,990
+spider eyes my personal favorite and i
+did notice this before i used to always
+
+794
+00:16:27,990 --> 00:16:28,000
+did notice this before i used to always
+ 
+
+795
+00:16:28,000 --> 00:16:29,509
+did notice this before i used to always
+eat spider eyes then i switched to
+
+796
+00:16:29,509 --> 00:16:29,519
+eat spider eyes then i switched to
+ 
+
+797
+00:16:29,519 --> 00:16:31,030
+eat spider eyes then i switched to
+watermelon
+
+798
+00:16:31,030 --> 00:16:31,040
+watermelon
+ 
+
+799
+00:16:31,040 --> 00:16:33,110
+watermelon
+and i found after i would eat a spider
+
+800
+00:16:33,110 --> 00:16:33,120
+and i found after i would eat a spider
+ 
+
+801
+00:16:33,120 --> 00:16:34,230
+and i found after i would eat a spider
+eye
+
+802
+00:16:34,230 --> 00:16:34,240
+eye
+ 
+
+803
+00:16:34,240 --> 00:16:36,310
+eye
+i would get or after i would eat a
+
+804
+00:16:36,310 --> 00:16:36,320
+i would get or after i would eat a
+ 
+
+805
+00:16:36,320 --> 00:16:37,990
+i would get or after i would eat a
+watermelon i would get hunger
+
+806
+00:16:37,990 --> 00:16:38,000
+watermelon i would get hunger
+ 
+
+807
+00:16:38,000 --> 00:16:41,189
+watermelon i would get hunger
+hungry a lot faster than after i ate
+
+808
+00:16:41,189 --> 00:16:41,199
+hungry a lot faster than after i ate
+ 
+
+809
+00:16:41,199 --> 00:16:42,790
+hungry a lot faster than after i ate
+a spider eye and that's because the
+
+810
+00:16:42,790 --> 00:16:42,800
+a spider eye and that's because the
+ 
+
+811
+00:16:42,800 --> 00:16:45,590
+a spider eye and that's because the
+saturation value is a whopping
+
+812
+00:16:45,590 --> 00:16:45,600
+saturation value is a whopping
+ 
+
+813
+00:16:45,600 --> 00:16:49,350
+saturation value is a whopping
+3.2 compared to the 1.2
+
+814
+00:16:49,350 --> 00:16:49,360
+3.2 compared to the 1.2
+ 
+
+815
+00:16:49,360 --> 00:16:52,470
+3.2 compared to the 1.2
+of the watermelon so it is quite a
+
+816
+00:16:52,470 --> 00:16:52,480
+of the watermelon so it is quite a
+ 
+
+817
+00:16:52,480 --> 00:16:53,749
+of the watermelon so it is quite a
+difference
+
+818
+00:16:53,749 --> 00:16:53,759
+difference
+ 
+
+819
+00:16:53,759 --> 00:16:57,350
+difference
+for grand total of 5.2 apples are next
+
+820
+00:16:57,350 --> 00:16:57,360
+for grand total of 5.2 apples are next
+ 
+
+821
+00:16:57,360 --> 00:17:01,189
+for grand total of 5.2 apples are next
+for 2.4 6.4 total
+
+822
+00:17:01,189 --> 00:17:01,199
+for 2.4 6.4 total
+ 
+
+823
+00:17:01,199 --> 00:17:04,630
+for 2.4 6.4 total
+then there's a huge jump with bread and
+
+824
+00:17:04,630 --> 00:17:04,640
+then there's a huge jump with bread and
+ 
+
+825
+00:17:04,640 --> 00:17:05,990
+then there's a huge jump with bread and
+cooked fish it goes
+
+826
+00:17:05,990 --> 00:17:06,000
+cooked fish it goes
+ 
+
+827
+00:17:06,000 --> 00:17:10,230
+cooked fish it goes
+five and six for a total of eleven
+
+828
+00:17:10,230 --> 00:17:10,240
+five and six for a total of eleven
+ 
+
+829
+00:17:10,240 --> 00:17:13,189
+five and six for a total of eleven
+cooked chicken is six seven point two
+
+830
+00:17:13,189 --> 00:17:13,199
+cooked chicken is six seven point two
+ 
+
+831
+00:17:13,199 --> 00:17:13,510
+cooked chicken is six seven point two
+for
+
+832
+00:17:13,510 --> 00:17:13,520
+for
+ 
+
+833
+00:17:13,520 --> 00:17:16,789
+for
+thirteen point two total golden apples
+
+834
+00:17:16,789 --> 00:17:16,799
+thirteen point two total golden apples
+ 
+
+835
+00:17:16,799 --> 00:17:19,669
+thirteen point two total golden apples
+they have a high saturation
+
+836
+00:17:19,669 --> 00:17:19,679
+they have a high saturation
+ 
+
+837
+00:17:19,679 --> 00:17:23,029
+they have a high saturation
+and compared to their their relatively
+
+838
+00:17:23,029 --> 00:17:23,039
+and compared to their their relatively
+ 
+
+839
+00:17:23,039 --> 00:17:24,069
+and compared to their their relatively
+low
+
+840
+00:17:24,069 --> 00:17:24,079
+low
+ 
+
+841
+00:17:24,079 --> 00:17:27,510
+low
+main food bars so again four is equal to
+
+842
+00:17:27,510 --> 00:17:27,520
+main food bars so again four is equal to
+ 
+
+843
+00:17:27,520 --> 00:17:27,909
+main food bars so again four is equal to
+two
+
+844
+00:17:27,909 --> 00:17:27,919
+two
+ 
+
+845
+00:17:27,919 --> 00:17:31,510
+two
+chicken legs on here and then 9.6
+
+846
+00:17:31,510 --> 00:17:31,520
+chicken legs on here and then 9.6
+ 
+
+847
+00:17:31,520 --> 00:17:35,510
+chicken legs on here and then 9.6
+for the invisible food bar 13.6 total
+
+848
+00:17:35,510 --> 00:17:35,520
+for the invisible food bar 13.6 total
+ 
+
+849
+00:17:35,520 --> 00:17:37,350
+for the invisible food bar 13.6 total
+cake is a little bit of a weird one
+
+850
+00:17:37,350 --> 00:17:37,360
+cake is a little bit of a weird one
+ 
+
+851
+00:17:37,360 --> 00:17:38,789
+cake is a little bit of a weird one
+because you can eat it six
+
+852
+00:17:38,789 --> 00:17:38,799
+because you can eat it six
+ 
+
+853
+00:17:38,799 --> 00:17:41,990
+because you can eat it six
+times and so this first number here is
+
+854
+00:17:41,990 --> 00:17:42,000
+times and so this first number here is
+ 
+
+855
+00:17:42,000 --> 00:17:45,430
+times and so this first number here is
+per per each and this is
+
+856
+00:17:45,430 --> 00:17:45,440
+per per each and this is
+ 
+
+857
+00:17:45,440 --> 00:17:47,029
+per per each and this is
+the second number here is the combined
+
+858
+00:17:47,029 --> 00:17:47,039
+the second number here is the combined
+ 
+
+859
+00:17:47,039 --> 00:17:48,789
+the second number here is the combined
+total of them
+
+860
+00:17:48,789 --> 00:17:48,799
+total of them
+ 
+
+861
+00:17:48,799 --> 00:17:51,350
+total of them
+uh mushroom stew is a pretty good food
+
+862
+00:17:51,350 --> 00:17:51,360
+uh mushroom stew is a pretty good food
+ 
+
+863
+00:17:51,360 --> 00:17:51,830
+uh mushroom stew is a pretty good food
+item
+
+864
+00:17:51,830 --> 00:17:51,840
+item
+ 
+
+865
+00:17:51,840 --> 00:17:55,750
+item
+eight for the main 9.6 oop i
+
+866
+00:17:55,750 --> 00:17:55,760
+eight for the main 9.6 oop i
+ 
+
+867
+00:17:55,760 --> 00:17:58,830
+eight for the main 9.6 oop i
+put that one line too low for a total of
+
+868
+00:17:58,830 --> 00:17:58,840
+put that one line too low for a total of
+ 
+
+869
+00:17:58,840 --> 00:18:01,750
+put that one line too low for a total of
+17.6 and then the two best food items in
+
+870
+00:18:01,750 --> 00:18:01,760
+17.6 and then the two best food items in
+ 
+
+871
+00:18:01,760 --> 00:18:05,350
+17.6 and then the two best food items in
+the game are cooked beef and cooked pork
+
+872
+00:18:05,350 --> 00:18:05,360
+the game are cooked beef and cooked pork
+ 
+
+873
+00:18:05,360 --> 00:18:09,029
+the game are cooked beef and cooked pork
+which is eight for the main 12.8
+
+874
+00:18:09,029 --> 00:18:09,039
+which is eight for the main 12.8
+ 
+
+875
+00:18:09,039 --> 00:18:13,590
+which is eight for the main 12.8
+for the saturated and 20.8 for the total
+
+876
+00:18:13,590 --> 00:18:13,600
+for the saturated and 20.8 for the total
+ 
+
+877
+00:18:13,600 --> 00:18:17,230
+for the saturated and 20.8 for the total
+so if you compare that to watermelon
+
+878
+00:18:17,230 --> 00:18:17,240
+so if you compare that to watermelon
+ 
+
+879
+00:18:17,240 --> 00:18:20,710
+so if you compare that to watermelon
+20.8 divided by
+
+880
+00:18:20,710 --> 00:18:20,720
+20.8 divided by
+ 
+
+881
+00:18:20,720 --> 00:18:23,750
+20.8 divided by
+3.2
+
+882
+00:18:23,750 --> 00:18:23,760
+
+ 
+
+883
+00:18:23,760 --> 00:18:27,590
+
+assuming there's no waste a cooked
+
+884
+00:18:27,590 --> 00:18:27,600
+assuming there's no waste a cooked
+ 
+
+885
+00:18:27,600 --> 00:18:30,630
+assuming there's no waste a cooked
+cooked pork chops and beef is 6.5 times
+
+886
+00:18:30,630 --> 00:18:30,640
+cooked pork chops and beef is 6.5 times
+ 
+
+887
+00:18:30,640 --> 00:18:31,669
+cooked pork chops and beef is 6.5 times
+better
+
+888
+00:18:31,669 --> 00:18:31,679
+better
+ 
+
+889
+00:18:31,679 --> 00:18:34,070
+better
+or more filling than a watermelon so
+
+890
+00:18:34,070 --> 00:18:34,080
+or more filling than a watermelon so
+ 
+
+891
+00:18:34,080 --> 00:18:35,029
+or more filling than a watermelon so
+that's
+
+892
+00:18:35,029 --> 00:18:35,039
+that's
+ 
+
+893
+00:18:35,039 --> 00:18:38,390
+that's
+how you can use these numbers together
+
+894
+00:18:38,390 --> 00:18:38,400
+how you can use these numbers together
+ 
+
+895
+00:18:38,400 --> 00:18:41,630
+how you can use these numbers together
+as well using our jumping illustration
+
+896
+00:18:41,630 --> 00:18:41,640
+as well using our jumping illustration
+ 
+
+897
+00:18:41,640 --> 00:18:46,549
+as well using our jumping illustration
+20.8 times 20
+
+898
+00:18:46,549 --> 00:18:46,559
+20.8 times 20
+ 
+
+899
+00:18:46,559 --> 00:18:50,230
+20.8 times 20
+that would allow us to jump 416 times so
+
+900
+00:18:50,230 --> 00:18:50,240
+that would allow us to jump 416 times so
+ 
+
+901
+00:18:50,240 --> 00:18:52,470
+that would allow us to jump 416 times so
+that's how many actions of jumping we
+
+902
+00:18:52,470 --> 00:18:52,480
+that's how many actions of jumping we
+ 
+
+903
+00:18:52,480 --> 00:18:53,669
+that's how many actions of jumping we
+can perform
+
+904
+00:18:53,669 --> 00:18:53,679
+can perform
+ 
+
+905
+00:18:53,679 --> 00:18:58,390
+can perform
+per cooked one if we don't waste any
+
+906
+00:18:58,390 --> 00:18:58,400
+per cooked one if we don't waste any
+ 
+
+907
+00:18:58,400 --> 00:19:01,190
+per cooked one if we don't waste any
+um now let's go let's move on to the
+
+908
+00:19:01,190 --> 00:19:01,200
+um now let's go let's move on to the
+ 
+
+909
+00:19:01,200 --> 00:19:02,150
+um now let's go let's move on to the
+actions these are
+
+910
+00:19:02,150 --> 00:19:02,160
+actions these are
+ 
+
+911
+00:19:02,160 --> 00:19:05,430
+actions these are
+what i found pretty interesting
+
+912
+00:19:05,430 --> 00:19:05,440
+what i found pretty interesting
+ 
+
+913
+00:19:05,440 --> 00:19:07,669
+what i found pretty interesting
+uh the way this works is pretty comp
+
+914
+00:19:07,669 --> 00:19:07,679
+uh the way this works is pretty comp
+ 
+
+915
+00:19:07,679 --> 00:19:09,590
+uh the way this works is pretty comp
+well not super complicated but
+
+916
+00:19:09,590 --> 00:19:09,600
+well not super complicated but
+ 
+
+917
+00:19:09,600 --> 00:19:11,909
+well not super complicated but
+there's an a value in this game called
+
+918
+00:19:11,909 --> 00:19:11,919
+there's an a value in this game called
+ 
+
+919
+00:19:11,919 --> 00:19:12,789
+there's an a value in this game called
+the ex
+
+920
+00:19:12,789 --> 00:19:12,799
+the ex
+ 
+
+921
+00:19:12,799 --> 00:19:16,310
+the ex
+exhaust exhaustion i can't see that
+
+922
+00:19:16,310 --> 00:19:16,320
+exhaust exhaustion i can't see that
+ 
+
+923
+00:19:16,320 --> 00:19:16,950
+exhaust exhaustion i can't see that
+right now i'm
+
+924
+00:19:16,950 --> 00:19:16,960
+right now i'm
+ 
+
+925
+00:19:16,960 --> 00:19:20,710
+right now i'm
+i'm exhausted uh
+
+926
+00:19:20,710 --> 00:19:20,720
+i'm exhausted uh
+ 
+
+927
+00:19:20,720 --> 00:19:24,070
+i'm exhausted uh
+an exhaust exhaustion wow i really can't
+
+928
+00:19:24,070 --> 00:19:24,080
+an exhaust exhaustion wow i really can't
+ 
+
+929
+00:19:24,080 --> 00:19:24,710
+an exhaust exhaustion wow i really can't
+say it
+
+930
+00:19:24,710 --> 00:19:24,720
+say it
+ 
+
+931
+00:19:24,720 --> 00:19:27,750
+say it
+exhaustion value in the game
+
+932
+00:19:27,750 --> 00:19:27,760
+exhaustion value in the game
+ 
+
+933
+00:19:27,760 --> 00:19:31,110
+exhaustion value in the game
+when that gets to 4.0 it takes away one
+
+934
+00:19:31,110 --> 00:19:31,120
+when that gets to 4.0 it takes away one
+ 
+
+935
+00:19:31,120 --> 00:19:32,789
+when that gets to 4.0 it takes away one
+of our points from our
+
+936
+00:19:32,789 --> 00:19:32,799
+of our points from our
+ 
+
+937
+00:19:32,799 --> 00:19:35,830
+of our points from our
+saturated food bar if there is any
+
+938
+00:19:35,830 --> 00:19:35,840
+saturated food bar if there is any
+ 
+
+939
+00:19:35,840 --> 00:19:37,830
+saturated food bar if there is any
+in it otherwise it will take one away
+
+940
+00:19:37,830 --> 00:19:37,840
+in it otherwise it will take one away
+ 
+
+941
+00:19:37,840 --> 00:19:39,669
+in it otherwise it will take one away
+from my regular food
+
+942
+00:19:39,669 --> 00:19:39,679
+from my regular food
+ 
+
+943
+00:19:39,679 --> 00:19:43,830
+from my regular food
+bar okay
+
+944
+00:19:43,830 --> 00:19:43,840
+bar okay
+ 
+
+945
+00:19:43,840 --> 00:19:47,029
+bar okay
+so watching or sneaking
+
+946
+00:19:47,029 --> 00:19:47,039
+so watching or sneaking
+ 
+
+947
+00:19:47,039 --> 00:19:50,310
+so watching or sneaking
+takes or adds 0.01 to
+
+948
+00:19:50,310 --> 00:19:50,320
+takes or adds 0.01 to
+ 
+
+949
+00:19:50,320 --> 00:19:53,029
+takes or adds 0.01 to
+our exhaustion value hey i think i said
+
+950
+00:19:53,029 --> 00:19:53,039
+our exhaustion value hey i think i said
+ 
+
+951
+00:19:53,039 --> 00:19:54,470
+our exhaustion value hey i think i said
+it right there
+
+952
+00:19:54,470 --> 00:19:54,480
+it right there
+ 
+
+953
+00:19:54,480 --> 00:19:56,790
+it right there
+so if we were to
+
+954
+00:19:56,790 --> 00:19:56,800
+so if we were to
+ 
+
+955
+00:19:56,800 --> 00:19:59,909
+so if we were to
+[Music]
+
+956
+00:19:59,909 --> 00:19:59,919
+[Music]
+ 
+
+957
+00:19:59,919 --> 00:20:03,110
+[Music]
+let's see 4 divided by 0.01
+
+958
+00:20:03,110 --> 00:20:03,120
+let's see 4 divided by 0.01
+ 
+
+959
+00:20:03,120 --> 00:20:07,270
+let's see 4 divided by 0.01
+this is how i get to these numbers 0.01
+
+960
+00:20:07,270 --> 00:20:07,280
+this is how i get to these numbers 0.01
+ 
+
+961
+00:20:07,280 --> 00:20:10,710
+this is how i get to these numbers 0.01
+is 400 that means we can walk
+
+962
+00:20:10,710 --> 00:20:10,720
+is 400 that means we can walk
+ 
+
+963
+00:20:10,720 --> 00:20:14,310
+is 400 that means we can walk
+or sneak 400 blocks before using up
+
+964
+00:20:14,310 --> 00:20:14,320
+or sneak 400 blocks before using up
+ 
+
+965
+00:20:14,320 --> 00:20:17,430
+or sneak 400 blocks before using up
+one food point so either from
+
+966
+00:20:17,430 --> 00:20:17,440
+one food point so either from
+ 
+
+967
+00:20:17,440 --> 00:20:19,750
+one food point so either from
+the saturated bar if we have or else
+
+968
+00:20:19,750 --> 00:20:19,760
+the saturated bar if we have or else
+ 
+
+969
+00:20:19,760 --> 00:20:22,630
+the saturated bar if we have or else
+from the food bar
+
+970
+00:20:22,630 --> 00:20:22,640
+
+ 
+
+971
+00:20:22,640 --> 00:20:26,710
+
+sprinting uses up food 10 times faster
+
+972
+00:20:26,710 --> 00:20:26,720
+sprinting uses up food 10 times faster
+ 
+
+973
+00:20:26,720 --> 00:20:28,630
+sprinting uses up food 10 times faster
+it's 0.1 per
+
+974
+00:20:28,630 --> 00:20:28,640
+it's 0.1 per
+ 
+
+975
+00:20:28,640 --> 00:20:32,310
+it's 0.1 per
+per block or meter so sprinting
+
+976
+00:20:32,310 --> 00:20:32,320
+per block or meter so sprinting
+ 
+
+977
+00:20:32,320 --> 00:20:36,870
+per block or meter so sprinting
+40 blocks uses up one food points
+
+978
+00:20:36,870 --> 00:20:36,880
+40 blocks uses up one food points
+ 
+
+979
+00:20:36,880 --> 00:20:40,070
+40 blocks uses up one food points
+swimming is a 0.015
+
+980
+00:20:40,070 --> 00:20:40,080
+swimming is a 0.015
+ 
+
+981
+00:20:40,080 --> 00:20:43,190
+swimming is a 0.015
+per block one food points
+
+982
+00:20:43,190 --> 00:20:43,200
+per block one food points
+ 
+
+983
+00:20:43,200 --> 00:20:46,830
+per block one food points
+takes you 266.66
+
+984
+00:20:46,830 --> 00:20:46,840
+takes you 266.66
+ 
+
+985
+00:20:46,840 --> 00:20:50,950
+takes you 266.66
+blocks jumping we've covered
+
+986
+00:20:50,950 --> 00:20:50,960
+blocks jumping we've covered
+ 
+
+987
+00:20:50,960 --> 00:20:54,710
+blocks jumping we've covered
+is 0.2 so
+
+988
+00:20:54,710 --> 00:20:54,720
+is 0.2 so
+ 
+
+989
+00:20:54,720 --> 00:20:58,470
+is 0.2 so
+again if we take 4 divide that by 0.2
+
+990
+00:20:58,470 --> 00:20:58,480
+again if we take 4 divide that by 0.2
+ 
+
+991
+00:20:58,480 --> 00:21:01,430
+again if we take 4 divide that by 0.2
+we get 20 and that's how we get our
+
+992
+00:21:01,430 --> 00:21:01,440
+we get 20 and that's how we get our
+ 
+
+993
+00:21:01,440 --> 00:21:01,990
+we get 20 and that's how we get our
+total of
+
+994
+00:21:01,990 --> 00:21:02,000
+total of
+ 
+
+995
+00:21:02,000 --> 00:21:05,990
+total of
+20 jumps per one food point
+
+996
+00:21:05,990 --> 00:21:06,000
+20 jumps per one food point
+ 
+
+997
+00:21:06,000 --> 00:21:09,510
+20 jumps per one food point
+uh sprint jump uses up food four times
+
+998
+00:21:09,510 --> 00:21:09,520
+uh sprint jump uses up food four times
+ 
+
+999
+00:21:09,520 --> 00:21:11,190
+uh sprint jump uses up food four times
+faster than regular jumping that's one
+
+1000
+00:21:11,190 --> 00:21:11,200
+faster than regular jumping that's one
+ 
+
+1001
+00:21:11,200 --> 00:21:13,270
+faster than regular jumping that's one
+of these
+
+1002
+00:21:13,270 --> 00:21:13,280
+of these
+ 
+
+1003
+00:21:13,280 --> 00:21:15,590
+of these
+and we're allowed five of these per food
+
+1004
+00:21:15,590 --> 00:21:15,600
+and we're allowed five of these per food
+ 
+
+1005
+00:21:15,600 --> 00:21:16,390
+and we're allowed five of these per food
+points
+
+1006
+00:21:16,390 --> 00:21:16,400
+points
+ 
+
+1007
+00:21:16,400 --> 00:21:18,710
+points
+look how fast it goes down right now
+
+1008
+00:21:18,710 --> 00:21:18,720
+look how fast it goes down right now
+ 
+
+1009
+00:21:18,720 --> 00:21:24,950
+look how fast it goes down right now
+because my saturation bar is empty
+
+1010
+00:21:24,950 --> 00:21:24,960
+
+ 
+
+1011
+00:21:24,960 --> 00:21:27,590
+
+and what else block breaking a lot of
+
+1012
+00:21:27,590 --> 00:21:27,600
+and what else block breaking a lot of
+ 
+
+1013
+00:21:27,600 --> 00:21:30,549
+and what else block breaking a lot of
+these i haven't tested block breaking is
+
+1014
+00:21:30,549 --> 00:21:30,559
+these i haven't tested block breaking is
+ 
+
+1015
+00:21:30,559 --> 00:21:32,029
+these i haven't tested block breaking is
+one of them we can break
+
+1016
+00:21:32,029 --> 00:21:32,039
+one of them we can break
+ 
+
+1017
+00:21:32,039 --> 00:21:34,710
+one of them we can break
+160 blocks before we use up the food
+
+1018
+00:21:34,710 --> 00:21:34,720
+160 blocks before we use up the food
+ 
+
+1019
+00:21:34,720 --> 00:21:36,470
+160 blocks before we use up the food
+points
+
+1020
+00:21:36,470 --> 00:21:36,480
+points
+ 
+
+1021
+00:21:36,480 --> 00:21:39,190
+points
+and then attacking a mob or whatever
+
+1022
+00:21:39,190 --> 00:21:39,200
+and then attacking a mob or whatever
+ 
+
+1023
+00:21:39,200 --> 00:21:40,909
+and then attacking a mob or whatever
+takes
+
+1024
+00:21:40,909 --> 00:21:40,919
+takes
+ 
+
+1025
+00:21:40,919 --> 00:21:44,230
+takes
+13.33 hits before we use up
+
+1026
+00:21:44,230 --> 00:21:44,240
+13.33 hits before we use up
+ 
+
+1027
+00:21:44,240 --> 00:21:48,310
+13.33 hits before we use up
+like 13.3 three swings
+
+1028
+00:21:48,310 --> 00:21:48,320
+like 13.3 three swings
+ 
+
+1029
+00:21:48,320 --> 00:21:51,590
+like 13.3 three swings
+at before we use up one
+
+1030
+00:21:51,590 --> 00:21:51,600
+at before we use up one
+ 
+
+1031
+00:21:51,600 --> 00:21:53,270
+at before we use up one
+food point we're going to test this one
+
+1032
+00:21:53,270 --> 00:21:53,280
+food point we're going to test this one
+ 
+
+1033
+00:21:53,280 --> 00:21:55,270
+food point we're going to test this one
+today probably because i'm not sure if a
+
+1034
+00:21:55,270 --> 00:21:55,280
+today probably because i'm not sure if a
+ 
+
+1035
+00:21:55,280 --> 00:21:57,350
+today probably because i'm not sure if a
+miscounts as a swing or if it has to hit
+
+1036
+00:21:57,350 --> 00:21:57,360
+miscounts as a swing or if it has to hit
+ 
+
+1037
+00:21:57,360 --> 00:22:01,110
+miscounts as a swing or if it has to hit
+the mob to use up your food
+
+1038
+00:22:01,110 --> 00:22:01,120
+
+ 
+
+1039
+00:22:01,120 --> 00:22:03,430
+
+damage that's us taking damage is the
+
+1040
+00:22:03,430 --> 00:22:03,440
+damage that's us taking damage is the
+ 
+
+1041
+00:22:03,440 --> 00:22:05,029
+damage that's us taking damage is the
+same
+
+1042
+00:22:05,029 --> 00:22:05,039
+same
+ 
+
+1043
+00:22:05,039 --> 00:22:07,430
+same
+and then food poison that's what you get
+
+1044
+00:22:07,430 --> 00:22:07,440
+and then food poison that's what you get
+ 
+
+1045
+00:22:07,440 --> 00:22:09,830
+and then food poison that's what you get
+when you eat
+
+1046
+00:22:09,830 --> 00:22:09,840
+when you eat
+ 
+
+1047
+00:22:09,840 --> 00:22:12,950
+when you eat
+zombie flesh sometimes seventy percent
+
+1048
+00:22:12,950 --> 00:22:12,960
+zombie flesh sometimes seventy percent
+ 
+
+1049
+00:22:12,960 --> 00:22:14,789
+zombie flesh sometimes seventy percent
+of the time you get food poisoning
+
+1050
+00:22:14,789 --> 00:22:14,799
+of the time you get food poisoning
+ 
+
+1051
+00:22:14,799 --> 00:22:19,909
+of the time you get food poisoning
+and then this will take away our food
+
+1052
+00:22:19,909 --> 00:22:19,919
+
+ 
+
+1053
+00:22:19,919 --> 00:22:24,830
+
+it should be if we divide fifteen by
+
+1054
+00:22:24,830 --> 00:22:24,840
+it should be if we divide fifteen by
+ 
+
+1055
+00:22:24,840 --> 00:22:28,110
+it should be if we divide fifteen by
+four
+
+1056
+00:22:28,110 --> 00:22:28,120
+
+ 
+
+1057
+00:22:28,120 --> 00:22:30,950
+
+3.75 points i think it
+
+1058
+00:22:30,950 --> 00:22:30,960
+3.75 points i think it
+ 
+
+1059
+00:22:30,960 --> 00:22:32,630
+3.75 points i think it
+should take away i'm a little confused
+
+1060
+00:22:32,630 --> 00:22:32,640
+should take away i'm a little confused
+ 
+
+1061
+00:22:32,640 --> 00:22:35,110
+should take away i'm a little confused
+about this one
+
+1062
+00:22:35,110 --> 00:22:35,120
+about this one
+ 
+
+1063
+00:22:35,120 --> 00:22:36,789
+about this one
+over the duration of the entire
+
+1064
+00:22:36,789 --> 00:22:36,799
+over the duration of the entire
+ 
+
+1065
+00:22:36,799 --> 00:22:41,510
+over the duration of the entire
+poisoning see it's still going down
+
+1066
+00:22:41,510 --> 00:22:41,520
+poisoning see it's still going down
+ 
+
+1067
+00:22:41,520 --> 00:22:43,110
+poisoning see it's still going down
+i'm actually going to watch that back
+
+1068
+00:22:43,110 --> 00:22:43,120
+i'm actually going to watch that back
+ 
+
+1069
+00:22:43,120 --> 00:22:45,430
+i'm actually going to watch that back
+and see if it took away 3.75
+
+1070
+00:22:45,430 --> 00:22:45,440
+and see if it took away 3.75
+ 
+
+1071
+00:22:45,440 --> 00:22:49,430
+and see if it took away 3.75
+roughly
+
+1072
+00:22:49,430 --> 00:22:49,440
+
+ 
+
+1073
+00:22:49,440 --> 00:22:51,510
+
+yeah it seems to be correct because
+
+1074
+00:22:51,510 --> 00:22:51,520
+yeah it seems to be correct because
+ 
+
+1075
+00:22:51,520 --> 00:22:52,950
+yeah it seems to be correct because
+zombie flesh gives you
+
+1076
+00:22:52,950 --> 00:22:52,960
+zombie flesh gives you
+ 
+
+1077
+00:22:52,960 --> 00:22:57,110
+zombie flesh gives you
+1.8 saturation so that gets removed and
+
+1078
+00:22:57,110 --> 00:22:57,120
+1.8 saturation so that gets removed and
+ 
+
+1079
+00:22:57,120 --> 00:22:59,110
+1.8 saturation so that gets removed and
+then your food starts to go down so we
+
+1080
+00:22:59,110 --> 00:22:59,120
+then your food starts to go down so we
+ 
+
+1081
+00:22:59,120 --> 00:22:59,990
+then your food starts to go down so we
+went from
+
+1082
+00:22:59,990 --> 00:23:00,000
+went from
+ 
+
+1083
+00:23:00,000 --> 00:23:03,510
+went from
+seven not seven fifteen
+
+1084
+00:23:03,510 --> 00:23:03,520
+seven not seven fifteen
+ 
+
+1085
+00:23:03,520 --> 00:23:07,029
+seven not seven fifteen
+down to twelve so that's
+
+1086
+00:23:07,029 --> 00:23:07,039
+down to twelve so that's
+ 
+
+1087
+00:23:07,039 --> 00:23:13,590
+down to twelve so that's
+that's 1.5 there plus the 1.8
+
+1088
+00:23:13,590 --> 00:23:13,600
+
+ 
+
+1089
+00:23:13,600 --> 00:23:17,830
+
+that is 3.3 and
+
+1090
+00:23:17,830 --> 00:23:17,840
+that is 3.3 and
+ 
+
+1091
+00:23:17,840 --> 00:23:19,590
+that is 3.3 and
+since we can't see exactly what it is
+
+1092
+00:23:19,590 --> 00:23:19,600
+since we can't see exactly what it is
+ 
+
+1093
+00:23:19,600 --> 00:23:22,549
+since we can't see exactly what it is
+that seems pretty close to 3.75
+
+1094
+00:23:22,549 --> 00:23:22,559
+that seems pretty close to 3.75
+ 
+
+1095
+00:23:22,559 --> 00:23:26,149
+that seems pretty close to 3.75
+so it seems to be accurate
+
+1096
+00:23:26,149 --> 00:23:26,159
+so it seems to be accurate
+ 
+
+1097
+00:23:26,159 --> 00:23:27,909
+so it seems to be accurate
+let's test one of these let's test
+
+1098
+00:23:27,909 --> 00:23:27,919
+let's test one of these let's test
+ 
+
+1099
+00:23:27,919 --> 00:23:29,190
+let's test one of these let's test
+watermelon because i had
+
+1100
+00:23:29,190 --> 00:23:29,200
+watermelon because i had
+ 
+
+1101
+00:23:29,200 --> 00:23:30,950
+watermelon because i had
+i haven't actually tested any of these
+
+1102
+00:23:30,950 --> 00:23:30,960
+i haven't actually tested any of these
+ 
+
+1103
+00:23:30,960 --> 00:23:33,430
+i haven't actually tested any of these
+food values to make sure they're correct
+
+1104
+00:23:33,430 --> 00:23:33,440
+food values to make sure they're correct
+ 
+
+1105
+00:23:33,440 --> 00:23:35,750
+food values to make sure they're correct
+and i'll show you how we can do that
+
+1106
+00:23:35,750 --> 00:23:35,760
+and i'll show you how we can do that
+ 
+
+1107
+00:23:35,760 --> 00:23:36,630
+and i'll show you how we can do that
+let's jump
+
+1108
+00:23:36,630 --> 00:23:36,640
+let's jump
+ 
+
+1109
+00:23:36,640 --> 00:23:40,549
+let's jump
+until our food just goes down
+
+1110
+00:23:40,549 --> 00:23:40,559
+until our food just goes down
+ 
+
+1111
+00:23:40,559 --> 00:23:43,029
+until our food just goes down
+there we go we're going to eat a
+
+1112
+00:23:43,029 --> 00:23:43,039
+there we go we're going to eat a
+ 
+
+1113
+00:23:43,039 --> 00:23:47,269
+there we go we're going to eat a
+watermelon
+
+1114
+00:23:47,269 --> 00:23:47,279
+
+ 
+
+1115
+00:23:47,279 --> 00:23:49,190
+
+and now our food birds not jittering
+
+1116
+00:23:49,190 --> 00:23:49,200
+and now our food birds not jittering
+ 
+
+1117
+00:23:49,200 --> 00:23:50,630
+and now our food birds not jittering
+that means we have food in our
+
+1118
+00:23:50,630 --> 00:23:50,640
+that means we have food in our
+ 
+
+1119
+00:23:50,640 --> 00:23:53,510
+that means we have food in our
+saturation so
+
+1120
+00:23:53,510 --> 00:23:53,520
+saturation so
+ 
+
+1121
+00:23:53,520 --> 00:23:57,269
+saturation so
+1.2 in our saturation if we jump
+
+1122
+00:23:57,269 --> 00:23:57,279
+1.2 in our saturation if we jump
+ 
+
+1123
+00:23:57,279 --> 00:24:00,390
+1.2 in our saturation if we jump
+what was it 20 times 1.2
+
+1124
+00:24:00,390 --> 00:24:00,400
+what was it 20 times 1.2
+ 
+
+1125
+00:24:00,400 --> 00:24:03,990
+what was it 20 times 1.2
+i think it was 24 times
+
+1126
+00:24:03,990 --> 00:24:04,000
+i think it was 24 times
+ 
+
+1127
+00:24:04,000 --> 00:24:07,110
+i think it was 24 times
+yes once we jump 24 times
+
+1128
+00:24:07,110 --> 00:24:07,120
+yes once we jump 24 times
+ 
+
+1129
+00:24:07,120 --> 00:24:09,190
+yes once we jump 24 times
+uh our food bar should start jittering
+
+1130
+00:24:09,190 --> 00:24:09,200
+uh our food bar should start jittering
+ 
+
+1131
+00:24:09,200 --> 00:24:10,390
+uh our food bar should start jittering
+so let's try that out
+
+1132
+00:24:10,390 --> 00:24:10,400
+so let's try that out
+ 
+
+1133
+00:24:10,400 --> 00:24:13,590
+so let's try that out
+1 2 3 4 5
+
+1134
+00:24:13,590 --> 00:24:13,600
+1 2 3 4 5
+ 
+
+1135
+00:24:13,600 --> 00:24:16,630
+1 2 3 4 5
+6 7 8 9 10
+
+1136
+00:24:16,630 --> 00:24:16,640
+6 7 8 9 10
+ 
+
+1137
+00:24:16,640 --> 00:24:19,750
+6 7 8 9 10
+11 12 13 14 15
+
+1138
+00:24:19,750 --> 00:24:19,760
+11 12 13 14 15
+ 
+
+1139
+00:24:19,760 --> 00:24:25,269
+11 12 13 14 15
+16 17 18 19 20 21 22
+
+1140
+00:24:25,269 --> 00:24:25,279
+16 17 18 19 20 21 22
+ 
+
+1141
+00:24:25,279 --> 00:24:29,830
+16 17 18 19 20 21 22
+23 still not jittering
+
+1142
+00:24:29,830 --> 00:24:29,840
+23 still not jittering
+ 
+
+1143
+00:24:29,840 --> 00:24:35,990
+23 still not jittering
+next time we jump it should start
+
+1144
+00:24:35,990 --> 00:24:36,000
+
+ 
+
+1145
+00:24:36,000 --> 00:24:41,430
+
+oh
+
+1146
+00:24:41,430 --> 00:24:41,440
+
+ 
+
+1147
+00:24:41,440 --> 00:24:46,070
+
+25 did i count wrong
+
+1148
+00:24:46,070 --> 00:24:46,080
+25 did i count wrong
+ 
+
+1149
+00:24:46,080 --> 00:24:51,029
+25 did i count wrong
+oh boy 26
+
+1150
+00:24:51,029 --> 00:24:51,039
+
+ 
+
+1151
+00:24:51,039 --> 00:24:58,830
+
+something's not right here 27
+
+1152
+00:24:58,830 --> 00:24:58,840
+
+ 
+
+1153
+00:24:58,840 --> 00:25:00,149
+
+28
+
+1154
+00:25:00,149 --> 00:25:00,159
+28
+ 
+
+1155
+00:25:00,159 --> 00:25:03,430
+28
+29
+
+1156
+00:25:03,430 --> 00:25:03,440
+
+ 
+
+1157
+00:25:03,440 --> 00:25:07,190
+
+30 31 32
+
+1158
+00:25:07,190 --> 00:25:07,200
+30 31 32
+ 
+
+1159
+00:25:07,200 --> 00:25:10,630
+30 31 32
+33 34 35 36
+
+1160
+00:25:10,630 --> 00:25:10,640
+33 34 35 36
+ 
+
+1161
+00:25:10,640 --> 00:25:15,269
+33 34 35 36
+37 38 39 40 what is going on there
+
+1162
+00:25:15,269 --> 00:25:15,279
+37 38 39 40 what is going on there
+ 
+
+1163
+00:25:15,279 --> 00:25:17,110
+37 38 39 40 what is going on there
+finally started jittering
+
+1164
+00:25:17,110 --> 00:25:17,120
+finally started jittering
+ 
+
+1165
+00:25:17,120 --> 00:25:21,269
+finally started jittering
+40. so these values were last updated
+
+1166
+00:25:21,269 --> 00:25:21,279
+40. so these values were last updated
+ 
+
+1167
+00:25:21,279 --> 00:25:23,430
+40. so these values were last updated
+1.1 i think the wiki said
+
+1168
+00:25:23,430 --> 00:25:23,440
+1.1 i think the wiki said
+ 
+
+1169
+00:25:23,440 --> 00:25:28,390
+1.1 i think the wiki said
+so um
+
+1170
+00:25:28,390 --> 00:25:28,400
+so um
+ 
+
+1171
+00:25:28,400 --> 00:25:31,669
+so um
+yeah this might have got changed that's
+
+1172
+00:25:31,669 --> 00:25:31,679
+yeah this might have got changed that's
+ 
+
+1173
+00:25:31,679 --> 00:25:34,149
+yeah this might have got changed that's
+weird
+
+1174
+00:25:34,149 --> 00:25:34,159
+
+ 
+
+1175
+00:25:34,159 --> 00:25:36,549
+
+now the next 20 times to jump the food
+
+1176
+00:25:36,549 --> 00:25:36,559
+now the next 20 times to jump the food
+ 
+
+1177
+00:25:36,559 --> 00:25:37,990
+now the next 20 times to jump the food
+bar should actually go down
+
+1178
+00:25:37,990 --> 00:25:38,000
+bar should actually go down
+ 
+
+1179
+00:25:38,000 --> 00:25:41,430
+bar should actually go down
+one two three four five
+
+1180
+00:25:41,430 --> 00:25:41,440
+one two three four five
+ 
+
+1181
+00:25:41,440 --> 00:25:45,190
+one two three four five
+6 7 8 9 10 11
+
+1182
+00:25:45,190 --> 00:25:45,200
+6 7 8 9 10 11
+ 
+
+1183
+00:25:45,200 --> 00:25:49,350
+6 7 8 9 10 11
+12 13 14 15
+
+1184
+00:25:49,350 --> 00:25:49,360
+12 13 14 15
+ 
+
+1185
+00:25:49,360 --> 00:25:52,549
+12 13 14 15
+16 17 18 19
+
+1186
+00:25:52,549 --> 00:25:52,559
+16 17 18 19
+ 
+
+1187
+00:25:52,559 --> 00:25:55,269
+16 17 18 19
+still hasn't gone down next jump will do
+
+1188
+00:25:55,269 --> 00:25:55,279
+still hasn't gone down next jump will do
+ 
+
+1189
+00:25:55,279 --> 00:25:56,870
+still hasn't gone down next jump will do
+it
+
+1190
+00:25:56,870 --> 00:25:56,880
+it
+ 
+
+1191
+00:25:56,880 --> 00:26:00,390
+it
+there we go so 40 so this
+
+1192
+00:26:00,390 --> 00:26:00,400
+there we go so 40 so this
+ 
+
+1193
+00:26:00,400 --> 00:26:03,669
+there we go so 40 so this
+value should actually be
+
+1194
+00:26:03,669 --> 00:26:03,679
+value should actually be
+ 
+
+1195
+00:26:03,679 --> 00:26:07,669
+value should actually be
+2 not 1.2 and this should be
+
+1196
+00:26:07,669 --> 00:26:07,679
+2 not 1.2 and this should be
+ 
+
+1197
+00:26:07,679 --> 00:26:11,430
+2 not 1.2 and this should be
+4 total interesting so we
+
+1198
+00:26:11,430 --> 00:26:11,440
+4 total interesting so we
+ 
+
+1199
+00:26:11,440 --> 00:26:13,510
+4 total interesting so we
+may have to test all these to figure it
+
+1200
+00:26:13,510 --> 00:26:13,520
+may have to test all these to figure it
+ 
+
+1201
+00:26:13,520 --> 00:26:20,630
+may have to test all these to figure it
+out exactly what it is now
+
+1202
+00:26:20,630 --> 00:26:20,640
+
+ 
+
+1203
+00:26:20,640 --> 00:26:23,110
+
+yes indeed so i just checked the the
+
+1204
+00:26:23,110 --> 00:26:23,120
+yes indeed so i just checked the the
+ 
+
+1205
+00:26:23,120 --> 00:26:23,990
+yes indeed so i just checked the the
+wiki page
+
+1206
+00:26:23,990 --> 00:26:24,000
+wiki page
+ 
+
+1207
+00:26:24,000 --> 00:26:26,630
+wiki page
+and it doesn't actually say what version
+
+1208
+00:26:26,630 --> 00:26:26,640
+and it doesn't actually say what version
+ 
+
+1209
+00:26:26,640 --> 00:26:27,269
+and it doesn't actually say what version
+these ch
+
+1210
+00:26:27,269 --> 00:26:27,279
+these ch
+ 
+
+1211
+00:26:27,279 --> 00:26:30,310
+these ch
+this chart was made in so
+
+1212
+00:26:30,310 --> 00:26:30,320
+this chart was made in so
+ 
+
+1213
+00:26:30,320 --> 00:26:32,549
+this chart was made in so
+or taken from i should say wasn't made
+
+1214
+00:26:32,549 --> 00:26:32,559
+or taken from i should say wasn't made
+ 
+
+1215
+00:26:32,559 --> 00:26:33,669
+or taken from i should say wasn't made
+from it
+
+1216
+00:26:33,669 --> 00:26:33,679
+from it
+ 
+
+1217
+00:26:33,679 --> 00:26:36,149
+from it
+it was found out by looking at the game
+
+1218
+00:26:36,149 --> 00:26:36,159
+it was found out by looking at the game
+ 
+
+1219
+00:26:36,159 --> 00:26:37,110
+it was found out by looking at the game
+code
+
+1220
+00:26:37,110 --> 00:26:37,120
+code
+ 
+
+1221
+00:26:37,120 --> 00:26:41,269
+code
+um we're gonna put star next to here
+
+1222
+00:26:41,269 --> 00:26:41,279
+um we're gonna put star next to here
+ 
+
+1223
+00:26:41,279 --> 00:26:43,190
+um we're gonna put star next to here
+so we know it's been updated but
+
+1224
+00:26:43,190 --> 00:26:43,200
+so we know it's been updated but
+ 
+
+1225
+00:26:43,200 --> 00:26:44,630
+so we know it's been updated but
+apparently in the new version that we're
+
+1226
+00:26:44,630 --> 00:26:44,640
+apparently in the new version that we're
+ 
+
+1227
+00:26:44,640 --> 00:26:45,669
+apparently in the new version that we're
+using right now
+
+1228
+00:26:45,669 --> 00:26:45,679
+using right now
+ 
+
+1229
+00:26:45,679 --> 00:26:47,269
+using right now
+it's a little bit different from what
+
+1230
+00:26:47,269 --> 00:26:47,279
+it's a little bit different from what
+ 
+
+1231
+00:26:47,279 --> 00:26:49,430
+it's a little bit different from what
+the wiki says
+
+1232
+00:26:49,430 --> 00:26:49,440
+the wiki says
+ 
+
+1233
+00:26:49,440 --> 00:26:51,830
+the wiki says
+um i don't have time to check all these
+
+1234
+00:26:51,830 --> 00:26:51,840
+um i don't have time to check all these
+ 
+
+1235
+00:26:51,840 --> 00:26:52,470
+um i don't have time to check all these
+today
+
+1236
+00:26:52,470 --> 00:26:52,480
+today
+ 
+
+1237
+00:26:52,480 --> 00:26:54,230
+today
+especially these bigger numbers would be
+
+1238
+00:26:54,230 --> 00:26:54,240
+especially these bigger numbers would be
+ 
+
+1239
+00:26:54,240 --> 00:26:56,310
+especially these bigger numbers would be
+hard to check in the game
+
+1240
+00:26:56,310 --> 00:26:56,320
+hard to check in the game
+ 
+
+1241
+00:26:56,320 --> 00:26:59,990
+hard to check in the game
+using that method i showed
+
+1242
+00:26:59,990 --> 00:27:00,000
+
+ 
+
+1243
+00:27:00,000 --> 00:27:03,269
+
+um
+
+1244
+00:27:03,269 --> 00:27:03,279
+
+ 
+
+1245
+00:27:03,279 --> 00:27:05,350
+
+but overall it's pretty good information
+
+1246
+00:27:05,350 --> 00:27:05,360
+but overall it's pretty good information
+ 
+
+1247
+00:27:05,360 --> 00:27:07,430
+but overall it's pretty good information
+there
+
+1248
+00:27:07,430 --> 00:27:07,440
+there
+ 
+
+1249
+00:27:07,440 --> 00:27:10,230
+there
+uh let's see what did i want to talk
+
+1250
+00:27:10,230 --> 00:27:10,240
+uh let's see what did i want to talk
+ 
+
+1251
+00:27:10,240 --> 00:27:10,710
+uh let's see what did i want to talk
+about
+
+1252
+00:27:10,710 --> 00:27:10,720
+about
+ 
+
+1253
+00:27:10,720 --> 00:27:13,990
+about
+oh yeah also i said 70 percent chance of
+
+1254
+00:27:13,990 --> 00:27:14,000
+oh yeah also i said 70 percent chance of
+ 
+
+1255
+00:27:14,000 --> 00:27:15,830
+oh yeah also i said 70 percent chance of
+getting poisoned from zombie flesh it's
+
+1256
+00:27:15,830 --> 00:27:15,840
+getting poisoned from zombie flesh it's
+ 
+
+1257
+00:27:15,840 --> 00:27:16,950
+getting poisoned from zombie flesh it's
+actually
+
+1258
+00:27:16,950 --> 00:27:16,960
+actually
+ 
+
+1259
+00:27:16,960 --> 00:27:20,710
+actually
+80 according to the wiki
+
+1260
+00:27:20,710 --> 00:27:20,720
+80 according to the wiki
+ 
+
+1261
+00:27:20,720 --> 00:27:23,990
+80 according to the wiki
+and chicken is a 30 chance
+
+1262
+00:27:23,990 --> 00:27:24,000
+and chicken is a 30 chance
+ 
+
+1263
+00:27:24,000 --> 00:27:27,269
+and chicken is a 30 chance
+and if you get poisoned gives you 15
+
+1264
+00:27:27,269 --> 00:27:27,279
+and if you get poisoned gives you 15
+ 
+
+1265
+00:27:27,279 --> 00:27:31,029
+and if you get poisoned gives you 15
+exhaustion you divide that by four
+
+1266
+00:27:31,029 --> 00:27:31,039
+exhaustion you divide that by four
+ 
+
+1267
+00:27:31,039 --> 00:27:32,870
+exhaustion you divide that by four
+and that gets you the total number of
+
+1268
+00:27:32,870 --> 00:27:32,880
+and that gets you the total number of
+ 
+
+1269
+00:27:32,880 --> 00:27:37,750
+and that gets you the total number of
+points you lose which is 3.75
+
+1270
+00:27:37,750 --> 00:27:37,760
+
+ 
+
+1271
+00:27:37,760 --> 00:27:41,830
+
+um what are we going to do now
+
+1272
+00:27:41,830 --> 00:27:41,840
+um what are we going to do now
+ 
+
+1273
+00:27:41,840 --> 00:27:44,789
+um what are we going to do now
+yeah so basically the tip to not wasting
+
+1274
+00:27:44,789 --> 00:27:44,799
+yeah so basically the tip to not wasting
+ 
+
+1275
+00:27:44,799 --> 00:27:45,990
+yeah so basically the tip to not wasting
+food
+
+1276
+00:27:45,990 --> 00:27:46,000
+food
+ 
+
+1277
+00:27:46,000 --> 00:27:48,310
+food
+is make sure your your food bar here is
+
+1278
+00:27:48,310 --> 00:27:48,320
+is make sure your your food bar here is
+ 
+
+1279
+00:27:48,320 --> 00:27:49,029
+is make sure your your food bar here is
+jittering
+
+1280
+00:27:49,029 --> 00:27:49,039
+jittering
+ 
+
+1281
+00:27:49,039 --> 00:27:51,750
+jittering
+before you eat and that you have enough
+
+1282
+00:27:51,750 --> 00:27:51,760
+before you eat and that you have enough
+ 
+
+1283
+00:27:51,760 --> 00:27:52,310
+before you eat and that you have enough
+space
+
+1284
+00:27:52,310 --> 00:27:52,320
+space
+ 
+
+1285
+00:27:52,320 --> 00:27:55,669
+space
+for the first food value so
+
+1286
+00:27:55,669 --> 00:27:55,679
+for the first food value so
+ 
+
+1287
+00:27:55,679 --> 00:27:59,120
+for the first food value so
+if i'm gonna eat steak i would want to
+
+1288
+00:27:59,120 --> 00:27:59,130
+if i'm gonna eat steak i would want to
+ 
+
+1289
+00:27:59,130 --> 00:28:01,590
+if i'm gonna eat steak i would want to
+[Music]
+
+1290
+00:28:01,590 --> 00:28:01,600
+[Music]
+ 
+
+1291
+00:28:01,600 --> 00:28:04,070
+[Music]
+use it up until it's at that point and
+
+1292
+00:28:04,070 --> 00:28:04,080
+use it up until it's at that point and
+ 
+
+1293
+00:28:04,080 --> 00:28:04,789
+use it up until it's at that point and
+then
+
+1294
+00:28:04,789 --> 00:28:04,799
+then
+ 
+
+1295
+00:28:04,799 --> 00:28:07,830
+then
+eat to get the full full effect if i'm
+
+1296
+00:28:07,830 --> 00:28:07,840
+eat to get the full full effect if i'm
+ 
+
+1297
+00:28:07,840 --> 00:28:09,909
+eat to get the full full effect if i'm
+being
+
+1298
+00:28:09,909 --> 00:28:09,919
+being
+ 
+
+1299
+00:28:09,919 --> 00:28:12,950
+being
+uh very concerned about not using up
+
+1300
+00:28:12,950 --> 00:28:12,960
+uh very concerned about not using up
+ 
+
+1301
+00:28:12,960 --> 00:28:13,909
+uh very concerned about not using up
+food
+
+1302
+00:28:13,909 --> 00:28:13,919
+food
+ 
+
+1303
+00:28:13,919 --> 00:28:16,070
+food
+for convenience it's obviously easier
+
+1304
+00:28:16,070 --> 00:28:16,080
+for convenience it's obviously easier
+ 
+
+1305
+00:28:16,080 --> 00:28:17,750
+for convenience it's obviously easier
+just to eat whenever you
+
+1306
+00:28:17,750 --> 00:28:17,760
+just to eat whenever you
+ 
+
+1307
+00:28:17,760 --> 00:28:21,190
+just to eat whenever you
+want nobody should tell you right
+
+1308
+00:28:21,190 --> 00:28:21,200
+want nobody should tell you right
+ 
+
+1309
+00:28:21,200 --> 00:28:25,430
+want nobody should tell you right
+um but yeah you can
+
+1310
+00:28:25,430 --> 00:28:25,440
+um but yeah you can
+ 
+
+1311
+00:28:25,440 --> 00:28:29,190
+um but yeah you can
+not have a full food bar there and eat
+
+1312
+00:28:29,190 --> 00:28:29,200
+not have a full food bar there and eat
+ 
+
+1313
+00:28:29,200 --> 00:28:33,830
+not have a full food bar there and eat
+and have the jittering stop
+
+1314
+00:28:33,830 --> 00:28:33,840
+
+ 
+
+1315
+00:28:33,840 --> 00:28:35,990
+
+which means your saturation bar is full
+
+1316
+00:28:35,990 --> 00:28:36,000
+which means your saturation bar is full
+ 
+
+1317
+00:28:36,000 --> 00:28:37,990
+which means your saturation bar is full
+i'm getting tired here and rambling a
+
+1318
+00:28:37,990 --> 00:28:38,000
+i'm getting tired here and rambling a
+ 
+
+1319
+00:28:38,000 --> 00:28:39,269
+i'm getting tired here and rambling a
+little bit
+
+1320
+00:28:39,269 --> 00:28:39,279
+little bit
+ 
+
+1321
+00:28:39,279 --> 00:28:42,630
+little bit
+quite a bit sorry uh
+
+1322
+00:28:42,630 --> 00:28:42,640
+quite a bit sorry uh
+ 
+
+1323
+00:28:42,640 --> 00:28:44,630
+quite a bit sorry uh
+what let's see something else i wanted
+
+1324
+00:28:44,630 --> 00:28:44,640
+what let's see something else i wanted
+ 
+
+1325
+00:28:44,640 --> 00:28:45,750
+what let's see something else i wanted
+to try here that
+
+1326
+00:28:45,750 --> 00:28:45,760
+to try here that
+ 
+
+1327
+00:28:45,760 --> 00:28:48,950
+to try here that
+the wiki says your saturation food bar
+
+1328
+00:28:48,950 --> 00:28:48,960
+the wiki says your saturation food bar
+ 
+
+1329
+00:28:48,960 --> 00:28:51,909
+the wiki says your saturation food bar
+cannot exceed your current
+
+1330
+00:28:51,909 --> 00:28:51,919
+cannot exceed your current
+ 
+
+1331
+00:28:51,919 --> 00:28:55,029
+cannot exceed your current
+food bar so if i'm at 3 4
+
+1332
+00:28:55,029 --> 00:28:55,039
+food bar so if i'm at 3 4
+ 
+
+1333
+00:28:55,039 --> 00:28:58,230
+food bar so if i'm at 3 4
+5 6 12 13 points right now
+
+1334
+00:28:58,230 --> 00:28:58,240
+5 6 12 13 points right now
+ 
+
+1335
+00:28:58,240 --> 00:29:02,149
+5 6 12 13 points right now
+my saturation bar can't be more than 13.
+
+1336
+00:29:02,149 --> 00:29:02,159
+my saturation bar can't be more than 13.
+ 
+
+1337
+00:29:02,159 --> 00:29:05,430
+my saturation bar can't be more than 13.
+13 is the limit which tells me that it's
+
+1338
+00:29:05,430 --> 00:29:05,440
+13 is the limit which tells me that it's
+ 
+
+1339
+00:29:05,440 --> 00:29:09,669
+13 is the limit which tells me that it's
+additive so if watermelons give you 2 to
+
+1340
+00:29:09,669 --> 00:29:09,679
+additive so if watermelons give you 2 to
+ 
+
+1341
+00:29:09,679 --> 00:29:10,549
+additive so if watermelons give you 2 to
+the saturation
+
+1342
+00:29:10,549 --> 00:29:10,559
+the saturation
+ 
+
+1343
+00:29:10,559 --> 00:29:13,350
+the saturation
+if i was to use up a bunch of my food
+
+1344
+00:29:13,350 --> 00:29:13,360
+if i was to use up a bunch of my food
+ 
+
+1345
+00:29:13,360 --> 00:29:15,269
+if i was to use up a bunch of my food
+here
+
+1346
+00:29:15,269 --> 00:29:15,279
+here
+ 
+
+1347
+00:29:15,279 --> 00:29:18,710
+here
+let's try this out just something i want
+
+1348
+00:29:18,710 --> 00:29:18,720
+let's try this out just something i want
+ 
+
+1349
+00:29:18,720 --> 00:29:22,789
+let's try this out just something i want
+to figure out
+
+1350
+00:29:22,789 --> 00:29:22,799
+
+ 
+
+1351
+00:29:22,799 --> 00:29:25,510
+
+okay so i think we just used up the food
+
+1352
+00:29:25,510 --> 00:29:25,520
+okay so i think we just used up the food
+ 
+
+1353
+00:29:25,520 --> 00:29:27,669
+okay so i think we just used up the food
+i shouldn't be moving around
+
+1354
+00:29:27,669 --> 00:29:27,679
+i shouldn't be moving around
+ 
+
+1355
+00:29:27,679 --> 00:29:30,710
+i shouldn't be moving around
+moving uses up your
+
+1356
+00:29:30,710 --> 00:29:30,720
+moving uses up your
+ 
+
+1357
+00:29:30,720 --> 00:29:35,190
+moving uses up your
+ah again i didn't time that very well
+
+1358
+00:29:35,190 --> 00:29:35,200
+ah again i didn't time that very well
+ 
+
+1359
+00:29:35,200 --> 00:29:37,510
+ah again i didn't time that very well
+okay let's make sure we get it at the
+
+1360
+00:29:37,510 --> 00:29:37,520
+okay let's make sure we get it at the
+ 
+
+1361
+00:29:37,520 --> 00:29:39,510
+okay let's make sure we get it at the
+right jump here
+
+1362
+00:29:39,510 --> 00:29:39,520
+right jump here
+ 
+
+1363
+00:29:39,520 --> 00:29:43,269
+right jump here
+it was that jump so if we were to eat
+
+1364
+00:29:43,269 --> 00:29:43,279
+it was that jump so if we were to eat
+ 
+
+1365
+00:29:43,279 --> 00:29:49,669
+it was that jump so if we were to eat
+two watermelons in a row now
+
+1366
+00:29:49,669 --> 00:29:49,679
+
+ 
+
+1367
+00:29:49,679 --> 00:29:55,269
+
+that should give us a total of four
+
+1368
+00:29:55,269 --> 00:29:55,279
+that should give us a total of four
+ 
+
+1369
+00:29:55,279 --> 00:29:58,310
+that should give us a total of four
+saturation because
+
+1370
+00:29:58,310 --> 00:29:58,320
+saturation because
+ 
+
+1371
+00:29:58,320 --> 00:30:00,149
+saturation because
+we're allowed to have that we have more
+
+1372
+00:30:00,149 --> 00:30:00,159
+we're allowed to have that we have more
+ 
+
+1373
+00:30:00,159 --> 00:30:01,350
+we're allowed to have that we have more
+than 4
+
+1374
+00:30:01,350 --> 00:30:01,360
+than 4
+ 
+
+1375
+00:30:01,360 --> 00:30:04,789
+than 4
+points in our main food bar so that
+
+1376
+00:30:04,789 --> 00:30:04,799
+points in our main food bar so that
+ 
+
+1377
+00:30:04,799 --> 00:30:08,230
+points in our main food bar so that
+would allow us to jump
+
+1378
+00:30:08,230 --> 00:30:08,240
+would allow us to jump
+ 
+
+1379
+00:30:08,240 --> 00:30:11,269
+would allow us to jump
+what is it 4 would be
+
+1380
+00:30:11,269 --> 00:30:11,279
+what is it 4 would be
+ 
+
+1381
+00:30:11,279 --> 00:30:15,590
+what is it 4 would be
+times 20 80 times
+
+1382
+00:30:15,590 --> 00:30:15,600
+times 20 80 times
+ 
+
+1383
+00:30:15,600 --> 00:30:17,269
+times 20 80 times
+and believe it or not i'm going to test
+
+1384
+00:30:17,269 --> 00:30:17,279
+and believe it or not i'm going to test
+ 
+
+1385
+00:30:17,279 --> 00:30:22,549
+and believe it or not i'm going to test
+this so i'll be right back
+
+1386
+00:30:22,549 --> 00:30:22,559
+this so i'll be right back
+ 
+
+1387
+00:30:22,559 --> 00:30:24,950
+this so i'll be right back
+yeah so there's still some hidden pieces
+
+1388
+00:30:24,950 --> 00:30:24,960
+yeah so there's still some hidden pieces
+ 
+
+1389
+00:30:24,960 --> 00:30:25,990
+yeah so there's still some hidden pieces
+to this puzzle
+
+1390
+00:30:25,990 --> 00:30:26,000
+to this puzzle
+ 
+
+1391
+00:30:26,000 --> 00:30:30,070
+to this puzzle
+um i've tried this twice now eating two
+
+1392
+00:30:30,070 --> 00:30:30,080
+um i've tried this twice now eating two
+ 
+
+1393
+00:30:30,080 --> 00:30:31,909
+um i've tried this twice now eating two
+watermelons in a row will allow you to
+
+1394
+00:30:31,909 --> 00:30:31,919
+watermelons in a row will allow you to
+ 
+
+1395
+00:30:31,919 --> 00:30:32,310
+watermelons in a row will allow you to
+jump
+
+1396
+00:30:32,310 --> 00:30:32,320
+jump
+ 
+
+1397
+00:30:32,320 --> 00:30:34,470
+jump
+60 times before you use up the
+
+1398
+00:30:34,470 --> 00:30:34,480
+60 times before you use up the
+ 
+
+1399
+00:30:34,480 --> 00:30:37,430
+60 times before you use up the
+saturation so that would be
+
+1400
+00:30:37,430 --> 00:30:37,440
+saturation so that would be
+ 
+
+1401
+00:30:37,440 --> 00:30:41,669
+saturation so that would be
+three total from two
+
+1402
+00:30:41,669 --> 00:30:41,679
+three total from two
+ 
+
+1403
+00:30:41,679 --> 00:30:44,789
+three total from two
+so somehow one point gets lost there
+
+1404
+00:30:44,789 --> 00:30:44,799
+so somehow one point gets lost there
+ 
+
+1405
+00:30:44,799 --> 00:30:47,350
+so somehow one point gets lost there
+if you eat two in a row i've tried many
+
+1406
+00:30:47,350 --> 00:30:47,360
+if you eat two in a row i've tried many
+ 
+
+1407
+00:30:47,360 --> 00:30:48,070
+if you eat two in a row i've tried many
+times
+
+1408
+00:30:48,070 --> 00:30:48,080
+times
+ 
+
+1409
+00:30:48,080 --> 00:30:50,230
+times
+just being a single one it's always 40
+
+1410
+00:30:50,230 --> 00:30:50,240
+just being a single one it's always 40
+ 
+
+1411
+00:30:50,240 --> 00:30:51,269
+just being a single one it's always 40
+jumps
+
+1412
+00:30:51,269 --> 00:30:51,279
+jumps
+ 
+
+1413
+00:30:51,279 --> 00:30:56,470
+jumps
+which is two so
+
+1414
+00:30:56,470 --> 00:30:56,480
+
+ 
+
+1415
+00:30:56,480 --> 00:30:58,230
+
+yeah there's a bit to this that we don't
+
+1416
+00:30:58,230 --> 00:30:58,240
+yeah there's a bit to this that we don't
+ 
+
+1417
+00:30:58,240 --> 00:30:59,830
+yeah there's a bit to this that we don't
+know yet
+
+1418
+00:30:59,830 --> 00:30:59,840
+know yet
+ 
+
+1419
+00:30:59,840 --> 00:31:01,990
+know yet
+uh but regardless it's pretty
+
+1420
+00:31:01,990 --> 00:31:02,000
+uh but regardless it's pretty
+ 
+
+1421
+00:31:02,000 --> 00:31:05,350
+uh but regardless it's pretty
+interesting stuff requires more testing
+
+1422
+00:31:05,350 --> 00:31:05,360
+interesting stuff requires more testing
+ 
+
+1423
+00:31:05,360 --> 00:31:08,950
+interesting stuff requires more testing
+more figuring out some other time
+
+1424
+00:31:08,950 --> 00:31:08,960
+more figuring out some other time
+ 
+
+1425
+00:31:08,960 --> 00:31:10,870
+more figuring out some other time
+and i'm not necessarily the guy that's
+
+1426
+00:31:10,870 --> 00:31:10,880
+and i'm not necessarily the guy that's
+ 
+
+1427
+00:31:10,880 --> 00:31:12,389
+and i'm not necessarily the guy that's
+going to do it
+
+1428
+00:31:12,389 --> 00:31:12,399
+going to do it
+ 
+
+1429
+00:31:12,399 --> 00:31:14,950
+going to do it
+i'm going to try i want to confirm
+
+1430
+00:31:14,950 --> 00:31:14,960
+i'm going to try i want to confirm
+ 
+
+1431
+00:31:14,960 --> 00:31:16,470
+i'm going to try i want to confirm
+sprinting
+
+1432
+00:31:16,470 --> 00:31:16,480
+sprinting
+ 
+
+1433
+00:31:16,480 --> 00:31:18,230
+sprinting
+so maybe we'll head to the surface and
+
+1434
+00:31:18,230 --> 00:31:18,240
+so maybe we'll head to the surface and
+ 
+
+1435
+00:31:18,240 --> 00:31:21,430
+so maybe we'll head to the surface and
+do a f3
+
+1436
+00:31:21,430 --> 00:31:21,440
+do a f3
+ 
+
+1437
+00:31:21,440 --> 00:31:23,750
+do a f3
+point a to point b test and i also
+
+1438
+00:31:23,750 --> 00:31:23,760
+point a to point b test and i also
+ 
+
+1439
+00:31:23,760 --> 00:31:26,149
+point a to point b test and i also
+wanted to try
+
+1440
+00:31:26,149 --> 00:31:26,159
+wanted to try
+ 
+
+1441
+00:31:26,159 --> 00:31:29,830
+wanted to try
+getting or attacking uh
+
+1442
+00:31:29,830 --> 00:31:29,840
+getting or attacking uh
+ 
+
+1443
+00:31:29,840 --> 00:31:31,669
+getting or attacking uh
+actually we can do that pretty simple
+
+1444
+00:31:31,669 --> 00:31:31,679
+actually we can do that pretty simple
+ 
+
+1445
+00:31:31,679 --> 00:31:35,590
+actually we can do that pretty simple
+right now to figure out if missing
+
+1446
+00:31:35,590 --> 00:31:35,600
+
+ 
+
+1447
+00:31:35,600 --> 00:31:38,710
+
+counts for anything
+
+1448
+00:31:38,710 --> 00:31:38,720
+
+ 
+
+1449
+00:31:38,720 --> 00:31:42,070
+
+saturation is used up if we swing wildly
+
+1450
+00:31:42,070 --> 00:31:42,080
+saturation is used up if we swing wildly
+ 
+
+1451
+00:31:42,080 --> 00:31:43,110
+saturation is used up if we swing wildly
+in the air
+
+1452
+00:31:43,110 --> 00:31:43,120
+in the air
+ 
+
+1453
+00:31:43,120 --> 00:31:46,149
+in the air
+let's see if it uses up any food
+
+1454
+00:31:46,149 --> 00:31:46,159
+let's see if it uses up any food
+ 
+
+1455
+00:31:46,159 --> 00:31:51,029
+let's see if it uses up any food
+we've swung more than 13.33 times now so
+
+1456
+00:31:51,029 --> 00:31:51,039
+we've swung more than 13.33 times now so
+ 
+
+1457
+00:31:51,039 --> 00:31:55,430
+we've swung more than 13.33 times now so
+does not appear to
+
+1458
+00:31:55,430 --> 00:31:55,440
+
+ 
+
+1459
+00:31:55,440 --> 00:31:57,430
+
+and then we will go actually try hit a
+
+1460
+00:31:57,430 --> 00:31:57,440
+and then we will go actually try hit a
+ 
+
+1461
+00:31:57,440 --> 00:32:01,830
+and then we will go actually try hit a
+mob and see if that does it
+
+1462
+00:32:01,830 --> 00:32:01,840
+mob and see if that does it
+ 
+
+1463
+00:32:01,840 --> 00:32:04,230
+mob and see if that does it
+okay so this is our sprinting test we
+
+1464
+00:32:04,230 --> 00:32:04,240
+okay so this is our sprinting test we
+ 
+
+1465
+00:32:04,240 --> 00:32:06,950
+okay so this is our sprinting test we
+are going to run 40 blocks
+
+1466
+00:32:06,950 --> 00:32:06,960
+are going to run 40 blocks
+ 
+
+1467
+00:32:06,960 --> 00:32:09,350
+are going to run 40 blocks
+we are at negative 340 right now we are
+
+1468
+00:32:09,350 --> 00:32:09,360
+we are at negative 340 right now we are
+ 
+
+1469
+00:32:09,360 --> 00:32:11,430
+we are at negative 340 right now we are
+going to run to i think negative
+
+1470
+00:32:11,430 --> 00:32:11,440
+going to run to i think negative
+ 
+
+1471
+00:32:11,440 --> 00:32:14,389
+going to run to i think negative
+380 and stop and see if it uses up a
+
+1472
+00:32:14,389 --> 00:32:14,399
+380 and stop and see if it uses up a
+ 
+
+1473
+00:32:14,399 --> 00:32:16,389
+380 and stop and see if it uses up a
+food bar
+
+1474
+00:32:16,389 --> 00:32:16,399
+food bar
+ 
+
+1475
+00:32:16,399 --> 00:32:18,630
+food bar
+or a food point i should say i just used
+
+1476
+00:32:18,630 --> 00:32:18,640
+or a food point i should say i just used
+ 
+
+1477
+00:32:18,640 --> 00:32:19,990
+or a food point i should say i just used
+up one so
+
+1478
+00:32:19,990 --> 00:32:20,000
+up one so
+ 
+
+1479
+00:32:20,000 --> 00:32:23,590
+up one so
+by jumping so here we go
+
+1480
+00:32:23,590 --> 00:32:23,600
+by jumping so here we go
+ 
+
+1481
+00:32:23,600 --> 00:32:32,789
+by jumping so here we go
+i'm gonna run straight as i can
+
+1482
+00:32:32,789 --> 00:32:32,799
+
+ 
+
+1483
+00:32:32,799 --> 00:32:36,070
+
+and bingo
+
+1484
+00:32:36,070 --> 00:32:36,080
+and bingo
+ 
+
+1485
+00:32:36,080 --> 00:32:39,590
+and bingo
+so that looked pretty right to me um
+
+1486
+00:32:39,590 --> 00:32:39,600
+so that looked pretty right to me um
+ 
+
+1487
+00:32:39,600 --> 00:32:44,230
+so that looked pretty right to me um
+that's sprinting let's try taking damage
+
+1488
+00:32:44,230 --> 00:32:44,240
+that's sprinting let's try taking damage
+ 
+
+1489
+00:32:44,240 --> 00:32:50,389
+that's sprinting let's try taking damage
+take this stuff off so 13.33 hits
+
+1490
+00:32:50,389 --> 00:32:50,399
+
+ 
+
+1491
+00:32:50,399 --> 00:32:53,430
+
+cactus will do we will have to do a
+
+1492
+00:32:53,430 --> 00:32:53,440
+cactus will do we will have to do a
+ 
+
+1493
+00:32:53,440 --> 00:32:54,950
+cactus will do we will have to do a
+little bit of walking which drains
+
+1494
+00:32:54,950 --> 00:32:54,960
+little bit of walking which drains
+ 
+
+1495
+00:32:54,960 --> 00:32:56,310
+little bit of walking which drains
+hunger but it's very
+
+1496
+00:32:56,310 --> 00:32:56,320
+hunger but it's very
+ 
+
+1497
+00:32:56,320 --> 00:32:58,710
+hunger but it's very
+very small so i don't think it will
+
+1498
+00:32:58,710 --> 00:32:58,720
+very small so i don't think it will
+ 
+
+1499
+00:32:58,720 --> 00:33:01,590
+very small so i don't think it will
+influence our rough test here
+
+1500
+00:33:01,590 --> 00:33:01,600
+influence our rough test here
+ 
+
+1501
+00:33:01,600 --> 00:33:05,669
+influence our rough test here
+okay one
+
+1502
+00:33:05,669 --> 00:33:05,679
+okay one
+ 
+
+1503
+00:33:05,679 --> 00:33:09,110
+okay one
+two three four
+
+1504
+00:33:09,110 --> 00:33:09,120
+two three four
+ 
+
+1505
+00:33:09,120 --> 00:33:12,870
+two three four
+5 6 7 8
+
+1506
+00:33:12,870 --> 00:33:12,880
+5 6 7 8
+ 
+
+1507
+00:33:12,880 --> 00:33:15,990
+5 6 7 8
+9 10
+
+1508
+00:33:15,990 --> 00:33:16,000
+9 10
+ 
+
+1509
+00:33:16,000 --> 00:33:19,269
+9 10
+11 12 13.
+
+1510
+00:33:19,269 --> 00:33:19,279
+11 12 13.
+ 
+
+1511
+00:33:19,279 --> 00:33:21,029
+11 12 13.
+yeah so that seems about right it just
+
+1512
+00:33:21,029 --> 00:33:21,039
+yeah so that seems about right it just
+ 
+
+1513
+00:33:21,039 --> 00:33:23,190
+yeah so that seems about right it just
+went down
+
+1514
+00:33:23,190 --> 00:33:23,200
+went down
+ 
+
+1515
+00:33:23,200 --> 00:33:26,549
+went down
+again that was a rough test i'm gonna
+
+1516
+00:33:26,549 --> 00:33:26,559
+again that was a rough test i'm gonna
+ 
+
+1517
+00:33:26,559 --> 00:33:30,710
+again that was a rough test i'm gonna
+try attacking now
+
+1518
+00:33:30,710 --> 00:33:30,720
+
+ 
+
+1519
+00:33:30,720 --> 00:33:34,710
+
+yes our victims are going to be
+
+1520
+00:33:34,710 --> 00:33:34,720
+yes our victims are going to be
+ 
+
+1521
+00:33:34,720 --> 00:33:37,909
+yes our victims are going to be
+our cows they don't fight back so it
+
+1522
+00:33:37,909 --> 00:33:37,919
+our cows they don't fight back so it
+ 
+
+1523
+00:33:37,919 --> 00:33:39,990
+our cows they don't fight back so it
+should be
+
+1524
+00:33:39,990 --> 00:33:40,000
+should be
+ 
+
+1525
+00:33:40,000 --> 00:33:43,750
+should be
+good test subjects turn that down
+
+1526
+00:33:43,750 --> 00:33:43,760
+good test subjects turn that down
+ 
+
+1527
+00:33:43,760 --> 00:33:46,789
+good test subjects turn that down
+because they're annoying let's just use
+
+1528
+00:33:46,789 --> 00:33:46,799
+because they're annoying let's just use
+ 
+
+1529
+00:33:46,799 --> 00:33:48,549
+because they're annoying let's just use
+up our one
+
+1530
+00:33:48,549 --> 00:33:48,559
+up our one
+ 
+
+1531
+00:33:48,559 --> 00:33:51,830
+up our one
+haunch here one point so we know where
+
+1532
+00:33:51,830 --> 00:33:51,840
+haunch here one point so we know where
+ 
+
+1533
+00:33:51,840 --> 00:33:52,630
+haunch here one point so we know where
+we're at
+
+1534
+00:33:52,630 --> 00:33:52,640
+we're at
+ 
+
+1535
+00:33:52,640 --> 00:33:58,389
+we're at
+okay so it should be 13.33 hits roughly
+
+1536
+00:33:58,389 --> 00:33:58,399
+okay so it should be 13.33 hits roughly
+ 
+
+1537
+00:33:58,399 --> 00:34:04,830
+okay so it should be 13.33 hits roughly
+one two three four five
+
+1538
+00:34:04,830 --> 00:34:04,840
+
+ 
+
+1539
+00:34:04,840 --> 00:34:06,230
+
+six
+
+1540
+00:34:06,230 --> 00:34:06,240
+six
+ 
+
+1541
+00:34:06,240 --> 00:34:09,750
+six
+seven eight nine ten
+
+1542
+00:34:09,750 --> 00:34:09,760
+seven eight nine ten
+ 
+
+1543
+00:34:09,760 --> 00:34:13,669
+seven eight nine ten
+eleven twelve let's do it
+
+1544
+00:34:13,669 --> 00:34:13,679
+eleven twelve let's do it
+ 
+
+1545
+00:34:13,679 --> 00:34:17,270
+eleven twelve let's do it
+yes so that's the same two so it seems
+
+1546
+00:34:17,270 --> 00:34:17,280
+yes so that's the same two so it seems
+ 
+
+1547
+00:34:17,280 --> 00:34:19,190
+yes so that's the same two so it seems
+to be pretty accurate
+
+1548
+00:34:19,190 --> 00:34:19,200
+to be pretty accurate
+ 
+
+1549
+00:34:19,200 --> 00:34:23,349
+to be pretty accurate
+um it's probably all we'll do today
+
+1550
+00:34:23,349 --> 00:34:23,359
+um it's probably all we'll do today
+ 
+
+1551
+00:34:23,359 --> 00:34:25,030
+um it's probably all we'll do today
+with this there's a few more things i
+
+1552
+00:34:25,030 --> 00:34:25,040
+with this there's a few more things i
+ 
+
+1553
+00:34:25,040 --> 00:34:27,750
+with this there's a few more things i
+wanted to try but
+
+1554
+00:34:27,750 --> 00:34:27,760
+wanted to try but
+ 
+
+1555
+00:34:27,760 --> 00:34:29,510
+wanted to try but
+it's getting late here and the episode
+
+1556
+00:34:29,510 --> 00:34:29,520
+it's getting late here and the episode
+ 
+
+1557
+00:34:29,520 --> 00:34:31,349
+it's getting late here and the episode
+is getting long
+
+1558
+00:34:31,349 --> 00:34:31,359
+is getting long
+ 
+
+1559
+00:34:31,359 --> 00:34:32,950
+is getting long
+so if you're gonna need zombie flesh one
+
+1560
+00:34:32,950 --> 00:34:32,960
+so if you're gonna need zombie flesh one
+ 
+
+1561
+00:34:32,960 --> 00:34:34,790
+so if you're gonna need zombie flesh one
+of the best ways you can do it
+
+1562
+00:34:34,790 --> 00:34:34,800
+of the best ways you can do it
+ 
+
+1563
+00:34:34,800 --> 00:34:38,550
+of the best ways you can do it
+is eat it all at once
+
+1564
+00:34:38,550 --> 00:34:38,560
+is eat it all at once
+ 
+
+1565
+00:34:38,560 --> 00:34:43,270
+is eat it all at once
+unless you don't get poisoned first time
+
+1566
+00:34:43,270 --> 00:34:43,280
+unless you don't get poisoned first time
+ 
+
+1567
+00:34:43,280 --> 00:34:46,950
+unless you don't get poisoned first time
+that way because this thing resets every
+
+1568
+00:34:46,950 --> 00:34:46,960
+that way because this thing resets every
+ 
+
+1569
+00:34:46,960 --> 00:34:50,629
+that way because this thing resets every
+time
+
+1570
+00:34:50,629 --> 00:34:50,639
+
+ 
+
+1571
+00:34:50,639 --> 00:34:53,190
+
+but anyway i'm gonna go to bed thanks
+
+1572
+00:34:53,190 --> 00:34:53,200
+but anyway i'm gonna go to bed thanks
+ 
+
+1573
+00:34:53,200 --> 00:34:54,790
+but anyway i'm gonna go to bed thanks
+for watching i hope you enjoyed this
+
+1574
+00:34:54,790 --> 00:34:54,800
+for watching i hope you enjoyed this
+ 
+
+1575
+00:34:54,800 --> 00:34:57,510
+for watching i hope you enjoyed this
+taki
+
+1576
+00:34:57,510 --> 00:34:57,520
+
+ 
+
+1577
+00:34:57,520 --> 00:35:04,070
+
+the game crashed bye
+
+1578
+00:35:04,070 --> 00:35:04,080
+
+ 
+
+1579
+00:35:04,080 --> 00:35:07,159
+
+[Music]
+

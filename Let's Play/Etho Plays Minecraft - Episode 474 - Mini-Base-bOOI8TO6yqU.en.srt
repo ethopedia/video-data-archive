@@ -1,0 +1,5995 @@
+1
+00:00:00,000 --> 00:00:11,200
+
+oh I'm gonna be in trouble I know it
+
+2
+00:00:11,200 --> 00:00:11,210
+oh I'm gonna be in trouble I know it
+ 
+
+3
+00:00:11,210 --> 00:00:13,549
+oh I'm gonna be in trouble I know it
+welcome back to everybody to another
+
+4
+00:00:13,549 --> 00:00:13,559
+welcome back to everybody to another
+ 
+
+5
+00:00:13,559 --> 00:00:15,799
+welcome back to everybody to another
+episode of our let's play series this is
+
+6
+00:00:15,799 --> 00:00:15,809
+episode of our let's play series this is
+ 
+
+7
+00:00:15,809 --> 00:00:19,460
+episode of our let's play series this is
+etho I am back from the dead here sorry
+
+8
+00:00:19,460 --> 00:00:19,470
+etho I am back from the dead here sorry
+ 
+
+9
+00:00:19,470 --> 00:00:22,880
+etho I am back from the dead here sorry
+sorry about the upload schedule lately
+
+10
+00:00:22,880 --> 00:00:22,890
+sorry about the upload schedule lately
+ 
+
+11
+00:00:22,890 --> 00:00:25,490
+sorry about the upload schedule lately
+guys I have been sick if you didn't see
+
+12
+00:00:25,490 --> 00:00:25,500
+guys I have been sick if you didn't see
+ 
+
+13
+00:00:25,500 --> 00:00:29,089
+guys I have been sick if you didn't see
+my post on Twitter do they call them
+
+14
+00:00:29,089 --> 00:00:29,099
+my post on Twitter do they call them
+ 
+
+15
+00:00:29,099 --> 00:00:33,139
+my post on Twitter do they call them
+posts tweet my tweet on Twitter I've had
+
+16
+00:00:33,139 --> 00:00:33,149
+posts tweet my tweet on Twitter I've had
+ 
+
+17
+00:00:33,149 --> 00:00:37,160
+posts tweet my tweet on Twitter I've had
+I've had the flu yeah the last few days
+
+18
+00:00:37,160 --> 00:00:37,170
+I've had the flu yeah the last few days
+ 
+
+19
+00:00:37,170 --> 00:00:38,569
+I've had the flu yeah the last few days
+here still not over it but I thought I'd
+
+20
+00:00:38,569 --> 00:00:38,579
+here still not over it but I thought I'd
+ 
+
+21
+00:00:38,579 --> 00:00:40,639
+here still not over it but I thought I'd
+try to get a video out for you guys
+
+22
+00:00:40,639 --> 00:00:40,649
+try to get a video out for you guys
+ 
+
+23
+00:00:40,649 --> 00:00:43,209
+try to get a video out for you guys
+today because I know you've been waiting
+
+24
+00:00:43,209 --> 00:00:43,219
+today because I know you've been waiting
+ 
+
+25
+00:00:43,219 --> 00:00:46,069
+today because I know you've been waiting
+so let's get to it here guys
+
+26
+00:00:46,069 --> 00:00:46,079
+so let's get to it here guys
+ 
+
+27
+00:00:46,079 --> 00:00:48,350
+so let's get to it here guys
+last episode we looked into this whole
+
+28
+00:00:48,350 --> 00:00:48,360
+last episode we looked into this whole
+ 
+
+29
+00:00:48,360 --> 00:00:51,260
+last episode we looked into this whole
+bunny hole concept and you guys seemed
+
+30
+00:00:51,260 --> 00:00:51,270
+bunny hole concept and you guys seemed
+ 
+
+31
+00:00:51,270 --> 00:00:53,270
+bunny hole concept and you guys seemed
+to really really liked it so we might
+
+32
+00:00:53,270 --> 00:00:53,280
+to really really liked it so we might
+ 
+
+33
+00:00:53,280 --> 00:00:55,970
+to really really liked it so we might
+try to build that base using this today
+
+34
+00:00:55,970 --> 00:00:55,980
+try to build that base using this today
+ 
+
+35
+00:00:55,980 --> 00:00:59,029
+try to build that base using this today
+I'm not sure yet though but yeah we
+
+36
+00:00:59,029 --> 00:00:59,039
+I'm not sure yet though but yeah we
+ 
+
+37
+00:00:59,039 --> 00:01:00,889
+I'm not sure yet though but yeah we
+looked into some of the ways this works
+
+38
+00:01:00,889 --> 00:01:00,899
+looked into some of the ways this works
+ 
+
+39
+00:01:00,899 --> 00:01:03,049
+looked into some of the ways this works
+and some tricks with it got some good
+
+40
+00:01:03,049 --> 00:01:03,059
+and some tricks with it got some good
+ 
+
+41
+00:01:03,059 --> 00:01:04,640
+and some tricks with it got some good
+feedback from you guys too apparently
+
+42
+00:01:04,640 --> 00:01:04,650
+feedback from you guys too apparently
+ 
+
+43
+00:01:04,650 --> 00:01:06,050
+feedback from you guys too apparently
+there's more tricks to it than I even
+
+44
+00:01:06,050 --> 00:01:06,060
+there's more tricks to it than I even
+ 
+
+45
+00:01:06,060 --> 00:01:08,750
+there's more tricks to it than I even
+realized like one of the big rules I
+
+46
+00:01:08,750 --> 00:01:08,760
+realized like one of the big rules I
+ 
+
+47
+00:01:08,760 --> 00:01:10,039
+realized like one of the big rules I
+thought here was you had to have a
+
+48
+00:01:10,039 --> 00:01:10,049
+thought here was you had to have a
+ 
+
+49
+00:01:10,049 --> 00:01:12,710
+thought here was you had to have a
+transparent block above you so if we
+
+50
+00:01:12,710 --> 00:01:12,720
+transparent block above you so if we
+ 
+
+51
+00:01:12,720 --> 00:01:15,560
+transparent block above you so if we
+look into oh I don't know if we're gonna
+
+52
+00:01:15,560 --> 00:01:15,570
+look into oh I don't know if we're gonna
+ 
+
+53
+00:01:15,570 --> 00:01:19,130
+look into oh I don't know if we're gonna
+be able to see actually like you got to
+
+54
+00:01:19,130 --> 00:01:19,140
+be able to see actually like you got to
+ 
+
+55
+00:01:19,140 --> 00:01:21,740
+be able to see actually like you got to
+have like a slab or glass block or
+
+56
+00:01:21,740 --> 00:01:21,750
+have like a slab or glass block or
+ 
+
+57
+00:01:21,750 --> 00:01:24,020
+have like a slab or glass block or
+something non solid above you I thought
+
+58
+00:01:24,020 --> 00:01:24,030
+something non solid above you I thought
+ 
+
+59
+00:01:24,030 --> 00:01:25,670
+something non solid above you I thought
+was a rule but apparently there's a way
+
+60
+00:01:25,670 --> 00:01:25,680
+was a rule but apparently there's a way
+ 
+
+61
+00:01:25,680 --> 00:01:30,440
+was a rule but apparently there's a way
+around that as I fall here I have to
+
+62
+00:01:30,440 --> 00:01:30,450
+around that as I fall here I have to
+ 
+
+63
+00:01:30,450 --> 00:01:31,819
+around that as I fall here I have to
+press the spacebar so sometimes I
+
+64
+00:01:31,819 --> 00:01:31,829
+press the spacebar so sometimes I
+ 
+
+65
+00:01:31,829 --> 00:01:34,880
+press the spacebar so sometimes I
+prematurely press it like that but if
+
+66
+00:01:34,880 --> 00:01:34,890
+prematurely press it like that but if
+ 
+
+67
+00:01:34,890 --> 00:01:36,140
+prematurely press it like that but if
+you get really good at it looks really
+
+68
+00:01:36,140 --> 00:01:36,150
+you get really good at it looks really
+ 
+
+69
+00:01:36,150 --> 00:01:38,660
+you get really good at it looks really
+cool you just like automatically going
+
+70
+00:01:38,660 --> 00:01:38,670
+cool you just like automatically going
+ 
+
+71
+00:01:38,670 --> 00:01:41,030
+cool you just like automatically going
+to the hole here okay so let's try this
+
+72
+00:01:41,030 --> 00:01:41,040
+to the hole here okay so let's try this
+ 
+
+73
+00:01:41,040 --> 00:01:43,149
+to the hole here okay so let's try this
+apparently you can just force your way
+
+74
+00:01:43,149 --> 00:01:43,159
+apparently you can just force your way
+ 
+
+75
+00:01:43,159 --> 00:01:46,310
+apparently you can just force your way
+through the solid area so like because
+
+76
+00:01:46,310 --> 00:01:46,320
+through the solid area so like because
+ 
+
+77
+00:01:46,320 --> 00:01:48,380
+through the solid area so like because
+there's a dirt block above there it's
+
+78
+00:01:48,380 --> 00:01:48,390
+there's a dirt block above there it's
+ 
+
+79
+00:01:48,390 --> 00:01:50,810
+there's a dirt block above there it's
+not really letting me go into that space
+
+80
+00:01:50,810 --> 00:01:50,820
+not really letting me go into that space
+ 
+
+81
+00:01:50,820 --> 00:01:55,280
+not really letting me go into that space
+but if I hold sprint yeah look at that
+
+82
+00:01:55,280 --> 00:01:55,290
+but if I hold sprint yeah look at that
+ 
+
+83
+00:01:55,290 --> 00:01:57,230
+but if I hold sprint yeah look at that
+you can't actually force your way in and
+
+84
+00:01:57,230 --> 00:01:57,240
+you can't actually force your way in and
+ 
+
+85
+00:01:57,240 --> 00:01:59,510
+you can't actually force your way in and
+then once you're in the solid blocks I
+
+86
+00:01:59,510 --> 00:01:59,520
+then once you're in the solid blocks I
+ 
+
+87
+00:01:59,520 --> 00:02:01,249
+then once you're in the solid blocks I
+think it it allows you to keep going
+
+88
+00:02:01,249 --> 00:02:01,259
+think it it allows you to keep going
+ 
+
+89
+00:02:01,259 --> 00:02:03,530
+think it it allows you to keep going
+here let's see what happens if we
+
+90
+00:02:03,530 --> 00:02:03,540
+here let's see what happens if we
+ 
+
+91
+00:02:03,540 --> 00:02:07,940
+here let's see what happens if we
+transition because stone salt dirt
+
+92
+00:02:07,940 --> 00:02:07,950
+transition because stone salt dirt
+ 
+
+93
+00:02:07,950 --> 00:02:10,790
+transition because stone salt dirt
+here's some stone yeah it's still going
+
+94
+00:02:10,790 --> 00:02:10,800
+here's some stone yeah it's still going
+ 
+
+95
+00:02:10,800 --> 00:02:12,589
+here's some stone yeah it's still going
+even if you change block types so that's
+
+96
+00:02:12,589 --> 00:02:12,599
+even if you change block types so that's
+ 
+
+97
+00:02:12,599 --> 00:02:13,640
+even if you change block types so that's
+kind of cool
+
+98
+00:02:13,640 --> 00:02:13,650
+kind of cool
+ 
+
+99
+00:02:13,650 --> 00:02:17,030
+kind of cool
+that makes us way simpler like way
+
+100
+00:02:17,030 --> 00:02:17,040
+that makes us way simpler like way
+ 
+
+101
+00:02:17,040 --> 00:02:19,339
+that makes us way simpler like way
+easier to get around because you only
+
+102
+00:02:19,339 --> 00:02:19,349
+easier to get around because you only
+ 
+
+103
+00:02:19,349 --> 00:02:21,910
+easier to get around because you only
+got to mine one block then instead of to
+
+104
+00:02:21,910 --> 00:02:21,920
+got to mine one block then instead of to
+ 
+
+105
+00:02:21,920 --> 00:02:25,670
+got to mine one block then instead of to
+every block you go forward and another
+
+106
+00:02:25,670 --> 00:02:25,680
+every block you go forward and another
+ 
+
+107
+00:02:25,680 --> 00:02:27,110
+every block you go forward and another
+trick you guys showed me here is if you
+
+108
+00:02:27,110 --> 00:02:27,120
+trick you guys showed me here is if you
+ 
+
+109
+00:02:27,120 --> 00:02:29,720
+trick you guys showed me here is if you
+have a non solid block so like a slab of
+
+110
+00:02:29,720 --> 00:02:29,730
+have a non solid block so like a slab of
+ 
+
+111
+00:02:29,730 --> 00:02:31,940
+have a non solid block so like a slab of
+course you can then move into that slab
+
+112
+00:02:31,940 --> 00:02:31,950
+course you can then move into that slab
+ 
+
+113
+00:02:31,950 --> 00:02:33,410
+course you can then move into that slab
+area but if you try to go forward you
+
+114
+00:02:33,410 --> 00:02:33,420
+area but if you try to go forward you
+ 
+
+115
+00:02:33,420 --> 00:02:35,899
+area but if you try to go forward you
+get kind of get locked you got to force
+
+116
+00:02:35,899 --> 00:02:35,909
+get kind of get locked you got to force
+ 
+
+117
+00:02:35,909 --> 00:02:37,460
+get kind of get locked you got to force
+your way through which is pretty slow
+
+118
+00:02:37,460 --> 00:02:37,470
+your way through which is pretty slow
+ 
+
+119
+00:02:37,470 --> 00:02:39,259
+your way through which is pretty slow
+when you try to do that there's
+
+120
+00:02:39,259 --> 00:02:39,269
+when you try to do that there's
+ 
+
+121
+00:02:39,269 --> 00:02:41,449
+when you try to do that there's
+apparently a cool way of getting by all
+
+122
+00:02:41,449 --> 00:02:41,459
+apparently a cool way of getting by all
+ 
+
+123
+00:02:41,459 --> 00:02:44,539
+apparently a cool way of getting by all
+that issue though so I got it's a free
+
+124
+00:02:44,539 --> 00:02:44,549
+that issue though so I got it's a free
+ 
+
+125
+00:02:44,549 --> 00:02:47,629
+that issue though so I got it's a free
+spot over there if we have a piston here
+
+126
+00:02:47,629 --> 00:02:47,639
+spot over there if we have a piston here
+ 
+
+127
+00:02:47,639 --> 00:02:52,520
+spot over there if we have a piston here
+and then we go wrong way go right way
+
+128
+00:02:52,520 --> 00:02:52,530
+and then we go wrong way go right way
+ 
+
+129
+00:02:52,530 --> 00:02:55,099
+and then we go wrong way go right way
+piston wrong way I wonder if we can not
+
+130
+00:02:55,099 --> 00:02:55,109
+piston wrong way I wonder if we can not
+ 
+
+131
+00:02:55,109 --> 00:02:56,000
+piston wrong way I wonder if we can not
+place it the right way
+
+132
+00:02:56,000 --> 00:02:56,010
+place it the right way
+ 
+
+133
+00:02:56,010 --> 00:02:58,309
+place it the right way
+oh no there we go okay so if we push
+
+134
+00:02:58,309 --> 00:02:58,319
+oh no there we go okay so if we push
+ 
+
+135
+00:02:58,319 --> 00:03:01,460
+oh no there we go okay so if we push
+that dirt block above us while we're in
+
+136
+00:03:01,460 --> 00:03:01,470
+that dirt block above us while we're in
+ 
+
+137
+00:03:01,470 --> 00:03:04,910
+that dirt block above us while we're in
+the the non solid block I think then
+
+138
+00:03:04,910 --> 00:03:04,920
+the the non solid block I think then
+ 
+
+139
+00:03:04,920 --> 00:03:07,520
+the the non solid block I think then
+it's gonna automatically transition us
+
+140
+00:03:07,520 --> 00:03:07,530
+it's gonna automatically transition us
+ 
+
+141
+00:03:07,530 --> 00:03:09,979
+it's gonna automatically transition us
+to the solid block and then you don't
+
+142
+00:03:09,979 --> 00:03:09,989
+to the solid block and then you don't
+ 
+
+143
+00:03:09,989 --> 00:03:11,960
+to the solid block and then you don't
+have that really long wait time to get
+
+144
+00:03:11,960 --> 00:03:11,970
+have that really long wait time to get
+ 
+
+145
+00:03:11,970 --> 00:03:14,720
+have that really long wait time to get
+through here like this you know so let's
+
+146
+00:03:14,720 --> 00:03:14,730
+through here like this you know so let's
+ 
+
+147
+00:03:14,730 --> 00:03:18,229
+through here like this you know so let's
+go ahead and try that oh it actually
+
+148
+00:03:18,229 --> 00:03:18,239
+go ahead and try that oh it actually
+ 
+
+149
+00:03:18,239 --> 00:03:20,150
+go ahead and try that oh it actually
+forced me out of that spot okay maybe I
+
+150
+00:03:20,150 --> 00:03:20,160
+forced me out of that spot okay maybe I
+ 
+
+151
+00:03:20,160 --> 00:03:22,339
+forced me out of that spot okay maybe I
+didn't do that right okay I'm gonna hold
+
+152
+00:03:22,339 --> 00:03:22,349
+didn't do that right okay I'm gonna hold
+ 
+
+153
+00:03:22,349 --> 00:03:25,390
+didn't do that right okay I'm gonna hold
+forward this time or left I'll hold left
+
+154
+00:03:25,390 --> 00:03:25,400
+forward this time or left I'll hold left
+ 
+
+155
+00:03:25,400 --> 00:03:27,259
+forward this time or left I'll hold left
+yeah there you go you go right through
+
+156
+00:03:27,259 --> 00:03:27,269
+yeah there you go you go right through
+ 
+
+157
+00:03:27,269 --> 00:03:29,559
+yeah there you go you go right through
+then there's no wait time so that's cool
+
+158
+00:03:29,559 --> 00:03:29,569
+then there's no wait time so that's cool
+ 
+
+159
+00:03:29,569 --> 00:03:32,089
+then there's no wait time so that's cool
+okay a little bit of redstone here I
+
+160
+00:03:32,089 --> 00:03:32,099
+okay a little bit of redstone here I
+ 
+
+161
+00:03:32,099 --> 00:03:35,270
+okay a little bit of redstone here I
+just wanted to see can you make this
+
+162
+00:03:35,270 --> 00:03:35,280
+just wanted to see can you make this
+ 
+
+163
+00:03:35,280 --> 00:03:37,460
+just wanted to see can you make this
+transition a little bit easier so we're
+
+164
+00:03:37,460 --> 00:03:37,470
+transition a little bit easier so we're
+ 
+
+165
+00:03:37,470 --> 00:03:39,830
+transition a little bit easier so we're
+going from the the slabs to the solid
+
+166
+00:03:39,830 --> 00:03:39,840
+going from the the slabs to the solid
+ 
+
+167
+00:03:39,840 --> 00:03:42,439
+going from the the slabs to the solid
+clay block here if we do this it takes
+
+168
+00:03:42,439 --> 00:03:42,449
+clay block here if we do this it takes
+ 
+
+169
+00:03:42,449 --> 00:03:44,240
+clay block here if we do this it takes
+like five seconds or so and you got to
+
+170
+00:03:44,240 --> 00:03:44,250
+like five seconds or so and you got to
+ 
+
+171
+00:03:44,250 --> 00:03:46,250
+like five seconds or so and you got to
+hold control and you know there's a
+
+172
+00:03:46,250 --> 00:03:46,260
+hold control and you know there's a
+ 
+
+173
+00:03:46,260 --> 00:03:48,500
+hold control and you know there's a
+little bit to it so I set this up so if
+
+174
+00:03:48,500 --> 00:03:48,510
+little bit to it so I set this up so if
+ 
+
+175
+00:03:48,510 --> 00:03:50,240
+little bit to it so I set this up so if
+you put a pressure plate down it's going
+
+176
+00:03:50,240 --> 00:03:50,250
+you put a pressure plate down it's going
+ 
+
+177
+00:03:50,250 --> 00:03:53,089
+you put a pressure plate down it's going
+to extend the sticky piston the slime
+
+178
+00:03:53,089 --> 00:03:53,099
+to extend the sticky piston the slime
+ 
+
+179
+00:03:53,099 --> 00:03:56,289
+to extend the sticky piston the slime
+blocks will move this pink clay over top
+
+180
+00:03:56,289 --> 00:03:56,299
+blocks will move this pink clay over top
+ 
+
+181
+00:03:56,299 --> 00:03:59,599
+blocks will move this pink clay over top
+where our head is so you'll notice this
+
+182
+00:03:59,599 --> 00:03:59,609
+where our head is so you'll notice this
+ 
+
+183
+00:03:59,609 --> 00:04:01,210
+where our head is so you'll notice this
+is gonna switch to the pink clay block
+
+184
+00:04:01,210 --> 00:04:01,220
+is gonna switch to the pink clay block
+ 
+
+185
+00:04:01,220 --> 00:04:04,550
+is gonna switch to the pink clay block
+when our heads there even still though
+
+186
+00:04:04,550 --> 00:04:04,560
+when our heads there even still though
+ 
+
+187
+00:04:04,560 --> 00:04:06,559
+when our heads there even still though
+if I hold forward it's not letting me
+
+188
+00:04:06,559 --> 00:04:06,569
+if I hold forward it's not letting me
+ 
+
+189
+00:04:06,569 --> 00:04:10,460
+if I hold forward it's not letting me
+through here so that's and it resets too
+
+190
+00:04:10,460 --> 00:04:10,470
+through here so that's and it resets too
+ 
+
+191
+00:04:10,470 --> 00:04:13,009
+through here so that's and it resets too
+which is nice what you got to do is hold
+
+192
+00:04:13,009 --> 00:04:13,019
+which is nice what you got to do is hold
+ 
+
+193
+00:04:13,019 --> 00:04:15,710
+which is nice what you got to do is hold
+sprint and then it lets you through and
+
+194
+00:04:15,710 --> 00:04:15,720
+sprint and then it lets you through and
+ 
+
+195
+00:04:15,720 --> 00:04:17,750
+sprint and then it lets you through and
+you'll notice it's much faster than just
+
+196
+00:04:17,750 --> 00:04:17,760
+you'll notice it's much faster than just
+ 
+
+197
+00:04:17,760 --> 00:04:20,689
+you'll notice it's much faster than just
+doing it the other way like just forcing
+
+198
+00:04:20,689 --> 00:04:20,699
+doing it the other way like just forcing
+ 
+
+199
+00:04:20,699 --> 00:04:22,279
+doing it the other way like just forcing
+your way through it's like one second
+
+200
+00:04:22,279 --> 00:04:22,289
+your way through it's like one second
+ 
+
+201
+00:04:22,289 --> 00:04:24,379
+your way through it's like one second
+instead of five but there's an even
+
+202
+00:04:24,379 --> 00:04:24,389
+instead of five but there's an even
+ 
+
+203
+00:04:24,389 --> 00:04:26,810
+instead of five but there's an even
+better way it seems if you also move the
+
+204
+00:04:26,810 --> 00:04:26,820
+better way it seems if you also move the
+ 
+
+205
+00:04:26,820 --> 00:04:27,200
+better way it seems if you also move the
+block
+
+206
+00:04:27,200 --> 00:04:27,210
+block
+ 
+
+207
+00:04:27,210 --> 00:04:31,010
+block
+behind behind you get some more slime
+
+208
+00:04:31,010 --> 00:04:31,020
+behind behind you get some more slime
+ 
+
+209
+00:04:31,020 --> 00:04:33,080
+behind behind you get some more slime
+down there then you don't even need to
+
+210
+00:04:33,080 --> 00:04:33,090
+down there then you don't even need to
+ 
+
+211
+00:04:33,090 --> 00:04:36,400
+down there then you don't even need to
+press sprint you can just hold forward
+
+212
+00:04:36,400 --> 00:04:36,410
+press sprint you can just hold forward
+ 
+
+213
+00:04:36,410 --> 00:04:40,670
+press sprint you can just hold forward
+super smooth that's cool that's the way
+
+214
+00:04:40,670 --> 00:04:40,680
+super smooth that's cool that's the way
+ 
+
+215
+00:04:40,680 --> 00:04:42,770
+super smooth that's cool that's the way
+we're gonna do it and all I did here is
+
+216
+00:04:42,770 --> 00:04:42,780
+we're gonna do it and all I did here is
+ 
+
+217
+00:04:42,780 --> 00:04:45,710
+we're gonna do it and all I did here is
+from that that's pressure plate got a
+
+218
+00:04:45,710 --> 00:04:45,720
+from that that's pressure plate got a
+ 
+
+219
+00:04:45,720 --> 00:04:48,080
+from that that's pressure plate got a
+little repeater and then it goes up to
+
+220
+00:04:48,080 --> 00:04:48,090
+little repeater and then it goes up to
+ 
+
+221
+00:04:48,090 --> 00:04:52,490
+little repeater and then it goes up to
+the piston here very simple oh man I'm
+
+222
+00:04:52,490 --> 00:04:52,500
+the piston here very simple oh man I'm
+ 
+
+223
+00:04:52,500 --> 00:04:54,080
+the piston here very simple oh man I'm
+getting a little distracted here guys
+
+224
+00:04:54,080 --> 00:04:54,090
+getting a little distracted here guys
+ 
+
+225
+00:04:54,090 --> 00:04:56,240
+getting a little distracted here guys
+but I just I just realized something we
+
+226
+00:04:56,240 --> 00:04:56,250
+but I just I just realized something we
+ 
+
+227
+00:04:56,250 --> 00:04:59,510
+but I just I just realized something we
+can use this for transport which may or
+
+228
+00:04:59,510 --> 00:04:59,520
+can use this for transport which may or
+ 
+
+229
+00:04:59,520 --> 00:05:01,969
+can use this for transport which may or
+may not be cool well it will be cool I
+
+230
+00:05:01,969 --> 00:05:01,979
+may not be cool well it will be cool I
+ 
+
+231
+00:05:01,979 --> 00:05:03,409
+may not be cool well it will be cool I
+don't know how effective it would be
+
+232
+00:05:03,409 --> 00:05:03,419
+don't know how effective it would be
+ 
+
+233
+00:05:03,419 --> 00:05:05,839
+don't know how effective it would be
+though so for example it tries to move
+
+234
+00:05:05,839 --> 00:05:05,849
+though so for example it tries to move
+ 
+
+235
+00:05:05,849 --> 00:05:09,409
+though so for example it tries to move
+us towards an open air space like if
+
+236
+00:05:09,409 --> 00:05:09,419
+us towards an open air space like if
+ 
+
+237
+00:05:09,419 --> 00:05:11,450
+us towards an open air space like if
+there's room for our whole body it's
+
+238
+00:05:11,450 --> 00:05:11,460
+there's room for our whole body it's
+ 
+
+239
+00:05:11,460 --> 00:05:12,860
+there's room for our whole body it's
+gonna try to push us to that area
+
+240
+00:05:12,860 --> 00:05:12,870
+gonna try to push us to that area
+ 
+
+241
+00:05:12,870 --> 00:05:15,159
+gonna try to push us to that area
+automatically so if I break this block
+
+242
+00:05:15,159 --> 00:05:15,169
+automatically so if I break this block
+ 
+
+243
+00:05:15,169 --> 00:05:18,350
+automatically so if I break this block
+it's gonna move us there but if I
+
+244
+00:05:18,350 --> 00:05:18,360
+it's gonna move us there but if I
+ 
+
+245
+00:05:18,360 --> 00:05:20,629
+it's gonna move us there but if I
+replace it before we get there we don't
+
+246
+00:05:20,629 --> 00:05:20,639
+replace it before we get there we don't
+ 
+
+247
+00:05:20,639 --> 00:05:24,950
+replace it before we get there we don't
+leave the solid block mode here okay
+
+248
+00:05:24,950 --> 00:05:24,960
+leave the solid block mode here okay
+ 
+
+249
+00:05:24,960 --> 00:05:26,930
+leave the solid block mode here okay
+well you could probably get it to work
+
+250
+00:05:26,930 --> 00:05:26,940
+well you could probably get it to work
+ 
+
+251
+00:05:26,940 --> 00:05:28,879
+well you could probably get it to work
+is this not gonna be very good it's way
+
+252
+00:05:28,879 --> 00:05:28,889
+is this not gonna be very good it's way
+ 
+
+253
+00:05:28,889 --> 00:05:32,450
+is this not gonna be very good it's way
+too slow let's try it it out a little
+
+254
+00:05:32,450 --> 00:05:32,460
+too slow let's try it it out a little
+ 
+
+255
+00:05:32,460 --> 00:05:34,879
+too slow let's try it it out a little
+bit here I didn't fine-tune them the
+
+256
+00:05:34,879 --> 00:05:34,889
+bit here I didn't fine-tune them the
+ 
+
+257
+00:05:34,889 --> 00:05:36,290
+bit here I didn't fine-tune them the
+timing or anything here but I don't
+
+258
+00:05:36,290 --> 00:05:36,300
+timing or anything here but I don't
+ 
+
+259
+00:05:36,300 --> 00:05:40,490
+timing or anything here but I don't
+think it's gonna really be good anyways
+
+260
+00:05:40,490 --> 00:05:40,500
+think it's gonna really be good anyways
+ 
+
+261
+00:05:40,500 --> 00:05:43,219
+think it's gonna really be good anyways
+let's get to the base building here guys
+
+262
+00:05:43,219 --> 00:05:43,229
+let's get to the base building here guys
+ 
+
+263
+00:05:43,229 --> 00:05:46,540
+let's get to the base building here guys
+I have spent some time looking around
+
+264
+00:05:46,540 --> 00:05:46,550
+I have spent some time looking around
+ 
+
+265
+00:05:46,550 --> 00:05:48,890
+I have spent some time looking around
+doing a little bit of planning I think I
+
+266
+00:05:48,890 --> 00:05:48,900
+doing a little bit of planning I think I
+ 
+
+267
+00:05:48,900 --> 00:05:50,839
+doing a little bit of planning I think I
+got it figured out what I want to do now
+
+268
+00:05:50,839 --> 00:05:50,849
+got it figured out what I want to do now
+ 
+
+269
+00:05:50,849 --> 00:05:53,719
+got it figured out what I want to do now
+for this mini base if we're gonna be
+
+270
+00:05:53,719 --> 00:05:53,729
+for this mini base if we're gonna be
+ 
+
+271
+00:05:53,729 --> 00:05:57,589
+for this mini base if we're gonna be
+building a base we should actually have
+
+272
+00:05:57,589 --> 00:05:57,599
+building a base we should actually have
+ 
+
+273
+00:05:57,599 --> 00:05:59,270
+building a base we should actually have
+it serve some function cuz if we just
+
+274
+00:05:59,270 --> 00:05:59,280
+it serve some function cuz if we just
+ 
+
+275
+00:05:59,280 --> 00:06:00,800
+it serve some function cuz if we just
+build it like around the mancave area
+
+276
+00:06:00,800 --> 00:06:00,810
+build it like around the mancave area
+ 
+
+277
+00:06:00,810 --> 00:06:04,129
+build it like around the mancave area
+never gonna use it it's gonna be for
+
+278
+00:06:04,129 --> 00:06:04,139
+never gonna use it it's gonna be for
+ 
+
+279
+00:06:04,139 --> 00:06:06,290
+never gonna use it it's gonna be for
+show and I kind of want to build like an
+
+280
+00:06:06,290 --> 00:06:06,300
+show and I kind of want to build like an
+ 
+
+281
+00:06:06,300 --> 00:06:08,360
+show and I kind of want to build like an
+outpost where a base that has a little
+
+282
+00:06:08,360 --> 00:06:08,370
+outpost where a base that has a little
+ 
+
+283
+00:06:08,370 --> 00:06:11,420
+outpost where a base that has a little
+bit of everything in it so we're gonna
+
+284
+00:06:11,420 --> 00:06:11,430
+bit of everything in it so we're gonna
+ 
+
+285
+00:06:11,430 --> 00:06:14,360
+bit of everything in it so we're gonna
+go a little ways off here and then if we
+
+286
+00:06:14,360 --> 00:06:14,370
+go a little ways off here and then if we
+ 
+
+287
+00:06:14,370 --> 00:06:16,689
+go a little ways off here and then if we
+ever decide to build out this area
+
+288
+00:06:16,689 --> 00:06:16,699
+ever decide to build out this area
+ 
+
+289
+00:06:16,699 --> 00:06:20,570
+ever decide to build out this area
+around this area then we will have like
+
+290
+00:06:20,570 --> 00:06:20,580
+around this area then we will have like
+ 
+
+291
+00:06:20,580 --> 00:06:23,480
+around this area then we will have like
+a source of maybe some mini farms and
+
+292
+00:06:23,480 --> 00:06:23,490
+a source of maybe some mini farms and
+ 
+
+293
+00:06:23,490 --> 00:06:26,659
+a source of maybe some mini farms and
+that sort of thing is the plan anyways
+
+294
+00:06:26,659 --> 00:06:26,669
+that sort of thing is the plan anyways
+ 
+
+295
+00:06:26,669 --> 00:06:29,060
+that sort of thing is the plan anyways
+and it turns out if we go straight this
+
+296
+00:06:29,060 --> 00:06:29,070
+and it turns out if we go straight this
+ 
+
+297
+00:06:29,070 --> 00:06:31,999
+and it turns out if we go straight this
+way I did a little bit of scouting where
+
+298
+00:06:31,999 --> 00:06:32,009
+way I did a little bit of scouting where
+ 
+
+299
+00:06:32,009 --> 00:06:32,950
+way I did a little bit of scouting where
+we got here
+
+300
+00:06:32,950 --> 00:06:32,960
+we got here
+ 
+
+301
+00:06:32,960 --> 00:06:35,650
+we got here
+well did I pass it already might have
+
+302
+00:06:35,650 --> 00:06:35,660
+well did I pass it already might have
+ 
+
+303
+00:06:35,660 --> 00:06:38,770
+well did I pass it already might have
+passed it thought it was like straight
+
+304
+00:06:38,770 --> 00:06:38,780
+passed it thought it was like straight
+ 
+
+305
+00:06:38,780 --> 00:06:41,950
+passed it thought it was like straight
+maybe it gotta go I don't know I think
+
+306
+00:06:41,950 --> 00:06:41,960
+maybe it gotta go I don't know I think
+ 
+
+307
+00:06:41,960 --> 00:06:45,430
+maybe it gotta go I don't know I think
+it is a little bit this way this is an
+
+308
+00:06:45,430 --> 00:06:45,440
+it is a little bit this way this is an
+ 
+
+309
+00:06:45,440 --> 00:06:47,920
+it is a little bit this way this is an
+area we've been to in the past yeah
+
+310
+00:06:47,920 --> 00:06:47,930
+area we've been to in the past yeah
+ 
+
+311
+00:06:47,930 --> 00:06:49,540
+area we've been to in the past yeah
+right over here right over here so this
+
+312
+00:06:49,540 --> 00:06:49,550
+right over here right over here so this
+ 
+
+313
+00:06:49,550 --> 00:06:52,060
+right over here right over here so this
+is actually one of our strongholds in
+
+314
+00:06:52,060 --> 00:06:52,070
+is actually one of our strongholds in
+ 
+
+315
+00:06:52,070 --> 00:06:54,370
+is actually one of our strongholds in
+the world so this will give us a nice
+
+316
+00:06:54,370 --> 00:06:54,380
+the world so this will give us a nice
+ 
+
+317
+00:06:54,380 --> 00:06:57,310
+the world so this will give us a nice
+quick way of getting to the end and back
+
+318
+00:06:57,310 --> 00:06:57,320
+quick way of getting to the end and back
+ 
+
+319
+00:06:57,320 --> 00:07:02,439
+quick way of getting to the end and back
+to spawn like if we want to ever if we
+
+320
+00:07:02,439 --> 00:07:02,449
+to spawn like if we want to ever if we
+ 
+
+321
+00:07:02,449 --> 00:07:04,180
+to spawn like if we want to ever if we
+ever want to do that where's the way
+
+322
+00:07:04,180 --> 00:07:04,190
+ever want to do that where's the way
+ 
+
+323
+00:07:04,190 --> 00:07:05,760
+ever want to do that where's the way
+down guys
+
+324
+00:07:05,760 --> 00:07:05,770
+down guys
+ 
+
+325
+00:07:05,770 --> 00:07:08,140
+down guys
+young etho wasn't good at marking things
+
+326
+00:07:08,140 --> 00:07:08,150
+young etho wasn't good at marking things
+ 
+
+327
+00:07:08,150 --> 00:07:11,710
+young etho wasn't good at marking things
+Oh double torch there we go man that was
+
+328
+00:07:11,710 --> 00:07:11,720
+Oh double torch there we go man that was
+ 
+
+329
+00:07:11,720 --> 00:07:13,629
+Oh double torch there we go man that was
+not - not an easy thing to see no
+
+330
+00:07:13,629 --> 00:07:13,639
+not - not an easy thing to see no
+ 
+
+331
+00:07:13,639 --> 00:07:16,180
+not - not an easy thing to see no
+ladders no ladders what was wrong with
+
+332
+00:07:16,180 --> 00:07:16,190
+ladders no ladders what was wrong with
+ 
+
+333
+00:07:16,190 --> 00:07:19,540
+ladders no ladders what was wrong with
+you Ethel I don't even know does this
+
+334
+00:07:19,540 --> 00:07:19,550
+you Ethel I don't even know does this
+ 
+
+335
+00:07:19,550 --> 00:07:22,600
+you Ethel I don't even know does this
+actually go to the portal it does okay I
+
+336
+00:07:22,600 --> 00:07:22,610
+actually go to the portal it does okay I
+ 
+
+337
+00:07:22,610 --> 00:07:25,480
+actually go to the portal it does okay I
+never even opened it though yeah I
+
+338
+00:07:25,480 --> 00:07:25,490
+never even opened it though yeah I
+ 
+
+339
+00:07:25,490 --> 00:07:27,010
+never even opened it though yeah I
+brought a few ender eyes it looks like I
+
+340
+00:07:27,010 --> 00:07:27,020
+brought a few ender eyes it looks like I
+ 
+
+341
+00:07:27,020 --> 00:07:30,640
+brought a few ender eyes it looks like I
+don't have enough though oh snap but
+
+342
+00:07:30,640 --> 00:07:30,650
+don't have enough though oh snap but
+ 
+
+343
+00:07:30,650 --> 00:07:33,879
+don't have enough though oh snap but
+we're gonna try to build our base in
+
+344
+00:07:33,879 --> 00:07:33,889
+we're gonna try to build our base in
+ 
+
+345
+00:07:33,889 --> 00:07:36,909
+we're gonna try to build our base in
+such a way that it'll also connect to
+
+346
+00:07:36,909 --> 00:07:36,919
+such a way that it'll also connect to
+ 
+
+347
+00:07:36,919 --> 00:07:39,399
+such a way that it'll also connect to
+this end portal and we'll have a quick
+
+348
+00:07:39,399 --> 00:07:39,409
+this end portal and we'll have a quick
+ 
+
+349
+00:07:39,409 --> 00:07:43,029
+this end portal and we'll have a quick
+way back if we want to oh me oh my this
+
+350
+00:07:43,029 --> 00:07:43,039
+way back if we want to oh me oh my this
+ 
+
+351
+00:07:43,039 --> 00:07:45,219
+way back if we want to oh me oh my this
+is actually a really nice area is this
+
+352
+00:07:45,219 --> 00:07:45,229
+is actually a really nice area is this
+ 
+
+353
+00:07:45,229 --> 00:07:47,290
+is actually a really nice area is this
+looking around a bit like especially
+
+354
+00:07:47,290 --> 00:07:47,300
+looking around a bit like especially
+ 
+
+355
+00:07:47,300 --> 00:07:51,189
+looking around a bit like especially
+here we got this like pool down below
+
+356
+00:07:51,189 --> 00:07:51,199
+here we got this like pool down below
+ 
+
+357
+00:07:51,199 --> 00:07:54,250
+here we got this like pool down below
+then we got nice flat spots up here kind
+
+358
+00:07:54,250 --> 00:07:54,260
+then we got nice flat spots up here kind
+ 
+
+359
+00:07:54,260 --> 00:07:56,920
+then we got nice flat spots up here kind
+of an arch going around then there's
+
+360
+00:07:56,920 --> 00:07:56,930
+of an arch going around then there's
+ 
+
+361
+00:07:56,930 --> 00:08:00,219
+of an arch going around then there's
+this big hill in front of us and on the
+
+362
+00:08:00,219 --> 00:08:00,229
+this big hill in front of us and on the
+ 
+
+363
+00:08:00,229 --> 00:08:02,589
+this big hill in front of us and on the
+other side is where the end portal is
+
+364
+00:08:02,589 --> 00:08:02,599
+other side is where the end portal is
+ 
+
+365
+00:08:02,599 --> 00:08:05,560
+other side is where the end portal is
+down down over there so I don't know how
+
+366
+00:08:05,560 --> 00:08:05,570
+down down over there so I don't know how
+ 
+
+367
+00:08:05,570 --> 00:08:07,480
+down down over there so I don't know how
+it extensive of a base we're gonna make
+
+368
+00:08:07,480 --> 00:08:07,490
+it extensive of a base we're gonna make
+ 
+
+369
+00:08:07,490 --> 00:08:09,700
+it extensive of a base we're gonna make
+your but there's definitely room for
+
+370
+00:08:09,700 --> 00:08:09,710
+your but there's definitely room for
+ 
+
+371
+00:08:09,710 --> 00:08:12,399
+your but there's definitely room for
+potential it's a nice area lots of hills
+
+372
+00:08:12,399 --> 00:08:12,409
+potential it's a nice area lots of hills
+ 
+
+373
+00:08:12,409 --> 00:08:15,089
+potential it's a nice area lots of hills
+lots of nice hills rolling hills here I
+
+374
+00:08:15,089 --> 00:08:15,099
+lots of nice hills rolling hills here I
+ 
+
+375
+00:08:15,099 --> 00:08:19,719
+lots of nice hills rolling hills here I
+think where I'm gonna start it like if
+
+376
+00:08:19,719 --> 00:08:19,729
+think where I'm gonna start it like if
+ 
+
+377
+00:08:19,729 --> 00:08:21,100
+think where I'm gonna start it like if
+we want to make something pretty big
+
+378
+00:08:21,100 --> 00:08:21,110
+we want to make something pretty big
+ 
+
+379
+00:08:21,110 --> 00:08:23,080
+we want to make something pretty big
+will want to go off that way and we'll
+
+380
+00:08:23,080 --> 00:08:23,090
+will want to go off that way and we'll
+ 
+
+381
+00:08:23,090 --> 00:08:24,820
+will want to go off that way and we'll
+want to go off this way so this is
+
+382
+00:08:24,820 --> 00:08:24,830
+want to go off this way so this is
+ 
+
+383
+00:08:24,830 --> 00:08:27,670
+want to go off this way so this is
+probably around the middle ish area and
+
+384
+00:08:27,670 --> 00:08:27,680
+probably around the middle ish area and
+ 
+
+385
+00:08:27,680 --> 00:08:31,210
+probably around the middle ish area and
+I think it'd be cool like we want to do
+
+386
+00:08:31,210 --> 00:08:31,220
+I think it'd be cool like we want to do
+ 
+
+387
+00:08:31,220 --> 00:08:32,529
+I think it'd be cool like we want to do
+some tunnels maybe eventually though
+
+388
+00:08:32,529 --> 00:08:32,539
+some tunnels maybe eventually though
+ 
+
+389
+00:08:32,539 --> 00:08:34,300
+some tunnels maybe eventually though
+we'll build outside here and try to make
+
+390
+00:08:34,300 --> 00:08:34,310
+we'll build outside here and try to make
+ 
+
+391
+00:08:34,310 --> 00:08:37,329
+we'll build outside here and try to make
+the outside look nice too I think we're
+
+392
+00:08:37,329 --> 00:08:37,339
+the outside look nice too I think we're
+ 
+
+393
+00:08:37,339 --> 00:08:39,279
+the outside look nice too I think we're
+gonna try start over over around here
+
+394
+00:08:39,279 --> 00:08:39,289
+gonna try start over over around here
+ 
+
+395
+00:08:39,289 --> 00:08:42,029
+gonna try start over over around here
+we'll build like a little balcony thing
+
+396
+00:08:42,029 --> 00:08:42,039
+we'll build like a little balcony thing
+ 
+
+397
+00:08:42,039 --> 00:08:44,140
+we'll build like a little balcony thing
+alright today is gonna be a bit of a
+
+398
+00:08:44,140 --> 00:08:44,150
+alright today is gonna be a bit of a
+ 
+
+399
+00:08:44,150 --> 00:08:46,490
+alright today is gonna be a bit of a
+test too because I have
+
+400
+00:08:46,490 --> 00:08:46,500
+test too because I have
+ 
+
+401
+00:08:46,500 --> 00:08:51,070
+test too because I have
+I have what rimma call it enderchest
+
+402
+00:08:51,070 --> 00:08:51,080
+I have what rimma call it enderchest
+ 
+
+403
+00:08:51,080 --> 00:08:53,420
+I have what rimma call it enderchest
+explain explain what I mean
+
+404
+00:08:53,420 --> 00:08:53,430
+explain explain what I mean
+ 
+
+405
+00:08:53,430 --> 00:08:56,300
+explain explain what I mean
+shocker boxes I have sort of a put one
+
+406
+00:08:56,300 --> 00:08:56,310
+shocker boxes I have sort of a put one
+ 
+
+407
+00:08:56,310 --> 00:08:57,890
+shocker boxes I have sort of a put one
+of everything in the shocker boxes now
+
+408
+00:08:57,890 --> 00:08:57,900
+of everything in the shocker boxes now
+ 
+
+409
+00:08:57,900 --> 00:08:59,960
+of everything in the shocker boxes now
+so hopefully I don't have to cut quite
+
+410
+00:08:59,960 --> 00:08:59,970
+so hopefully I don't have to cut quite
+ 
+
+411
+00:08:59,970 --> 00:09:02,270
+so hopefully I don't have to cut quite
+as often when I'm building and stuff if
+
+412
+00:09:02,270 --> 00:09:02,280
+as often when I'm building and stuff if
+ 
+
+413
+00:09:02,280 --> 00:09:04,220
+as often when I'm building and stuff if
+I ever need to get an item like right
+
+414
+00:09:04,220 --> 00:09:04,230
+I ever need to get an item like right
+ 
+
+415
+00:09:04,230 --> 00:09:07,580
+I ever need to get an item like right
+now I need sluice wood sprue slabs so we
+
+416
+00:09:07,580 --> 00:09:07,590
+now I need sluice wood sprue slabs so we
+ 
+
+417
+00:09:07,590 --> 00:09:10,550
+now I need sluice wood sprue slabs so we
+have a stairs and slab rocker box now
+
+418
+00:09:10,550 --> 00:09:10,560
+have a stairs and slab rocker box now
+ 
+
+419
+00:09:10,560 --> 00:09:13,340
+have a stairs and slab rocker box now
+and look at that spruce labs right off
+
+420
+00:09:13,340 --> 00:09:13,350
+and look at that spruce labs right off
+ 
+
+421
+00:09:13,350 --> 00:09:18,230
+and look at that spruce labs right off
+the bat so I'm gonna make me be a 5/5
+
+422
+00:09:18,230 --> 00:09:18,240
+the bat so I'm gonna make me be a 5/5
+ 
+
+423
+00:09:18,240 --> 00:09:22,010
+the bat so I'm gonna make me be a 5/5
+for could be cool actually let's go into
+
+424
+00:09:22,010 --> 00:09:22,020
+for could be cool actually let's go into
+ 
+
+425
+00:09:22,020 --> 00:09:24,770
+for could be cool actually let's go into
+the hill a little bit here 5x4 sort of
+
+426
+00:09:24,770 --> 00:09:24,780
+the hill a little bit here 5x4 sort of
+ 
+
+427
+00:09:24,780 --> 00:09:30,110
+the hill a little bit here 5x4 sort of
+platform here alright and we're just bit
+
+428
+00:09:30,110 --> 00:09:30,120
+platform here alright and we're just bit
+ 
+
+429
+00:09:30,120 --> 00:09:31,850
+platform here alright and we're just bit
+we're just making like a balcony that's
+
+430
+00:09:31,850 --> 00:09:31,860
+we're just making like a balcony that's
+ 
+
+431
+00:09:31,860 --> 00:09:34,070
+we're just making like a balcony that's
+gonna start tunneling into the side of
+
+432
+00:09:34,070 --> 00:09:34,080
+gonna start tunneling into the side of
+ 
+
+433
+00:09:34,080 --> 00:09:35,060
+gonna start tunneling into the side of
+the hill here and then we'll go from
+
+434
+00:09:35,060 --> 00:09:35,070
+the hill here and then we'll go from
+ 
+
+435
+00:09:35,070 --> 00:09:46,280
+the hill here and then we'll go from
+there yes do something like this bring
+
+436
+00:09:46,280 --> 00:09:46,290
+there yes do something like this bring
+ 
+
+437
+00:09:46,290 --> 00:09:51,680
+there yes do something like this bring
+it up and go around should we do another
+
+438
+00:09:51,680 --> 00:09:51,690
+it up and go around should we do another
+ 
+
+439
+00:09:51,690 --> 00:09:55,640
+it up and go around should we do another
+pillar here aha so I have to cut the
+
+440
+00:09:55,640 --> 00:09:55,650
+pillar here aha so I have to cut the
+ 
+
+441
+00:09:55,650 --> 00:09:58,490
+pillar here aha so I have to cut the
+video already but I think it's looking
+
+442
+00:09:58,490 --> 00:09:58,500
+video already but I think it's looking
+ 
+
+443
+00:09:58,500 --> 00:10:00,080
+video already but I think it's looking
+okay so far I think that's a good spot
+
+444
+00:10:00,080 --> 00:10:00,090
+okay so far I think that's a good spot
+ 
+
+445
+00:10:00,090 --> 00:10:02,050
+okay so far I think that's a good spot
+for that so let's continue here I
+
+446
+00:10:02,050 --> 00:10:02,060
+for that so let's continue here I
+ 
+
+447
+00:10:02,060 --> 00:10:04,520
+for that so let's continue here I
+realized if if we're doing some building
+
+448
+00:10:04,520 --> 00:10:04,530
+realized if if we're doing some building
+ 
+
+449
+00:10:04,530 --> 00:10:05,870
+realized if if we're doing some building
+here I should really think of something
+
+450
+00:10:05,870 --> 00:10:05,880
+here I should really think of something
+ 
+
+451
+00:10:05,880 --> 00:10:07,910
+here I should really think of something
+to talk about so I just took a moment
+
+452
+00:10:07,910 --> 00:10:07,920
+to talk about so I just took a moment
+ 
+
+453
+00:10:07,920 --> 00:10:09,920
+to talk about so I just took a moment
+here to think of something cuz otherwise
+
+454
+00:10:09,920 --> 00:10:09,930
+here to think of something cuz otherwise
+ 
+
+455
+00:10:09,930 --> 00:10:11,960
+here to think of something cuz otherwise
+I'm just gonna be like okay place it
+
+456
+00:10:11,960 --> 00:10:11,970
+I'm just gonna be like okay place it
+ 
+
+457
+00:10:11,970 --> 00:10:14,750
+I'm just gonna be like okay place it
+back here oh that looks nice doop boop
+
+458
+00:10:14,750 --> 00:10:14,760
+back here oh that looks nice doop boop
+ 
+
+459
+00:10:14,760 --> 00:10:18,020
+back here oh that looks nice doop boop
+boop so let's let's I have to try to
+
+460
+00:10:18,020 --> 00:10:18,030
+boop so let's let's I have to try to
+ 
+
+461
+00:10:18,030 --> 00:10:22,510
+boop so let's let's I have to try to
+have a bit of a conversation here today
+
+462
+00:10:22,510 --> 00:10:22,520
+
+ 
+
+463
+00:10:22,520 --> 00:10:25,390
+
+boop boop
+
+464
+00:10:25,390 --> 00:10:25,400
+boop boop
+ 
+
+465
+00:10:25,400 --> 00:10:27,860
+boop boop
+yes today we're gonna talk about
+
+466
+00:10:27,860 --> 00:10:27,870
+yes today we're gonna talk about
+ 
+
+467
+00:10:27,870 --> 00:10:31,910
+yes today we're gonna talk about
+sickness okay getting sick and whose
+
+468
+00:10:31,910 --> 00:10:31,920
+sickness okay getting sick and whose
+ 
+
+469
+00:10:31,920 --> 00:10:33,410
+sickness okay getting sick and whose
+whose fault is it
+
+470
+00:10:33,410 --> 00:10:33,420
+whose fault is it
+ 
+
+471
+00:10:33,420 --> 00:10:36,890
+whose fault is it
+alright so in parts I'm gonna blame
+
+472
+00:10:36,890 --> 00:10:36,900
+alright so in parts I'm gonna blame
+ 
+
+473
+00:10:36,900 --> 00:10:39,410
+alright so in parts I'm gonna blame
+myself you know it kind of sucks I just
+
+474
+00:10:39,410 --> 00:10:39,420
+myself you know it kind of sucks I just
+ 
+
+475
+00:10:39,420 --> 00:10:41,990
+myself you know it kind of sucks I just
+got sick actually in the summertime
+
+476
+00:10:41,990 --> 00:10:42,000
+got sick actually in the summertime
+ 
+
+477
+00:10:42,000 --> 00:10:44,120
+got sick actually in the summertime
+probably not even four months ago I got
+
+478
+00:10:44,120 --> 00:10:44,130
+probably not even four months ago I got
+ 
+
+479
+00:10:44,130 --> 00:10:46,880
+probably not even four months ago I got
+a really bad flu in the summer that
+
+480
+00:10:46,880 --> 00:10:46,890
+a really bad flu in the summer that
+ 
+
+481
+00:10:46,890 --> 00:10:49,880
+a really bad flu in the summer that
+knocked me out for weeks and I just got
+
+482
+00:10:49,880 --> 00:10:49,890
+knocked me out for weeks and I just got
+ 
+
+483
+00:10:49,890 --> 00:10:51,800
+knocked me out for weeks and I just got
+sick again here this one's not so bad
+
+484
+00:10:51,800 --> 00:10:51,810
+sick again here this one's not so bad
+ 
+
+485
+00:10:51,810 --> 00:10:54,800
+sick again here this one's not so bad
+though at least let's go for we're gonna
+
+486
+00:10:54,800 --> 00:10:54,810
+though at least let's go for we're gonna
+ 
+
+487
+00:10:54,810 --> 00:10:56,150
+though at least let's go for we're gonna
+put a little bit of a roof over this I
+
+488
+00:10:56,150 --> 00:10:56,160
+put a little bit of a roof over this I
+ 
+
+489
+00:10:56,160 --> 00:10:59,600
+put a little bit of a roof over this I
+think we'll go for or maybe Teesha or
+
+490
+00:10:59,600 --> 00:10:59,610
+think we'll go for or maybe Teesha or
+ 
+
+491
+00:10:59,610 --> 00:11:02,120
+think we'll go for or maybe Teesha or
+I'm gonna try maybe sandstone red
+
+492
+00:11:02,120 --> 00:11:02,130
+I'm gonna try maybe sandstone red
+ 
+
+493
+00:11:02,130 --> 00:11:05,810
+I'm gonna try maybe sandstone red
+sandstone here yeah let's give this a
+
+494
+00:11:05,810 --> 00:11:05,820
+sandstone here yeah let's give this a
+ 
+
+495
+00:11:05,820 --> 00:11:10,190
+sandstone here yeah let's give this a
+try but you know I kind of blame myself
+
+496
+00:11:10,190 --> 00:11:10,200
+try but you know I kind of blame myself
+ 
+
+497
+00:11:10,200 --> 00:11:12,759
+try but you know I kind of blame myself
+because I don't get the flu shots so
+
+498
+00:11:12,759 --> 00:11:12,769
+because I don't get the flu shots so
+ 
+
+499
+00:11:12,769 --> 00:11:15,380
+because I don't get the flu shots so
+maybe that's something I should do I'm
+
+500
+00:11:15,380 --> 00:11:15,390
+maybe that's something I should do I'm
+ 
+
+501
+00:11:15,390 --> 00:11:17,690
+maybe that's something I should do I'm
+not sure something I asked often
+
+502
+00:11:17,690 --> 00:11:17,700
+not sure something I asked often
+ 
+
+503
+00:11:17,700 --> 00:11:20,780
+not sure something I asked often
+contemplates mm-hmm
+
+504
+00:11:20,780 --> 00:11:20,790
+contemplates mm-hmm
+ 
+
+505
+00:11:20,790 --> 00:11:23,139
+contemplates mm-hmm
+okay I think we can do that that's fine
+
+506
+00:11:23,139 --> 00:11:23,149
+okay I think we can do that that's fine
+ 
+
+507
+00:11:23,149 --> 00:11:25,190
+okay I think we can do that that's fine
+some of you might be like what are you
+
+508
+00:11:25,190 --> 00:11:25,200
+some of you might be like what are you
+ 
+
+509
+00:11:25,200 --> 00:11:26,690
+some of you might be like what are you
+crazy why don't you just get the flu
+
+510
+00:11:26,690 --> 00:11:26,700
+crazy why don't you just get the flu
+ 
+
+511
+00:11:26,700 --> 00:11:29,269
+crazy why don't you just get the flu
+shot isn't it free in Canada I think it
+
+512
+00:11:29,269 --> 00:11:29,279
+shot isn't it free in Canada I think it
+ 
+
+513
+00:11:29,279 --> 00:11:31,130
+shot isn't it free in Canada I think it
+is actually it's covered by our health
+
+514
+00:11:31,130 --> 00:11:31,140
+is actually it's covered by our health
+ 
+
+515
+00:11:31,140 --> 00:11:36,160
+is actually it's covered by our health
+care which is pretty cool some downsides
+
+516
+00:11:36,160 --> 00:11:36,170
+care which is pretty cool some downsides
+ 
+
+517
+00:11:36,170 --> 00:11:38,569
+care which is pretty cool some downsides
+obviously if you get the flu shots you
+
+518
+00:11:38,569 --> 00:11:38,579
+obviously if you get the flu shots you
+ 
+
+519
+00:11:38,579 --> 00:11:39,710
+obviously if you get the flu shots you
+got to get a shot you got to get a
+
+520
+00:11:39,710 --> 00:11:39,720
+got to get a shot you got to get a
+ 
+
+521
+00:11:39,720 --> 00:11:42,470
+got to get a shot you got to get a
+needle that's not fun what's to do that
+
+522
+00:11:42,470 --> 00:11:42,480
+needle that's not fun what's to do that
+ 
+
+523
+00:11:42,480 --> 00:11:45,920
+needle that's not fun what's to do that
+not me you have to go and actually get
+
+524
+00:11:45,920 --> 00:11:45,930
+not me you have to go and actually get
+ 
+
+525
+00:11:45,930 --> 00:11:47,540
+not me you have to go and actually get
+it and take time out of your day that's
+
+526
+00:11:47,540 --> 00:11:47,550
+it and take time out of your day that's
+ 
+
+527
+00:11:47,550 --> 00:11:51,110
+it and take time out of your day that's
+that's not fun one concern of mine knows
+
+528
+00:11:51,110 --> 00:11:51,120
+that's not fun one concern of mine knows
+ 
+
+529
+00:11:51,120 --> 00:11:52,340
+that's not fun one concern of mine knows
+if I don't get it
+
+530
+00:11:52,340 --> 00:11:52,350
+if I don't get it
+ 
+
+531
+00:11:52,350 --> 00:11:56,060
+if I don't get it
+I might actually like get other people
+
+532
+00:11:56,060 --> 00:11:56,070
+I might actually like get other people
+ 
+
+533
+00:11:56,070 --> 00:11:58,699
+I might actually like get other people
+sick because if I get the flu then I
+
+534
+00:11:58,699 --> 00:11:58,709
+sick because if I get the flu then I
+ 
+
+535
+00:11:58,709 --> 00:12:00,560
+sick because if I get the flu then I
+might start spreading it that's that's
+
+536
+00:12:00,560 --> 00:12:00,570
+might start spreading it that's that's
+ 
+
+537
+00:12:00,570 --> 00:12:04,189
+might start spreading it that's that's
+not a good thing so yeah anyways I'm
+
+538
+00:12:04,189 --> 00:12:04,199
+not a good thing so yeah anyways I'm
+ 
+
+539
+00:12:04,199 --> 00:12:05,480
+not a good thing so yeah anyways I'm
+kind of curious what do you guys think
+
+540
+00:12:05,480 --> 00:12:05,490
+kind of curious what do you guys think
+ 
+
+541
+00:12:05,490 --> 00:12:07,310
+kind of curious what do you guys think
+about the flu shot do you get it do you
+
+542
+00:12:07,310 --> 00:12:07,320
+about the flu shot do you get it do you
+ 
+
+543
+00:12:07,320 --> 00:12:10,910
+about the flu shot do you get it do you
+not get it why or why not if you do get
+
+544
+00:12:10,910 --> 00:12:10,920
+not get it why or why not if you do get
+ 
+
+545
+00:12:10,920 --> 00:12:14,000
+not get it why or why not if you do get
+it here's a big thing if you get it you
+
+546
+00:12:14,000 --> 00:12:14,010
+it here's a big thing if you get it you
+ 
+
+547
+00:12:14,010 --> 00:12:17,689
+it here's a big thing if you get it you
+still get the flu sometimes or if you
+
+548
+00:12:17,689 --> 00:12:17,699
+still get the flu sometimes or if you
+ 
+
+549
+00:12:17,699 --> 00:12:19,310
+still get the flu sometimes or if you
+get it does it sometimes seemed like it
+
+550
+00:12:19,310 --> 00:12:19,320
+get it does it sometimes seemed like it
+ 
+
+551
+00:12:19,320 --> 00:12:23,780
+get it does it sometimes seemed like it
+infects you like I great after you get
+
+552
+00:12:23,780 --> 00:12:23,790
+infects you like I great after you get
+ 
+
+553
+00:12:23,790 --> 00:12:25,250
+infects you like I great after you get
+the flu shot you get the flu it does
+
+554
+00:12:25,250 --> 00:12:25,260
+the flu shot you get the flu it does
+ 
+
+555
+00:12:25,260 --> 00:12:28,130
+the flu shot you get the flu it does
+that happen like I'm not sure I haven't
+
+556
+00:12:28,130 --> 00:12:28,140
+that happen like I'm not sure I haven't
+ 
+
+557
+00:12:28,140 --> 00:12:31,430
+that happen like I'm not sure I haven't
+really looked into it too much because
+
+558
+00:12:31,430 --> 00:12:31,440
+really looked into it too much because
+ 
+
+559
+00:12:31,440 --> 00:12:33,980
+really looked into it too much because
+because if the dosage is too high or if
+
+560
+00:12:33,980 --> 00:12:33,990
+because if the dosage is too high or if
+ 
+
+561
+00:12:33,990 --> 00:12:35,540
+because if the dosage is too high or if
+your immune systems weak I could see
+
+562
+00:12:35,540 --> 00:12:35,550
+your immune systems weak I could see
+ 
+
+563
+00:12:35,550 --> 00:12:37,639
+your immune systems weak I could see
+that happening right is that a thing I
+
+564
+00:12:37,639 --> 00:12:37,649
+that happening right is that a thing I
+ 
+
+565
+00:12:37,649 --> 00:12:40,810
+that happening right is that a thing I
+think I've heard of people getting that
+
+566
+00:12:40,810 --> 00:12:40,820
+think I've heard of people getting that
+ 
+
+567
+00:12:40,820 --> 00:12:43,670
+think I've heard of people getting that
+yeah curiously what you guys will see in
+
+568
+00:12:43,670 --> 00:12:43,680
+yeah curiously what you guys will see in
+ 
+
+569
+00:12:43,680 --> 00:12:46,250
+yeah curiously what you guys will see in
+the comments about it I'll give you the
+
+570
+00:12:46,250 --> 00:12:46,260
+the comments about it I'll give you the
+ 
+
+571
+00:12:46,260 --> 00:12:47,900
+the comments about it I'll give you the
+big reason though why I don't get the
+
+572
+00:12:47,900 --> 00:12:47,910
+big reason though why I don't get the
+ 
+
+573
+00:12:47,910 --> 00:12:50,240
+big reason though why I don't get the
+flu shot personally a little bit of a
+
+574
+00:12:50,240 --> 00:12:50,250
+flu shot personally a little bit of a
+ 
+
+575
+00:12:50,250 --> 00:12:52,340
+flu shot personally a little bit of a
+story time with etho here I'm looking
+
+576
+00:12:52,340 --> 00:12:52,350
+story time with etho here I'm looking
+ 
+
+577
+00:12:52,350 --> 00:12:56,840
+story time with etho here I'm looking
+for glowstone I think these chakra boxes
+
+578
+00:12:56,840 --> 00:12:56,850
+for glowstone I think these chakra boxes
+ 
+
+579
+00:12:56,850 --> 00:12:58,759
+for glowstone I think these chakra boxes
+they're great but they do kind of make a
+
+580
+00:12:58,759 --> 00:12:58,769
+they're great but they do kind of make a
+ 
+
+581
+00:12:58,769 --> 00:13:01,880
+they're great but they do kind of make a
+mess here starting it quite a few of
+
+582
+00:13:01,880 --> 00:13:01,890
+mess here starting it quite a few of
+ 
+
+583
+00:13:01,890 --> 00:13:06,800
+mess here starting it quite a few of
+them here also need Miska stuff alright
+
+584
+00:13:06,800 --> 00:13:06,810
+them here also need Miska stuff alright
+ 
+
+585
+00:13:06,810 --> 00:13:09,769
+them here also need Miska stuff alright
+so yeah apparently my family did get the
+
+586
+00:13:09,769 --> 00:13:09,779
+so yeah apparently my family did get the
+ 
+
+587
+00:13:09,779 --> 00:13:13,340
+so yeah apparently my family did get the
+flu shot quite regularly up until I was
+
+588
+00:13:13,340 --> 00:13:13,350
+flu shot quite regularly up until I was
+ 
+
+589
+00:13:13,350 --> 00:13:15,890
+flu shot quite regularly up until I was
+two years old something happened they
+
+590
+00:13:15,890 --> 00:13:15,900
+two years old something happened they
+ 
+
+591
+00:13:15,900 --> 00:13:19,940
+two years old something happened they
+gave me the flu shots and I had a very
+
+592
+00:13:19,940 --> 00:13:19,950
+gave me the flu shots and I had a very
+ 
+
+593
+00:13:19,950 --> 00:13:23,330
+gave me the flu shots and I had a very
+bad reaction to it is what I've been
+
+594
+00:13:23,330 --> 00:13:23,340
+bad reaction to it is what I've been
+ 
+
+595
+00:13:23,340 --> 00:13:24,920
+bad reaction to it is what I've been
+told that obviously I was 2 years old
+
+596
+00:13:24,920 --> 00:13:24,930
+told that obviously I was 2 years old
+ 
+
+597
+00:13:24,930 --> 00:13:27,950
+told that obviously I was 2 years old
+I'm too young to remember it myself but
+
+598
+00:13:27,950 --> 00:13:27,960
+I'm too young to remember it myself but
+ 
+
+599
+00:13:27,960 --> 00:13:30,350
+I'm too young to remember it myself but
+this is just what I've been told had a
+
+600
+00:13:30,350 --> 00:13:30,360
+this is just what I've been told had a
+ 
+
+601
+00:13:30,360 --> 00:13:33,830
+this is just what I've been told had a
+bad reaction to it apparently it changed
+
+602
+00:13:33,830 --> 00:13:33,840
+bad reaction to it apparently it changed
+ 
+
+603
+00:13:33,840 --> 00:13:36,110
+bad reaction to it apparently it changed
+my personality they my parents told me
+
+604
+00:13:36,110 --> 00:13:36,120
+my personality they my parents told me
+ 
+
+605
+00:13:36,120 --> 00:13:38,060
+my personality they my parents told me
+like I used to be a really good
+
+606
+00:13:38,060 --> 00:13:38,070
+like I used to be a really good
+ 
+
+607
+00:13:38,070 --> 00:13:41,300
+like I used to be a really good
+wonderful baby and then I got the flu
+
+608
+00:13:41,300 --> 00:13:41,310
+wonderful baby and then I got the flu
+ 
+
+609
+00:13:41,310 --> 00:13:45,050
+wonderful baby and then I got the flu
+shots and I became very cranky like
+
+610
+00:13:45,050 --> 00:13:45,060
+shots and I became very cranky like
+ 
+
+611
+00:13:45,060 --> 00:13:48,490
+shots and I became very cranky like
+immediately very cranky and very
+
+612
+00:13:48,490 --> 00:13:48,500
+immediately very cranky and very
+ 
+
+613
+00:13:48,500 --> 00:13:52,670
+immediately very cranky and very
+stubborn and that didn't go away it it
+
+614
+00:13:52,670 --> 00:13:52,680
+stubborn and that didn't go away it it
+ 
+
+615
+00:13:52,680 --> 00:13:55,730
+stubborn and that didn't go away it it
+lasted I remember when I was young I was
+
+616
+00:13:55,730 --> 00:13:55,740
+lasted I remember when I was young I was
+ 
+
+617
+00:13:55,740 --> 00:13:58,190
+lasted I remember when I was young I was
+a stubborn kid like you could not make
+
+618
+00:13:58,190 --> 00:13:58,200
+a stubborn kid like you could not make
+ 
+
+619
+00:13:58,200 --> 00:14:00,890
+a stubborn kid like you could not make
+me do anything I didn't want to do I
+
+620
+00:14:00,890 --> 00:14:00,900
+me do anything I didn't want to do I
+ 
+
+621
+00:14:00,900 --> 00:14:03,470
+me do anything I didn't want to do I
+think up until I was four or five maybe
+
+622
+00:14:03,470 --> 00:14:03,480
+think up until I was four or five maybe
+ 
+
+623
+00:14:03,480 --> 00:14:05,090
+think up until I was four or five maybe
+even longer I can't I don't remember
+
+624
+00:14:05,090 --> 00:14:05,100
+even longer I can't I don't remember
+ 
+
+625
+00:14:05,100 --> 00:14:10,790
+even longer I can't I don't remember
+exactly yeah a little fun fact though a
+
+626
+00:14:10,790 --> 00:14:10,800
+exactly yeah a little fun fact though a
+ 
+
+627
+00:14:10,800 --> 00:14:15,740
+exactly yeah a little fun fact though a
+little story time here I I was very
+
+628
+00:14:15,740 --> 00:14:15,750
+little story time here I I was very
+ 
+
+629
+00:14:15,750 --> 00:14:19,490
+little story time here I I was very
+stubborn up until I think four or five
+
+630
+00:14:19,490 --> 00:14:19,500
+stubborn up until I think four or five
+ 
+
+631
+00:14:19,500 --> 00:14:23,510
+stubborn up until I think four or five
+and my parents kind of got sick of it
+
+632
+00:14:23,510 --> 00:14:23,520
+and my parents kind of got sick of it
+ 
+
+633
+00:14:23,520 --> 00:14:25,070
+and my parents kind of got sick of it
+they had enough of it that's like okay
+
+634
+00:14:25,070 --> 00:14:25,080
+they had enough of it that's like okay
+ 
+
+635
+00:14:25,080 --> 00:14:26,420
+they had enough of it that's like okay
+we got to do something about this this
+
+636
+00:14:26,420 --> 00:14:26,430
+we got to do something about this this
+ 
+
+637
+00:14:26,430 --> 00:14:29,390
+we got to do something about this this
+can't keep going on you know I should
+
+638
+00:14:29,390 --> 00:14:29,400
+can't keep going on you know I should
+ 
+
+639
+00:14:29,400 --> 00:14:33,650
+can't keep going on you know I should
+maybe move this forward yeah so they
+
+640
+00:14:33,650 --> 00:14:33,660
+maybe move this forward yeah so they
+ 
+
+641
+00:14:33,660 --> 00:14:35,630
+maybe move this forward yeah so they
+were like okay we got to break this kid
+
+642
+00:14:35,630 --> 00:14:35,640
+were like okay we got to break this kid
+ 
+
+643
+00:14:35,640 --> 00:14:38,540
+were like okay we got to break this kid
+we got to stop this so what what ended
+
+644
+00:14:38,540 --> 00:14:38,550
+we got to stop this so what what ended
+ 
+
+645
+00:14:38,550 --> 00:14:39,380
+we got to stop this so what what ended
+up happening
+
+646
+00:14:39,380 --> 00:14:39,390
+up happening
+ 
+
+647
+00:14:39,390 --> 00:14:42,680
+up happening
+one day I dropped a box of crowns on on
+
+648
+00:14:42,680 --> 00:14:42,690
+one day I dropped a box of crowns on on
+ 
+
+649
+00:14:42,690 --> 00:14:45,050
+one day I dropped a box of crowns on on
+the ground right and I refused to pick
+
+650
+00:14:45,050 --> 00:14:45,060
+the ground right and I refused to pick
+ 
+
+651
+00:14:45,060 --> 00:14:46,730
+the ground right and I refused to pick
+it up like there was no way I was gonna
+
+652
+00:14:46,730 --> 00:14:46,740
+it up like there was no way I was gonna
+ 
+
+653
+00:14:46,740 --> 00:14:51,560
+it up like there was no way I was gonna
+pick up these crowns so it's like okay
+
+654
+00:14:51,560 --> 00:14:51,570
+pick up these crowns so it's like okay
+ 
+
+655
+00:14:51,570 --> 00:14:54,650
+pick up these crowns so it's like okay
+give him a spanking it's like okay
+
+656
+00:14:54,650 --> 00:14:54,660
+give him a spanking it's like okay
+ 
+
+657
+00:14:54,660 --> 00:14:56,470
+give him a spanking it's like okay
+you're gonna pick up the crowns now no
+
+658
+00:14:56,470 --> 00:14:56,480
+you're gonna pick up the crowns now no
+ 
+
+659
+00:14:56,480 --> 00:14:58,640
+you're gonna pick up the crowns now no
+give him another spanking
+
+660
+00:14:58,640 --> 00:14:58,650
+give him another spanking
+ 
+
+661
+00:14:58,650 --> 00:15:00,770
+give him another spanking
+are you gonna pick up the crowns now no
+
+662
+00:15:00,770 --> 00:15:00,780
+are you gonna pick up the crowns now no
+ 
+
+663
+00:15:00,780 --> 00:15:04,940
+are you gonna pick up the crowns now no
+and this went on and on for I was told
+
+664
+00:15:04,940 --> 00:15:04,950
+and this went on and on for I was told
+ 
+
+665
+00:15:04,950 --> 00:15:07,670
+and this went on and on for I was told
+like three hours two or three hours I
+
+666
+00:15:07,670 --> 00:15:07,680
+like three hours two or three hours I
+ 
+
+667
+00:15:07,680 --> 00:15:12,890
+like three hours two or three hours I
+believe ended up getting 37 spankings I
+
+668
+00:15:12,890 --> 00:15:12,900
+believe ended up getting 37 spankings I
+ 
+
+669
+00:15:12,900 --> 00:15:16,190
+believe ended up getting 37 spankings I
+think it was in a row and finally
+
+670
+00:15:16,190 --> 00:15:16,200
+think it was in a row and finally
+ 
+
+671
+00:15:16,200 --> 00:15:19,310
+think it was in a row and finally
+finally they broke me and it's like okay
+
+672
+00:15:19,310 --> 00:15:19,320
+finally they broke me and it's like okay
+ 
+
+673
+00:15:19,320 --> 00:15:21,140
+finally they broke me and it's like okay
+I'll pick up the crowns and then after
+
+674
+00:15:21,140 --> 00:15:21,150
+I'll pick up the crowns and then after
+ 
+
+675
+00:15:21,150 --> 00:15:22,910
+I'll pick up the crowns and then after
+that I was I was a good kid again I
+
+676
+00:15:22,910 --> 00:15:22,920
+that I was I was a good kid again I
+ 
+
+677
+00:15:22,920 --> 00:15:25,060
+that I was I was a good kid again I
+wasn't stubborn anymore
+
+678
+00:15:25,060 --> 00:15:25,070
+wasn't stubborn anymore
+ 
+
+679
+00:15:25,070 --> 00:15:27,319
+wasn't stubborn anymore
+all right well I think we
+
+680
+00:15:27,319 --> 00:15:27,329
+all right well I think we
+ 
+
+681
+00:15:27,329 --> 00:15:28,910
+all right well I think we
+our balcony pretty much figured out here
+
+682
+00:15:28,910 --> 00:15:28,920
+our balcony pretty much figured out here
+ 
+
+683
+00:15:28,920 --> 00:15:30,139
+our balcony pretty much figured out here
+I'd worked out some more details
+
+684
+00:15:30,139 --> 00:15:30,149
+I'd worked out some more details
+ 
+
+685
+00:15:30,149 --> 00:15:32,840
+I'd worked out some more details
+off-camera so I tried to mix in acacia
+
+686
+00:15:32,840 --> 00:15:32,850
+off-camera so I tried to mix in acacia
+ 
+
+687
+00:15:32,850 --> 00:15:35,239
+off-camera so I tried to mix in acacia
+wood in the in the sandstone there I
+
+688
+00:15:35,239 --> 00:15:35,249
+wood in the in the sandstone there I
+ 
+
+689
+00:15:35,249 --> 00:15:36,499
+wood in the in the sandstone there I
+think that looks okay
+
+690
+00:15:36,499 --> 00:15:36,509
+think that looks okay
+ 
+
+691
+00:15:36,509 --> 00:15:38,780
+think that looks okay
+then I added a like a brace at the
+
+692
+00:15:38,780 --> 00:15:38,790
+then I added a like a brace at the
+ 
+
+693
+00:15:38,790 --> 00:15:39,530
+then I added a like a brace at the
+bottom there
+
+694
+00:15:39,530 --> 00:15:39,540
+bottom there
+ 
+
+695
+00:15:39,540 --> 00:15:42,470
+bottom there
+triple brace kind of staggered them as
+
+696
+00:15:42,470 --> 00:15:42,480
+triple brace kind of staggered them as
+ 
+
+697
+00:15:42,480 --> 00:15:44,960
+triple brace kind of staggered them as
+well I think that looks cool and some
+
+698
+00:15:44,960 --> 00:15:44,970
+well I think that looks cool and some
+ 
+
+699
+00:15:44,970 --> 00:15:46,460
+well I think that looks cool and some
+flower pots and some carpet I think
+
+700
+00:15:46,460 --> 00:15:46,470
+flower pots and some carpet I think
+ 
+
+701
+00:15:46,470 --> 00:15:48,910
+flower pots and some carpet I think
+we're gonna go for orange end and blue
+
+702
+00:15:48,910 --> 00:15:48,920
+we're gonna go for orange end and blue
+ 
+
+703
+00:15:48,920 --> 00:15:51,439
+we're gonna go for orange end and blue
+colors for this baseless to go pretty
+
+704
+00:15:51,439 --> 00:15:51,449
+colors for this baseless to go pretty
+ 
+
+705
+00:15:51,449 --> 00:15:53,359
+colors for this baseless to go pretty
+good together got some orange tulips
+
+706
+00:15:53,359 --> 00:15:53,369
+good together got some orange tulips
+ 
+
+707
+00:15:53,369 --> 00:15:56,329
+good together got some orange tulips
+here uh-huh
+
+708
+00:15:56,329 --> 00:15:56,339
+here uh-huh
+ 
+
+709
+00:15:56,339 --> 00:15:58,970
+here uh-huh
+I tried mixing in oak here I don't know
+
+710
+00:15:58,970 --> 00:15:58,980
+I tried mixing in oak here I don't know
+ 
+
+711
+00:15:58,980 --> 00:16:01,280
+I tried mixing in oak here I don't know
+if that's a really good idea but we'll
+
+712
+00:16:01,280 --> 00:16:01,290
+if that's a really good idea but we'll
+ 
+
+713
+00:16:01,290 --> 00:16:03,799
+if that's a really good idea but we'll
+try it for now let's actually get to the
+
+714
+00:16:03,799 --> 00:16:03,809
+try it for now let's actually get to the
+ 
+
+715
+00:16:03,809 --> 00:16:05,960
+try it for now let's actually get to the
+crawling part of the base now that the
+
+716
+00:16:05,960 --> 00:16:05,970
+crawling part of the base now that the
+ 
+
+717
+00:16:05,970 --> 00:16:07,999
+crawling part of the base now that the
+tunneling parts so this is gonna serve
+
+718
+00:16:07,999 --> 00:16:08,009
+tunneling parts so this is gonna serve
+ 
+
+719
+00:16:08,009 --> 00:16:10,729
+tunneling parts so this is gonna serve
+as the entrance exits or one of them
+
+720
+00:16:10,729 --> 00:16:10,739
+as the entrance exits or one of them
+ 
+
+721
+00:16:10,739 --> 00:16:13,160
+as the entrance exits or one of them
+there will probably be many of them and
+
+722
+00:16:13,160 --> 00:16:13,170
+there will probably be many of them and
+ 
+
+723
+00:16:13,170 --> 00:16:15,049
+there will probably be many of them and
+it'll be something that hopefully looks
+
+724
+00:16:15,049 --> 00:16:15,059
+it'll be something that hopefully looks
+ 
+
+725
+00:16:15,059 --> 00:16:16,939
+it'll be something that hopefully looks
+good in case we develop the outside of
+
+726
+00:16:16,939 --> 00:16:16,949
+good in case we develop the outside of
+ 
+
+727
+00:16:16,949 --> 00:16:19,249
+good in case we develop the outside of
+this area too not just like tunneling
+
+728
+00:16:19,249 --> 00:16:19,259
+this area too not just like tunneling
+ 
+
+729
+00:16:19,259 --> 00:16:22,549
+this area too not just like tunneling
+the whole time but let's let's get the
+
+730
+00:16:22,549 --> 00:16:22,559
+the whole time but let's let's get the
+ 
+
+731
+00:16:22,559 --> 00:16:27,079
+the whole time but let's let's get the
+tunneling here all right so maybe we
+
+732
+00:16:27,079 --> 00:16:27,089
+tunneling here all right so maybe we
+ 
+
+733
+00:16:27,089 --> 00:16:31,220
+tunneling here all right so maybe we
+would keep the carpet going and here's
+
+734
+00:16:31,220 --> 00:16:31,230
+would keep the carpet going and here's
+ 
+
+735
+00:16:31,230 --> 00:16:34,519
+would keep the carpet going and here's
+the thing though I'm not quite decided
+
+736
+00:16:34,519 --> 00:16:34,529
+the thing though I'm not quite decided
+ 
+
+737
+00:16:34,529 --> 00:16:38,859
+the thing though I'm not quite decided
+what I'm gonna do like oh we can do this
+
+738
+00:16:38,859 --> 00:16:38,869
+what I'm gonna do like oh we can do this
+ 
+
+739
+00:16:38,869 --> 00:16:41,689
+what I'm gonna do like oh we can do this
+if we're if we're limited to a one high
+
+740
+00:16:41,689 --> 00:16:41,699
+if we're if we're limited to a one high
+ 
+
+741
+00:16:41,699 --> 00:16:44,809
+if we're if we're limited to a one high
+area we're very uh we're not gonna be
+
+742
+00:16:44,809 --> 00:16:44,819
+area we're very uh we're not gonna be
+ 
+
+743
+00:16:44,819 --> 00:16:47,389
+area we're very uh we're not gonna be
+able to do much detail right oh I got
+
+744
+00:16:47,389 --> 00:16:47,399
+able to do much detail right oh I got
+ 
+
+745
+00:16:47,399 --> 00:16:50,210
+able to do much detail right oh I got
+pushed out darn it maybe we should try
+
+746
+00:16:50,210 --> 00:16:50,220
+pushed out darn it maybe we should try
+ 
+
+747
+00:16:50,220 --> 00:16:52,909
+pushed out darn it maybe we should try
+to go for the too high I think it'll
+
+748
+00:16:52,909 --> 00:16:52,919
+to go for the too high I think it'll
+ 
+
+749
+00:16:52,919 --> 00:16:55,129
+to go for the too high I think it'll
+look better in general and then some we
+
+750
+00:16:55,129 --> 00:16:55,139
+look better in general and then some we
+ 
+
+751
+00:16:55,139 --> 00:16:56,840
+look better in general and then some we
+might have some tiger spots that are
+
+752
+00:16:56,840 --> 00:16:56,850
+might have some tiger spots that are
+ 
+
+753
+00:16:56,850 --> 00:17:01,179
+might have some tiger spots that are
+only only one high let's maybe go for
+
+754
+00:17:01,179 --> 00:17:01,189
+only only one high let's maybe go for
+ 
+
+755
+00:17:01,189 --> 00:17:04,730
+only only one high let's maybe go for
+four about this shape two by three two
+
+756
+00:17:04,730 --> 00:17:04,740
+four about this shape two by three two
+ 
+
+757
+00:17:04,740 --> 00:17:08,059
+four about this shape two by three two
+tall three wide we'll do like a bit of a
+
+758
+00:17:08,059 --> 00:17:08,069
+tall three wide we'll do like a bit of a
+ 
+
+759
+00:17:08,069 --> 00:17:10,329
+tall three wide we'll do like a bit of a
+tunnel to begin with here at the base
+
+760
+00:17:10,329 --> 00:17:10,339
+tunnel to begin with here at the base
+ 
+
+761
+00:17:10,339 --> 00:17:15,220
+tunnel to begin with here at the base
+maybe maybe let's build out a stone
+
+762
+00:17:15,220 --> 00:17:15,230
+maybe maybe let's build out a stone
+ 
+
+763
+00:17:15,230 --> 00:17:17,539
+maybe maybe let's build out a stone
+stone goes really good with the cyan
+
+764
+00:17:17,539 --> 00:17:17,549
+stone goes really good with the cyan
+ 
+
+765
+00:17:17,549 --> 00:17:21,649
+stone goes really good with the cyan
+wool color you could do that along the
+
+766
+00:17:21,649 --> 00:17:21,659
+wool color you could do that along the
+ 
+
+767
+00:17:21,659 --> 00:17:25,699
+wool color you could do that along the
+side and maybe just go like five blocks
+
+768
+00:17:25,699 --> 00:17:25,709
+side and maybe just go like five blocks
+ 
+
+769
+00:17:25,709 --> 00:17:28,639
+side and maybe just go like five blocks
+and then we'll have another break here
+
+770
+00:17:28,639 --> 00:17:28,649
+and then we'll have another break here
+ 
+
+771
+00:17:28,649 --> 00:17:34,549
+and then we'll have another break here
+so let's add some dark wood like that
+
+772
+00:17:34,549 --> 00:17:34,559
+so let's add some dark wood like that
+ 
+
+773
+00:17:34,559 --> 00:17:37,759
+so let's add some dark wood like that
+ah my commentary is so good this is why
+
+774
+00:17:37,759 --> 00:17:37,769
+ah my commentary is so good this is why
+ 
+
+775
+00:17:37,769 --> 00:17:39,320
+ah my commentary is so good this is why
+we don't do building guys I can't like
+
+776
+00:17:39,320 --> 00:17:39,330
+we don't do building guys I can't like
+ 
+
+777
+00:17:39,330 --> 00:17:41,989
+we don't do building guys I can't like
+think and build at the same time I think
+
+778
+00:17:41,989 --> 00:17:41,999
+think and build at the same time I think
+ 
+
+779
+00:17:41,999 --> 00:17:44,259
+think and build at the same time I think
+a lot of youtubers have this problem
+
+780
+00:17:44,259 --> 00:17:44,269
+a lot of youtubers have this problem
+ 
+
+781
+00:17:44,269 --> 00:17:47,210
+a lot of youtubers have this problem
+it's very hard to be creative at and
+
+782
+00:17:47,210 --> 00:17:47,220
+it's very hard to be creative at and
+ 
+
+783
+00:17:47,220 --> 00:17:49,970
+it's very hard to be creative at and
+like talking at the same time alright I
+
+784
+00:17:49,970 --> 00:17:49,980
+like talking at the same time alright I
+ 
+
+785
+00:17:49,980 --> 00:17:51,820
+like talking at the same time alright I
+got an idea here for this little section
+
+786
+00:17:51,820 --> 00:17:51,830
+got an idea here for this little section
+ 
+
+787
+00:17:51,830 --> 00:17:53,720
+got an idea here for this little section
+entrance to our base we're gonna
+
+788
+00:17:53,720 --> 00:17:53,730
+entrance to our base we're gonna
+ 
+
+789
+00:17:53,730 --> 00:17:55,820
+entrance to our base we're gonna
+actually use fire I think with this base
+
+790
+00:17:55,820 --> 00:17:55,830
+actually use fire I think with this base
+ 
+
+791
+00:17:55,830 --> 00:17:58,820
+actually use fire I think with this base
+that's gonna give us an orange color to
+
+792
+00:17:58,820 --> 00:17:58,830
+that's gonna give us an orange color to
+ 
+
+793
+00:17:58,830 --> 00:18:01,070
+that's gonna give us an orange color to
+mix in with the blue when we're not
+
+794
+00:18:01,070 --> 00:18:01,080
+mix in with the blue when we're not
+ 
+
+795
+00:18:01,080 --> 00:18:03,080
+mix in with the blue when we're not
+actually using orange I'm sure we'll use
+
+796
+00:18:03,080 --> 00:18:03,090
+actually using orange I'm sure we'll use
+ 
+
+797
+00:18:03,090 --> 00:18:05,960
+actually using orange I'm sure we'll use
+a lot of orange tulips as well yeah
+
+798
+00:18:05,960 --> 00:18:05,970
+a lot of orange tulips as well yeah
+ 
+
+799
+00:18:05,970 --> 00:18:08,810
+a lot of orange tulips as well yeah
+let's go to netherrack both sides here
+
+800
+00:18:08,810 --> 00:18:08,820
+let's go to netherrack both sides here
+ 
+
+801
+00:18:08,820 --> 00:18:12,560
+let's go to netherrack both sides here
+we'll light this on fire like a so I
+
+802
+00:18:12,560 --> 00:18:12,570
+we'll light this on fire like a so I
+ 
+
+803
+00:18:12,570 --> 00:18:13,970
+we'll light this on fire like a so I
+think that's outside of range yeah
+
+804
+00:18:13,970 --> 00:18:13,980
+think that's outside of range yeah
+ 
+
+805
+00:18:13,980 --> 00:18:15,499
+think that's outside of range yeah
+that's outside of range of the carpets
+
+806
+00:18:15,499 --> 00:18:15,509
+that's outside of range of the carpets
+ 
+
+807
+00:18:15,509 --> 00:18:20,119
+that's outside of range of the carpets
+and then brought some grills put those
+
+808
+00:18:20,119 --> 00:18:20,129
+and then brought some grills put those
+ 
+
+809
+00:18:20,129 --> 00:18:22,519
+and then brought some grills put those
+in the front and then just probably
+
+810
+00:18:22,519 --> 00:18:22,529
+in the front and then just probably
+ 
+
+811
+00:18:22,529 --> 00:18:26,810
+in the front and then just probably
+cobblestone kind of like that's sure
+
+812
+00:18:26,810 --> 00:18:26,820
+cobblestone kind of like that's sure
+ 
+
+813
+00:18:26,820 --> 00:18:29,450
+cobblestone kind of like that's sure
+let's build this up and we'll slope the
+
+814
+00:18:29,450 --> 00:18:29,460
+let's build this up and we'll slope the
+ 
+
+815
+00:18:29,460 --> 00:18:36,320
+let's build this up and we'll slope the
+ceiling maybe how should we do it well
+
+816
+00:18:36,320 --> 00:18:36,330
+ceiling maybe how should we do it well
+ 
+
+817
+00:18:36,330 --> 00:18:38,989
+ceiling maybe how should we do it well
+we definitely need a slab here otherwise
+
+818
+00:18:38,989 --> 00:18:38,999
+we definitely need a slab here otherwise
+ 
+
+819
+00:18:38,999 --> 00:18:42,200
+we definitely need a slab here otherwise
+we'll stand up I just I guess we got to
+
+820
+00:18:42,200 --> 00:18:42,210
+we'll stand up I just I guess we got to
+ 
+
+821
+00:18:42,210 --> 00:18:45,379
+we'll stand up I just I guess we got to
+use stairs then so we'll do stairs over
+
+822
+00:18:45,379 --> 00:18:45,389
+use stairs then so we'll do stairs over
+ 
+
+823
+00:18:45,389 --> 00:18:49,039
+use stairs then so we'll do stairs over
+here and over here and slab over here
+
+824
+00:18:49,039 --> 00:18:49,049
+here and over here and slab over here
+ 
+
+825
+00:18:49,049 --> 00:18:51,049
+here and over here and slab over here
+kind of give it that shape see what
+
+826
+00:18:51,049 --> 00:18:51,059
+kind of give it that shape see what
+ 
+
+827
+00:18:51,059 --> 00:18:55,970
+kind of give it that shape see what
+that's like let's go ahead and finish up
+
+828
+00:18:55,970 --> 00:18:55,980
+that's like let's go ahead and finish up
+ 
+
+829
+00:18:55,980 --> 00:19:01,279
+that's like let's go ahead and finish up
+here okay flowerpots over there and over
+
+830
+00:19:01,279 --> 00:19:01,289
+here okay flowerpots over there and over
+ 
+
+831
+00:19:01,289 --> 00:19:02,060
+here okay flowerpots over there and over
+there and over there
+
+832
+00:19:02,060 --> 00:19:02,070
+there and over there
+ 
+
+833
+00:19:02,070 --> 00:19:09,129
+there and over there
+yeah okay maybe what would look nice
+
+834
+00:19:09,129 --> 00:19:09,139
+yeah okay maybe what would look nice
+ 
+
+835
+00:19:09,139 --> 00:19:11,659
+yeah okay maybe what would look nice
+orange tulips is that gonna be too many
+
+836
+00:19:11,659 --> 00:19:11,669
+orange tulips is that gonna be too many
+ 
+
+837
+00:19:11,669 --> 00:19:14,749
+orange tulips is that gonna be too many
+orange tulips I wonder it's quite a few
+
+838
+00:19:14,749 --> 00:19:14,759
+orange tulips I wonder it's quite a few
+ 
+
+839
+00:19:14,759 --> 00:19:18,649
+orange tulips I wonder it's quite a few
+orange tulips alright so we got fire we
+
+840
+00:19:18,649 --> 00:19:18,659
+orange tulips alright so we got fire we
+ 
+
+841
+00:19:18,659 --> 00:19:20,419
+orange tulips alright so we got fire we
+got weren't you two looks great so now
+
+842
+00:19:20,419 --> 00:19:20,429
+got weren't you two looks great so now
+ 
+
+843
+00:19:20,429 --> 00:19:21,859
+got weren't you two looks great so now
+this next section here I think we're
+
+844
+00:19:21,859 --> 00:19:21,869
+this next section here I think we're
+ 
+
+845
+00:19:21,869 --> 00:19:23,840
+this next section here I think we're
+gonna go for more of an intersection I
+
+846
+00:19:23,840 --> 00:19:23,850
+gonna go for more of an intersection I
+ 
+
+847
+00:19:23,850 --> 00:19:25,700
+gonna go for more of an intersection I
+want to be able to turn left now and
+
+848
+00:19:25,700 --> 00:19:25,710
+want to be able to turn left now and
+ 
+
+849
+00:19:25,710 --> 00:19:28,999
+want to be able to turn left now and
+start going that way let's see if we go
+
+850
+00:19:28,999 --> 00:19:29,009
+start going that way let's see if we go
+ 
+
+851
+00:19:29,009 --> 00:19:31,539
+start going that way let's see if we go
+this way how far till we hit the surface
+
+852
+00:19:31,539 --> 00:19:31,549
+this way how far till we hit the surface
+ 
+
+853
+00:19:31,549 --> 00:19:33,950
+this way how far till we hit the surface
+pretty soon here so we might need to
+
+854
+00:19:33,950 --> 00:19:33,960
+pretty soon here so we might need to
+ 
+
+855
+00:19:33,960 --> 00:19:37,190
+pretty soon here so we might need to
+start going downhill as well so we kind
+
+856
+00:19:37,190 --> 00:19:37,200
+start going downhill as well so we kind
+ 
+
+857
+00:19:37,200 --> 00:19:38,840
+start going downhill as well so we kind
+of want to go off off that way because
+
+858
+00:19:38,840 --> 00:19:38,850
+of want to go off off that way because
+ 
+
+859
+00:19:38,850 --> 00:19:41,080
+of want to go off off that way because
+that's where the end portals gonna be
+
+860
+00:19:41,080 --> 00:19:41,090
+that's where the end portals gonna be
+ 
+
+861
+00:19:41,090 --> 00:19:43,730
+that's where the end portals gonna be
+yeah I think I think what are the keys
+
+862
+00:19:43,730 --> 00:19:43,740
+yeah I think I think what are the keys
+ 
+
+863
+00:19:43,740 --> 00:19:45,859
+yeah I think I think what are the keys
+to this building style when you're in
+
+864
+00:19:45,859 --> 00:19:45,869
+to this building style when you're in
+ 
+
+865
+00:19:45,869 --> 00:19:47,600
+to this building style when you're in
+miniature mode here
+
+866
+00:19:47,600 --> 00:19:47,610
+miniature mode here
+ 
+
+867
+00:19:47,610 --> 00:19:50,090
+miniature mode here
+is like this is one block tall this is
+
+868
+00:19:50,090 --> 00:19:50,100
+is like this is one block tall this is
+ 
+
+869
+00:19:50,100 --> 00:19:51,500
+is like this is one block tall this is
+two blocks tall this is three blocks
+
+870
+00:19:51,500 --> 00:19:51,510
+two blocks tall this is three blocks
+ 
+
+871
+00:19:51,510 --> 00:19:53,090
+two blocks tall this is three blocks
+tall so we're like in a three block tall
+
+872
+00:19:53,090 --> 00:19:53,100
+tall so we're like in a three block tall
+ 
+
+873
+00:19:53,100 --> 00:19:55,460
+tall so we're like in a three block tall
+room even though it's a block and a half
+
+874
+00:19:55,460 --> 00:19:55,470
+room even though it's a block and a half
+ 
+
+875
+00:19:55,470 --> 00:19:57,950
+room even though it's a block and a half
+everything gets shrunk down half the
+
+876
+00:19:57,950 --> 00:19:57,960
+everything gets shrunk down half the
+ 
+
+877
+00:19:57,960 --> 00:20:01,060
+everything gets shrunk down half the
+size because of our lower in perspective
+
+878
+00:20:01,060 --> 00:20:01,070
+size because of our lower in perspective
+ 
+
+879
+00:20:01,070 --> 00:20:05,060
+size because of our lower in perspective
+so to get more detailed like minecraft
+
+880
+00:20:05,060 --> 00:20:05,070
+so to get more detailed like minecraft
+ 
+
+881
+00:20:05,070 --> 00:20:09,020
+so to get more detailed like minecraft
+is very limited I tried some something
+
+882
+00:20:09,020 --> 00:20:09,030
+is very limited I tried some something
+ 
+
+883
+00:20:09,030 --> 00:20:10,490
+is very limited I tried some something
+here though you can see you can mix
+
+884
+00:20:10,490 --> 00:20:10,500
+here though you can see you can mix
+ 
+
+885
+00:20:10,500 --> 00:20:12,830
+here though you can see you can mix
+stone brick and cobblestone very nicely
+
+886
+00:20:12,830 --> 00:20:12,840
+stone brick and cobblestone very nicely
+ 
+
+887
+00:20:12,840 --> 00:20:16,610
+stone brick and cobblestone very nicely
+together I think this is cool so you can
+
+888
+00:20:16,610 --> 00:20:16,620
+together I think this is cool so you can
+ 
+
+889
+00:20:16,620 --> 00:20:19,700
+together I think this is cool so you can
+get more detailed by texture mixing and
+
+890
+00:20:19,700 --> 00:20:19,710
+get more detailed by texture mixing and
+ 
+
+891
+00:20:19,710 --> 00:20:23,330
+get more detailed by texture mixing and
+also they've they both have stairs and
+
+892
+00:20:23,330 --> 00:20:23,340
+also they've they both have stairs and
+ 
+
+893
+00:20:23,340 --> 00:20:25,280
+also they've they both have stairs and
+slabs with the block type so that's good
+
+894
+00:20:25,280 --> 00:20:25,290
+slabs with the block type so that's good
+ 
+
+895
+00:20:25,290 --> 00:20:27,380
+slabs with the block type so that's good
+so I have put some stairs here as well
+
+896
+00:20:27,380 --> 00:20:27,390
+so I have put some stairs here as well
+ 
+
+897
+00:20:27,390 --> 00:20:30,530
+so I have put some stairs here as well
+and this room feels very detailed very
+
+898
+00:20:30,530 --> 00:20:30,540
+and this room feels very detailed very
+ 
+
+899
+00:20:30,540 --> 00:20:32,720
+and this room feels very detailed very
+finished to me now let's go ahead and
+
+900
+00:20:32,720 --> 00:20:32,730
+finished to me now let's go ahead and
+ 
+
+901
+00:20:32,730 --> 00:20:33,530
+finished to me now let's go ahead and
+move on here
+
+902
+00:20:33,530 --> 00:20:33,540
+move on here
+ 
+
+903
+00:20:33,540 --> 00:20:36,530
+move on here
+so this next room the intersection I
+
+904
+00:20:36,530 --> 00:20:36,540
+so this next room the intersection I
+ 
+
+905
+00:20:36,540 --> 00:20:40,000
+so this next room the intersection I
+think I want this to kind of go
+
+906
+00:20:40,000 --> 00:20:40,010
+think I want this to kind of go
+ 
+
+907
+00:20:40,010 --> 00:20:42,230
+think I want this to kind of go
+something like that and then off this
+
+908
+00:20:42,230 --> 00:20:42,240
+something like that and then off this
+ 
+
+909
+00:20:42,240 --> 00:20:45,890
+something like that and then off this
+way as well in the middle here we're
+
+910
+00:20:45,890 --> 00:20:45,900
+way as well in the middle here we're
+ 
+
+911
+00:20:45,900 --> 00:20:51,680
+way as well in the middle here we're
+gonna have a drop maybe let's go for
+
+912
+00:20:51,680 --> 00:20:51,690
+gonna have a drop maybe let's go for
+ 
+
+913
+00:20:51,690 --> 00:20:55,430
+gonna have a drop maybe let's go for
+some dark oak just for now probably it's
+
+914
+00:20:55,430 --> 00:20:55,440
+some dark oak just for now probably it's
+ 
+
+915
+00:20:55,440 --> 00:20:58,490
+some dark oak just for now probably it's
+free by three hole here I would like it
+
+916
+00:20:58,490 --> 00:20:58,500
+free by three hole here I would like it
+ 
+
+917
+00:20:58,500 --> 00:20:59,870
+free by three hole here I would like it
+if we could look down there without
+
+918
+00:20:59,870 --> 00:20:59,880
+if we could look down there without
+ 
+
+919
+00:20:59,880 --> 00:21:01,549
+if we could look down there without
+actually falling down I don't know if
+
+920
+00:21:01,549 --> 00:21:01,559
+actually falling down I don't know if
+ 
+
+921
+00:21:01,559 --> 00:21:02,840
+actually falling down I don't know if
+that's gonna be possible
+
+922
+00:21:02,840 --> 00:21:02,850
+that's gonna be possible
+ 
+
+923
+00:21:02,850 --> 00:21:07,940
+that's gonna be possible
+but we'll try it out and do that's okay
+
+924
+00:21:07,940 --> 00:21:07,950
+but we'll try it out and do that's okay
+ 
+
+925
+00:21:07,950 --> 00:21:10,580
+but we'll try it out and do that's okay
+maybe maybe it's some fences around this
+
+926
+00:21:10,580 --> 00:21:10,590
+maybe maybe it's some fences around this
+ 
+
+927
+00:21:10,590 --> 00:21:16,180
+maybe maybe it's some fences around this
+- should we let's just do it like this
+
+928
+00:21:16,180 --> 00:21:16,190
+- should we let's just do it like this
+ 
+
+929
+00:21:16,190 --> 00:21:18,560
+- should we let's just do it like this
+all right we might mix in some stairs
+
+930
+00:21:18,560 --> 00:21:18,570
+all right we might mix in some stairs
+ 
+
+931
+00:21:18,570 --> 00:21:20,330
+all right we might mix in some stairs
+with this dark oak just for more detail
+
+932
+00:21:20,330 --> 00:21:20,340
+with this dark oak just for more detail
+ 
+
+933
+00:21:20,340 --> 00:21:22,250
+with this dark oak just for more detail
+as well but let's go for this right now
+
+934
+00:21:22,250 --> 00:21:22,260
+as well but let's go for this right now
+ 
+
+935
+00:21:22,260 --> 00:21:26,570
+as well but let's go for this right now
+and stairs around here and then every
+
+936
+00:21:26,570 --> 00:21:26,580
+and stairs around here and then every
+ 
+
+937
+00:21:26,580 --> 00:21:34,240
+and stairs around here and then every
+corner we might go up like that yeah
+
+938
+00:21:34,240 --> 00:21:34,250
+corner we might go up like that yeah
+ 
+
+939
+00:21:34,250 --> 00:21:37,270
+corner we might go up like that yeah
+anyways let's continue on with our
+
+940
+00:21:37,270 --> 00:21:37,280
+anyways let's continue on with our
+ 
+
+941
+00:21:37,280 --> 00:21:41,270
+anyways let's continue on with our
+sickness stock the the main person I
+
+942
+00:21:41,270 --> 00:21:41,280
+sickness stock the the main person I
+ 
+
+943
+00:21:41,280 --> 00:21:45,700
+sickness stock the the main person I
+blame for me getting sick is all of you
+
+944
+00:21:45,700 --> 00:21:45,710
+blame for me getting sick is all of you
+ 
+
+945
+00:21:45,710 --> 00:21:50,270
+blame for me getting sick is all of you
+everybody but me because when you get
+
+946
+00:21:50,270 --> 00:21:50,280
+everybody but me because when you get
+ 
+
+947
+00:21:50,280 --> 00:21:52,340
+everybody but me because when you get
+sick it's usually because you're around
+
+948
+00:21:52,340 --> 00:21:52,350
+sick it's usually because you're around
+ 
+
+949
+00:21:52,350 --> 00:21:55,130
+sick it's usually because you're around
+somebody else that is sick right and
+
+950
+00:21:55,130 --> 00:21:55,140
+somebody else that is sick right and
+ 
+
+951
+00:21:55,140 --> 00:21:57,560
+somebody else that is sick right and
+they pass it on to you that's the way it
+
+952
+00:21:57,560 --> 00:21:57,570
+they pass it on to you that's the way it
+ 
+
+953
+00:21:57,570 --> 00:22:00,790
+they pass it on to you that's the way it
+goes that's the way it is
+
+954
+00:22:00,790 --> 00:22:00,800
+goes that's the way it is
+ 
+
+955
+00:22:00,800 --> 00:22:04,390
+goes that's the way it is
+so my my thing that I want to say today
+
+956
+00:22:04,390 --> 00:22:04,400
+so my my thing that I want to say today
+ 
+
+957
+00:22:04,400 --> 00:22:06,730
+so my my thing that I want to say today
+something we don't really do in society
+
+958
+00:22:06,730 --> 00:22:06,740
+something we don't really do in society
+ 
+
+959
+00:22:06,740 --> 00:22:09,910
+something we don't really do in society
+is sickness shaming like we're yeah you
+
+960
+00:22:09,910 --> 00:22:09,920
+is sickness shaming like we're yeah you
+ 
+
+961
+00:22:09,920 --> 00:22:12,010
+is sickness shaming like we're yeah you
+really rag on someone like oh why are
+
+962
+00:22:12,010 --> 00:22:12,020
+really rag on someone like oh why are
+ 
+
+963
+00:22:12,020 --> 00:22:14,590
+really rag on someone like oh why are
+you out sick that's that's such a bad
+
+964
+00:22:14,590 --> 00:22:14,600
+you out sick that's that's such a bad
+ 
+
+965
+00:22:14,600 --> 00:22:15,970
+you out sick that's that's such a bad
+thing to do you're gonna get everybody
+
+966
+00:22:15,970 --> 00:22:15,980
+thing to do you're gonna get everybody
+ 
+
+967
+00:22:15,980 --> 00:22:18,040
+thing to do you're gonna get everybody
+else sick to a certain extent I think
+
+968
+00:22:18,040 --> 00:22:18,050
+else sick to a certain extent I think
+ 
+
+969
+00:22:18,050 --> 00:22:19,180
+else sick to a certain extent I think
+that's a good thing
+
+970
+00:22:19,180 --> 00:22:19,190
+that's a good thing
+ 
+
+971
+00:22:19,190 --> 00:22:20,950
+that's a good thing
+but you don't want to take it too far
+
+972
+00:22:20,950 --> 00:22:20,960
+but you don't want to take it too far
+ 
+
+973
+00:22:20,960 --> 00:22:25,270
+but you don't want to take it too far
+obviously rather the better thing is we
+
+974
+00:22:25,270 --> 00:22:25,280
+obviously rather the better thing is we
+ 
+
+975
+00:22:25,280 --> 00:22:27,640
+obviously rather the better thing is we
+should all be a little more careful when
+
+976
+00:22:27,640 --> 00:22:27,650
+should all be a little more careful when
+ 
+
+977
+00:22:27,650 --> 00:22:29,440
+should all be a little more careful when
+we are sick I think it's something we
+
+978
+00:22:29,440 --> 00:22:29,450
+we are sick I think it's something we
+ 
+
+979
+00:22:29,450 --> 00:22:32,290
+we are sick I think it's something we
+all do we go out when we're sick and we
+
+980
+00:22:32,290 --> 00:22:32,300
+all do we go out when we're sick and we
+ 
+
+981
+00:22:32,300 --> 00:22:35,530
+all do we go out when we're sick and we
+get other people sick just because we we
+
+982
+00:22:35,530 --> 00:22:35,540
+get other people sick just because we we
+ 
+
+983
+00:22:35,540 --> 00:22:37,360
+get other people sick just because we we
+can't stand to stay at home or we got
+
+984
+00:22:37,360 --> 00:22:37,370
+can't stand to stay at home or we got
+ 
+
+985
+00:22:37,370 --> 00:22:39,490
+can't stand to stay at home or we got
+something important to do but a lot of
+
+986
+00:22:39,490 --> 00:22:39,500
+something important to do but a lot of
+ 
+
+987
+00:22:39,500 --> 00:22:41,620
+something important to do but a lot of
+people you know it's like they they
+
+988
+00:22:41,620 --> 00:22:41,630
+people you know it's like they they
+ 
+
+989
+00:22:41,630 --> 00:22:43,240
+people you know it's like they they
+really don't need to go out but they're
+
+990
+00:22:43,240 --> 00:22:43,250
+really don't need to go out but they're
+ 
+
+991
+00:22:43,250 --> 00:22:45,670
+really don't need to go out but they're
+still going out when it they're sick and
+
+992
+00:22:45,670 --> 00:22:45,680
+still going out when it they're sick and
+ 
+
+993
+00:22:45,680 --> 00:22:49,930
+still going out when it they're sick and
+to you I say stay at home if you don't
+
+994
+00:22:49,930 --> 00:22:49,940
+to you I say stay at home if you don't
+ 
+
+995
+00:22:49,940 --> 00:22:52,450
+to you I say stay at home if you don't
+absolutely have to be out when you're
+
+996
+00:22:52,450 --> 00:22:52,460
+absolutely have to be out when you're
+ 
+
+997
+00:22:52,460 --> 00:22:55,540
+absolutely have to be out when you're
+sick don't do it to stay at home get
+
+998
+00:22:55,540 --> 00:22:55,550
+sick don't do it to stay at home get
+ 
+
+999
+00:22:55,550 --> 00:22:57,400
+sick don't do it to stay at home get
+better so you don't get everybody else
+
+1000
+00:22:57,400 --> 00:22:57,410
+better so you don't get everybody else
+ 
+
+1001
+00:22:57,410 --> 00:23:05,980
+better so you don't get everybody else
+sick ah yes very ugly indeed so I've
+
+1002
+00:23:05,980 --> 00:23:05,990
+sick ah yes very ugly indeed so I've
+ 
+
+1003
+00:23:05,990 --> 00:23:07,570
+sick ah yes very ugly indeed so I've
+been experimenting with this
+
+1004
+00:23:07,570 --> 00:23:07,580
+been experimenting with this
+ 
+
+1005
+00:23:07,580 --> 00:23:09,580
+been experimenting with this
+intersection room now it's really liking
+
+1006
+00:23:09,580 --> 00:23:09,590
+intersection room now it's really liking
+ 
+
+1007
+00:23:09,590 --> 00:23:11,590
+intersection room now it's really liking
+it too much I think we're gonna go for a
+
+1008
+00:23:11,590 --> 00:23:11,600
+it too much I think we're gonna go for a
+ 
+
+1009
+00:23:11,600 --> 00:23:15,970
+it too much I think we're gonna go for a
+redesign oops so I've learned to maybe a
+
+1010
+00:23:15,970 --> 00:23:15,980
+redesign oops so I've learned to maybe a
+ 
+
+1011
+00:23:15,980 --> 00:23:18,700
+redesign oops so I've learned to maybe a
+few things here though I think just like
+
+1012
+00:23:18,700 --> 00:23:18,710
+few things here though I think just like
+ 
+
+1013
+00:23:18,710 --> 00:23:20,380
+few things here though I think just like
+avoid the window for right now the ugly
+
+1014
+00:23:20,380 --> 00:23:20,390
+avoid the window for right now the ugly
+ 
+
+1015
+00:23:20,390 --> 00:23:22,560
+avoid the window for right now the ugly
+window and some of the other weird stuff
+
+1016
+00:23:22,560 --> 00:23:22,570
+window and some of the other weird stuff
+ 
+
+1017
+00:23:22,570 --> 00:23:25,270
+window and some of the other weird stuff
+just the size of the room like the shape
+
+1018
+00:23:25,270 --> 00:23:25,280
+just the size of the room like the shape
+ 
+
+1019
+00:23:25,280 --> 00:23:28,590
+just the size of the room like the shape
+of it might be a bit on the large scale
+
+1020
+00:23:28,590 --> 00:23:28,600
+of it might be a bit on the large scale
+ 
+
+1021
+00:23:28,600 --> 00:23:31,390
+of it might be a bit on the large scale
+when you're at this perspective so 1 2 3
+
+1022
+00:23:31,390 --> 00:23:31,400
+when you're at this perspective so 1 2 3
+ 
+
+1023
+00:23:31,400 --> 00:23:36,130
+when you're at this perspective so 1 2 3
+4 5 6 7 blocks from there to there think
+
+1024
+00:23:36,130 --> 00:23:36,140
+4 5 6 7 blocks from there to there think
+ 
+
+1025
+00:23:36,140 --> 00:23:38,290
+4 5 6 7 blocks from there to there think
+we should maybe keep rooms at the most 5
+
+1026
+00:23:38,290 --> 00:23:38,300
+we should maybe keep rooms at the most 5
+ 
+
+1027
+00:23:38,300 --> 00:23:40,060
+we should maybe keep rooms at the most 5
+blocks would feel a lot better a lot
+
+1028
+00:23:40,060 --> 00:23:40,070
+blocks would feel a lot better a lot
+ 
+
+1029
+00:23:40,070 --> 00:23:43,810
+blocks would feel a lot better a lot
+more cozy this is this I wanted this to
+
+1030
+00:23:43,810 --> 00:23:43,820
+more cozy this is this I wanted this to
+ 
+
+1031
+00:23:43,820 --> 00:23:47,590
+more cozy this is this I wanted this to
+feel like a fairly big room but wait up
+
+1032
+00:23:47,590 --> 00:23:47,600
+feel like a fairly big room but wait up
+ 
+
+1033
+00:23:47,600 --> 00:23:51,090
+feel like a fairly big room but wait up
+we got to cram it down a bit more
+
+1034
+00:23:51,090 --> 00:23:51,100
+we got to cram it down a bit more
+ 
+
+1035
+00:23:51,100 --> 00:23:54,310
+we got to cram it down a bit more
+alright guys well this episode is
+
+1036
+00:23:54,310 --> 00:23:54,320
+alright guys well this episode is
+ 
+
+1037
+00:23:54,320 --> 00:23:55,900
+alright guys well this episode is
+getting a little bit long so I decided
+
+1038
+00:23:55,900 --> 00:23:55,910
+getting a little bit long so I decided
+ 
+
+1039
+00:23:55,910 --> 00:23:57,790
+getting a little bit long so I decided
+to make some progress off camera here
+
+1040
+00:23:57,790 --> 00:23:57,800
+to make some progress off camera here
+ 
+
+1041
+00:23:57,800 --> 00:24:00,580
+to make some progress off camera here
+went for a different take this time so
+
+1042
+00:24:00,580 --> 00:24:00,590
+went for a different take this time so
+ 
+
+1043
+00:24:00,590 --> 00:24:02,710
+went for a different take this time so
+check it out got like a beautiful nature
+
+1044
+00:24:02,710 --> 00:24:02,720
+check it out got like a beautiful nature
+ 
+
+1045
+00:24:02,720 --> 00:24:08,140
+check it out got like a beautiful nature
+room here oh look at this so nice nature
+
+1046
+00:24:08,140 --> 00:24:08,150
+room here oh look at this so nice nature
+ 
+
+1047
+00:24:08,150 --> 00:24:09,880
+room here oh look at this so nice nature
+builds are my favorite team in this game
+
+1048
+00:24:09,880 --> 00:24:09,890
+builds are my favorite team in this game
+ 
+
+1049
+00:24:09,890 --> 00:24:11,950
+builds are my favorite team in this game
+if you guys don't know like anytime I
+
+1050
+00:24:11,950 --> 00:24:11,960
+if you guys don't know like anytime I
+ 
+
+1051
+00:24:11,960 --> 00:24:14,350
+if you guys don't know like anytime I
+can build out in nature I just love it
+
+1052
+00:24:14,350 --> 00:24:14,360
+can build out in nature I just love it
+ 
+
+1053
+00:24:14,360 --> 00:24:17,019
+can build out in nature I just love it
+so easy or I find it so easy cuz there's
+
+1054
+00:24:17,019 --> 00:24:17,029
+so easy or I find it so easy cuz there's
+ 
+
+1055
+00:24:17,029 --> 00:24:22,330
+so easy or I find it so easy cuz there's
+so many lock choices you can use so it
+
+1056
+00:24:22,330 --> 00:24:22,340
+so many lock choices you can use so it
+ 
+
+1057
+00:24:22,340 --> 00:24:24,190
+so many lock choices you can use so it
+is actually pretty challenging building
+
+1058
+00:24:24,190 --> 00:24:24,200
+is actually pretty challenging building
+ 
+
+1059
+00:24:24,200 --> 00:24:25,840
+is actually pretty challenging building
+small though I gotta say like every
+
+1060
+00:24:25,840 --> 00:24:25,850
+small though I gotta say like every
+ 
+
+1061
+00:24:25,850 --> 00:24:28,690
+small though I gotta say like every
+single block really makes a huge
+
+1062
+00:24:28,690 --> 00:24:28,700
+single block really makes a huge
+ 
+
+1063
+00:24:28,700 --> 00:24:33,519
+single block really makes a huge
+difference on the overall look so one
+
+1064
+00:24:33,519 --> 00:24:33,529
+difference on the overall look so one
+ 
+
+1065
+00:24:33,529 --> 00:24:34,840
+difference on the overall look so one
+thing that I found really helped was
+
+1066
+00:24:34,840 --> 00:24:34,850
+thing that I found really helped was
+ 
+
+1067
+00:24:34,850 --> 00:24:36,880
+thing that I found really helped was
+using trauma and dirt here so you have
+
+1068
+00:24:36,880 --> 00:24:36,890
+using trauma and dirt here so you have
+ 
+
+1069
+00:24:36,890 --> 00:24:40,990
+using trauma and dirt here so you have
+these little little bump ups every so
+
+1070
+00:24:40,990 --> 00:24:41,000
+these little little bump ups every so
+ 
+
+1071
+00:24:41,000 --> 00:24:44,490
+these little little bump ups every so
+often that adds a lot to the overall
+
+1072
+00:24:44,490 --> 00:24:44,500
+often that adds a lot to the overall
+ 
+
+1073
+00:24:44,500 --> 00:24:47,620
+often that adds a lot to the overall
+kiosks or the overall things that break
+
+1074
+00:24:47,620 --> 00:24:47,630
+kiosks or the overall things that break
+ 
+
+1075
+00:24:47,630 --> 00:24:50,230
+kiosks or the overall things that break
+up your eye here as you look compared to
+
+1076
+00:24:50,230 --> 00:24:50,240
+up your eye here as you look compared to
+ 
+
+1077
+00:24:50,240 --> 00:24:53,460
+up your eye here as you look compared to
+when it was like all grass here
+
+1078
+00:24:53,460 --> 00:24:53,470
+when it was like all grass here
+ 
+
+1079
+00:24:53,470 --> 00:24:56,889
+when it was like all grass here
+yeah I think it's quite nice turned out
+
+1080
+00:24:56,889 --> 00:24:56,899
+yeah I think it's quite nice turned out
+ 
+
+1081
+00:24:56,899 --> 00:25:00,100
+yeah I think it's quite nice turned out
+okay doesn't really do much this is more
+
+1082
+00:25:00,100 --> 00:25:00,110
+okay doesn't really do much this is more
+ 
+
+1083
+00:25:00,110 --> 00:25:01,870
+okay doesn't really do much this is more
+of an intersection room but I did put in
+
+1084
+00:25:01,870 --> 00:25:01,880
+of an intersection room but I did put in
+ 
+
+1085
+00:25:01,880 --> 00:25:04,600
+of an intersection room but I did put in
+like a little fishing station we can get
+
+1086
+00:25:04,600 --> 00:25:04,610
+like a little fishing station we can get
+ 
+
+1087
+00:25:04,610 --> 00:25:05,799
+like a little fishing station we can get
+our fishing right here let's see if this
+
+1088
+00:25:05,799 --> 00:25:05,809
+our fishing right here let's see if this
+ 
+
+1089
+00:25:05,809 --> 00:25:09,039
+our fishing right here let's see if this
+actually works and we fish in small mode
+
+1090
+00:25:09,039 --> 00:25:09,049
+actually works and we fish in small mode
+ 
+
+1091
+00:25:09,049 --> 00:25:14,669
+actually works and we fish in small mode
+looks like we can oh yeah fresh water
+
+1092
+00:25:14,669 --> 00:25:14,679
+looks like we can oh yeah fresh water
+ 
+
+1093
+00:25:14,679 --> 00:25:19,330
+looks like we can oh yeah fresh water
+fresh fishies no fishies they fixed the
+
+1094
+00:25:19,330 --> 00:25:19,340
+fresh fishies no fishies they fixed the
+ 
+
+1095
+00:25:19,340 --> 00:25:21,370
+fresh fishies no fishies they fixed the
+fishing in 1.11 by the way so the bobber
+
+1096
+00:25:21,370 --> 00:25:21,380
+fishing in 1.11 by the way so the bobber
+ 
+
+1097
+00:25:21,380 --> 00:25:23,200
+fishing in 1.11 by the way so the bobber
+actually settles where it's supposed to
+
+1098
+00:25:23,200 --> 00:25:23,210
+actually settles where it's supposed to
+ 
+
+1099
+00:25:23,210 --> 00:25:25,840
+actually settles where it's supposed to
+go instead of like up in the air a block
+
+1100
+00:25:25,840 --> 00:25:25,850
+go instead of like up in the air a block
+ 
+
+1101
+00:25:25,850 --> 00:25:31,000
+go instead of like up in the air a block
+or two so it's pretty nice if we're
+
+1102
+00:25:31,000 --> 00:25:31,010
+or two so it's pretty nice if we're
+ 
+
+1103
+00:25:31,010 --> 00:25:33,549
+or two so it's pretty nice if we're
+gonna get any fishies oh here we go yeah
+
+1104
+00:25:33,549 --> 00:25:33,559
+gonna get any fishies oh here we go yeah
+ 
+
+1105
+00:25:33,559 --> 00:25:36,549
+gonna get any fishies oh here we go yeah
+except we can't actually get it started
+
+1106
+00:25:36,549 --> 00:25:36,559
+except we can't actually get it started
+ 
+
+1107
+00:25:36,559 --> 00:25:40,870
+except we can't actually get it started
+so you had a secret sea lantern there if
+
+1108
+00:25:40,870 --> 00:25:40,880
+so you had a secret sea lantern there if
+ 
+
+1109
+00:25:40,880 --> 00:25:44,289
+so you had a secret sea lantern there if
+I go down I tent you back up so not the
+
+1110
+00:25:44,289 --> 00:25:44,299
+I go down I tent you back up so not the
+ 
+
+1111
+00:25:44,299 --> 00:25:49,659
+I go down I tent you back up so not the
+best place to do fishing actually what
+
+1112
+00:25:49,659 --> 00:25:49,669
+best place to do fishing actually what
+ 
+
+1113
+00:25:49,669 --> 00:25:51,730
+best place to do fishing actually what
+else got a brewing station here I tried
+
+1114
+00:25:51,730 --> 00:25:51,740
+else got a brewing station here I tried
+ 
+
+1115
+00:25:51,740 --> 00:25:53,320
+else got a brewing station here I tried
+putting a trapdoor up here I was hoping
+
+1116
+00:25:53,320 --> 00:25:53,330
+putting a trapdoor up here I was hoping
+ 
+
+1117
+00:25:53,330 --> 00:25:55,210
+putting a trapdoor up here I was hoping
+you could still like stay underneath it
+
+1118
+00:25:55,210 --> 00:25:55,220
+you could still like stay underneath it
+ 
+
+1119
+00:25:55,220 --> 00:25:59,379
+you could still like stay underneath it
+but you do go out of tunneling mode so
+
+1120
+00:25:59,379 --> 00:25:59,389
+but you do go out of tunneling mode so
+ 
+
+1121
+00:25:59,389 --> 00:26:01,870
+but you do go out of tunneling mode so
+that's not that might not work there
+
+1122
+00:26:01,870 --> 00:26:01,880
+that's not that might not work there
+ 
+
+1123
+00:26:01,880 --> 00:26:05,350
+that's not that might not work there
+actually well anyways guys I think we
+
+1124
+00:26:05,350 --> 00:26:05,360
+actually well anyways guys I think we
+ 
+
+1125
+00:26:05,360 --> 00:26:06,730
+actually well anyways guys I think we
+should probably call the episode here
+
+1126
+00:26:06,730 --> 00:26:06,740
+should probably call the episode here
+ 
+
+1127
+00:26:06,740 --> 00:26:09,399
+should probably call the episode here
+for today so let's get to the comments
+
+1128
+00:26:09,399 --> 00:26:09,409
+for today so let's get to the comments
+ 
+
+1129
+00:26:09,409 --> 00:26:12,549
+for today so let's get to the comments
+it says etho hurry up and play Terraria
+
+1130
+00:26:12,549 --> 00:26:12,559
+it says etho hurry up and play Terraria
+ 
+
+1131
+00:26:12,559 --> 00:26:16,899
+it says etho hurry up and play Terraria
+1.3 for new items and dungeons go wake
+
+1132
+00:26:16,899 --> 00:26:16,909
+1.3 for new items and dungeons go wake
+ 
+
+1133
+00:26:16,909 --> 00:26:23,080
+1.3 for new items and dungeons go wake
+up zits News Channel yes I checked it
+
+1134
+00:26:23,080 --> 00:26:23,090
+up zits News Channel yes I checked it
+ 
+
+1135
+00:26:23,090 --> 00:26:25,899
+up zits News Channel yes I checked it
+out right when I came out 1.3 for when
+
+1136
+00:26:25,899 --> 00:26:25,909
+out right when I came out 1.3 for when
+ 
+
+1137
+00:26:25,909 --> 00:26:28,090
+out right when I came out 1.3 for when
+did we play immunes these two I think
+
+1138
+00:26:28,090 --> 00:26:28,100
+did we play immunes these two I think
+ 
+
+1139
+00:26:28,100 --> 00:26:31,299
+did we play immunes these two I think
+- and I proper grammar come on I think
+
+1140
+00:26:31,299 --> 00:26:31,309
+- and I proper grammar come on I think
+ 
+
+1141
+00:26:31,309 --> 00:26:34,299
+- and I proper grammar come on I think
+it was 1.3 - right so I missed the 1.33
+
+1142
+00:26:34,299 --> 00:26:34,309
+it was 1.3 - right so I missed the 1.33
+ 
+
+1143
+00:26:34,309 --> 00:26:37,630
+it was 1.3 - right so I missed the 1.33
+patch totally honestly like I played it
+
+1144
+00:26:37,630 --> 00:26:37,640
+patch totally honestly like I played it
+ 
+
+1145
+00:26:37,640 --> 00:26:39,370
+patch totally honestly like I played it
+I think 10 hours like right when it came
+
+1146
+00:26:39,370 --> 00:26:39,380
+I think 10 hours like right when it came
+ 
+
+1147
+00:26:39,380 --> 00:26:43,620
+I think 10 hours like right when it came
+out the 134 and within those 10 hours
+
+1148
+00:26:43,620 --> 00:26:43,630
+out the 134 and within those 10 hours
+ 
+
+1149
+00:26:43,630 --> 00:26:47,020
+out the 134 and within those 10 hours
+over a few days or whatever I didn't
+
+1150
+00:26:47,020 --> 00:26:47,030
+over a few days or whatever I didn't
+ 
+
+1151
+00:26:47,030 --> 00:26:49,000
+over a few days or whatever I didn't
+find anything new I don't think except I
+
+1152
+00:26:49,000 --> 00:26:49,010
+find anything new I don't think except I
+ 
+
+1153
+00:26:49,010 --> 00:26:52,480
+find anything new I don't think except I
+noticed the deserts had storms now but I
+
+1154
+00:26:52,480 --> 00:26:52,490
+noticed the deserts had storms now but I
+ 
+
+1155
+00:26:52,490 --> 00:26:55,060
+noticed the deserts had storms now but I
+didn't really notice any changes so I
+
+1156
+00:26:55,060 --> 00:26:55,070
+didn't really notice any changes so I
+ 
+
+1157
+00:26:55,070 --> 00:26:56,680
+didn't really notice any changes so I
+don't think it's really warranted to
+
+1158
+00:26:56,680 --> 00:26:56,690
+don't think it's really warranted to
+ 
+
+1159
+00:26:56,690 --> 00:26:59,620
+don't think it's really warranted to
+start a brand new playthrough with just
+
+1160
+00:26:59,620 --> 00:26:59,630
+start a brand new playthrough with just
+ 
+
+1161
+00:26:59,630 --> 00:27:03,760
+start a brand new playthrough with just
+the last two patches or so maybe it's
+
+1162
+00:27:03,760 --> 00:27:03,770
+the last two patches or so maybe it's
+ 
+
+1163
+00:27:03,770 --> 00:27:05,470
+the last two patches or so maybe it's
+maybe you have to get the hard mode
+
+1164
+00:27:05,470 --> 00:27:05,480
+maybe you have to get the hard mode
+ 
+
+1165
+00:27:05,480 --> 00:27:06,940
+maybe you have to get the hard mode
+first I'm not sure but I didn't find
+
+1166
+00:27:06,940 --> 00:27:06,950
+first I'm not sure but I didn't find
+ 
+
+1167
+00:27:06,950 --> 00:27:12,970
+first I'm not sure but I didn't find
+anything new I don't know anyways I am
+
+1168
+00:27:12,970 --> 00:27:12,980
+anything new I don't know anyways I am
+ 
+
+1169
+00:27:12,980 --> 00:27:15,159
+anything new I don't know anyways I am
+hoping that terraria overworld or
+
+1170
+00:27:15,159 --> 00:27:15,169
+hoping that terraria overworld or
+ 
+
+1171
+00:27:15,169 --> 00:27:16,570
+hoping that terraria overworld or
+whatever's is eventually gonna come out
+
+1172
+00:27:16,570 --> 00:27:16,580
+whatever's is eventually gonna come out
+ 
+
+1173
+00:27:16,580 --> 00:27:19,570
+whatever's is eventually gonna come out
+or overwatch or Tory or something with
+
+1174
+00:27:19,570 --> 00:27:19,580
+or overwatch or Tory or something with
+ 
+
+1175
+00:27:19,580 --> 00:27:22,600
+or overwatch or Tory or something with
+an O but it got delayed
+
+1176
+00:27:22,600 --> 00:27:22,610
+an O but it got delayed
+ 
+
+1177
+00:27:22,610 --> 00:27:24,940
+an O but it got delayed
+it sounds like they started working on
+
+1178
+00:27:24,940 --> 00:27:24,950
+it sounds like they started working on
+ 
+
+1179
+00:27:24,950 --> 00:27:27,010
+it sounds like they started working on
+it or they they posted something on it
+
+1180
+00:27:27,010 --> 00:27:27,020
+it or they they posted something on it
+ 
+
+1181
+00:27:27,020 --> 00:27:29,289
+it or they they posted something on it
+recently that they're still working on
+
+1182
+00:27:29,289 --> 00:27:29,299
+recently that they're still working on
+ 
+
+1183
+00:27:29,299 --> 00:27:31,450
+recently that they're still working on
+it so hopefully eventually gets released
+
+1184
+00:27:31,450 --> 00:27:31,460
+it so hopefully eventually gets released
+ 
+
+1185
+00:27:31,460 --> 00:27:35,140
+it so hopefully eventually gets released
+and who knows we might play that but
+
+1186
+00:27:35,140 --> 00:27:35,150
+and who knows we might play that but
+ 
+
+1187
+00:27:35,150 --> 00:27:37,270
+and who knows we might play that but
+yeah do you guys have ideas for the new
+
+1188
+00:27:37,270 --> 00:27:37,280
+yeah do you guys have ideas for the new
+ 
+
+1189
+00:27:37,280 --> 00:27:39,159
+yeah do you guys have ideas for the new
+base on how we can add some variety to
+
+1190
+00:27:39,159 --> 00:27:39,169
+base on how we can add some variety to
+ 
+
+1191
+00:27:39,169 --> 00:27:41,590
+base on how we can add some variety to
+it and whatever please let me know in
+
+1192
+00:27:41,590 --> 00:27:41,600
+it and whatever please let me know in
+ 
+
+1193
+00:27:41,600 --> 00:27:43,810
+it and whatever please let me know in
+the comments but anyways hopefully you
+
+1194
+00:27:43,810 --> 00:27:43,820
+the comments but anyways hopefully you
+ 
+
+1195
+00:27:43,820 --> 00:27:47,649
+the comments but anyways hopefully you
+enjoyed the episode until next time take
+
+1196
+00:27:47,649 --> 00:27:47,659
+enjoyed the episode until next time take
+ 
+
+1197
+00:27:47,659 --> 00:27:52,250
+enjoyed the episode until next time take
+care bye bye
+
+1198
+00:27:52,250 --> 00:27:52,260
+
+ 
+
+1199
+00:27:52,260 --> 00:27:56,900
+
+[Music]
+

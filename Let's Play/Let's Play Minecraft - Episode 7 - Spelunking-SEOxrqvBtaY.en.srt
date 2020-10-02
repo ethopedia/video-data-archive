@@ -1,0 +1,2475 @@
+1
+00:00:00,319 --> 00:00:03,980
+
+little Minecrafters we're back again to
+
+2
+00:00:03,980 --> 00:00:03,990
+little Minecrafters we're back again to
+ 
+
+3
+00:00:03,990 --> 00:00:06,230
+little Minecrafters we're back again to
+our let's play series this is episode 7
+
+4
+00:00:06,230 --> 00:00:06,240
+our let's play series this is episode 7
+ 
+
+5
+00:00:06,240 --> 00:00:09,140
+our let's play series this is episode 7
+and I'm sorry I haven't been putting
+
+6
+00:00:09,140 --> 00:00:09,150
+and I'm sorry I haven't been putting
+ 
+
+7
+00:00:09,150 --> 00:00:12,560
+and I'm sorry I haven't been putting
+episodes out recently I'm probably not
+
+8
+00:00:12,560 --> 00:00:12,570
+episodes out recently I'm probably not
+ 
+
+9
+00:00:12,570 --> 00:00:14,720
+episodes out recently I'm probably not
+going to be getting one out per day I
+
+10
+00:00:14,720 --> 00:00:14,730
+going to be getting one out per day I
+ 
+
+11
+00:00:14,730 --> 00:00:16,939
+going to be getting one out per day I
+just can't I just can't do them that
+
+12
+00:00:16,939 --> 00:00:16,949
+just can't I just can't do them that
+ 
+
+13
+00:00:16,949 --> 00:00:21,130
+just can't I just can't do them that
+fast so I'm sorry if you expect more and
+
+14
+00:00:21,130 --> 00:00:21,140
+fast so I'm sorry if you expect more and
+ 
+
+15
+00:00:21,140 --> 00:00:24,349
+fast so I'm sorry if you expect more and
+I wanted to thank everybody who left
+
+16
+00:00:24,349 --> 00:00:24,359
+I wanted to thank everybody who left
+ 
+
+17
+00:00:24,359 --> 00:00:27,439
+I wanted to thank everybody who left
+comments about the road system someone
+
+18
+00:00:27,439 --> 00:00:27,449
+comments about the road system someone
+ 
+
+19
+00:00:27,449 --> 00:00:32,389
+comments about the road system someone
+pointed out that if these if an empty
+
+20
+00:00:32,389 --> 00:00:32,399
+pointed out that if these if an empty
+ 
+
+21
+00:00:32,399 --> 00:00:35,530
+pointed out that if these if an empty
+boat passes over these pressure plates
+
+22
+00:00:35,530 --> 00:00:35,540
+boat passes over these pressure plates
+ 
+
+23
+00:00:35,540 --> 00:00:38,000
+boat passes over these pressure plates
+it's not going to detect it and send the
+
+24
+00:00:38,000 --> 00:00:38,010
+it's not going to detect it and send the
+ 
+
+25
+00:00:38,010 --> 00:00:41,990
+it's not going to detect it and send the
+boat back to make up for it and then
+
+26
+00:00:41,990 --> 00:00:42,000
+boat back to make up for it and then
+ 
+
+27
+00:00:42,000 --> 00:00:46,100
+boat back to make up for it and then
+some other people said that even if it
+
+28
+00:00:46,100 --> 00:00:46,110
+some other people said that even if it
+ 
+
+29
+00:00:46,110 --> 00:00:49,160
+some other people said that even if it
+was to detect it somehow it would just
+
+30
+00:00:49,160 --> 00:00:49,170
+was to detect it somehow it would just
+ 
+
+31
+00:00:49,170 --> 00:00:51,410
+was to detect it somehow it would just
+cause an infinite loop with the boats so
+
+32
+00:00:51,410 --> 00:00:51,420
+cause an infinite loop with the boats so
+ 
+
+33
+00:00:51,420 --> 00:00:53,750
+cause an infinite loop with the boats so
+I would like to thank you guys for
+
+34
+00:00:53,750 --> 00:00:53,760
+I would like to thank you guys for
+ 
+
+35
+00:00:53,760 --> 00:00:55,610
+I would like to thank you guys for
+pointing that out to me I have I didn't
+
+36
+00:00:55,610 --> 00:00:55,620
+pointing that out to me I have I didn't
+ 
+
+37
+00:00:55,620 --> 00:01:00,260
+pointing that out to me I have I didn't
+think about those things and I don't
+
+38
+00:01:00,260 --> 00:01:00,270
+think about those things and I don't
+ 
+
+39
+00:01:00,270 --> 00:01:01,369
+think about those things and I don't
+think there's any solution to that
+
+40
+00:01:01,369 --> 00:01:01,379
+think there's any solution to that
+ 
+
+41
+00:01:01,379 --> 00:01:06,679
+think there's any solution to that
+problem although it's not really a
+
+42
+00:01:06,679 --> 00:01:06,689
+problem although it's not really a
+ 
+
+43
+00:01:06,689 --> 00:01:12,109
+problem although it's not really a
+problem because I think even if lots of
+
+44
+00:01:12,109 --> 00:01:12,119
+problem because I think even if lots of
+ 
+
+45
+00:01:12,119 --> 00:01:14,420
+problem because I think even if lots of
+extra what is a problem but even if
+
+46
+00:01:14,420 --> 00:01:14,430
+extra what is a problem but even if
+ 
+
+47
+00:01:14,430 --> 00:01:20,719
+extra what is a problem but even if
+extra boats did pile up they would go
+
+48
+00:01:20,719 --> 00:01:20,729
+extra boats did pile up they would go
+ 
+
+49
+00:01:20,729 --> 00:01:23,539
+extra boats did pile up they would go
+down in the stream and then they would
+
+50
+00:01:23,539 --> 00:01:23,549
+down in the stream and then they would
+ 
+
+51
+00:01:23,549 --> 00:01:25,940
+down in the stream and then they would
+start piling up the shaft and you would
+
+52
+00:01:25,940 --> 00:01:25,950
+start piling up the shaft and you would
+ 
+
+53
+00:01:25,950 --> 00:01:27,920
+start piling up the shaft and you would
+have a huge buffer before it causes any
+
+54
+00:01:27,920 --> 00:01:27,930
+have a huge buffer before it causes any
+ 
+
+55
+00:01:27,930 --> 00:01:31,410
+have a huge buffer before it causes any
+actual problems
+
+56
+00:01:31,410 --> 00:01:31,420
+
+ 
+
+57
+00:01:31,420 --> 00:01:34,300
+
+assuming of course that water source is
+
+58
+00:01:34,300 --> 00:01:34,310
+assuming of course that water source is
+ 
+
+59
+00:01:34,310 --> 00:01:37,630
+assuming of course that water source is
+changed like I have in episode 6 to the
+
+60
+00:01:37,630 --> 00:01:37,640
+changed like I have in episode 6 to the
+ 
+
+61
+00:01:37,640 --> 00:01:44,380
+changed like I have in episode 6 to the
+proper way so anyway what we are going
+
+62
+00:01:44,380 --> 00:01:44,390
+proper way so anyway what we are going
+ 
+
+63
+00:01:44,390 --> 00:01:47,980
+proper way so anyway what we are going
+to be doing this episode I hate to say
+
+64
+00:01:47,980 --> 00:01:47,990
+to be doing this episode I hate to say
+ 
+
+65
+00:01:47,990 --> 00:01:52,719
+to be doing this episode I hate to say
+it but we are going exploring in a cave
+
+66
+00:01:52,719 --> 00:01:52,729
+it but we are going exploring in a cave
+ 
+
+67
+00:01:52,729 --> 00:01:56,580
+it but we are going exploring in a cave
+system because we need resources so
+
+68
+00:01:56,580 --> 00:01:56,590
+system because we need resources so
+ 
+
+69
+00:01:56,590 --> 00:02:01,690
+system because we need resources so
+we're going to go hunt for some and I'm
+
+70
+00:02:01,690 --> 00:02:01,700
+we're going to go hunt for some and I'm
+ 
+
+71
+00:02:01,700 --> 00:02:03,520
+we're going to go hunt for some and I'm
+just making preparations here before we
+
+72
+00:02:03,520 --> 00:02:03,530
+just making preparations here before we
+ 
+
+73
+00:02:03,530 --> 00:02:07,990
+just making preparations here before we
+head off I'm going to bring one chest
+
+74
+00:02:07,990 --> 00:02:08,000
+head off I'm going to bring one chest
+ 
+
+75
+00:02:08,000 --> 00:02:17,080
+head off I'm going to bring one chest
+with me I'm going to make probably two
+
+76
+00:02:17,080 --> 00:02:17,090
+with me I'm going to make probably two
+ 
+
+77
+00:02:17,090 --> 00:02:20,979
+with me I'm going to make probably two
+extra swords actually I'm going to make
+
+78
+00:02:20,979 --> 00:02:20,989
+extra swords actually I'm going to make
+ 
+
+79
+00:02:20,989 --> 00:02:24,850
+extra swords actually I'm going to make
+four swords total and I'm going to bring
+
+80
+00:02:24,850 --> 00:02:24,860
+four swords total and I'm going to bring
+ 
+
+81
+00:02:24,860 --> 00:02:26,350
+four swords total and I'm going to bring
+a lot of meat with me because I'll
+
+82
+00:02:26,350 --> 00:02:26,360
+a lot of meat with me because I'll
+ 
+
+83
+00:02:26,360 --> 00:02:35,319
+a lot of meat with me because I'll
+probably need it and oh yeah I'm going
+
+84
+00:02:35,319 --> 00:02:35,329
+probably need it and oh yeah I'm going
+ 
+
+85
+00:02:35,329 --> 00:02:38,500
+probably need it and oh yeah I'm going
+to leave all my valuables here stuff I
+
+86
+00:02:38,500 --> 00:02:38,510
+to leave all my valuables here stuff I
+ 
+
+87
+00:02:38,510 --> 00:02:41,560
+to leave all my valuables here stuff I
+won't need on our trip we're not going
+
+88
+00:02:41,560 --> 00:02:41,570
+won't need on our trip we're not going
+ 
+
+89
+00:02:41,570 --> 00:02:42,880
+won't need on our trip we're not going
+far we're just going to that other
+
+90
+00:02:42,880 --> 00:02:42,890
+far we're just going to that other
+ 
+
+91
+00:02:42,890 --> 00:02:47,680
+far we're just going to that other
+Island next to here and I will show you
+
+92
+00:02:47,680 --> 00:02:47,690
+Island next to here and I will show you
+ 
+
+93
+00:02:47,690 --> 00:02:50,319
+Island next to here and I will show you
+guys how I hunt for iron and stuff
+
+94
+00:02:50,319 --> 00:02:50,329
+guys how I hunt for iron and stuff
+ 
+
+95
+00:02:50,329 --> 00:03:01,699
+guys how I hunt for iron and stuff
+usually
+
+96
+00:03:01,699 --> 00:03:01,709
+
+ 
+
+97
+00:03:01,709 --> 00:03:09,750
+
+that should be pretty close to good I am
+
+98
+00:03:09,750 --> 00:03:09,760
+that should be pretty close to good I am
+ 
+
+99
+00:03:09,760 --> 00:03:11,839
+that should be pretty close to good I am
+going to make a boat too
+
+100
+00:03:11,839 --> 00:03:11,849
+going to make a boat too
+ 
+
+101
+00:03:11,849 --> 00:03:19,379
+going to make a boat too
+so we can get to the island quicker and
+
+102
+00:03:19,379 --> 00:03:19,389
+so we can get to the island quicker and
+ 
+
+103
+00:03:19,389 --> 00:03:24,599
+so we can get to the island quicker and
+because boats are simply awesome okay
+
+104
+00:03:24,599 --> 00:03:24,609
+because boats are simply awesome okay
+ 
+
+105
+00:03:24,609 --> 00:03:27,539
+because boats are simply awesome okay
+and leave my stack of wood here but
+
+106
+00:03:27,539 --> 00:03:27,549
+and leave my stack of wood here but
+ 
+
+107
+00:03:27,549 --> 00:03:31,409
+and leave my stack of wood here but
+always that sleeve that in half steps
+
+108
+00:03:31,409 --> 00:03:31,419
+always that sleeve that in half steps
+ 
+
+109
+00:03:31,419 --> 00:03:37,559
+always that sleeve that in half steps
+tilted glass okay oh yeah I'm gonna make
+
+110
+00:03:37,559 --> 00:03:37,569
+tilted glass okay oh yeah I'm gonna make
+ 
+
+111
+00:03:37,569 --> 00:03:46,110
+tilted glass okay oh yeah I'm gonna make
+a bunch of big taxes and stuff and it
+
+112
+00:03:46,110 --> 00:03:46,120
+a bunch of big taxes and stuff and it
+ 
+
+113
+00:03:46,120 --> 00:03:47,309
+a bunch of big taxes and stuff and it
+sounds like there's a night time which
+
+114
+00:03:47,309 --> 00:03:47,319
+sounds like there's a night time which
+ 
+
+115
+00:03:47,319 --> 00:03:58,170
+sounds like there's a night time which
+is not what I was looking for okay so I
+
+116
+00:03:58,170 --> 00:03:58,180
+is not what I was looking for okay so I
+ 
+
+117
+00:03:58,180 --> 00:04:02,210
+is not what I was looking for okay so I
+think I'm just gonna make a run for it
+
+118
+00:04:02,210 --> 00:04:02,220
+
+ 
+
+119
+00:04:02,220 --> 00:04:09,839
+
+looks kind of light outside still oh man
+
+120
+00:04:09,839 --> 00:04:09,849
+looks kind of light outside still oh man
+ 
+
+121
+00:04:09,849 --> 00:04:16,949
+looks kind of light outside still oh man
+oh man it is on hard and I just saw a
+
+122
+00:04:16,949 --> 00:04:16,959
+oh man it is on hard and I just saw a
+ 
+
+123
+00:04:16,959 --> 00:04:22,230
+oh man it is on hard and I just saw a
+creeper right there there there why is
+
+124
+00:04:22,230 --> 00:04:22,240
+creeper right there there there why is
+ 
+
+125
+00:04:22,240 --> 00:04:24,029
+creeper right there there there why is
+why do I always have so many creepers in
+
+126
+00:04:24,029 --> 00:04:24,039
+why do I always have so many creepers in
+ 
+
+127
+00:04:24,039 --> 00:04:26,999
+why do I always have so many creepers in
+my team you know it's never spiders or
+
+128
+00:04:26,999 --> 00:04:27,009
+my team you know it's never spiders or
+ 
+
+129
+00:04:27,009 --> 00:04:33,280
+my team you know it's never spiders or
+skeletons it's always creepers oh well
+
+130
+00:04:33,280 --> 00:04:33,290
+skeletons it's always creepers oh well
+ 
+
+131
+00:04:33,290 --> 00:04:35,260
+skeletons it's always creepers oh well
+so yeah what we're going to do is we're
+
+132
+00:04:35,260 --> 00:04:35,270
+so yeah what we're going to do is we're
+ 
+
+133
+00:04:35,270 --> 00:04:37,560
+so yeah what we're going to do is we're
+just going to go to this island here and
+
+134
+00:04:37,560 --> 00:04:37,570
+just going to go to this island here and
+ 
+
+135
+00:04:37,570 --> 00:04:40,120
+just going to go to this island here and
+I don't know for sure but I'm guessing
+
+136
+00:04:40,120 --> 00:04:40,130
+I don't know for sure but I'm guessing
+ 
+
+137
+00:04:40,130 --> 00:04:42,850
+I don't know for sure but I'm guessing
+we're going to find a cave system
+
+138
+00:04:42,850 --> 00:04:42,860
+we're going to find a cave system
+ 
+
+139
+00:04:42,860 --> 00:04:49,600
+we're going to find a cave system
+somewhere hopefully and there's a
+
+140
+00:04:49,600 --> 00:04:49,610
+somewhere hopefully and there's a
+ 
+
+141
+00:04:49,610 --> 00:05:06,850
+somewhere hopefully and there's a
+creeper of course so we're just going to
+
+142
+00:05:06,850 --> 00:05:06,860
+creeper of course so we're just going to
+ 
+
+143
+00:05:06,860 --> 00:05:10,990
+creeper of course so we're just going to
+explore this island until we find that
+
+144
+00:05:10,990 --> 00:05:11,000
+explore this island until we find that
+ 
+
+145
+00:05:11,000 --> 00:05:14,380
+explore this island until we find that
+cave system this is already looking like
+
+146
+00:05:14,380 --> 00:05:14,390
+cave system this is already looking like
+ 
+
+147
+00:05:14,390 --> 00:05:19,990
+cave system this is already looking like
+a bad idea to me there's a ton of skill
+
+148
+00:05:19,990 --> 00:05:20,000
+a bad idea to me there's a ton of skill
+ 
+
+149
+00:05:20,000 --> 00:05:36,720
+a bad idea to me there's a ton of skill
+things over there these guys no problem
+
+150
+00:05:36,720 --> 00:05:36,730
+things over there these guys no problem
+ 
+
+151
+00:05:36,730 --> 00:05:51,540
+things over there these guys no problem
+spiders oh I do not like
+
+152
+00:05:51,540 --> 00:05:51,550
+
+ 
+
+153
+00:05:51,550 --> 00:05:56,580
+
+come on Oh
+
+154
+00:05:56,580 --> 00:05:56,590
+
+ 
+
+155
+00:05:56,590 --> 00:06:14,580
+
+- no no where's my boat
+
+156
+00:06:14,580 --> 00:06:14,590
+
+ 
+
+157
+00:06:14,590 --> 00:06:33,219
+
+call me a coward I don't care oh
+
+158
+00:06:33,219 --> 00:06:33,229
+call me a coward I don't care oh
+ 
+
+159
+00:06:33,229 --> 00:07:03,689
+call me a coward I don't care oh
+away - that was come on
+
+160
+00:07:03,689 --> 00:07:03,699
+
+ 
+
+161
+00:07:03,699 --> 00:07:17,370
+
+that was terrible oh good it's daytime
+
+162
+00:07:17,370 --> 00:07:17,380
+
+ 
+
+163
+00:07:17,380 --> 00:07:19,809
+
+yes I'm just going to wait here until
+
+164
+00:07:19,809 --> 00:07:19,819
+yes I'm just going to wait here until
+ 
+
+165
+00:07:19,819 --> 00:07:24,760
+yes I'm just going to wait here until
+it's light I think all right I think we
+
+166
+00:07:24,760 --> 00:07:24,770
+it's light I think all right I think we
+ 
+
+167
+00:07:24,770 --> 00:07:43,570
+it's light I think all right I think we
+can go now I hope no okay we just have
+
+168
+00:07:43,570 --> 00:07:43,580
+can go now I hope no okay we just have
+ 
+
+169
+00:07:43,580 --> 00:07:55,469
+can go now I hope no okay we just have
+to keep an eye out for creepers here Oh
+
+170
+00:07:55,469 --> 00:07:55,479
+
+ 
+
+171
+00:07:55,479 --> 00:08:00,500
+
+only got one left
+
+172
+00:08:00,500 --> 00:08:00,510
+
+ 
+
+173
+00:08:00,510 --> 00:08:02,180
+
+so yeah like I was saying we're just
+
+174
+00:08:02,180 --> 00:08:02,190
+so yeah like I was saying we're just
+ 
+
+175
+00:08:02,190 --> 00:08:04,700
+so yeah like I was saying we're just
+going to walk around this island and
+
+176
+00:08:04,700 --> 00:08:04,710
+going to walk around this island and
+ 
+
+177
+00:08:04,710 --> 00:08:06,950
+going to walk around this island and
+hopefully find a cave somewhere that we
+
+178
+00:08:06,950 --> 00:08:06,960
+hopefully find a cave somewhere that we
+ 
+
+179
+00:08:06,960 --> 00:08:39,640
+hopefully find a cave somewhere that we
+can go in need on our way we lost them
+
+180
+00:08:39,640 --> 00:08:39,650
+
+ 
+
+181
+00:08:39,650 --> 00:08:46,510
+
+check that up that is pretty cool
+
+182
+00:08:46,510 --> 00:08:46,520
+
+ 
+
+183
+00:08:46,520 --> 00:08:51,130
+
+found some iron
+
+184
+00:08:51,130 --> 00:08:51,140
+
+ 
+
+185
+00:08:51,140 --> 00:09:02,960
+
+ultra creepers yay
+
+186
+00:09:02,960 --> 00:09:02,970
+ultra creepers yay
+ 
+
+187
+00:09:02,970 --> 00:09:07,820
+ultra creepers yay
+so this Islands bigger than I thought it
+
+188
+00:09:07,820 --> 00:09:07,830
+so this Islands bigger than I thought it
+ 
+
+189
+00:09:07,830 --> 00:10:13,690
+so this Islands bigger than I thought it
+was that's gonna caves anymore
+
+190
+00:10:13,690 --> 00:10:13,700
+
+ 
+
+191
+00:10:13,700 --> 00:10:18,410
+
+well what do we have here it looks
+
+192
+00:10:18,410 --> 00:10:18,420
+well what do we have here it looks
+ 
+
+193
+00:10:18,420 --> 00:10:19,220
+well what do we have here it looks
+promising
+
+194
+00:10:19,220 --> 00:10:19,230
+promising
+ 
+
+195
+00:10:19,230 --> 00:10:22,370
+promising
+I think this is where we're going to go
+
+196
+00:10:22,370 --> 00:10:22,380
+I think this is where we're going to go
+ 
+
+197
+00:10:22,380 --> 00:10:37,250
+I think this is where we're going to go
+ah that's not a cave oh wait it keeps
+
+198
+00:10:37,250 --> 00:10:37,260
+ah that's not a cave oh wait it keeps
+ 
+
+199
+00:10:37,260 --> 00:10:40,610
+ah that's not a cave oh wait it keeps
+going okay this is what we're going to
+
+200
+00:10:40,610 --> 00:10:40,620
+going okay this is what we're going to
+ 
+
+201
+00:10:40,620 --> 00:10:42,740
+going okay this is what we're going to
+check out so I'm going to set up my
+
+202
+00:10:42,740 --> 00:10:42,750
+check out so I'm going to set up my
+ 
+
+203
+00:10:42,750 --> 00:10:50,210
+check out so I'm going to set up my
+chest here put some meat in it and some
+
+204
+00:10:50,210 --> 00:10:50,220
+chest here put some meat in it and some
+ 
+
+205
+00:10:50,220 --> 00:10:56,180
+chest here put some meat in it and some
+items we find extra swords in case we
+
+206
+00:10:56,180 --> 00:10:56,190
+items we find extra swords in case we
+ 
+
+207
+00:10:56,190 --> 00:10:59,000
+items we find extra swords in case we
+die and we need to come get our items
+
+208
+00:10:59,000 --> 00:10:59,010
+die and we need to come get our items
+ 
+
+209
+00:10:59,010 --> 00:11:02,030
+die and we need to come get our items
+back real quick just go up to the chest
+
+210
+00:11:02,030 --> 00:11:02,040
+back real quick just go up to the chest
+ 
+
+211
+00:11:02,040 --> 00:11:10,510
+back real quick just go up to the chest
+pick them up and head down real fast
+
+212
+00:11:10,510 --> 00:11:10,520
+
+ 
+
+213
+00:11:10,520 --> 00:11:13,100
+
+so this is my favorite type of mining
+
+214
+00:11:13,100 --> 00:11:13,110
+so this is my favorite type of mining
+ 
+
+215
+00:11:13,110 --> 00:11:16,310
+so this is my favorite type of mining
+you just go down find a cave and then
+
+216
+00:11:16,310 --> 00:11:16,320
+you just go down find a cave and then
+ 
+
+217
+00:11:16,320 --> 00:11:19,990
+you just go down find a cave and then
+you harvest all the iron coal you see
+
+218
+00:11:19,990 --> 00:11:20,000
+you harvest all the iron coal you see
+ 
+
+219
+00:11:20,000 --> 00:11:28,940
+you harvest all the iron coal you see
+without having to dig really if you're
+
+220
+00:11:28,940 --> 00:11:28,950
+without having to dig really if you're
+ 
+
+221
+00:11:28,950 --> 00:11:30,470
+without having to dig really if you're
+really lucky you'll find a cave that
+
+222
+00:11:30,470 --> 00:11:30,480
+really lucky you'll find a cave that
+ 
+
+223
+00:11:30,480 --> 00:11:34,250
+really lucky you'll find a cave that
+goes down all the way to bedrock and
+
+224
+00:11:34,250 --> 00:11:34,260
+goes down all the way to bedrock and
+ 
+
+225
+00:11:34,260 --> 00:11:36,440
+goes down all the way to bedrock and
+you'll get redstone or gold and diamonds
+
+226
+00:11:36,440 --> 00:11:36,450
+you'll get redstone or gold and diamonds
+ 
+
+227
+00:11:36,450 --> 00:11:37,220
+you'll get redstone or gold and diamonds
+and all that
+
+228
+00:11:37,220 --> 00:11:37,230
+and all that
+ 
+
+229
+00:11:37,230 --> 00:11:46,280
+and all that
+stuff - alright so that's just the
+
+230
+00:11:46,280 --> 00:11:46,290
+stuff - alright so that's just the
+ 
+
+231
+00:11:46,290 --> 00:11:47,840
+stuff - alright so that's just the
+entrance of the cave and we already got
+
+232
+00:11:47,840 --> 00:11:47,850
+entrance of the cave and we already got
+ 
+
+233
+00:11:47,850 --> 00:11:53,570
+entrance of the cave and we already got
+tons of stuff and now we're going to go
+
+234
+00:11:53,570 --> 00:11:53,580
+tons of stuff and now we're going to go
+ 
+
+235
+00:11:53,580 --> 00:11:58,430
+tons of stuff and now we're going to go
+down deeper and that's our first
+
+236
+00:11:58,430 --> 00:11:58,440
+down deeper and that's our first
+ 
+
+237
+00:11:58,440 --> 00:12:12,910
+down deeper and that's our first
+zombie hopefully this goes down deep
+
+238
+00:12:12,910 --> 00:12:12,920
+
+ 
+
+239
+00:12:12,920 --> 00:12:18,280
+
+sounds like there's a zombie down here I
+
+240
+00:12:18,280 --> 00:12:18,290
+
+ 
+
+241
+00:12:18,290 --> 00:12:27,350
+
+hear something walking around that's a
+
+242
+00:12:27,350 --> 00:12:27,360
+hear something walking around that's a
+ 
+
+243
+00:12:27,360 --> 00:12:45,740
+hear something walking around that's a
+skeleton stupid f9 so yeah that's why I
+
+244
+00:12:45,740 --> 00:12:45,750
+skeleton stupid f9 so yeah that's why I
+ 
+
+245
+00:12:45,750 --> 00:12:48,830
+skeleton stupid f9 so yeah that's why I
+brought this stuff because I knew I was
+
+246
+00:12:48,830 --> 00:12:48,840
+brought this stuff because I knew I was
+ 
+
+247
+00:12:48,840 --> 00:12:57,770
+brought this stuff because I knew I was
+going to die let's take one that was -
+
+248
+00:12:57,770 --> 00:12:57,780
+going to die let's take one that was -
+ 
+
+249
+00:12:57,780 --> 00:13:07,300
+going to die let's take one that was -
+yeah right there that was weird
+
+250
+00:13:07,300 --> 00:13:07,310
+
+ 
+
+251
+00:13:07,310 --> 00:13:16,540
+
+let's still see what's down here
+
+252
+00:13:16,540 --> 00:13:16,550
+
+ 
+
+253
+00:13:16,550 --> 00:13:28,360
+
+huge empty area in here huge empty area
+
+254
+00:13:28,360 --> 00:13:28,370
+
+ 
+
+255
+00:13:28,370 --> 00:13:43,130
+
+kind of strange kinda scary okay that
+
+256
+00:13:43,130 --> 00:13:43,140
+kind of strange kinda scary okay that
+ 
+
+257
+00:13:43,140 --> 00:13:45,760
+kind of strange kinda scary okay that
+was a spider
+
+258
+00:13:45,760 --> 00:13:45,770
+
+ 
+
+259
+00:13:45,770 --> 00:13:51,790
+
+all right I'm kind of lost down here I I
+
+260
+00:13:51,790 --> 00:13:51,800
+all right I'm kind of lost down here I I
+ 
+
+261
+00:13:51,800 --> 00:13:58,660
+all right I'm kind of lost down here I I
+still haven't gone down there or up here
+
+262
+00:13:58,660 --> 00:13:58,670
+
+ 
+
+263
+00:13:58,670 --> 00:14:01,670
+
+so I'm hoping I'll find my way out of
+
+264
+00:14:01,670 --> 00:14:01,680
+so I'm hoping I'll find my way out of
+ 
+
+265
+00:14:01,680 --> 00:14:14,540
+so I'm hoping I'll find my way out of
+here and there's nothing in here well
+
+266
+00:14:14,540 --> 00:14:14,550
+here and there's nothing in here well
+ 
+
+267
+00:14:14,550 --> 00:14:17,840
+here and there's nothing in here well
+maybe there is something I keep hearing
+
+268
+00:14:17,840 --> 00:14:17,850
+maybe there is something I keep hearing
+ 
+
+269
+00:14:17,850 --> 00:14:21,340
+maybe there is something I keep hearing
+these spiders and skeletons and zombies
+
+270
+00:14:21,340 --> 00:14:21,350
+these spiders and skeletons and zombies
+ 
+
+271
+00:14:21,350 --> 00:14:28,480
+these spiders and skeletons and zombies
+and I have no idea where they are
+
+272
+00:14:28,480 --> 00:14:28,490
+
+ 
+
+273
+00:14:28,490 --> 00:14:39,020
+
+you hear that oh crap okay I jumped in
+
+274
+00:14:39,020 --> 00:14:39,030
+you hear that oh crap okay I jumped in
+ 
+
+275
+00:14:39,030 --> 00:14:46,490
+you hear that oh crap okay I jumped in
+real life that scared me
+
+276
+00:14:46,490 --> 00:14:46,500
+
+ 
+
+277
+00:14:46,500 --> 00:15:07,650
+
+little butter how about fighting fair
+
+278
+00:15:07,650 --> 00:15:07,660
+little butter how about fighting fair
+ 
+
+279
+00:15:07,660 --> 00:15:13,140
+little butter how about fighting fair
+huh dead yet
+
+280
+00:15:13,140 --> 00:15:13,150
+huh dead yet
+ 
+
+281
+00:15:13,150 --> 00:15:14,880
+huh dead yet
+guy has a freaking bow and arrow and I
+
+282
+00:15:14,880 --> 00:15:14,890
+guy has a freaking bow and arrow and I
+ 
+
+283
+00:15:14,890 --> 00:15:25,780
+guy has a freaking bow and arrow and I
+have a sword like that's not fair
+
+284
+00:15:25,780 --> 00:15:25,790
+
+ 
+
+285
+00:15:25,790 --> 00:15:32,770
+
+ah okay so I think there's other guys
+
+286
+00:15:32,770 --> 00:15:32,780
+ah okay so I think there's other guys
+ 
+
+287
+00:15:32,780 --> 00:15:43,110
+ah okay so I think there's other guys
+behind here or not
+
+288
+00:15:43,110 --> 00:15:43,120
+
+ 
+
+289
+00:15:43,120 --> 00:15:47,980
+
+all right back to harvesting Hey oh come
+
+290
+00:15:47,980 --> 00:15:47,990
+all right back to harvesting Hey oh come
+ 
+
+291
+00:15:47,990 --> 00:16:00,180
+all right back to harvesting Hey oh come
+on you got to be kidding me who shot me
+
+292
+00:16:00,180 --> 00:16:00,190
+
+ 
+
+293
+00:16:00,190 --> 00:16:12,790
+
+is that from in there what the heck was
+
+294
+00:16:12,790 --> 00:16:12,800
+is that from in there what the heck was
+ 
+
+295
+00:16:12,800 --> 00:16:18,130
+is that from in there what the heck was
+that okay we're going twice
+
+296
+00:16:18,130 --> 00:16:18,140
+that okay we're going twice
+ 
+
+297
+00:16:18,140 --> 00:16:25,660
+that okay we're going twice
+surface here stupid idea make sure
+
+298
+00:16:25,660 --> 00:16:25,670
+surface here stupid idea make sure
+ 
+
+299
+00:16:25,670 --> 00:16:41,560
+surface here stupid idea make sure
+there's a lab around yours it's weird I
+
+300
+00:16:41,560 --> 00:16:41,570
+there's a lab around yours it's weird I
+ 
+
+301
+00:16:41,570 --> 00:16:44,050
+there's a lab around yours it's weird I
+think I'm still really low but I heard a
+
+302
+00:16:44,050 --> 00:16:44,060
+think I'm still really low but I heard a
+ 
+
+303
+00:16:44,060 --> 00:16:48,070
+think I'm still really low but I heard a
+chicken which makes me think I'm at the
+
+304
+00:16:48,070 --> 00:16:48,080
+chicken which makes me think I'm at the
+ 
+
+305
+00:16:48,080 --> 00:16:53,410
+chicken which makes me think I'm at the
+surface but I don't this is very
+
+306
+00:16:53,410 --> 00:16:53,420
+surface but I don't this is very
+ 
+
+307
+00:16:53,420 --> 00:17:00,710
+surface but I don't this is very
+confusing
+
+308
+00:17:00,710 --> 00:17:00,720
+
+ 
+
+309
+00:17:00,720 --> 00:17:02,390
+
+okay
+
+310
+00:17:02,390 --> 00:17:02,400
+okay
+ 
+
+311
+00:17:02,400 --> 00:17:17,760
+okay
+we are at the surface I know as soon as
+
+312
+00:17:17,760 --> 00:17:17,770
+we are at the surface I know as soon as
+ 
+
+313
+00:17:17,770 --> 00:17:19,319
+we are at the surface I know as soon as
+I walk out there creepers going to land
+
+314
+00:17:19,319 --> 00:17:19,329
+I walk out there creepers going to land
+ 
+
+315
+00:17:19,329 --> 00:17:19,800
+I walk out there creepers going to land
+on me
+
+316
+00:17:19,800 --> 00:17:19,810
+on me
+ 
+
+317
+00:17:19,810 --> 00:17:27,980
+on me
+oh speaking of buggers
+
+318
+00:17:27,980 --> 00:17:27,990
+
+ 
+
+319
+00:17:27,990 --> 00:17:47,120
+
+it helped me mind all this coal please
+
+320
+00:17:47,120 --> 00:17:47,130
+
+ 
+
+321
+00:17:47,130 --> 00:17:57,660
+
+hey what was that okay either explode or
+
+322
+00:17:57,660 --> 00:17:57,670
+hey what was that okay either explode or
+ 
+
+323
+00:17:57,670 --> 00:18:18,060
+hey what was that okay either explode or
+let's get this now he gets now I don't
+
+324
+00:18:18,060 --> 00:18:18,070
+let's get this now he gets now I don't
+ 
+
+325
+00:18:18,070 --> 00:18:22,610
+let's get this now he gets now I don't
+know where I am
+
+326
+00:18:22,610 --> 00:18:22,620
+
+ 
+
+327
+00:18:22,620 --> 00:18:27,720
+
+this symbol I can recognize she said I
+
+328
+00:18:27,720 --> 00:18:27,730
+this symbol I can recognize she said I
+ 
+
+329
+00:18:27,730 --> 00:18:39,290
+this symbol I can recognize she said I
+hear Jay
+
+330
+00:18:39,290 --> 00:18:39,300
+
+ 
+
+331
+00:18:39,300 --> 00:19:00,970
+
+oh I'm vulnerable
+
+332
+00:19:00,970 --> 00:19:00,980
+
+ 
+
+333
+00:19:00,980 --> 00:19:10,220
+
+yes you get from here before oh man
+
+334
+00:19:10,220 --> 00:19:10,230
+yes you get from here before oh man
+ 
+
+335
+00:19:10,230 --> 00:19:16,840
+yes you get from here before oh man
+forget that I don't know where I am
+
+336
+00:19:16,840 --> 00:19:16,850
+forget that I don't know where I am
+ 
+
+337
+00:19:16,850 --> 00:19:20,920
+forget that I don't know where I am
+running for my life
+
+338
+00:19:20,920 --> 00:19:20,930
+
+ 
+
+339
+00:19:20,930 --> 00:19:30,350
+
+Negi oh man I just happened to land on
+
+340
+00:19:30,350 --> 00:19:30,360
+Negi oh man I just happened to land on
+ 
+
+341
+00:19:30,360 --> 00:19:45,530
+Negi oh man I just happened to land on
+the tallest tree in the world to get off
+
+342
+00:19:45,530 --> 00:19:45,540
+the tallest tree in the world to get off
+ 
+
+343
+00:19:45,540 --> 00:19:48,070
+the tallest tree in the world to get off
+this island
+
+344
+00:19:48,070 --> 00:19:48,080
+
+ 
+
+345
+00:19:48,080 --> 00:20:00,340
+
+yeah I don't want to die
+
+346
+00:20:00,340 --> 00:20:00,350
+
+ 
+
+347
+00:20:00,350 --> 00:21:15,669
+
+oh man I hate this over yes I'm pretty
+
+348
+00:21:15,669 --> 00:21:15,679
+oh man I hate this over yes I'm pretty
+ 
+
+349
+00:21:15,679 --> 00:21:28,360
+oh man I hate this over yes I'm pretty
+lost oh my
+
+350
+00:21:28,360 --> 00:21:28,370
+lost oh my
+ 
+
+351
+00:21:28,370 --> 00:21:36,759
+lost oh my
+ah well that whole adventure didn't work
+
+352
+00:21:36,759 --> 00:21:36,769
+ah well that whole adventure didn't work
+ 
+
+353
+00:21:36,769 --> 00:21:40,210
+ah well that whole adventure didn't work
+out too well um I mind lots of stuff got
+
+354
+00:21:40,210 --> 00:21:40,220
+out too well um I mind lots of stuff got
+ 
+
+355
+00:21:40,220 --> 00:21:43,990
+out too well um I mind lots of stuff got
+lots of cool lots on and then I went out
+
+356
+00:21:43,990 --> 00:21:44,000
+lots of cool lots on and then I went out
+ 
+
+357
+00:21:44,000 --> 00:21:47,169
+lots of cool lots on and then I went out
+to the surface I got lost then I died
+
+358
+00:21:47,169 --> 00:21:47,179
+to the surface I got lost then I died
+ 
+
+359
+00:21:47,179 --> 00:21:50,080
+to the surface I got lost then I died
+and then I went back to figure out where
+
+360
+00:21:50,080 --> 00:21:50,090
+and then I went back to figure out where
+ 
+
+361
+00:21:50,090 --> 00:21:52,090
+and then I went back to figure out where
+I got lost and I got lost looking where
+
+362
+00:21:52,090 --> 00:21:52,100
+I got lost and I got lost looking where
+ 
+
+363
+00:21:52,100 --> 00:21:54,610
+I got lost and I got lost looking where
+I got lost and I died again and I lost
+
+364
+00:21:54,610 --> 00:21:54,620
+I got lost and I died again and I lost
+ 
+
+365
+00:21:54,620 --> 00:21:57,340
+I got lost and I died again and I lost
+everything so now all my stuff is lost
+
+366
+00:21:57,340 --> 00:21:57,350
+everything so now all my stuff is lost
+ 
+
+367
+00:21:57,350 --> 00:22:01,629
+everything so now all my stuff is lost
+for good and I hate that stupid Island
+
+368
+00:22:01,629 --> 00:22:01,639
+for good and I hate that stupid Island
+ 
+
+369
+00:22:01,639 --> 00:22:06,519
+for good and I hate that stupid Island
+that's not really an island so the new
+
+370
+00:22:06,519 --> 00:22:06,529
+that's not really an island so the new
+ 
+
+371
+00:22:06,529 --> 00:22:08,649
+that's not really an island so the new
+plan since I'm probably never going to
+
+372
+00:22:08,649 --> 00:22:08,659
+plan since I'm probably never going to
+ 
+
+373
+00:22:08,659 --> 00:22:11,230
+plan since I'm probably never going to
+go mining like that ever again because
+
+374
+00:22:11,230 --> 00:22:11,240
+go mining like that ever again because
+ 
+
+375
+00:22:11,240 --> 00:22:13,310
+go mining like that ever again because
+it doesn't work well on hard
+
+376
+00:22:13,310 --> 00:22:13,320
+it doesn't work well on hard
+ 
+
+377
+00:22:13,320 --> 00:22:17,530
+it doesn't work well on hard
+is I am just going to start a mine here
+
+378
+00:22:17,530 --> 00:22:17,540
+is I am just going to start a mine here
+ 
+
+379
+00:22:17,540 --> 00:22:25,700
+is I am just going to start a mine here
+right here right here and I'm just going
+
+380
+00:22:25,700 --> 00:22:25,710
+right here right here and I'm just going
+ 
+
+381
+00:22:25,710 --> 00:22:29,900
+right here right here and I'm just going
+to do straight down to bedrock because
+
+382
+00:22:29,900 --> 00:22:29,910
+to do straight down to bedrock because
+ 
+
+383
+00:22:29,910 --> 00:22:32,300
+to do straight down to bedrock because
+every experience minecraft or knows you
+
+384
+00:22:32,300 --> 00:22:32,310
+every experience minecraft or knows you
+ 
+
+385
+00:22:32,310 --> 00:22:37,280
+every experience minecraft or knows you
+should dig straight down always and so
+
+386
+00:22:37,280 --> 00:22:37,290
+should dig straight down always and so
+ 
+
+387
+00:22:37,290 --> 00:22:38,420
+should dig straight down always and so
+what I'm going to be doing is I'm going
+
+388
+00:22:38,420 --> 00:22:38,430
+what I'm going to be doing is I'm going
+ 
+
+389
+00:22:38,430 --> 00:22:41,590
+what I'm going to be doing is I'm going
+to be mining underneath this ocean here
+
+390
+00:22:41,590 --> 00:22:41,600
+to be mining underneath this ocean here
+ 
+
+391
+00:22:41,600 --> 00:22:45,650
+to be mining underneath this ocean here
+near the bedrock probably ten or sixteen
+
+392
+00:22:45,650 --> 00:22:45,660
+near the bedrock probably ten or sixteen
+ 
+
+393
+00:22:45,660 --> 00:22:47,420
+near the bedrock probably ten or sixteen
+levels above bedrock and I'm going to
+
+394
+00:22:47,420 --> 00:22:47,430
+levels above bedrock and I'm going to
+ 
+
+395
+00:22:47,430 --> 00:22:51,520
+levels above bedrock and I'm going to
+mine out a huge room underneath it and
+
+396
+00:22:51,520 --> 00:22:51,530
+mine out a huge room underneath it and
+ 
+
+397
+00:22:51,530 --> 00:22:56,270
+mine out a huge room underneath it and
+it's going to work as a mob catcher so
+
+398
+00:22:56,270 --> 00:22:56,280
+it's going to work as a mob catcher so
+ 
+
+399
+00:22:56,280 --> 00:22:59,480
+it's going to work as a mob catcher so
+I'll work on that slowly over time as I
+
+400
+00:22:59,480 --> 00:22:59,490
+I'll work on that slowly over time as I
+ 
+
+401
+00:22:59,490 --> 00:23:01,070
+I'll work on that slowly over time as I
+need resources I'll clear out the room
+
+402
+00:23:01,070 --> 00:23:01,080
+need resources I'll clear out the room
+ 
+
+403
+00:23:01,080 --> 00:23:03,980
+need resources I'll clear out the room
+and at the same time I'll be building a
+
+404
+00:23:03,980 --> 00:23:03,990
+and at the same time I'll be building a
+ 
+
+405
+00:23:03,990 --> 00:23:08,560
+and at the same time I'll be building a
+mob catcher so that should work out good
+
+406
+00:23:08,560 --> 00:23:08,570
+mob catcher so that should work out good
+ 
+
+407
+00:23:08,570 --> 00:23:12,830
+mob catcher so that should work out good
+and just going to be using ladders to
+
+408
+00:23:12,830 --> 00:23:12,840
+and just going to be using ladders to
+ 
+
+409
+00:23:12,840 --> 00:23:15,890
+and just going to be using ladders to
+get out of the hole for now and what is
+
+410
+00:23:15,890 --> 00:23:15,900
+get out of the hole for now and what is
+ 
+
+411
+00:23:15,900 --> 00:23:24,230
+get out of the hole for now and what is
+what is that is that more clay oh good
+
+412
+00:23:24,230 --> 00:23:24,240
+what is that is that more clay oh good
+ 
+
+413
+00:23:24,240 --> 00:23:26,720
+what is that is that more clay oh good
+more clay I needed some more that's
+
+414
+00:23:26,720 --> 00:23:26,730
+more clay I needed some more that's
+ 
+
+415
+00:23:26,730 --> 00:23:27,530
+more clay I needed some more that's
+awesome
+
+416
+00:23:27,530 --> 00:23:27,540
+awesome
+ 
+
+417
+00:23:27,540 --> 00:23:34,340
+awesome
+I just about used up all the other clay
+
+418
+00:23:34,340 --> 00:23:34,350
+I just about used up all the other clay
+ 
+
+419
+00:23:34,350 --> 00:23:42,920
+I just about used up all the other clay
+I had J so I'm going to dig this down
+
+420
+00:23:42,920 --> 00:23:42,930
+I had J so I'm going to dig this down
+ 
+
+421
+00:23:42,930 --> 00:23:46,520
+I had J so I'm going to dig this down
+and then I'll see you in a bit so
+
+422
+00:23:46,520 --> 00:23:46,530
+and then I'll see you in a bit so
+ 
+
+423
+00:23:46,530 --> 00:23:48,170
+and then I'll see you in a bit so
+digging has been going very well as you
+
+424
+00:23:48,170 --> 00:23:48,180
+digging has been going very well as you
+ 
+
+425
+00:23:48,180 --> 00:23:52,940
+digging has been going very well as you
+can see I'm pretty deep now and I got
+
+426
+00:23:52,940 --> 00:23:52,950
+can see I'm pretty deep now and I got
+ 
+
+427
+00:23:52,950 --> 00:23:56,540
+can see I'm pretty deep now and I got
+some iron some coal I can have some
+
+428
+00:23:56,540 --> 00:23:56,550
+some iron some coal I can have some
+ 
+
+429
+00:23:56,550 --> 00:24:02,230
+some iron some coal I can have some
+torches in
+
+430
+00:24:02,230 --> 00:24:02,240
+
+ 
+
+431
+00:24:02,240 --> 00:24:05,600
+
+and I know what you're thinking and no
+
+432
+00:24:05,600 --> 00:24:05,610
+and I know what you're thinking and no
+ 
+
+433
+00:24:05,610 --> 00:24:11,149
+and I know what you're thinking and no
+I'm not an idiot the reason why you
+
+434
+00:24:11,149 --> 00:24:11,159
+I'm not an idiot the reason why you
+ 
+
+435
+00:24:11,159 --> 00:24:12,740
+I'm not an idiot the reason why you
+shouldn't dig straight down ever is
+
+436
+00:24:12,740 --> 00:24:12,750
+shouldn't dig straight down ever is
+ 
+
+437
+00:24:12,750 --> 00:24:16,370
+shouldn't dig straight down ever is
+because you will fall in lava but as
+
+438
+00:24:16,370 --> 00:24:16,380
+because you will fall in lava but as
+ 
+
+439
+00:24:16,380 --> 00:24:19,070
+because you will fall in lava but as
+long as you dig like sometimes you don't
+
+440
+00:24:19,070 --> 00:24:19,080
+long as you dig like sometimes you don't
+ 
+
+441
+00:24:19,080 --> 00:24:20,419
+long as you dig like sometimes you don't
+think the block you're standing on
+
+442
+00:24:20,419 --> 00:24:20,429
+think the block you're standing on
+ 
+
+443
+00:24:20,429 --> 00:24:24,230
+think the block you're standing on
+you'll be fine and that's what I've been
+
+444
+00:24:24,230 --> 00:24:24,240
+you'll be fine and that's what I've been
+ 
+
+445
+00:24:24,240 --> 00:24:30,049
+you'll be fine and that's what I've been
+doing and that looks like there is a
+
+446
+00:24:30,049 --> 00:24:30,059
+doing and that looks like there is a
+ 
+
+447
+00:24:30,059 --> 00:24:35,990
+doing and that looks like there is a
+huge lake under there which is good
+
+448
+00:24:35,990 --> 00:24:36,000
+huge lake under there which is good
+ 
+
+449
+00:24:36,000 --> 00:24:43,610
+huge lake under there which is good
+actually because I need lava but just do
+
+450
+00:24:43,610 --> 00:24:43,620
+actually because I need lava but just do
+ 
+
+451
+00:24:43,620 --> 00:25:00,350
+actually because I need lava but just do
+max nice and I think this is level eight
+
+452
+00:25:00,350 --> 00:25:00,360
+max nice and I think this is level eight
+ 
+
+453
+00:25:00,360 --> 00:25:11,680
+max nice and I think this is level eight
+or something where you'll find lava so
+
+454
+00:25:11,680 --> 00:25:11,690
+
+ 
+
+455
+00:25:11,690 --> 00:25:15,710
+
+this is probably the level I'll make the
+
+456
+00:25:15,710 --> 00:25:15,720
+this is probably the level I'll make the
+ 
+
+457
+00:25:15,720 --> 00:25:23,240
+this is probably the level I'll make the
+mob trap can't quite see which way I am
+
+458
+00:25:23,240 --> 00:25:23,250
+mob trap can't quite see which way I am
+ 
+
+459
+00:25:23,250 --> 00:25:30,379
+mob trap can't quite see which way I am
+so speed going what I'm going to do is
+
+460
+00:25:30,379 --> 00:25:30,389
+so speed going what I'm going to do is
+ 
+
+461
+00:25:30,389 --> 00:25:34,039
+so speed going what I'm going to do is
+I'm going to put ladders up here and get
+
+462
+00:25:34,039 --> 00:25:34,049
+I'm going to put ladders up here and get
+ 
+
+463
+00:25:34,049 --> 00:25:40,159
+I'm going to put ladders up here and get
+a base settled I hope have enough enough
+
+464
+00:25:40,159 --> 00:25:40,169
+a base settled I hope have enough enough
+ 
+
+465
+00:25:40,169 --> 00:25:50,729
+a base settled I hope have enough enough
+sticks I don't think I do
+
+466
+00:25:50,729 --> 00:25:50,739
+
+ 
+
+467
+00:25:50,739 --> 00:26:02,170
+
+this is not going to be good
+
+468
+00:26:02,170 --> 00:26:02,180
+
+ 
+
+469
+00:26:02,180 --> 00:26:20,080
+
+come on make it make it 5 4 3 2 1 ah now
+
+470
+00:26:20,080 --> 00:26:20,090
+
+ 
+
+471
+00:26:20,090 --> 00:26:31,070
+
+yeah that works too okay so I'm going to
+
+472
+00:26:31,070 --> 00:26:31,080
+yeah that works too okay so I'm going to
+ 
+
+473
+00:26:31,080 --> 00:26:33,490
+yeah that works too okay so I'm going to
+mark which way I need to go with a torch
+
+474
+00:26:33,490 --> 00:26:33,500
+mark which way I need to go with a torch
+ 
+
+475
+00:26:33,500 --> 00:26:42,380
+mark which way I need to go with a torch
+so that I can see it down there and make
+
+476
+00:26:42,380 --> 00:26:42,390
+so that I can see it down there and make
+ 
+
+477
+00:26:42,390 --> 00:26:43,700
+so that I can see it down there and make
+a little building around this so I don't
+
+478
+00:26:43,700 --> 00:26:43,710
+a little building around this so I don't
+ 
+
+479
+00:26:43,710 --> 00:26:49,550
+a little building around this so I don't
+fall down it for some reason not for
+
+480
+00:26:49,550 --> 00:26:49,560
+fall down it for some reason not for
+ 
+
+481
+00:26:49,560 --> 00:27:08,950
+fall down it for some reason not for
+some reason out of stupidity all right
+
+482
+00:27:08,950 --> 00:27:08,960
+
+ 
+
+483
+00:27:08,960 --> 00:27:14,390
+
+cool
+
+484
+00:27:14,390 --> 00:27:14,400
+
+ 
+
+485
+00:27:14,400 --> 00:27:19,640
+
+and and that's where I'm gonna end the
+
+486
+00:27:19,640 --> 00:27:19,650
+and and that's where I'm gonna end the
+ 
+
+487
+00:27:19,650 --> 00:27:22,640
+and and that's where I'm gonna end the
+video so we got a mind started Fiverr
+
+488
+00:27:22,640 --> 00:27:22,650
+video so we got a mind started Fiverr
+ 
+
+489
+00:27:22,650 --> 00:27:24,820
+video so we got a mind started Fiverr
+need resources I'll go down here for it
+
+490
+00:27:24,820 --> 00:27:24,830
+need resources I'll go down here for it
+ 
+
+491
+00:27:24,830 --> 00:27:30,380
+need resources I'll go down here for it
+and instead of going to this stupid
+
+492
+00:27:30,380 --> 00:27:30,390
+and instead of going to this stupid
+ 
+
+493
+00:27:30,390 --> 00:27:32,810
+and instead of going to this stupid
+island over there and dying over and
+
+494
+00:27:32,810 --> 00:27:32,820
+island over there and dying over and
+ 
+
+495
+00:27:32,820 --> 00:27:40,400
+island over there and dying over and
+over and yeah so until next episode
+

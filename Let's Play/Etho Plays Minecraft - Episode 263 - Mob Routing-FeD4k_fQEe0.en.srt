@@ -1,0 +1,3165 @@
+1
+00:00:07,970 --> 00:00:11,240
+
+hello hello everyone welcome all of you
+
+2
+00:00:11,240 --> 00:00:11,250
+hello hello everyone welcome all of you
+ 
+
+3
+00:00:11,250 --> 00:00:13,730
+hello hello everyone welcome all of you
+you happy people you sad people you
+
+4
+00:00:13,730 --> 00:00:13,740
+you happy people you sad people you
+ 
+
+5
+00:00:13,740 --> 00:00:16,990
+you happy people you sad people you
+funny people you boring people you
+
+6
+00:00:16,990 --> 00:00:17,000
+funny people you boring people you
+ 
+
+7
+00:00:17,000 --> 00:00:20,109
+funny people you boring people you
+awesome people you grammar nazis
+
+8
+00:00:20,109 --> 00:00:20,119
+awesome people you grammar nazis
+ 
+
+9
+00:00:20,119 --> 00:00:23,210
+awesome people you grammar nazis
+actually no grammar nazis get out of
+
+10
+00:00:23,210 --> 00:00:23,220
+actually no grammar nazis get out of
+ 
+
+11
+00:00:23,220 --> 00:00:25,400
+actually no grammar nazis get out of
+here nobody likes you but yeah welcome
+
+12
+00:00:25,400 --> 00:00:25,410
+here nobody likes you but yeah welcome
+ 
+
+13
+00:00:25,410 --> 00:00:29,599
+here nobody likes you but yeah welcome
+back to another episode what I would
+
+14
+00:00:29,599 --> 00:00:29,609
+back to another episode what I would
+ 
+
+15
+00:00:29,609 --> 00:00:34,100
+back to another episode what I would
+like to do today is work on the mob
+
+16
+00:00:34,100 --> 00:00:34,110
+like to do today is work on the mob
+ 
+
+17
+00:00:34,110 --> 00:00:36,440
+like to do today is work on the mob
+system some more it's amazing how many
+
+18
+00:00:36,440 --> 00:00:36,450
+system some more it's amazing how many
+ 
+
+19
+00:00:36,450 --> 00:00:39,470
+system some more it's amazing how many
+people thought I had a cat in real life
+
+20
+00:00:39,470 --> 00:00:39,480
+people thought I had a cat in real life
+ 
+
+21
+00:00:39,480 --> 00:00:41,530
+people thought I had a cat in real life
+just because of that guy they're
+
+22
+00:00:41,530 --> 00:00:41,540
+just because of that guy they're
+ 
+
+23
+00:00:41,540 --> 00:00:43,670
+just because of that guy they're
+constantly meowing
+
+24
+00:00:43,670 --> 00:00:43,680
+constantly meowing
+ 
+
+25
+00:00:43,680 --> 00:00:46,639
+constantly meowing
+it is very realistic that meow I gotta
+
+26
+00:00:46,639 --> 00:00:46,649
+it is very realistic that meow I gotta
+ 
+
+27
+00:00:46,649 --> 00:00:50,180
+it is very realistic that meow I gotta
+say I bet you they got it off of a real
+
+28
+00:00:50,180 --> 00:00:50,190
+say I bet you they got it off of a real
+ 
+
+29
+00:00:50,190 --> 00:00:54,380
+say I bet you they got it off of a real
+cat in fact but yeah so what I would
+
+30
+00:00:54,380 --> 00:00:54,390
+cat in fact but yeah so what I would
+ 
+
+31
+00:00:54,390 --> 00:00:56,779
+cat in fact but yeah so what I would
+like to do with this thing
+
+32
+00:00:56,779 --> 00:00:56,789
+like to do with this thing
+ 
+
+33
+00:00:56,789 --> 00:00:59,180
+like to do with this thing
+is eventually build like a command
+
+34
+00:00:59,180 --> 00:00:59,190
+is eventually build like a command
+ 
+
+35
+00:00:59,190 --> 00:01:01,819
+is eventually build like a command
+central room where I can control all the
+
+36
+00:01:01,819 --> 00:01:01,829
+central room where I can control all the
+ 
+
+37
+00:01:01,829 --> 00:01:04,429
+central room where I can control all the
+things it does from a single a single
+
+38
+00:01:04,429 --> 00:01:04,439
+things it does from a single a single
+ 
+
+39
+00:01:04,439 --> 00:01:07,210
+things it does from a single a single
+room so like all the different options
+
+40
+00:01:07,210 --> 00:01:07,220
+room so like all the different options
+ 
+
+41
+00:01:07,220 --> 00:01:09,560
+room so like all the different options
+so one thing we can do with our mob
+
+42
+00:01:09,560 --> 00:01:09,570
+so one thing we can do with our mob
+ 
+
+43
+00:01:09,570 --> 00:01:11,300
+so one thing we can do with our mob
+system is turn it on and off we have a
+
+44
+00:01:11,300 --> 00:01:11,310
+system is turn it on and off we have a
+ 
+
+45
+00:01:11,310 --> 00:01:13,429
+system is turn it on and off we have a
+lighting system built in so that's one
+
+46
+00:01:13,429 --> 00:01:13,439
+lighting system built in so that's one
+ 
+
+47
+00:01:13,439 --> 00:01:16,640
+lighting system built in so that's one
+one feature we want to control we have
+
+48
+00:01:16,640 --> 00:01:16,650
+one feature we want to control we have
+ 
+
+49
+00:01:16,650 --> 00:01:20,440
+one feature we want to control we have
+this thing here which switches between
+
+50
+00:01:20,440 --> 00:01:20,450
+this thing here which switches between
+ 
+
+51
+00:01:20,450 --> 00:01:23,990
+this thing here which switches between
+Auto killing the mobs and sending them
+
+52
+00:01:23,990 --> 00:01:24,000
+Auto killing the mobs and sending them
+ 
+
+53
+00:01:24,000 --> 00:01:27,050
+Auto killing the mobs and sending them
+to this order so that's a second option
+
+54
+00:01:27,050 --> 00:01:27,060
+to this order so that's a second option
+ 
+
+55
+00:01:27,060 --> 00:01:32,359
+to this order so that's a second option
+and then it's really up to us we're
+
+56
+00:01:32,359 --> 00:01:32,369
+and then it's really up to us we're
+ 
+
+57
+00:01:32,369 --> 00:01:33,830
+and then it's really up to us we're
+still in the middle of making this thing
+
+58
+00:01:33,830 --> 00:01:33,840
+still in the middle of making this thing
+ 
+
+59
+00:01:33,840 --> 00:01:36,109
+still in the middle of making this thing
+so we have to figure that out what else
+
+60
+00:01:36,109 --> 00:01:36,119
+so we have to figure that out what else
+ 
+
+61
+00:01:36,119 --> 00:01:39,740
+so we have to figure that out what else
+do we want to include with our mob
+
+62
+00:01:39,740 --> 00:01:39,750
+do we want to include with our mob
+ 
+
+63
+00:01:39,750 --> 00:01:44,120
+do we want to include with our mob
+system well let's see I want to do that
+
+64
+00:01:44,120 --> 00:01:44,130
+system well let's see I want to do that
+ 
+
+65
+00:01:44,130 --> 00:01:46,670
+system well let's see I want to do that
+bomb factory thing our ultimate goal is
+
+66
+00:01:46,670 --> 00:01:46,680
+bomb factory thing our ultimate goal is
+ 
+
+67
+00:01:46,680 --> 00:01:51,050
+bomb factory thing our ultimate goal is
+to make an automatic wood harvesting
+
+68
+00:01:51,050 --> 00:01:51,060
+to make an automatic wood harvesting
+ 
+
+69
+00:01:51,060 --> 00:01:54,710
+to make an automatic wood harvesting
+system also a cobble harvesting system
+
+70
+00:01:54,710 --> 00:01:54,720
+system also a cobble harvesting system
+ 
+
+71
+00:01:54,720 --> 00:01:57,609
+system also a cobble harvesting system
+would be nice so those are two options
+
+72
+00:01:57,609 --> 00:01:57,619
+would be nice so those are two options
+ 
+
+73
+00:01:57,619 --> 00:02:02,740
+would be nice so those are two options
+to get them into the bomb factory though
+
+74
+00:02:02,740 --> 00:02:02,750
+to get them into the bomb factory though
+ 
+
+75
+00:02:02,750 --> 00:02:05,569
+to get them into the bomb factory though
+we can either send the creepers and
+
+76
+00:02:05,569 --> 00:02:05,579
+we can either send the creepers and
+ 
+
+77
+00:02:05,579 --> 00:02:09,859
+we can either send the creepers and
+skeletons direct but we might also want
+
+78
+00:02:09,859 --> 00:02:09,869
+skeletons direct but we might also want
+ 
+
+79
+00:02:09,869 --> 00:02:11,809
+skeletons direct but we might also want
+to use the bomb factory as a record
+
+80
+00:02:11,809 --> 00:02:11,819
+to use the bomb factory as a record
+ 
+
+81
+00:02:11,819 --> 00:02:14,480
+to use the bomb factory as a record
+factory because it's basically the same
+
+82
+00:02:14,480 --> 00:02:14,490
+factory because it's basically the same
+ 
+
+83
+00:02:14,490 --> 00:02:16,310
+factory because it's basically the same
+set up all we have to do instead though
+
+84
+00:02:16,310 --> 00:02:16,320
+set up all we have to do instead though
+ 
+
+85
+00:02:16,320 --> 00:02:18,980
+set up all we have to do instead though
+is get the creepers down to one hit
+
+86
+00:02:18,980 --> 00:02:18,990
+is get the creepers down to one hit
+ 
+
+87
+00:02:18,990 --> 00:02:22,630
+is get the creepers down to one hit
+before we send them to it and then
+
+88
+00:02:22,630 --> 00:02:22,640
+before we send them to it and then
+ 
+
+89
+00:02:22,640 --> 00:02:25,340
+before we send them to it and then
+they'll get one shot killed by the
+
+90
+00:02:25,340 --> 00:02:25,350
+they'll get one shot killed by the
+ 
+
+91
+00:02:25,350 --> 00:02:29,630
+they'll get one shot killed by the
+skeleton so we got some figuring out to
+
+92
+00:02:29,630 --> 00:02:29,640
+skeleton so we got some figuring out to
+ 
+
+93
+00:02:29,640 --> 00:02:33,880
+skeleton so we got some figuring out to
+do here but basically let's let's start
+
+94
+00:02:33,880 --> 00:02:33,890
+do here but basically let's let's start
+ 
+
+95
+00:02:33,890 --> 00:02:35,960
+do here but basically let's let's start
+messing around with stuff here so this
+
+96
+00:02:35,960 --> 00:02:35,970
+messing around with stuff here so this
+ 
+
+97
+00:02:35,970 --> 00:02:38,560
+messing around with stuff here so this
+is where the creepers fall down here
+
+98
+00:02:38,560 --> 00:02:38,570
+is where the creepers fall down here
+ 
+
+99
+00:02:38,570 --> 00:02:44,870
+is where the creepers fall down here
+zombies their skeletons is there I think
+
+100
+00:02:44,870 --> 00:02:44,880
+zombies their skeletons is there I think
+ 
+
+101
+00:02:44,880 --> 00:02:50,840
+zombies their skeletons is there I think
+what we should do is try to position
+
+102
+00:02:50,840 --> 00:02:50,850
+what we should do is try to position
+ 
+
+103
+00:02:50,850 --> 00:02:57,020
+what we should do is try to position
+them all like like three tubes that we
+
+104
+00:02:57,020 --> 00:02:57,030
+them all like like three tubes that we
+ 
+
+105
+00:02:57,030 --> 00:02:58,580
+them all like like three tubes that we
+can actually interact with down there
+
+106
+00:02:58,580 --> 00:02:58,590
+can actually interact with down there
+ 
+
+107
+00:02:58,590 --> 00:03:02,110
+can actually interact with down there
+somewhere so let's let's go down here
+
+108
+00:03:02,110 --> 00:03:02,120
+somewhere so let's let's go down here
+ 
+
+109
+00:03:02,120 --> 00:03:05,420
+somewhere so let's let's go down here
+the fall and then we want them to get
+
+110
+00:03:05,420 --> 00:03:05,430
+the fall and then we want them to get
+ 
+
+111
+00:03:05,430 --> 00:03:12,800
+the fall and then we want them to get
+moved a little bit which way I guess we
+
+112
+00:03:12,800 --> 00:03:12,810
+moved a little bit which way I guess we
+ 
+
+113
+00:03:12,810 --> 00:03:18,580
+moved a little bit which way I guess we
+would have to move them maybe the hmm
+
+114
+00:03:18,580 --> 00:03:18,590
+would have to move them maybe the hmm
+ 
+
+115
+00:03:18,590 --> 00:03:22,870
+would have to move them maybe the hmm
+let's make them go this way
+
+116
+00:03:22,870 --> 00:03:22,880
+
+ 
+
+117
+00:03:22,880 --> 00:03:26,300
+
+okay so we'll have water here you can
+
+118
+00:03:26,300 --> 00:03:26,310
+okay so we'll have water here you can
+ 
+
+119
+00:03:26,310 --> 00:03:27,920
+okay so we'll have water here you can
+even put that there just so that we
+
+120
+00:03:27,920 --> 00:03:27,930
+even put that there just so that we
+ 
+
+121
+00:03:27,930 --> 00:03:31,610
+even put that there just so that we
+remember water will push creepers over
+
+122
+00:03:31,610 --> 00:03:31,620
+remember water will push creepers over
+ 
+
+123
+00:03:31,620 --> 00:03:38,750
+remember water will push creepers over
+here and we'll make them go maybe one
+
+124
+00:03:38,750 --> 00:03:38,760
+here and we'll make them go maybe one
+ 
+
+125
+00:03:38,760 --> 00:03:42,110
+here and we'll make them go maybe one
+block away from that make it bend around
+
+126
+00:03:42,110 --> 00:03:42,120
+block away from that make it bend around
+ 
+
+127
+00:03:42,120 --> 00:03:45,610
+block away from that make it bend around
+and go here okay
+
+128
+00:03:45,610 --> 00:03:45,620
+and go here okay
+ 
+
+129
+00:03:45,620 --> 00:03:48,500
+and go here okay
+skeletons they fall into this swing and
+
+130
+00:03:48,500 --> 00:03:48,510
+skeletons they fall into this swing and
+ 
+
+131
+00:03:48,510 --> 00:03:50,300
+skeletons they fall into this swing and
+then we'll have a water stream push them
+
+132
+00:03:50,300 --> 00:03:50,310
+then we'll have a water stream push them
+ 
+
+133
+00:03:50,310 --> 00:03:56,630
+then we'll have a water stream push them
+out that way and zombies they fall in
+
+134
+00:03:56,630 --> 00:03:56,640
+out that way and zombies they fall in
+ 
+
+135
+00:03:56,640 --> 00:03:58,970
+out that way and zombies they fall in
+there let's make them just come out over
+
+136
+00:03:58,970 --> 00:03:58,980
+there let's make them just come out over
+ 
+
+137
+00:03:58,980 --> 00:04:10,220
+there let's make them just come out over
+this way like so and then I guess we're
+
+138
+00:04:10,220 --> 00:04:10,230
+this way like so and then I guess we're
+ 
+
+139
+00:04:10,230 --> 00:04:16,050
+this way like so and then I guess we're
+getting close to our auto thing
+
+140
+00:04:16,050 --> 00:04:16,060
+
+ 
+
+141
+00:04:16,060 --> 00:04:21,220
+
+hmm how do we want to do this because
+
+142
+00:04:21,220 --> 00:04:21,230
+hmm how do we want to do this because
+ 
+
+143
+00:04:21,230 --> 00:04:22,510
+hmm how do we want to do this because
+we're gonna need a lot of space to build
+
+144
+00:04:22,510 --> 00:04:22,520
+we're gonna need a lot of space to build
+ 
+
+145
+00:04:22,520 --> 00:04:26,440
+we're gonna need a lot of space to build
+other stuff too let's just think this
+
+146
+00:04:26,440 --> 00:04:26,450
+other stuff too let's just think this
+ 
+
+147
+00:04:26,450 --> 00:04:34,530
+other stuff too let's just think this
+through oh there we go
+
+148
+00:04:34,530 --> 00:04:34,540
+through oh there we go
+ 
+
+149
+00:04:34,540 --> 00:04:40,210
+through oh there we go
+everything's gone it's fine it's
+
+150
+00:04:40,210 --> 00:04:40,220
+everything's gone it's fine it's
+ 
+
+151
+00:04:40,220 --> 00:04:43,710
+everything's gone it's fine it's
+happened before I'm sure okay
+
+152
+00:04:43,710 --> 00:04:43,720
+happened before I'm sure okay
+ 
+
+153
+00:04:43,720 --> 00:04:50,430
+happened before I'm sure okay
+that's that's one way we could do it
+
+154
+00:04:50,430 --> 00:04:50,440
+
+ 
+
+155
+00:04:50,440 --> 00:04:51,610
+
+okay
+
+156
+00:04:51,610 --> 00:04:51,620
+okay
+ 
+
+157
+00:04:51,620 --> 00:04:54,070
+okay
+here's the thing I stopped a moment just
+
+158
+00:04:54,070 --> 00:04:54,080
+here's the thing I stopped a moment just
+ 
+
+159
+00:04:54,080 --> 00:04:56,050
+here's the thing I stopped a moment just
+to plan this and think it through a
+
+160
+00:04:56,050 --> 00:04:56,060
+to plan this and think it through a
+ 
+
+161
+00:04:56,060 --> 00:04:58,960
+to plan this and think it through a
+little bit better as many of you pointed
+
+162
+00:04:58,960 --> 00:04:58,970
+little bit better as many of you pointed
+ 
+
+163
+00:04:58,970 --> 00:05:02,020
+little bit better as many of you pointed
+out before there's absolutely no points
+
+164
+00:05:02,020 --> 00:05:02,030
+out before there's absolutely no points
+ 
+
+165
+00:05:02,030 --> 00:05:04,900
+out before there's absolutely no points
+no point whatsoever to sorting mobs and
+
+166
+00:05:04,900 --> 00:05:04,910
+no point whatsoever to sorting mobs and
+ 
+
+167
+00:05:04,910 --> 00:05:06,730
+no point whatsoever to sorting mobs and
+then automatically killing them and
+
+168
+00:05:06,730 --> 00:05:06,740
+then automatically killing them and
+ 
+
+169
+00:05:06,740 --> 00:05:09,850
+then automatically killing them and
+you're much better off automatically
+
+170
+00:05:09,850 --> 00:05:09,860
+you're much better off automatically
+ 
+
+171
+00:05:09,860 --> 00:05:12,000
+you're much better off automatically
+killing mobs and then sorting their loot
+
+172
+00:05:12,000 --> 00:05:12,010
+killing mobs and then sorting their loot
+ 
+
+173
+00:05:12,010 --> 00:05:15,450
+killing mobs and then sorting their loot
+using hoppers and that kind of stuff so
+
+174
+00:05:15,450 --> 00:05:15,460
+using hoppers and that kind of stuff so
+ 
+
+175
+00:05:15,460 --> 00:05:18,520
+using hoppers and that kind of stuff so
+our goal with this is not to kill them
+
+176
+00:05:18,520 --> 00:05:18,530
+our goal with this is not to kill them
+ 
+
+177
+00:05:18,530 --> 00:05:21,340
+our goal with this is not to kill them
+at this point what we want to do ideally
+
+178
+00:05:21,340 --> 00:05:21,350
+at this point what we want to do ideally
+ 
+
+179
+00:05:21,350 --> 00:05:28,060
+at this point what we want to do ideally
+is get them down to 1 hit kill right the
+
+180
+00:05:28,060 --> 00:05:28,070
+is get them down to 1 hit kill right the
+ 
+
+181
+00:05:28,070 --> 00:05:29,800
+is get them down to 1 hit kill right the
+reason we would want to do that is to
+
+182
+00:05:29,800 --> 00:05:29,810
+reason we would want to do that is to
+ 
+
+183
+00:05:29,810 --> 00:05:34,450
+reason we would want to do that is to
+get XP from them or to get like if
+
+184
+00:05:34,450 --> 00:05:34,460
+get XP from them or to get like if
+ 
+
+185
+00:05:34,460 --> 00:05:36,820
+get XP from them or to get like if
+they're wearing it armor of some sort we
+
+186
+00:05:36,820 --> 00:05:36,830
+they're wearing it armor of some sort we
+ 
+
+187
+00:05:36,830 --> 00:05:41,940
+they're wearing it armor of some sort we
+can possibly get that off of them also I
+
+188
+00:05:41,940 --> 00:05:41,950
+can possibly get that off of them also I
+ 
+
+189
+00:05:41,950 --> 00:05:44,640
+can possibly get that off of them also I
+would like to set up a thing where
+
+190
+00:05:44,640 --> 00:05:44,650
+would like to set up a thing where
+ 
+
+191
+00:05:44,650 --> 00:05:47,680
+would like to set up a thing where
+zombies and skeletons automatically get
+
+192
+00:05:47,680 --> 00:05:47,690
+zombies and skeletons automatically get
+ 
+
+193
+00:05:47,690 --> 00:05:50,830
+zombies and skeletons automatically get
+killed but creepers stay alive in
+
+194
+00:05:50,830 --> 00:05:50,840
+killed but creepers stay alive in
+ 
+
+195
+00:05:50,840 --> 00:05:53,800
+killed but creepers stay alive in
+stockpile somewhere so that we can use a
+
+196
+00:05:53,800 --> 00:05:53,810
+stockpile somewhere so that we can use a
+ 
+
+197
+00:05:53,810 --> 00:05:55,390
+stockpile somewhere so that we can use a
+looting sword on them and get more
+
+198
+00:05:55,390 --> 00:05:55,400
+looting sword on them and get more
+ 
+
+199
+00:05:55,400 --> 00:05:59,200
+looting sword on them and get more
+gunpowder if if we want this this is
+
+200
+00:05:59,200 --> 00:05:59,210
+gunpowder if if we want this this is
+ 
+
+201
+00:05:59,210 --> 00:06:01,630
+gunpowder if if we want this this is
+kind of something fancy we could do the
+
+202
+00:06:01,630 --> 00:06:01,640
+kind of something fancy we could do the
+ 
+
+203
+00:06:01,640 --> 00:06:04,360
+kind of something fancy we could do the
+issue I'm running into now is space we
+
+204
+00:06:04,360 --> 00:06:04,370
+issue I'm running into now is space we
+ 
+
+205
+00:06:04,370 --> 00:06:08,680
+issue I'm running into now is space we
+really don't have a lot of space to work
+
+206
+00:06:08,680 --> 00:06:08,690
+really don't have a lot of space to work
+ 
+
+207
+00:06:08,690 --> 00:06:12,520
+really don't have a lot of space to work
+at the moment I thought of making a
+
+208
+00:06:12,520 --> 00:06:12,530
+at the moment I thought of making a
+ 
+
+209
+00:06:12,530 --> 00:06:14,290
+at the moment I thought of making a
+water elevator and then dropping them
+
+210
+00:06:14,290 --> 00:06:14,300
+water elevator and then dropping them
+ 
+
+211
+00:06:14,300 --> 00:06:17,290
+water elevator and then dropping them
+down just the right height so that they
+
+212
+00:06:17,290 --> 00:06:17,300
+down just the right height so that they
+ 
+
+213
+00:06:17,300 --> 00:06:20,740
+down just the right height so that they
+would be one hit away from death but as
+
+214
+00:06:20,740 --> 00:06:20,750
+would be one hit away from death but as
+ 
+
+215
+00:06:20,750 --> 00:06:22,810
+would be one hit away from death but as
+you can see we have a lot of glass and
+
+216
+00:06:22,810 --> 00:06:22,820
+you can see we have a lot of glass and
+ 
+
+217
+00:06:22,820 --> 00:06:24,130
+you can see we have a lot of glass and
+stuff above here that's not actually
+
+218
+00:06:24,130 --> 00:06:24,140
+stuff above here that's not actually
+ 
+
+219
+00:06:24,140 --> 00:06:26,870
+stuff above here that's not actually
+possible
+
+220
+00:06:26,870 --> 00:06:26,880
+possible
+ 
+
+221
+00:06:26,880 --> 00:06:30,480
+possible
+so I just wanted to create it for a
+
+222
+00:06:30,480 --> 00:06:30,490
+so I just wanted to create it for a
+ 
+
+223
+00:06:30,490 --> 00:06:32,250
+so I just wanted to create it for a
+second and I thought of another way we
+
+224
+00:06:32,250 --> 00:06:32,260
+second and I thought of another way we
+ 
+
+225
+00:06:32,260 --> 00:06:34,590
+second and I thought of another way we
+could do this instead of using fall
+
+226
+00:06:34,590 --> 00:06:34,600
+could do this instead of using fall
+ 
+
+227
+00:06:34,600 --> 00:06:37,680
+could do this instead of using fall
+damage to get them down to one-hit kill
+
+228
+00:06:37,680 --> 00:06:37,690
+damage to get them down to one-hit kill
+ 
+
+229
+00:06:37,690 --> 00:06:46,710
+damage to get them down to one-hit kill
+we could do something like this yeah so
+
+230
+00:06:46,710 --> 00:06:46,720
+we could do something like this yeah so
+ 
+
+231
+00:06:46,720 --> 00:06:49,050
+we could do something like this yeah so
+we just stepped into a creative world
+
+232
+00:06:49,050 --> 00:06:49,060
+we just stepped into a creative world
+ 
+
+233
+00:06:49,060 --> 00:06:50,610
+we just stepped into a creative world
+for a moment here I just want to show
+
+234
+00:06:50,610 --> 00:06:50,620
+for a moment here I just want to show
+ 
+
+235
+00:06:50,620 --> 00:06:53,370
+for a moment here I just want to show
+you how to get them down to a one-hit
+
+236
+00:06:53,370 --> 00:06:53,380
+you how to get them down to a one-hit
+ 
+
+237
+00:06:53,380 --> 00:06:55,970
+you how to get them down to a one-hit
+kill or how I planted with the system
+
+238
+00:06:55,970 --> 00:06:55,980
+kill or how I planted with the system
+ 
+
+239
+00:06:55,980 --> 00:06:59,160
+kill or how I planted with the system
+this actually gets them down to two
+
+240
+00:06:59,160 --> 00:06:59,170
+this actually gets them down to two
+ 
+
+241
+00:06:59,170 --> 00:07:02,880
+this actually gets them down to two
+punches to kill them not just one but in
+
+242
+00:07:02,880 --> 00:07:02,890
+punches to kill them not just one but in
+ 
+
+243
+00:07:02,890 --> 00:07:04,680
+punches to kill them not just one but in
+the sorting system they take a little
+
+244
+00:07:04,680 --> 00:07:04,690
+the sorting system they take a little
+ 
+
+245
+00:07:04,690 --> 00:07:06,570
+the sorting system they take a little
+bit of fall damage like half a Hertz so
+
+246
+00:07:06,570 --> 00:07:06,580
+bit of fall damage like half a Hertz so
+ 
+
+247
+00:07:06,580 --> 00:07:09,090
+bit of fall damage like half a Hertz so
+I think they will be down to a one punch
+
+248
+00:07:09,090 --> 00:07:09,100
+I think they will be down to a one punch
+ 
+
+249
+00:07:09,100 --> 00:07:12,870
+I think they will be down to a one punch
+kill and we want to get them down to
+
+250
+00:07:12,870 --> 00:07:12,880
+kill and we want to get them down to
+ 
+
+251
+00:07:12,880 --> 00:07:14,580
+kill and we want to get them down to
+ground level without taking any more
+
+252
+00:07:14,580 --> 00:07:14,590
+ground level without taking any more
+ 
+
+253
+00:07:14,590 --> 00:07:19,500
+ground level without taking any more
+fall damage and we will hook up one of
+
+254
+00:07:19,500 --> 00:07:19,510
+fall damage and we will hook up one of
+ 
+
+255
+00:07:19,510 --> 00:07:21,960
+fall damage and we will hook up one of
+these lava budget things to each of the
+
+256
+00:07:21,960 --> 00:07:21,970
+these lava budget things to each of the
+ 
+
+257
+00:07:21,970 --> 00:07:24,690
+these lava budget things to each of the
+the mob things so one for the zombies
+
+258
+00:07:24,690 --> 00:07:24,700
+the mob things so one for the zombies
+ 
+
+259
+00:07:24,700 --> 00:07:26,490
+the mob things so one for the zombies
+one for the skeletons and one for the
+
+260
+00:07:26,490 --> 00:07:26,500
+one for the skeletons and one for the
+ 
+
+261
+00:07:26,500 --> 00:07:30,690
+one for the skeletons and one for the
+creepers and then I'll just I'll be able
+
+262
+00:07:30,690 --> 00:07:30,700
+creepers and then I'll just I'll be able
+ 
+
+263
+00:07:30,700 --> 00:07:33,180
+creepers and then I'll just I'll be able
+to hit a button you know I'll get them
+
+264
+00:07:33,180 --> 00:07:33,190
+to hit a button you know I'll get them
+ 
+
+265
+00:07:33,190 --> 00:07:37,110
+to hit a button you know I'll get them
+all down to one hit I hope and we might
+
+266
+00:07:37,110 --> 00:07:37,120
+all down to one hit I hope and we might
+ 
+
+267
+00:07:37,120 --> 00:07:39,720
+all down to one hit I hope and we might
+just do the record firm down at ground
+
+268
+00:07:39,720 --> 00:07:39,730
+just do the record firm down at ground
+ 
+
+269
+00:07:39,730 --> 00:07:43,800
+just do the record firm down at ground
+level too because the way I plan on
+
+270
+00:07:43,800 --> 00:07:43,810
+level too because the way I plan on
+ 
+
+271
+00:07:43,810 --> 00:07:47,219
+level too because the way I plan on
+doing the tubes skeletons will be like
+
+272
+00:07:47,219 --> 00:07:47,229
+doing the tubes skeletons will be like
+ 
+
+273
+00:07:47,229 --> 00:07:50,760
+doing the tubes skeletons will be like
+just right here so if we get just one
+
+274
+00:07:50,760 --> 00:07:50,770
+just right here so if we get just one
+ 
+
+275
+00:07:50,770 --> 00:07:54,420
+just right here so if we get just one
+skeleton in there now we could set up in
+
+276
+00:07:54,420 --> 00:07:54,430
+skeleton in there now we could set up in
+ 
+
+277
+00:07:54,430 --> 00:08:01,830
+skeleton in there now we could set up in
+a way where this where this is open and
+
+278
+00:08:01,830 --> 00:08:01,840
+a way where this where this is open and
+ 
+
+279
+00:08:01,840 --> 00:08:06,990
+a way where this where this is open and
+this is open and we get a skeleton
+
+280
+00:08:06,990 --> 00:08:07,000
+this is open and we get a skeleton
+ 
+
+281
+00:08:07,000 --> 00:08:10,560
+this is open and we get a skeleton
+that's not burning to death get out of
+
+282
+00:08:10,560 --> 00:08:10,570
+that's not burning to death get out of
+ 
+
+283
+00:08:10,570 --> 00:08:20,670
+that's not burning to death get out of
+here like so and if we go to game-mode 0
+
+284
+00:08:20,670 --> 00:08:20,680
+
+ 
+
+285
+00:08:20,680 --> 00:08:25,050
+
+Oh is he dropping they're not dropping
+
+286
+00:08:25,050 --> 00:08:25,060
+Oh is he dropping they're not dropping
+ 
+
+287
+00:08:25,060 --> 00:08:29,189
+Oh is he dropping they're not dropping
+records huh I'll Ariel okay
+
+288
+00:08:29,189 --> 00:08:29,199
+records huh I'll Ariel okay
+ 
+
+289
+00:08:29,199 --> 00:08:32,370
+records huh I'll Ariel okay
+maybe there but yeah that might be an
+
+290
+00:08:32,370 --> 00:08:32,380
+maybe there but yeah that might be an
+ 
+
+291
+00:08:32,380 --> 00:08:35,399
+maybe there but yeah that might be an
+easier way of doing the Oh you didn't
+
+292
+00:08:35,399 --> 00:08:35,409
+easier way of doing the Oh you didn't
+ 
+
+293
+00:08:35,409 --> 00:08:41,850
+easier way of doing the Oh you didn't
+die or maybe you did I'm confused I
+
+294
+00:08:41,850 --> 00:08:41,860
+die or maybe you did I'm confused I
+ 
+
+295
+00:08:41,860 --> 00:08:44,900
+die or maybe you did I'm confused I
+think this will work okay though
+
+296
+00:08:44,900 --> 00:08:44,910
+think this will work okay though
+ 
+
+297
+00:08:44,910 --> 00:08:48,030
+think this will work okay though
+like that's pretty simple and then I
+
+298
+00:08:48,030 --> 00:08:48,040
+like that's pretty simple and then I
+ 
+
+299
+00:08:48,040 --> 00:08:49,950
+like that's pretty simple and then I
+don't really plan on using a record firm
+
+300
+00:08:49,950 --> 00:08:49,960
+don't really plan on using a record firm
+ 
+
+301
+00:08:49,960 --> 00:08:51,750
+don't really plan on using a record firm
+all that often so I don't need anything
+
+302
+00:08:51,750 --> 00:08:51,760
+all that often so I don't need anything
+ 
+
+303
+00:08:51,760 --> 00:08:58,730
+all that often so I don't need anything
+super fancy okay so it's gonna be
+
+304
+00:08:58,730 --> 00:08:58,740
+super fancy okay so it's gonna be
+ 
+
+305
+00:08:58,740 --> 00:09:02,430
+super fancy okay so it's gonna be
+zombies skeleton creeper all right
+
+306
+00:09:02,430 --> 00:09:02,440
+zombies skeleton creeper all right
+ 
+
+307
+00:09:02,440 --> 00:09:09,000
+zombies skeleton creeper all right
+they'll fall down here there we go
+
+308
+00:09:09,000 --> 00:09:09,010
+they'll fall down here there we go
+ 
+
+309
+00:09:09,010 --> 00:09:13,730
+they'll fall down here there we go
+let's go down the land right there
+
+310
+00:09:13,730 --> 00:09:13,740
+let's go down the land right there
+ 
+
+311
+00:09:13,740 --> 00:09:18,000
+let's go down the land right there
+so we're gonna have we're gonna have a
+
+312
+00:09:18,000 --> 00:09:18,010
+so we're gonna have we're gonna have a
+ 
+
+313
+00:09:18,010 --> 00:09:24,800
+so we're gonna have we're gonna have a
+wall of like tubes for them over here
+
+314
+00:09:24,800 --> 00:09:24,810
+
+ 
+
+315
+00:09:24,810 --> 00:09:28,440
+
+the way I plan on doing this is we'll
+
+316
+00:09:28,440 --> 00:09:28,450
+the way I plan on doing this is we'll
+ 
+
+317
+00:09:28,450 --> 00:09:30,780
+the way I plan on doing this is we'll
+have like this is all getting torn out
+
+318
+00:09:30,780 --> 00:09:30,790
+have like this is all getting torn out
+ 
+
+319
+00:09:30,790 --> 00:09:32,400
+have like this is all getting torn out
+this stuff here I don't have to worry
+
+320
+00:09:32,400 --> 00:09:32,410
+this stuff here I don't have to worry
+ 
+
+321
+00:09:32,410 --> 00:09:36,000
+this stuff here I don't have to worry
+about that but there'll be a wall over
+
+322
+00:09:36,000 --> 00:09:36,010
+about that but there'll be a wall over
+ 
+
+323
+00:09:36,010 --> 00:09:38,970
+about that but there'll be a wall over
+here like that kind of wraps around us I
+
+324
+00:09:38,970 --> 00:09:38,980
+here like that kind of wraps around us I
+ 
+
+325
+00:09:38,980 --> 00:09:41,370
+here like that kind of wraps around us I
+think would look cool and we'll be able
+
+326
+00:09:41,370 --> 00:09:41,380
+think would look cool and we'll be able
+ 
+
+327
+00:09:41,380 --> 00:09:43,680
+think would look cool and we'll be able
+to see zombies skeletons creepers and
+
+328
+00:09:43,680 --> 00:09:43,690
+to see zombies skeletons creepers and
+ 
+
+329
+00:09:43,690 --> 00:09:45,900
+to see zombies skeletons creepers and
+we'll also be able to get around to the
+
+330
+00:09:45,900 --> 00:09:45,910
+we'll also be able to get around to the
+ 
+
+331
+00:09:45,910 --> 00:09:48,510
+we'll also be able to get around to the
+other side and see them falling over
+
+332
+00:09:48,510 --> 00:09:48,520
+other side and see them falling over
+ 
+
+333
+00:09:48,520 --> 00:09:55,230
+other side and see them falling over
+here I think and we should probably set
+
+334
+00:09:55,230 --> 00:09:55,240
+here I think and we should probably set
+ 
+
+335
+00:09:55,240 --> 00:09:56,760
+here I think and we should probably set
+up where we can kill these guys too
+
+336
+00:09:56,760 --> 00:09:56,770
+up where we can kill these guys too
+ 
+
+337
+00:09:56,770 --> 00:09:58,560
+up where we can kill these guys too
+because I think the ones that have armor
+
+338
+00:09:58,560 --> 00:09:58,570
+because I think the ones that have armor
+ 
+
+339
+00:09:58,570 --> 00:10:06,000
+because I think the ones that have armor
+on have a chance of surviving but we're
+
+340
+00:10:06,000 --> 00:10:06,010
+on have a chance of surviving but we're
+ 
+
+341
+00:10:06,010 --> 00:10:08,730
+on have a chance of surviving but we're
+gonna have the dispensers like over here
+
+342
+00:10:08,730 --> 00:10:08,740
+gonna have the dispensers like over here
+ 
+
+343
+00:10:08,740 --> 00:10:12,420
+gonna have the dispensers like over here
+here and here with lava in and we'll
+
+344
+00:10:12,420 --> 00:10:12,430
+here and here with lava in and we'll
+ 
+
+345
+00:10:12,430 --> 00:10:14,730
+here and here with lava in and we'll
+have a button on the side we can press
+
+346
+00:10:14,730 --> 00:10:14,740
+have a button on the side we can press
+ 
+
+347
+00:10:14,740 --> 00:10:20,460
+have a button on the side we can press
+and and a piston thing to open up so the
+
+348
+00:10:20,460 --> 00:10:20,470
+and and a piston thing to open up so the
+ 
+
+349
+00:10:20,470 --> 00:10:22,290
+and and a piston thing to open up so the
+skeletons can see us if we're standing
+
+350
+00:10:22,290 --> 00:10:22,300
+skeletons can see us if we're standing
+ 
+
+351
+00:10:22,300 --> 00:10:28,320
+skeletons can see us if we're standing
+like right here to get records from them
+
+352
+00:10:28,320 --> 00:10:28,330
+
+ 
+
+353
+00:10:28,330 --> 00:10:31,120
+
+well that's the general plan for what
+
+354
+00:10:31,120 --> 00:10:31,130
+well that's the general plan for what
+ 
+
+355
+00:10:31,130 --> 00:10:32,560
+well that's the general plan for what
+happens to some moms after they go
+
+356
+00:10:32,560 --> 00:10:32,570
+happens to some moms after they go
+ 
+
+357
+00:10:32,570 --> 00:10:36,460
+happens to some moms after they go
+through this order I will add if if it's
+
+358
+00:10:36,460 --> 00:10:36,470
+through this order I will add if if it's
+ 
+
+359
+00:10:36,470 --> 00:10:38,350
+through this order I will add if if it's
+not too tough I'm gonna add Auto killers
+
+360
+00:10:38,350 --> 00:10:38,360
+not too tough I'm gonna add Auto killers
+ 
+
+361
+00:10:38,360 --> 00:10:43,390
+not too tough I'm gonna add Auto killers
+for each of them individually - like if
+
+362
+00:10:43,390 --> 00:10:43,400
+for each of them individually - like if
+ 
+
+363
+00:10:43,400 --> 00:10:45,340
+for each of them individually - like if
+we want creepers to stockpile for
+
+364
+00:10:45,340 --> 00:10:45,350
+we want creepers to stockpile for
+ 
+
+365
+00:10:45,350 --> 00:10:47,080
+we want creepers to stockpile for
+example we need to automatically kill
+
+366
+00:10:47,080 --> 00:10:47,090
+example we need to automatically kill
+ 
+
+367
+00:10:47,090 --> 00:10:50,410
+example we need to automatically kill
+the zombies and the skeletons and then
+
+368
+00:10:50,410 --> 00:10:50,420
+the zombies and the skeletons and then
+ 
+
+369
+00:10:50,420 --> 00:10:53,410
+the zombies and the skeletons and then
+we'll get like up to 80 creepers into
+
+370
+00:10:53,410 --> 00:10:53,420
+we'll get like up to 80 creepers into
+ 
+
+371
+00:10:53,420 --> 00:10:57,190
+we'll get like up to 80 creepers into
+one - which would be pretty cool so if
+
+372
+00:10:57,190 --> 00:10:57,200
+one - which would be pretty cool so if
+ 
+
+373
+00:10:57,200 --> 00:10:59,080
+one - which would be pretty cool so if
+that's not tough too tough to do I'll do
+
+374
+00:10:59,080 --> 00:10:59,090
+that's not tough too tough to do I'll do
+ 
+
+375
+00:10:59,090 --> 00:11:03,990
+that's not tough too tough to do I'll do
+that but the other thing we gotta do is
+
+376
+00:11:03,990 --> 00:11:04,000
+that but the other thing we gotta do is
+ 
+
+377
+00:11:04,000 --> 00:11:07,630
+that but the other thing we gotta do is
+route the mobs to our bomb factory which
+
+378
+00:11:07,630 --> 00:11:07,640
+route the mobs to our bomb factory which
+ 
+
+379
+00:11:07,640 --> 00:11:10,120
+route the mobs to our bomb factory which
+I want to build over here because
+
+380
+00:11:10,120 --> 00:11:10,130
+I want to build over here because
+ 
+
+381
+00:11:10,130 --> 00:11:14,500
+I want to build over here because
+there's a lot of space by the way the
+
+382
+00:11:14,500 --> 00:11:14,510
+there's a lot of space by the way the
+ 
+
+383
+00:11:14,510 --> 00:11:18,340
+there's a lot of space by the way the
+nice thing about having our sort of our
+
+384
+00:11:18,340 --> 00:11:18,350
+nice thing about having our sort of our
+ 
+
+385
+00:11:18,350 --> 00:11:20,050
+nice thing about having our sort of our
+standing area right there is that's
+
+386
+00:11:20,050 --> 00:11:20,060
+standing area right there is that's
+ 
+
+387
+00:11:20,060 --> 00:11:21,790
+standing area right there is that's
+exactly where I want to be to get the
+
+388
+00:11:21,790 --> 00:11:21,800
+exactly where I want to be to get the
+ 
+
+389
+00:11:21,800 --> 00:11:24,760
+exactly where I want to be to get the
+silverfish firm working like that's
+
+390
+00:11:24,760 --> 00:11:24,770
+silverfish firm working like that's
+ 
+
+391
+00:11:24,770 --> 00:11:26,620
+silverfish firm working like that's
+that's where we want to be to activate
+
+392
+00:11:26,620 --> 00:11:26,630
+that's where we want to be to activate
+ 
+
+393
+00:11:26,630 --> 00:11:29,190
+that's where we want to be to activate
+the mob spawner for the silverfish
+
+394
+00:11:29,190 --> 00:11:29,200
+the mob spawner for the silverfish
+ 
+
+395
+00:11:29,200 --> 00:11:33,040
+the mob spawner for the silverfish
+now now to get the mobs to go this way
+
+396
+00:11:33,040 --> 00:11:33,050
+now now to get the mobs to go this way
+ 
+
+397
+00:11:33,050 --> 00:11:35,680
+now now to get the mobs to go this way
+we have to create junctions we don't
+
+398
+00:11:35,680 --> 00:11:35,690
+we have to create junctions we don't
+ 
+
+399
+00:11:35,690 --> 00:11:37,210
+we have to create junctions we don't
+need the zombies for anything so they
+
+400
+00:11:37,210 --> 00:11:37,220
+need the zombies for anything so they
+ 
+
+401
+00:11:37,220 --> 00:11:39,430
+need the zombies for anything so they
+they're free to go that way and and
+
+402
+00:11:39,430 --> 00:11:39,440
+they're free to go that way and and
+ 
+
+403
+00:11:39,440 --> 00:11:41,440
+they're free to go that way and and
+we're done with them but the skeletons
+
+404
+00:11:41,440 --> 00:11:41,450
+we're done with them but the skeletons
+ 
+
+405
+00:11:41,450 --> 00:11:43,060
+we're done with them but the skeletons
+they're gonna have to go this way and
+
+406
+00:11:43,060 --> 00:11:43,070
+they're gonna have to go this way and
+ 
+
+407
+00:11:43,070 --> 00:11:49,360
+they're gonna have to go this way and
+same with the creepers to get the
+
+408
+00:11:49,360 --> 00:11:49,370
+same with the creepers to get the
+ 
+
+409
+00:11:49,370 --> 00:11:51,250
+same with the creepers to get the
+skeletons out is going to be tough
+
+410
+00:11:51,250 --> 00:11:51,260
+skeletons out is going to be tough
+ 
+
+411
+00:11:51,260 --> 00:11:53,410
+skeletons out is going to be tough
+because they're sandwiched between both
+
+412
+00:11:53,410 --> 00:11:53,420
+because they're sandwiched between both
+ 
+
+413
+00:11:53,420 --> 00:11:56,650
+because they're sandwiched between both
+of them I think we'll have to change the
+
+414
+00:11:56,650 --> 00:11:56,660
+of them I think we'll have to change the
+ 
+
+415
+00:11:56,660 --> 00:11:58,810
+of them I think we'll have to change the
+route on the zombies to make it easier
+
+416
+00:11:58,810 --> 00:11:58,820
+route on the zombies to make it easier
+ 
+
+417
+00:11:58,820 --> 00:12:06,210
+route on the zombies to make it easier
+let's maybe go like this and then over
+
+418
+00:12:06,210 --> 00:12:06,220
+let's maybe go like this and then over
+ 
+
+419
+00:12:06,220 --> 00:12:09,440
+let's maybe go like this and then over
+here
+
+420
+00:12:09,440 --> 00:12:09,450
+
+ 
+
+421
+00:12:09,450 --> 00:12:15,130
+
+and I will try that so lock that back up
+
+422
+00:12:15,130 --> 00:12:15,140
+and I will try that so lock that back up
+ 
+
+423
+00:12:15,140 --> 00:12:23,180
+and I will try that so lock that back up
+come up this way and wrap around like
+
+424
+00:12:23,180 --> 00:12:23,190
+come up this way and wrap around like
+ 
+
+425
+00:12:23,190 --> 00:12:29,420
+come up this way and wrap around like
+that all right it's all sealed can I do
+
+426
+00:12:29,420 --> 00:12:29,430
+that all right it's all sealed can I do
+ 
+
+427
+00:12:29,430 --> 00:12:34,880
+that all right it's all sealed can I do
+this dad that gives us like an extra
+
+428
+00:12:34,880 --> 00:12:34,890
+this dad that gives us like an extra
+ 
+
+429
+00:12:34,890 --> 00:12:39,710
+this dad that gives us like an extra
+block to work with the skeletons if if
+
+430
+00:12:39,710 --> 00:12:39,720
+block to work with the skeletons if if
+ 
+
+431
+00:12:39,720 --> 00:12:45,320
+block to work with the skeletons if if
+we make a piston come up right here then
+
+432
+00:12:45,320 --> 00:12:45,330
+we make a piston come up right here then
+ 
+
+433
+00:12:45,330 --> 00:12:47,390
+we make a piston come up right here then
+the water will flow another way or the
+
+434
+00:12:47,390 --> 00:12:47,400
+the water will flow another way or the
+ 
+
+435
+00:12:47,400 --> 00:12:49,640
+the water will flow another way or the
+mobs will fall another way if like for
+
+436
+00:12:49,640 --> 00:12:49,650
+mobs will fall another way if like for
+ 
+
+437
+00:12:49,650 --> 00:12:52,760
+mobs will fall another way if like for
+example we remove over here just going
+
+438
+00:12:52,760 --> 00:12:52,770
+example we remove over here just going
+ 
+
+439
+00:12:52,770 --> 00:12:57,320
+example we remove over here just going
+to pick this up for a sec they go this
+
+440
+00:12:57,320 --> 00:12:57,330
+to pick this up for a sec they go this
+ 
+
+441
+00:12:57,330 --> 00:13:05,810
+to pick this up for a sec they go this
+way and we get them out of here yeah I
+
+442
+00:13:05,810 --> 00:13:05,820
+way and we get them out of here yeah I
+ 
+
+443
+00:13:05,820 --> 00:13:07,340
+way and we get them out of here yeah I
+think we can we just have to route the
+
+444
+00:13:07,340 --> 00:13:07,350
+think we can we just have to route the
+ 
+
+445
+00:13:07,350 --> 00:13:09,920
+think we can we just have to route the
+creepers a little different too but
+
+446
+00:13:09,920 --> 00:13:09,930
+creepers a little different too but
+ 
+
+447
+00:13:09,930 --> 00:13:10,970
+creepers a little different too but
+that's what we'll do we'll have our
+
+448
+00:13:10,970 --> 00:13:10,980
+that's what we'll do we'll have our
+ 
+
+449
+00:13:10,980 --> 00:13:13,790
+that's what we'll do we'll have our
+water source here piston right below
+
+450
+00:13:13,790 --> 00:13:13,800
+water source here piston right below
+ 
+
+451
+00:13:13,800 --> 00:13:16,340
+water source here piston right below
+this and one right below there and we'll
+
+452
+00:13:16,340 --> 00:13:16,350
+this and one right below there and we'll
+ 
+
+453
+00:13:16,350 --> 00:13:18,050
+this and one right below there and we'll
+alternate depending on which way we want
+
+454
+00:13:18,050 --> 00:13:18,060
+alternate depending on which way we want
+ 
+
+455
+00:13:18,060 --> 00:13:25,430
+alternate depending on which way we want
+them to go well it doesn't seem like I
+
+456
+00:13:25,430 --> 00:13:25,440
+them to go well it doesn't seem like I
+ 
+
+457
+00:13:25,440 --> 00:13:27,350
+them to go well it doesn't seem like I
+can get the skeletons out with the way
+
+458
+00:13:27,350 --> 00:13:27,360
+can get the skeletons out with the way
+ 
+
+459
+00:13:27,360 --> 00:13:30,200
+can get the skeletons out with the way
+it's set up currently so what we're
+
+460
+00:13:30,200 --> 00:13:30,210
+it's set up currently so what we're
+ 
+
+461
+00:13:30,210 --> 00:13:33,170
+it's set up currently so what we're
+going to do is move this whole zombie
+
+462
+00:13:33,170 --> 00:13:33,180
+going to do is move this whole zombie
+ 
+
+463
+00:13:33,180 --> 00:13:37,570
+going to do is move this whole zombie
+chain one more block over to the left so
+
+464
+00:13:37,570 --> 00:13:37,580
+chain one more block over to the left so
+ 
+
+465
+00:13:37,580 --> 00:13:40,340
+chain one more block over to the left so
+villager and trapdoors and everything
+
+466
+00:13:40,340 --> 00:13:40,350
+villager and trapdoors and everything
+ 
+
+467
+00:13:40,350 --> 00:13:41,540
+villager and trapdoors and everything
+we're gonna move one block to the left
+
+468
+00:13:41,540 --> 00:13:41,550
+we're gonna move one block to the left
+ 
+
+469
+00:13:41,550 --> 00:13:44,120
+we're gonna move one block to the left
+and that will give us enough space to
+
+470
+00:13:44,120 --> 00:13:44,130
+and that will give us enough space to
+ 
+
+471
+00:13:44,130 --> 00:13:45,860
+and that will give us enough space to
+squeeze the skeletons out of there I
+
+472
+00:13:45,860 --> 00:13:45,870
+squeeze the skeletons out of there I
+ 
+
+473
+00:13:45,870 --> 00:13:49,730
+squeeze the skeletons out of there I
+think yeah
+
+474
+00:13:49,730 --> 00:13:49,740
+think yeah
+ 
+
+475
+00:13:49,740 --> 00:13:52,700
+think yeah
+in the meantime I have prepared a very
+
+476
+00:13:52,700 --> 00:13:52,710
+in the meantime I have prepared a very
+ 
+
+477
+00:13:52,710 --> 00:13:54,950
+in the meantime I have prepared a very
+special clip for you guys I went teaming
+
+478
+00:13:54,950 --> 00:13:54,960
+special clip for you guys I went teaming
+ 
+
+479
+00:13:54,960 --> 00:13:58,100
+special clip for you guys I went teaming
+I never recorded myself caving but I I
+
+480
+00:13:58,100 --> 00:13:58,110
+I never recorded myself caving but I I
+ 
+
+481
+00:13:58,110 --> 00:14:01,310
+I never recorded myself caving but I I
+wanted to try something a little weird
+
+482
+00:14:01,310 --> 00:14:01,320
+wanted to try something a little weird
+ 
+
+483
+00:14:01,320 --> 00:14:04,040
+wanted to try something a little weird
+it turned out pretty cool though and it
+
+484
+00:14:04,040 --> 00:14:04,050
+it turned out pretty cool though and it
+ 
+
+485
+00:14:04,050 --> 00:14:06,110
+it turned out pretty cool though and it
+was really challenging I think you guys
+
+486
+00:14:06,110 --> 00:14:06,120
+was really challenging I think you guys
+ 
+
+487
+00:14:06,120 --> 00:14:09,620
+was really challenging I think you guys
+will enjoy this this is my quest to get
+
+488
+00:14:09,620 --> 00:14:09,630
+will enjoy this this is my quest to get
+ 
+
+489
+00:14:09,630 --> 00:16:32,470
+will enjoy this this is my quest to get
+redstone
+
+490
+00:16:32,470 --> 00:16:32,480
+
+ 
+
+491
+00:16:32,480 --> 00:16:54,759
+
+oh yeah I had a ton of fun doing that
+
+492
+00:16:54,759 --> 00:16:54,769
+oh yeah I had a ton of fun doing that
+ 
+
+493
+00:16:54,769 --> 00:16:58,389
+oh yeah I had a ton of fun doing that
+guys that was incredible what I had was
+
+494
+00:16:58,389 --> 00:16:58,399
+guys that was incredible what I had was
+ 
+
+495
+00:16:58,399 --> 00:17:02,889
+guys that was incredible what I had was
+doing is f5 perspective + f8 go caving
+
+496
+00:17:02,889 --> 00:17:02,899
+doing is f5 perspective + f8 go caving
+ 
+
+497
+00:17:02,899 --> 00:17:06,220
+doing is f5 perspective + f8 go caving
+like that it is insane like you cannot
+
+498
+00:17:06,220 --> 00:17:06,230
+like that it is insane like you cannot
+ 
+
+499
+00:17:06,230 --> 00:17:10,720
+like that it is insane like you cannot
+turn to react or anything or or see what
+
+500
+00:17:10,720 --> 00:17:10,730
+turn to react or anything or or see what
+ 
+
+501
+00:17:10,730 --> 00:17:13,240
+turn to react or anything or or see what
+you're doing it's it adds a whole new
+
+502
+00:17:13,240 --> 00:17:13,250
+you're doing it's it adds a whole new
+ 
+
+503
+00:17:13,250 --> 00:17:15,159
+you're doing it's it adds a whole new
+level of challenge to caving I'll tell
+
+504
+00:17:15,159 --> 00:17:15,169
+level of challenge to caving I'll tell
+ 
+
+505
+00:17:15,169 --> 00:17:16,780
+level of challenge to caving I'll tell
+you that I think I'm gonna try it again
+
+506
+00:17:16,780 --> 00:17:16,790
+you that I think I'm gonna try it again
+ 
+
+507
+00:17:16,790 --> 00:17:19,750
+you that I think I'm gonna try it again
+in the future because I I think I know
+
+508
+00:17:19,750 --> 00:17:19,760
+in the future because I I think I know
+ 
+
+509
+00:17:19,760 --> 00:17:21,370
+in the future because I I think I know
+how to record that a bit better so it's
+
+510
+00:17:21,370 --> 00:17:21,380
+how to record that a bit better so it's
+ 
+
+511
+00:17:21,380 --> 00:17:27,750
+how to record that a bit better so it's
+not as jerky as it was but that was cool
+
+512
+00:17:27,750 --> 00:17:27,760
+not as jerky as it was but that was cool
+ 
+
+513
+00:17:27,760 --> 00:17:32,890
+not as jerky as it was but that was cool
+so this is pretty close to done now
+
+514
+00:17:32,890 --> 00:17:32,900
+so this is pretty close to done now
+ 
+
+515
+00:17:32,900 --> 00:17:35,400
+so this is pretty close to done now
+let's just head on down a little further
+
+516
+00:17:35,400 --> 00:17:35,410
+let's just head on down a little further
+ 
+
+517
+00:17:35,410 --> 00:17:37,750
+let's just head on down a little further
+takes a lot of space to do this mob
+
+518
+00:17:37,750 --> 00:17:37,760
+takes a lot of space to do this mob
+ 
+
+519
+00:17:37,760 --> 00:17:40,930
+takes a lot of space to do this mob
+system stuff this will be our first
+
+520
+00:17:40,930 --> 00:17:40,940
+system stuff this will be our first
+ 
+
+521
+00:17:40,940 --> 00:17:44,020
+system stuff this will be our first
+Junction here for the skeletons and then
+
+522
+00:17:44,020 --> 00:17:44,030
+Junction here for the skeletons and then
+ 
+
+523
+00:17:44,030 --> 00:17:45,820
+Junction here for the skeletons and then
+the creeper one I think I'll put right
+
+524
+00:17:45,820 --> 00:17:45,830
+the creeper one I think I'll put right
+ 
+
+525
+00:17:45,830 --> 00:17:52,299
+the creeper one I think I'll put right
+here will make it branch to the right
+
+526
+00:17:52,299 --> 00:17:52,309
+here will make it branch to the right
+ 
+
+527
+00:17:52,309 --> 00:17:57,010
+here will make it branch to the right
+and to the left I just made this but put
+
+528
+00:17:57,010 --> 00:17:57,020
+and to the left I just made this but put
+ 
+
+529
+00:17:57,020 --> 00:18:06,580
+and to the left I just made this but put
+that and that's sticky pistons oh let me
+
+530
+00:18:06,580 --> 00:18:06,590
+that and that's sticky pistons oh let me
+ 
+
+531
+00:18:06,590 --> 00:18:17,620
+that and that's sticky pistons oh let me
+play some it's being stubborn no try
+
+532
+00:18:17,620 --> 00:18:17,630
+play some it's being stubborn no try
+ 
+
+533
+00:18:17,630 --> 00:18:25,390
+play some it's being stubborn no try
+again last last attempt yes and there we
+
+534
+00:18:25,390 --> 00:18:25,400
+again last last attempt yes and there we
+ 
+
+535
+00:18:25,400 --> 00:18:28,950
+again last last attempt yes and there we
+go perfect okay so what we can do I
+
+536
+00:18:28,950 --> 00:18:28,960
+go perfect okay so what we can do I
+ 
+
+537
+00:18:28,960 --> 00:18:34,090
+go perfect okay so what we can do I
+don't have forehead stone that's what we
+
+538
+00:18:34,090 --> 00:18:34,100
+don't have forehead stone that's what we
+ 
+
+539
+00:18:34,100 --> 00:18:42,419
+don't have forehead stone that's what we
+got to do I think is just
+
+540
+00:18:42,419 --> 00:18:42,429
+
+ 
+
+541
+00:18:42,429 --> 00:18:48,310
+
+have a block here redstone torch right
+
+542
+00:18:48,310 --> 00:18:48,320
+have a block here redstone torch right
+ 
+
+543
+00:18:48,320 --> 00:18:59,770
+have a block here redstone torch right
+there and we will put I don't know that
+
+544
+00:18:59,770 --> 00:18:59,780
+there and we will put I don't know that
+ 
+
+545
+00:18:59,780 --> 00:19:01,419
+there and we will put I don't know that
+won't work can't ever it's don't that's
+
+546
+00:19:01,419 --> 00:19:01,429
+won't work can't ever it's don't that's
+ 
+
+547
+00:19:01,429 --> 00:19:07,060
+won't work can't ever it's don't that's
+there mmm anyway I I think we've worked
+
+548
+00:19:07,060 --> 00:19:07,070
+there mmm anyway I I think we've worked
+ 
+
+549
+00:19:07,070 --> 00:19:08,650
+there mmm anyway I I think we've worked
+on this way too long today you guys are
+
+550
+00:19:08,650 --> 00:19:08,660
+on this way too long today you guys are
+ 
+
+551
+00:19:08,660 --> 00:19:10,029
+on this way too long today you guys are
+probably getting sick of it so we're
+
+552
+00:19:10,029 --> 00:19:10,039
+probably getting sick of it so we're
+ 
+
+553
+00:19:10,039 --> 00:19:12,390
+probably getting sick of it so we're
+gonna we're gonna put an end to that
+
+554
+00:19:12,390 --> 00:19:12,400
+gonna we're gonna put an end to that
+ 
+
+555
+00:19:12,400 --> 00:19:15,460
+gonna we're gonna put an end to that
+actually I think we used up all the time
+
+556
+00:19:15,460 --> 00:19:15,470
+actually I think we used up all the time
+ 
+
+557
+00:19:15,470 --> 00:19:19,029
+actually I think we used up all the time
+I have for today so let's go read the
+
+558
+00:19:19,029 --> 00:19:19,039
+I have for today so let's go read the
+ 
+
+559
+00:19:19,039 --> 00:19:22,419
+I have for today so let's go read the
+comments and we'll call it an end we got
+
+560
+00:19:22,419 --> 00:19:22,429
+comments and we'll call it an end we got
+ 
+
+561
+00:19:22,429 --> 00:19:27,730
+comments and we'll call it an end we got
+a lot done though it's good to comments
+
+562
+00:19:27,730 --> 00:19:27,740
+a lot done though it's good to comments
+ 
+
+563
+00:19:27,740 --> 00:19:29,740
+a lot done though it's good to comments
+picked out for today first comment says
+
+564
+00:19:29,740 --> 00:19:29,750
+picked out for today first comment says
+ 
+
+565
+00:19:29,750 --> 00:19:32,860
+picked out for today first comment says
+etho following the trend of PC gaming in
+
+566
+00:19:32,860 --> 00:19:32,870
+etho following the trend of PC gaming in
+ 
+
+567
+00:19:32,870 --> 00:19:34,960
+etho following the trend of PC gaming in
+the comments I was wondering if you have
+
+568
+00:19:34,960 --> 00:19:34,970
+the comments I was wondering if you have
+ 
+
+569
+00:19:34,970 --> 00:19:37,169
+the comments I was wondering if you have
+ever played Starcraft or Starcraft 2
+
+570
+00:19:37,169 --> 00:19:37,179
+ever played Starcraft or Starcraft 2
+ 
+
+571
+00:19:37,179 --> 00:19:39,669
+ever played Starcraft or Starcraft 2
+since you have played PC games for so
+
+572
+00:19:39,669 --> 00:19:39,679
+since you have played PC games for so
+ 
+
+573
+00:19:39,679 --> 00:19:40,180
+since you have played PC games for so
+long
+
+574
+00:19:40,180 --> 00:19:40,190
+long
+ 
+
+575
+00:19:40,190 --> 00:19:41,740
+long
+surely you have at least played the
+
+576
+00:19:41,740 --> 00:19:41,750
+surely you have at least played the
+ 
+
+577
+00:19:41,750 --> 00:19:44,500
+surely you have at least played the
+first games I'm not fantastic when it
+
+578
+00:19:44,500 --> 00:19:44,510
+first games I'm not fantastic when it
+ 
+
+579
+00:19:44,510 --> 00:19:46,299
+first games I'm not fantastic when it
+comes to online multiplayer but this
+
+580
+00:19:46,299 --> 00:19:46,309
+comes to online multiplayer but this
+ 
+
+581
+00:19:46,309 --> 00:19:50,680
+comes to online multiplayer but this
+story is incredible
+
+582
+00:19:50,680 --> 00:19:50,690
+story is incredible
+ 
+
+583
+00:19:50,690 --> 00:19:53,799
+story is incredible
+I have played both of them and I do own
+
+584
+00:19:53,799 --> 00:19:53,809
+I have played both of them and I do own
+ 
+
+585
+00:19:53,809 --> 00:19:56,590
+I have played both of them and I do own
+both of them actually I haven't played
+
+586
+00:19:56,590 --> 00:19:56,600
+both of them actually I haven't played
+ 
+
+587
+00:19:56,600 --> 00:19:59,560
+both of them actually I haven't played
+them very much though like I enjoyed I
+
+588
+00:19:59,560 --> 00:19:59,570
+them very much though like I enjoyed I
+ 
+
+589
+00:19:59,570 --> 00:20:02,080
+them very much though like I enjoyed I
+enjoyed playing them but I find they get
+
+590
+00:20:02,080 --> 00:20:02,090
+enjoyed playing them but I find they get
+ 
+
+591
+00:20:02,090 --> 00:20:04,060
+enjoyed playing them but I find they get
+repetitive pretty quick doing the
+
+592
+00:20:04,060 --> 00:20:04,070
+repetitive pretty quick doing the
+ 
+
+593
+00:20:04,070 --> 00:20:06,279
+repetitive pretty quick doing the
+single-player stuff and I've tried
+
+594
+00:20:06,279 --> 00:20:06,289
+single-player stuff and I've tried
+ 
+
+595
+00:20:06,289 --> 00:20:09,340
+single-player stuff and I've tried
+playing multiplayer
+
+596
+00:20:09,340 --> 00:20:09,350
+playing multiplayer
+ 
+
+597
+00:20:09,350 --> 00:20:13,090
+playing multiplayer
+I enjoyed that to an extent but I found
+
+598
+00:20:13,090 --> 00:20:13,100
+I enjoyed that to an extent but I found
+ 
+
+599
+00:20:13,100 --> 00:20:15,539
+I enjoyed that to an extent but I found
+it very very stressful like it's not a
+
+600
+00:20:15,539 --> 00:20:15,549
+it very very stressful like it's not a
+ 
+
+601
+00:20:15,549 --> 00:20:18,520
+it very very stressful like it's not a
+casual game at all you can't just sit
+
+602
+00:20:18,520 --> 00:20:18,530
+casual game at all you can't just sit
+ 
+
+603
+00:20:18,530 --> 00:20:22,000
+casual game at all you can't just sit
+back and relax and play it's not that
+
+604
+00:20:22,000 --> 00:20:22,010
+back and relax and play it's not that
+ 
+
+605
+00:20:22,010 --> 00:20:25,270
+back and relax and play it's not that
+I'm super into casual games I like games
+
+606
+00:20:25,270 --> 00:20:25,280
+I'm super into casual games I like games
+ 
+
+607
+00:20:25,280 --> 00:20:27,310
+I'm super into casual games I like games
+that have a lot of depth to them as well
+
+608
+00:20:27,310 --> 00:20:27,320
+that have a lot of depth to them as well
+ 
+
+609
+00:20:27,320 --> 00:20:30,810
+that have a lot of depth to them as well
+but I don't know it's just very
+
+610
+00:20:30,810 --> 00:20:30,820
+but I don't know it's just very
+ 
+
+611
+00:20:30,820 --> 00:20:34,299
+but I don't know it's just very
+stressful very stressful you gotta move
+
+612
+00:20:34,299 --> 00:20:34,309
+stressful very stressful you gotta move
+ 
+
+613
+00:20:34,309 --> 00:20:37,120
+stressful very stressful you gotta move
+quick and think quick and the general
+
+614
+00:20:37,120 --> 00:20:37,130
+quick and think quick and the general
+ 
+
+615
+00:20:37,130 --> 00:20:38,770
+quick and think quick and the general
+feeling I get from people that play it
+
+616
+00:20:38,770 --> 00:20:38,780
+feeling I get from people that play it
+ 
+
+617
+00:20:38,780 --> 00:20:40,419
+feeling I get from people that play it
+is they don't play it to have fun they
+
+618
+00:20:40,419 --> 00:20:40,429
+is they don't play it to have fun they
+ 
+
+619
+00:20:40,429 --> 00:20:43,330
+is they don't play it to have fun they
+play it to to win to prove they're
+
+620
+00:20:43,330 --> 00:20:43,340
+play it to to win to prove they're
+ 
+
+621
+00:20:43,340 --> 00:20:46,149
+play it to to win to prove they're
+better than each other and that kind of
+
+622
+00:20:46,149 --> 00:20:46,159
+better than each other and that kind of
+ 
+
+623
+00:20:46,159 --> 00:20:48,549
+better than each other and that kind of
+thing which isn't really my my type of
+
+624
+00:20:48,549 --> 00:20:48,559
+thing which isn't really my my type of
+ 
+
+625
+00:20:48,559 --> 00:20:52,350
+thing which isn't really my my type of
+thing but they're they're good games
+
+626
+00:20:52,350 --> 00:20:52,360
+thing but they're they're good games
+ 
+
+627
+00:20:52,360 --> 00:20:56,160
+thing but they're they're good games
+second comments ethos start a knotted
+
+628
+00:20:56,160 --> 00:20:56,170
+second comments ethos start a knotted
+ 
+
+629
+00:20:56,170 --> 00:21:06,840
+second comments ethos start a knotted
+survival please no no it's not gonna
+
+630
+00:21:06,840 --> 00:21:06,850
+survival please no no it's not gonna
+ 
+
+631
+00:21:06,850 --> 00:21:10,320
+survival please no no it's not gonna
+happen I'm sorry okay guys that's all
+
+632
+00:21:10,320 --> 00:21:10,330
+happen I'm sorry okay guys that's all
+ 
+
+633
+00:21:10,330 --> 00:21:13,980
+happen I'm sorry okay guys that's all
+for today thanks for watching bye bye
+

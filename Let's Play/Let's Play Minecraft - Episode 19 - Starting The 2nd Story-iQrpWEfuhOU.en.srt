@@ -1,0 +1,1985 @@
+1
+00:00:01,310 --> 00:00:04,789
+
+hello hello you're joining me Ethan as
+
+2
+00:00:04,789 --> 00:00:04,799
+hello hello you're joining me Ethan as
+ 
+
+3
+00:00:04,799 --> 00:00:07,249
+hello hello you're joining me Ethan as
+we work on another minecraft adventure
+
+4
+00:00:07,249 --> 00:00:07,259
+we work on another minecraft adventure
+ 
+
+5
+00:00:07,259 --> 00:00:11,270
+we work on another minecraft adventure
+together and Cays episode is going to be
+
+6
+00:00:11,270 --> 00:00:11,280
+together and Cays episode is going to be
+ 
+
+7
+00:00:11,280 --> 00:00:14,870
+together and Cays episode is going to be
+a learning adventure because we're going
+
+8
+00:00:14,870 --> 00:00:14,880
+a learning adventure because we're going
+ 
+
+9
+00:00:14,880 --> 00:00:16,580
+a learning adventure because we're going
+to be working on our mob system here
+
+10
+00:00:16,580 --> 00:00:16,590
+to be working on our mob system here
+ 
+
+11
+00:00:16,590 --> 00:00:20,480
+to be working on our mob system here
+some more and we're going to turn the
+
+12
+00:00:20,480 --> 00:00:20,490
+some more and we're going to turn the
+ 
+
+13
+00:00:20,490 --> 00:00:27,380
+some more and we're going to turn the
+volume down first I guess yeah so we're
+
+14
+00:00:27,380 --> 00:00:27,390
+volume down first I guess yeah so we're
+ 
+
+15
+00:00:27,390 --> 00:00:28,700
+volume down first I guess yeah so we're
+going to be working on the second story
+
+16
+00:00:28,700 --> 00:00:28,710
+going to be working on the second story
+ 
+
+17
+00:00:28,710 --> 00:00:32,150
+going to be working on the second story
+of this mob system which is going to
+
+18
+00:00:32,150 --> 00:00:32,160
+of this mob system which is going to
+ 
+
+19
+00:00:32,160 --> 00:00:35,870
+of this mob system which is going to
+have the mobs order on it I know I said
+
+20
+00:00:35,870 --> 00:00:35,880
+have the mobs order on it I know I said
+ 
+
+21
+00:00:35,880 --> 00:00:38,110
+have the mobs order on it I know I said
+we were going to build the first story
+
+22
+00:00:38,110 --> 00:00:38,120
+we were going to build the first story
+ 
+
+23
+00:00:38,120 --> 00:00:43,639
+we were going to build the first story
+first with all the the chests and
+
+24
+00:00:43,639 --> 00:00:43,649
+first with all the the chests and
+ 
+
+25
+00:00:43,649 --> 00:00:46,810
+first with all the the chests and
+everything I get that all done but I
+
+26
+00:00:46,810 --> 00:00:46,820
+everything I get that all done but I
+ 
+
+27
+00:00:46,820 --> 00:00:48,889
+everything I get that all done but I
+feel like working on this today so
+
+28
+00:00:48,889 --> 00:00:48,899
+feel like working on this today so
+ 
+
+29
+00:00:48,899 --> 00:00:52,549
+feel like working on this today so
+that's what we're going to be doing so
+
+30
+00:00:52,549 --> 00:00:52,559
+that's what we're going to be doing so
+ 
+
+31
+00:00:52,559 --> 00:00:54,830
+that's what we're going to be doing so
+the first thing we need to do I've kind
+
+32
+00:00:54,830 --> 00:00:54,840
+the first thing we need to do I've kind
+ 
+
+33
+00:00:54,840 --> 00:00:58,880
+the first thing we need to do I've kind
+of planned this all out already we need
+
+34
+00:00:58,880 --> 00:00:58,890
+of planned this all out already we need
+ 
+
+35
+00:00:58,890 --> 00:01:03,680
+of planned this all out already we need
+to make a way to get up and down to the
+
+36
+00:01:03,680 --> 00:01:03,690
+to make a way to get up and down to the
+ 
+
+37
+00:01:03,690 --> 00:01:08,240
+to make a way to get up and down to the
+second story easy so we're going to make
+
+38
+00:01:08,240 --> 00:01:08,250
+second story easy so we're going to make
+ 
+
+39
+00:01:08,250 --> 00:01:10,760
+second story easy so we're going to make
+an elevator up here I March the spot
+
+40
+00:01:10,760 --> 00:01:10,770
+an elevator up here I March the spot
+ 
+
+41
+00:01:10,770 --> 00:01:17,920
+an elevator up here I March the spot
+already and so I count one two three
+
+42
+00:01:17,920 --> 00:01:17,930
+already and so I count one two three
+ 
+
+43
+00:01:17,930 --> 00:01:32,580
+already and so I count one two three
+four five and
+
+44
+00:01:32,580 --> 00:01:32,590
+
+ 
+
+45
+00:01:32,590 --> 00:01:37,240
+
+six we are going to be making something
+
+46
+00:01:37,240 --> 00:01:37,250
+six we are going to be making something
+ 
+
+47
+00:01:37,250 --> 00:01:39,490
+six we are going to be making something
+similar to my easy exits for the e
+
+48
+00:01:39,490 --> 00:01:39,500
+similar to my easy exits for the e
+ 
+
+49
+00:01:39,500 --> 00:01:46,120
+similar to my easy exits for the e
+throat place glass blocks all around the
+
+50
+00:01:46,120 --> 00:01:46,130
+throat place glass blocks all around the
+ 
+
+51
+00:01:46,130 --> 00:01:56,859
+throat place glass blocks all around the
+outside I'll load up the center and then
+
+52
+00:01:56,859 --> 00:01:56,869
+outside I'll load up the center and then
+ 
+
+53
+00:01:56,869 --> 00:02:00,850
+outside I'll load up the center and then
+from up high we're going to place a boat
+
+54
+00:02:00,850 --> 00:02:00,860
+from up high we're going to place a boat
+ 
+
+55
+00:02:00,860 --> 00:02:11,170
+from up high we're going to place a boat
+in the middle just like that and what
+
+56
+00:02:11,170 --> 00:02:11,180
+in the middle just like that and what
+ 
+
+57
+00:02:11,180 --> 00:02:17,350
+in the middle just like that and what
+that does we can break up these dirt
+
+58
+00:02:17,350 --> 00:02:17,360
+that does we can break up these dirt
+ 
+
+59
+00:02:17,360 --> 00:02:23,650
+that does we can break up these dirt
+blocks now oh I wonder why that didn't
+
+60
+00:02:23,650 --> 00:02:23,660
+blocks now oh I wonder why that didn't
+ 
+
+61
+00:02:23,660 --> 00:02:34,479
+blocks now oh I wonder why that didn't
+work huh all right ended up taking like
+
+62
+00:02:34,479 --> 00:02:34,489
+work huh all right ended up taking like
+ 
+
+63
+00:02:34,489 --> 00:02:36,370
+work huh all right ended up taking like
+ten minutes to figure this out so I just
+
+64
+00:02:36,370 --> 00:02:36,380
+ten minutes to figure this out so I just
+ 
+
+65
+00:02:36,380 --> 00:02:39,670
+ten minutes to figure this out so I just
+scrap the video and I'll tell you how
+
+66
+00:02:39,670 --> 00:02:39,680
+scrap the video and I'll tell you how
+ 
+
+67
+00:02:39,680 --> 00:02:41,860
+scrap the video and I'll tell you how
+how to do it
+
+68
+00:02:41,860 --> 00:02:41,870
+how to do it
+ 
+
+69
+00:02:41,870 --> 00:02:45,520
+how to do it
+I guess he's what we needed a box on the
+
+70
+00:02:45,520 --> 00:02:45,530
+I guess he's what we needed a box on the
+ 
+
+71
+00:02:45,530 --> 00:02:48,400
+I guess he's what we needed a box on the
+bottom only one block is needed but I
+
+72
+00:02:48,400 --> 00:02:48,410
+bottom only one block is needed but I
+ 
+
+73
+00:02:48,410 --> 00:02:52,920
+bottom only one block is needed but I
+put eight around make it look better and
+
+74
+00:02:52,920 --> 00:02:52,930
+put eight around make it look better and
+ 
+
+75
+00:02:52,930 --> 00:02:58,270
+put eight around make it look better and
+this bottom is one to three blocks off
+
+76
+00:02:58,270 --> 00:02:58,280
+this bottom is one to three blocks off
+ 
+
+77
+00:02:58,280 --> 00:03:08,820
+this bottom is one to three blocks off
+the ground
+
+78
+00:03:08,820 --> 00:03:08,830
+
+ 
+
+79
+00:03:08,830 --> 00:03:11,949
+
+I'm gonna place the boats at least one
+
+80
+00:03:11,949 --> 00:03:11,959
+I'm gonna place the boats at least one
+ 
+
+81
+00:03:11,959 --> 00:03:23,530
+I'm gonna place the boats at least one
+block I break out the bottom and you go
+
+82
+00:03:23,530 --> 00:03:23,540
+block I break out the bottom and you go
+ 
+
+83
+00:03:23,540 --> 00:03:29,680
+block I break out the bottom and you go
+to suspended boat right-click go up and
+
+84
+00:03:29,680 --> 00:03:29,690
+to suspended boat right-click go up and
+ 
+
+85
+00:03:29,690 --> 00:03:31,060
+to suspended boat right-click go up and
+you can walk around on it without it
+
+86
+00:03:31,060 --> 00:03:31,070
+you can walk around on it without it
+ 
+
+87
+00:03:31,070 --> 00:03:36,070
+you can walk around on it without it
+moving out of place and then from this
+
+88
+00:03:36,070 --> 00:03:36,080
+moving out of place and then from this
+ 
+
+89
+00:03:36,080 --> 00:03:42,190
+moving out of place and then from this
+one you count to two blocks up one two
+
+90
+00:03:42,190 --> 00:03:42,200
+one you count to two blocks up one two
+ 
+
+91
+00:03:42,200 --> 00:03:47,290
+one you count to two blocks up one two
+and this is where the bottom starts for
+
+92
+00:03:47,290 --> 00:03:47,300
+and this is where the bottom starts for
+ 
+
+93
+00:03:47,300 --> 00:03:59,650
+and this is where the bottom starts for
+your next one and you don't need to
+
+94
+00:03:59,650 --> 00:03:59,660
+your next one and you don't need to
+ 
+
+95
+00:03:59,660 --> 00:04:00,910
+your next one and you don't need to
+build it out of glass you can use
+
+96
+00:04:00,910 --> 00:04:00,920
+build it out of glass you can use
+ 
+
+97
+00:04:00,920 --> 00:04:11,560
+build it out of glass you can use
+whatever you want okay and I'm sure
+
+98
+00:04:11,560 --> 00:04:11,570
+whatever you want okay and I'm sure
+ 
+
+99
+00:04:11,570 --> 00:04:14,170
+whatever you want okay and I'm sure
+other people have feared how to make
+
+100
+00:04:14,170 --> 00:04:14,180
+other people have feared how to make
+ 
+
+101
+00:04:14,180 --> 00:04:21,009
+other people have feared how to make
+this kind of elevator - it's not really
+
+102
+00:04:21,009 --> 00:04:21,019
+this kind of elevator - it's not really
+ 
+
+103
+00:04:21,019 --> 00:04:25,719
+this kind of elevator - it's not really
+that complicated okay and then over here
+
+104
+00:04:25,719 --> 00:04:25,729
+that complicated okay and then over here
+ 
+
+105
+00:04:25,729 --> 00:04:31,960
+that complicated okay and then over here
+I built a a break and what I'm going to
+
+106
+00:04:31,960 --> 00:04:31,970
+I built a a break and what I'm going to
+ 
+
+107
+00:04:31,970 --> 00:04:36,000
+I built a a break and what I'm going to
+be doing is something similar to what
+
+108
+00:04:36,000 --> 00:04:36,010
+
+ 
+
+109
+00:04:36,010 --> 00:04:42,580
+
+what's his name the mighty miner what he
+
+110
+00:04:42,580 --> 00:04:42,590
+what's his name the mighty miner what he
+ 
+
+111
+00:04:42,590 --> 00:04:48,820
+what's his name the mighty miner what he
+did he used my minecart dates basically
+
+112
+00:04:48,820 --> 00:04:48,830
+did he used my minecart dates basically
+ 
+
+113
+00:04:48,830 --> 00:04:51,670
+did he used my minecart dates basically
+there'll be a minecart gate here you can
+
+114
+00:04:51,670 --> 00:04:51,680
+there'll be a minecart gate here you can
+ 
+
+115
+00:04:51,680 --> 00:04:54,010
+there'll be a minecart gate here you can
+check out my minecart Kade a video and
+
+116
+00:04:54,010 --> 00:04:54,020
+check out my minecart Kade a video and
+ 
+
+117
+00:04:54,020 --> 00:04:56,620
+check out my minecart Kade a video and
+he sent a video response to it to see
+
+118
+00:04:56,620 --> 00:04:56,630
+he sent a video response to it to see
+ 
+
+119
+00:04:56,630 --> 00:04:59,080
+he sent a video response to it to see
+what he did but basically he had a
+
+120
+00:04:59,080 --> 00:04:59,090
+what he did but basically he had a
+ 
+
+121
+00:04:59,090 --> 00:05:01,690
+what he did but basically he had a
+minecart date with a button you stand on
+
+122
+00:05:01,690 --> 00:05:01,700
+minecart date with a button you stand on
+ 
+
+123
+00:05:01,700 --> 00:05:04,510
+minecart date with a button you stand on
+top it and then press the button and you
+
+124
+00:05:04,510 --> 00:05:04,520
+top it and then press the button and you
+ 
+
+125
+00:05:04,520 --> 00:05:06,920
+top it and then press the button and you
+fall down a floor
+
+126
+00:05:06,920 --> 00:05:06,930
+fall down a floor
+ 
+
+127
+00:05:06,930 --> 00:05:11,080
+fall down a floor
+and the power save by a water break
+
+128
+00:05:11,080 --> 00:05:11,090
+
+ 
+
+129
+00:05:11,090 --> 00:05:13,790
+
+that's kind of what I'm going to be
+
+130
+00:05:13,790 --> 00:05:13,800
+that's kind of what I'm going to be
+ 
+
+131
+00:05:13,800 --> 00:05:20,390
+that's kind of what I'm going to be
+doing not quite as fancy shoes right
+
+132
+00:05:20,390 --> 00:05:20,400
+doing not quite as fancy shoes right
+ 
+
+133
+00:05:20,400 --> 00:05:30,320
+doing not quite as fancy shoes right
+click right click easy to go up easy to
+
+134
+00:05:30,320 --> 00:05:30,330
+click right click easy to go up easy to
+ 
+
+135
+00:05:30,330 --> 00:05:47,469
+click right click easy to go up easy to
+go down okay
+
+136
+00:05:47,469 --> 00:05:47,479
+go down okay
+ 
+
+137
+00:05:47,479 --> 00:05:49,779
+go down okay
+I'll polish it up later
+
+138
+00:05:49,779 --> 00:05:49,789
+I'll polish it up later
+ 
+
+139
+00:05:49,789 --> 00:05:55,040
+I'll polish it up later
+and add the minecart key okay so now we
+
+140
+00:05:55,040 --> 00:05:55,050
+and add the minecart key okay so now we
+ 
+
+141
+00:05:55,050 --> 00:05:56,990
+and add the minecart key okay so now we
+got that set we're going to start
+
+142
+00:05:56,990 --> 00:05:57,000
+got that set we're going to start
+ 
+
+143
+00:05:57,000 --> 00:06:00,860
+got that set we're going to start
+building the floor and I'm just going to
+
+144
+00:06:00,860 --> 00:06:00,870
+building the floor and I'm just going to
+ 
+
+145
+00:06:00,870 --> 00:06:04,070
+building the floor and I'm just going to
+be using cobblestone oh yes and I might
+
+146
+00:06:04,070 --> 00:06:04,080
+be using cobblestone oh yes and I might
+ 
+
+147
+00:06:04,080 --> 00:06:06,409
+be using cobblestone oh yes and I might
+change it later I don't really like
+
+148
+00:06:06,409 --> 00:06:06,419
+change it later I don't really like
+ 
+
+149
+00:06:06,419 --> 00:06:26,439
+change it later I don't really like
+using cobblestone for floors
+
+150
+00:06:26,439 --> 00:06:26,449
+
+ 
+
+151
+00:06:26,449 --> 00:06:36,140
+
+extend these higher this tube is for the
+
+152
+00:06:36,140 --> 00:06:36,150
+extend these higher this tube is for the
+ 
+
+153
+00:06:36,150 --> 00:06:46,820
+extend these higher this tube is for the
+tall bobs and then this one is for these
+
+154
+00:06:46,820 --> 00:06:46,830
+tall bobs and then this one is for these
+ 
+
+155
+00:06:46,830 --> 00:07:18,500
+tall bobs and then this one is for these
+spiders all right
+
+156
+00:07:18,500 --> 00:07:18,510
+spiders all right
+ 
+
+157
+00:07:18,510 --> 00:07:24,640
+spiders all right
+so floor is going to be at this level
+
+158
+00:07:24,640 --> 00:07:24,650
+
+ 
+
+159
+00:07:24,650 --> 00:07:29,540
+
+and okay what I'm going to do first I
+
+160
+00:07:29,540 --> 00:07:29,550
+and okay what I'm going to do first I
+ 
+
+161
+00:07:29,550 --> 00:07:44,649
+and okay what I'm going to do first I
+think I'm going to go up to here and
+
+162
+00:07:44,649 --> 00:07:44,659
+
+ 
+
+163
+00:07:44,659 --> 00:07:48,260
+
+going to put a door in here so that we
+
+164
+00:07:48,260 --> 00:07:48,270
+going to put a door in here so that we
+ 
+
+165
+00:07:48,270 --> 00:07:58,730
+going to put a door in here so that we
+can access this to make sure the door is
+
+166
+00:07:58,730 --> 00:07:58,740
+can access this to make sure the door is
+ 
+
+167
+00:07:58,740 --> 00:08:01,850
+can access this to make sure the door is
+facing this way is right now the only
+
+168
+00:08:01,850 --> 00:08:01,860
+facing this way is right now the only
+ 
+
+169
+00:08:01,860 --> 00:08:05,600
+facing this way is right now the only
+way I can get inside this mob area is to
+
+170
+00:08:05,600 --> 00:08:05,610
+way I can get inside this mob area is to
+ 
+
+171
+00:08:05,610 --> 00:08:08,300
+way I can get inside this mob area is to
+go down to the pads there and swim up
+
+172
+00:08:08,300 --> 00:08:08,310
+go down to the pads there and swim up
+ 
+
+173
+00:08:08,310 --> 00:08:11,659
+go down to the pads there and swim up
+like the mobs do so now I got an easy
+
+174
+00:08:11,659 --> 00:08:11,669
+like the mobs do so now I got an easy
+ 
+
+175
+00:08:11,669 --> 00:08:25,589
+like the mobs do so now I got an easy
+way to get in and add water stuff
+
+176
+00:08:25,589 --> 00:08:25,599
+
+ 
+
+177
+00:08:25,599 --> 00:08:39,420
+
+so first thing I'm going to do going to
+
+178
+00:08:39,420 --> 00:08:39,430
+so first thing I'm going to do going to
+ 
+
+179
+00:08:39,430 --> 00:08:55,620
+so first thing I'm going to do going to
+place the door here the reason for this
+
+180
+00:08:55,620 --> 00:08:55,630
+place the door here the reason for this
+ 
+
+181
+00:08:55,630 --> 00:08:59,150
+place the door here the reason for this
+is if I want them to go up another level
+
+182
+00:08:59,150 --> 00:08:59,160
+is if I want them to go up another level
+ 
+
+183
+00:08:59,160 --> 00:09:02,790
+is if I want them to go up another level
+I'm going to have a junction here so
+
+184
+00:09:02,790 --> 00:09:02,800
+I'm going to have a junction here so
+ 
+
+185
+00:09:02,800 --> 00:09:06,990
+I'm going to have a junction here so
+that I'll have the option even though I
+
+186
+00:09:06,990 --> 00:09:07,000
+that I'll have the option even though I
+ 
+
+187
+00:09:07,000 --> 00:09:08,249
+that I'll have the option even though I
+probably won't want them going up
+
+188
+00:09:08,249 --> 00:09:08,259
+probably won't want them going up
+ 
+
+189
+00:09:08,259 --> 00:09:23,809
+probably won't want them going up
+another level but oh yeah um I need to
+
+190
+00:09:23,809 --> 00:09:23,819
+
+ 
+
+191
+00:09:23,819 --> 00:09:31,610
+
+we're gonna have to go down and copy it
+
+192
+00:09:31,610 --> 00:09:31,620
+
+ 
+
+193
+00:09:31,620 --> 00:09:37,290
+
+okay so diagonal stream this new level
+
+194
+00:09:37,290 --> 00:09:37,300
+okay so diagonal stream this new level
+ 
+
+195
+00:09:37,300 --> 00:09:40,410
+okay so diagonal stream this new level
+is lowered talking and the door is
+
+196
+00:09:40,410 --> 00:09:40,420
+is lowered talking and the door is
+ 
+
+197
+00:09:40,420 --> 00:09:46,800
+is lowered talking and the door is
+actually down one level so that means I
+
+198
+00:09:46,800 --> 00:09:46,810
+actually down one level so that means I
+ 
+
+199
+00:09:46,810 --> 00:10:03,410
+actually down one level so that means I
+want to stay down one block maybe not
+
+200
+00:10:03,410 --> 00:10:03,420
+
+ 
+
+201
+00:10:03,420 --> 00:10:13,499
+
+this other doors in the way down so
+
+202
+00:10:13,499 --> 00:10:13,509
+this other doors in the way down so
+ 
+
+203
+00:10:13,509 --> 00:10:18,240
+this other doors in the way down so
+we'll keep it there and we're actually
+
+204
+00:10:18,240 --> 00:10:18,250
+we'll keep it there and we're actually
+ 
+
+205
+00:10:18,250 --> 00:10:27,030
+we'll keep it there and we're actually
+going to make a three way Junction here
+
+206
+00:10:27,030 --> 00:10:27,040
+
+ 
+
+207
+00:10:27,040 --> 00:10:29,200
+
+we're not going to deal with the spiders
+
+208
+00:10:29,200 --> 00:10:29,210
+we're not going to deal with the spiders
+ 
+
+209
+00:10:29,210 --> 00:10:41,890
+we're not going to deal with the spiders
+yet okay we're going to want this door
+
+210
+00:10:41,890 --> 00:10:41,900
+yet okay we're going to want this door
+ 
+
+211
+00:10:41,900 --> 00:10:54,340
+yet okay we're going to want this door
+to open the other way I think and so we
+
+212
+00:10:54,340 --> 00:10:54,350
+to open the other way I think and so we
+ 
+
+213
+00:10:54,350 --> 00:10:55,780
+to open the other way I think and so we
+got a block there we're going to remove
+
+214
+00:10:55,780 --> 00:10:55,790
+got a block there we're going to remove
+ 
+
+215
+00:10:55,790 --> 00:10:59,170
+got a block there we're going to remove
+this one so it has to attach to this
+
+216
+00:10:59,170 --> 00:10:59,180
+this one so it has to attach to this
+ 
+
+217
+00:10:59,180 --> 00:11:11,760
+this one so it has to attach to this
+block okay that's good and so we want a
+
+218
+00:11:11,760 --> 00:11:11,770
+block okay that's good and so we want a
+ 
+
+219
+00:11:11,770 --> 00:11:14,470
+block okay that's good and so we want a
+diagonal stream that comes to this
+
+220
+00:11:14,470 --> 00:11:14,480
+diagonal stream that comes to this
+ 
+
+221
+00:11:14,480 --> 00:11:30,640
+diagonal stream that comes to this
+corner here and my game keeps getting
+
+222
+00:11:30,640 --> 00:11:30,650
+corner here and my game keeps getting
+ 
+
+223
+00:11:30,650 --> 00:11:34,180
+corner here and my game keeps getting
+laggy I think I might have to switch
+
+224
+00:11:34,180 --> 00:11:34,190
+laggy I think I might have to switch
+ 
+
+225
+00:11:34,190 --> 00:11:43,060
+laggy I think I might have to switch
+back to standard definition it's really
+
+226
+00:11:43,060 --> 00:11:43,070
+back to standard definition it's really
+ 
+
+227
+00:11:43,070 --> 00:11:52,210
+back to standard definition it's really
+annoying me a lot of glass okay it will
+
+228
+00:11:52,210 --> 00:11:52,220
+annoying me a lot of glass okay it will
+ 
+
+229
+00:11:52,220 --> 00:11:58,800
+annoying me a lot of glass okay it will
+be a sign here I thought it matters much
+
+230
+00:11:58,800 --> 00:11:58,810
+
+ 
+
+231
+00:11:58,810 --> 00:12:01,420
+
+and if I want to go up another level
+
+232
+00:12:01,420 --> 00:12:01,430
+and if I want to go up another level
+ 
+
+233
+00:12:01,430 --> 00:12:09,030
+and if I want to go up another level
+there will be water where this block is
+
+234
+00:12:09,030 --> 00:12:09,040
+
+ 
+
+235
+00:12:09,040 --> 00:12:16,750
+
+okay I grabbed some more glass and going
+
+236
+00:12:16,750 --> 00:12:16,760
+okay I grabbed some more glass and going
+ 
+
+237
+00:12:16,760 --> 00:12:23,430
+okay I grabbed some more glass and going
+to hook up some levers to our doors here
+
+238
+00:12:23,430 --> 00:12:23,440
+
+ 
+
+239
+00:12:23,440 --> 00:12:31,180
+
+and I'm still lagging yeah that one's
+
+240
+00:12:31,180 --> 00:12:31,190
+and I'm still lagging yeah that one's
+ 
+
+241
+00:12:31,190 --> 00:12:39,460
+and I'm still lagging yeah that one's
+good oh and the spider thing might be an
+
+242
+00:12:39,460 --> 00:12:39,470
+good oh and the spider thing might be an
+ 
+
+243
+00:12:39,470 --> 00:13:06,720
+good oh and the spider thing might be an
+issue what to do with the spiders I just
+
+244
+00:13:06,720 --> 00:13:06,730
+issue what to do with the spiders I just
+ 
+
+245
+00:13:06,730 --> 00:13:11,830
+issue what to do with the spiders I just
+just build over top it and we can route
+
+246
+00:13:11,830 --> 00:13:11,840
+just build over top it and we can route
+ 
+
+247
+00:13:11,840 --> 00:13:36,490
+just build over top it and we can route
+them out lower we will need to capital
+
+248
+00:13:36,490 --> 00:13:36,500
+them out lower we will need to capital
+ 
+
+249
+00:13:36,500 --> 00:13:50,580
+them out lower we will need to capital
+either here
+
+250
+00:13:50,580 --> 00:13:50,590
+
+ 
+
+251
+00:13:50,590 --> 00:13:53,260
+
+all right I don't think my mom strap is
+
+252
+00:13:53,260 --> 00:13:53,270
+all right I don't think my mom strap is
+ 
+
+253
+00:13:53,270 --> 00:14:01,150
+all right I don't think my mom strap is
+working as well more for some reason I
+
+254
+00:14:01,150 --> 00:14:01,160
+working as well more for some reason I
+ 
+
+255
+00:14:01,160 --> 00:14:03,550
+working as well more for some reason I
+don't know something got changed and one
+
+256
+00:14:03,550 --> 00:14:03,560
+don't know something got changed and one
+ 
+
+257
+00:14:03,560 --> 00:14:05,290
+don't know something got changed and one
+of the patches but there's just as many
+
+258
+00:14:05,290 --> 00:14:05,300
+of the patches but there's just as many
+ 
+
+259
+00:14:05,300 --> 00:14:09,970
+of the patches but there's just as many
+guys now so I'll probably have to do
+
+260
+00:14:09,970 --> 00:14:09,980
+guys now so I'll probably have to do
+ 
+
+261
+00:14:09,980 --> 00:14:12,970
+guys now so I'll probably have to do
+some maintenance on it soon figure out
+
+262
+00:14:12,970 --> 00:14:12,980
+some maintenance on it soon figure out
+ 
+
+263
+00:14:12,980 --> 00:14:18,340
+some maintenance on it soon figure out
+what the problem is okay we can control
+
+264
+00:14:18,340 --> 00:14:18,350
+what the problem is okay we can control
+ 
+
+265
+00:14:18,350 --> 00:14:23,950
+what the problem is okay we can control
+the doors now and get some water all
+
+266
+00:14:23,950 --> 00:14:23,960
+the doors now and get some water all
+ 
+
+267
+00:14:23,960 --> 00:14:25,510
+the doors now and get some water all
+right so I built the water spring over
+
+268
+00:14:25,510 --> 00:14:25,520
+right so I built the water spring over
+ 
+
+269
+00:14:25,520 --> 00:14:29,650
+right so I built the water spring over
+here just temporary I filled this tube
+
+270
+00:14:29,650 --> 00:14:29,660
+here just temporary I filled this tube
+ 
+
+271
+00:14:29,660 --> 00:14:33,400
+here just temporary I filled this tube
+up of water and I brought some stairs
+
+272
+00:14:33,400 --> 00:14:33,410
+up of water and I brought some stairs
+ 
+
+273
+00:14:33,410 --> 00:14:38,590
+up of water and I brought some stairs
+with me and we're going to place stairs
+
+274
+00:14:38,590 --> 00:14:38,600
+with me and we're going to place stairs
+ 
+
+275
+00:14:38,600 --> 00:14:45,660
+with me and we're going to place stairs
+here not that way
+
+276
+00:14:45,660 --> 00:14:45,670
+
+ 
+
+277
+00:14:45,670 --> 00:14:50,860
+
+like that the reason for that is because
+
+278
+00:14:50,860 --> 00:14:50,870
+like that the reason for that is because
+ 
+
+279
+00:14:50,870 --> 00:14:53,620
+like that the reason for that is because
+sometimes mobs can stuck and get stuck
+
+280
+00:14:53,620 --> 00:14:53,630
+sometimes mobs can stuck and get stuck
+ 
+
+281
+00:14:53,630 --> 00:14:55,390
+sometimes mobs can stuck and get stuck
+in this set to block space where the
+
+282
+00:14:55,390 --> 00:14:55,400
+in this set to block space where the
+ 
+
+283
+00:14:55,400 --> 00:14:55,990
+in this set to block space where the
+door is
+
+284
+00:14:55,990 --> 00:14:56,000
+door is
+ 
+
+285
+00:14:56,000 --> 00:14:59,650
+door is
+and they won't move because they can't
+
+286
+00:14:59,650 --> 00:14:59,660
+and they won't move because they can't
+ 
+
+287
+00:14:59,660 --> 00:15:04,210
+and they won't move because they can't
+see outside of the space until another
+
+288
+00:15:04,210 --> 00:15:04,220
+see outside of the space until another
+ 
+
+289
+00:15:04,220 --> 00:15:12,460
+see outside of the space until another
+mob comes up and pushes them up we're
+
+290
+00:15:12,460 --> 00:15:12,470
+mob comes up and pushes them up we're
+ 
+
+291
+00:15:12,470 --> 00:15:22,370
+mob comes up and pushes them up we're
+going to have to do that over here too
+
+292
+00:15:22,370 --> 00:15:22,380
+
+ 
+
+293
+00:15:22,380 --> 00:15:33,480
+
+okay all right
+
+294
+00:15:33,480 --> 00:15:33,490
+okay all right
+ 
+
+295
+00:15:33,490 --> 00:15:37,080
+okay all right
+and so we need to make a diagonal stream
+
+296
+00:15:37,080 --> 00:15:37,090
+and so we need to make a diagonal stream
+ 
+
+297
+00:15:37,090 --> 00:15:45,720
+and so we need to make a diagonal stream
+of water right over here and we're going
+
+298
+00:15:45,720 --> 00:15:45,730
+of water right over here and we're going
+ 
+
+299
+00:15:45,730 --> 00:15:54,920
+of water right over here and we're going
+to do that so we place one block here Oh
+
+300
+00:15:54,920 --> 00:15:54,930
+to do that so we place one block here Oh
+ 
+
+301
+00:15:54,930 --> 00:16:04,700
+to do that so we place one block here Oh
+actually forgot a source block here and
+
+302
+00:16:04,700 --> 00:16:04,710
+actually forgot a source block here and
+ 
+
+303
+00:16:04,710 --> 00:16:07,410
+actually forgot a source block here and
+another one there so it creates a
+
+304
+00:16:07,410 --> 00:16:07,420
+another one there so it creates a
+ 
+
+305
+00:16:07,420 --> 00:16:10,770
+another one there so it creates a
+diagnose stream of water that pushes
+
+306
+00:16:10,770 --> 00:16:10,780
+diagnose stream of water that pushes
+ 
+
+307
+00:16:10,780 --> 00:16:15,420
+diagnose stream of water that pushes
+towards this corner and that is
+
+308
+00:16:15,420 --> 00:16:15,430
+towards this corner and that is
+ 
+
+309
+00:16:15,430 --> 00:16:18,300
+towards this corner and that is
+important because the door hinge is on
+
+310
+00:16:18,300 --> 00:16:18,310
+important because the door hinge is on
+ 
+
+311
+00:16:18,310 --> 00:16:22,140
+important because the door hinge is on
+this left side so we need them against
+
+312
+00:16:22,140 --> 00:16:22,150
+this left side so we need them against
+ 
+
+313
+00:16:22,150 --> 00:16:23,880
+this left side so we need them against
+this right side otherwise we're going to
+
+314
+00:16:23,880 --> 00:16:23,890
+this right side otherwise we're going to
+ 
+
+315
+00:16:23,890 --> 00:16:26,790
+this right side otherwise we're going to
+run it to this hinge and same with other
+
+316
+00:16:26,790 --> 00:16:26,800
+run it to this hinge and same with other
+ 
+
+317
+00:16:26,800 --> 00:16:31,290
+run it to this hinge and same with other
+door it's pushing them to the left side
+
+318
+00:16:31,290 --> 00:16:31,300
+door it's pushing them to the left side
+ 
+
+319
+00:16:31,300 --> 00:16:33,990
+door it's pushing them to the left side
+so they go under to the end on the right
+
+320
+00:16:33,990 --> 00:16:34,000
+so they go under to the end on the right
+ 
+
+321
+00:16:34,000 --> 00:16:46,670
+so they go under to the end on the right
+side okay
+
+322
+00:16:46,670 --> 00:16:46,680
+
+ 
+
+323
+00:16:46,680 --> 00:16:48,780
+
+of course the lever is going to be
+
+324
+00:16:48,780 --> 00:16:48,790
+of course the lever is going to be
+ 
+
+325
+00:16:48,790 --> 00:16:50,850
+of course the lever is going to be
+reversed from each other though because
+
+326
+00:16:50,850 --> 00:16:50,860
+reversed from each other though because
+ 
+
+327
+00:16:50,860 --> 00:16:56,350
+reversed from each other though because
+the doors are reversed and
+
+328
+00:16:56,350 --> 00:16:56,360
+
+ 
+
+329
+00:16:56,360 --> 00:17:07,960
+
+from there I'm going to place I'm going
+
+330
+00:17:07,960 --> 00:17:07,970
+from there I'm going to place I'm going
+ 
+
+331
+00:17:07,970 --> 00:17:16,299
+from there I'm going to place I'm going
+to place one water block here and then
+
+332
+00:17:16,299 --> 00:17:16,309
+to place one water block here and then
+ 
+
+333
+00:17:16,309 --> 00:17:24,159
+to place one water block here and then
+another one like these uh those two
+
+334
+00:17:24,159 --> 00:17:24,169
+another one like these uh those two
+ 
+
+335
+00:17:24,169 --> 00:17:29,620
+another one like these uh those two
+blocks are December in like that so now
+
+336
+00:17:29,620 --> 00:17:29,630
+blocks are December in like that so now
+ 
+
+337
+00:17:29,630 --> 00:17:32,649
+blocks are December in like that so now
+we have a three-way junction they can
+
+338
+00:17:32,649 --> 00:17:32,659
+we have a three-way junction they can
+ 
+
+339
+00:17:32,659 --> 00:17:36,039
+we have a three-way junction they can
+either go up if I continue to make this
+
+340
+00:17:36,039 --> 00:17:36,049
+either go up if I continue to make this
+ 
+
+341
+00:17:36,049 --> 00:17:40,450
+either go up if I continue to make this
+higher if both doors are closed if that
+
+342
+00:17:40,450 --> 00:17:40,460
+higher if both doors are closed if that
+ 
+
+343
+00:17:40,460 --> 00:17:44,789
+higher if both doors are closed if that
+door is open they will go this way if
+
+344
+00:17:44,789 --> 00:17:44,799
+door is open they will go this way if
+ 
+
+345
+00:17:44,799 --> 00:17:48,340
+door is open they will go this way if
+that door is open then the world this
+
+346
+00:17:48,340 --> 00:17:48,350
+that door is open then the world this
+ 
+
+347
+00:17:48,350 --> 00:17:52,450
+that door is open then the world this
+way and if they're both opens well then
+
+348
+00:17:52,450 --> 00:17:52,460
+way and if they're both opens well then
+ 
+
+349
+00:17:52,460 --> 00:17:55,810
+way and if they're both opens well then
+it depends on whichever stream they
+
+350
+00:17:55,810 --> 00:17:55,820
+it depends on whichever stream they
+ 
+
+351
+00:17:55,820 --> 00:18:00,279
+it depends on whichever stream they
+touch first okay and the reason we have
+
+352
+00:18:00,279 --> 00:18:00,289
+touch first okay and the reason we have
+ 
+
+353
+00:18:00,289 --> 00:18:05,649
+touch first okay and the reason we have
+two streams one of these is going to go
+
+354
+00:18:05,649 --> 00:18:05,659
+two streams one of these is going to go
+ 
+
+355
+00:18:05,659 --> 00:18:09,930
+two streams one of these is going to go
+to the mob sorter probably this one and
+
+356
+00:18:09,930 --> 00:18:09,940
+to the mob sorter probably this one and
+ 
+
+357
+00:18:09,940 --> 00:18:14,200
+to the mob sorter probably this one and
+this one is going to be for if we don't
+
+358
+00:18:14,200 --> 00:18:14,210
+this one is going to be for if we don't
+ 
+
+359
+00:18:14,210 --> 00:18:18,460
+this one is going to be for if we don't
+want to sort the mobs so two options
+
+360
+00:18:18,460 --> 00:18:18,470
+want to sort the mobs so two options
+ 
+
+361
+00:18:18,470 --> 00:18:23,909
+want to sort the mobs so two options
+sort the lumps or don't sort the mops
+
+362
+00:18:23,909 --> 00:18:23,919
+
+ 
+
+363
+00:18:23,919 --> 00:18:28,010
+
+okay
+
+364
+00:18:28,010 --> 00:18:28,020
+
+ 
+
+365
+00:18:28,020 --> 00:18:31,680
+
+so this is the we're not going to work
+
+366
+00:18:31,680 --> 00:18:31,690
+so this is the we're not going to work
+ 
+
+367
+00:18:31,690 --> 00:18:35,970
+so this is the we're not going to work
+on this one just yet actually we're
+
+368
+00:18:35,970 --> 00:18:35,980
+on this one just yet actually we're
+ 
+
+369
+00:18:35,980 --> 00:18:52,950
+on this one just yet actually we're
+going to plug it up even we should maybe
+
+370
+00:18:52,950 --> 00:18:52,960
+going to plug it up even we should maybe
+ 
+
+371
+00:18:52,960 --> 00:19:00,120
+going to plug it up even we should maybe
+test this up too so for right now the
+
+372
+00:19:00,120 --> 00:19:00,130
+test this up too so for right now the
+ 
+
+373
+00:19:00,130 --> 00:19:14,000
+test this up too so for right now the
+unsorted mobs we're just going to die
+
+374
+00:19:14,000 --> 00:19:14,010
+
+ 
+
+375
+00:19:14,010 --> 00:19:17,820
+
+alright let's test this out make sure
+
+376
+00:19:17,820 --> 00:19:17,830
+alright let's test this out make sure
+ 
+
+377
+00:19:17,830 --> 00:19:22,140
+alright let's test this out make sure
+our Junction works so switching that
+
+378
+00:19:22,140 --> 00:19:22,150
+our Junction works so switching that
+ 
+
+379
+00:19:22,150 --> 00:19:39,690
+our Junction works so switching that
+door so let's all go up now and my game
+
+380
+00:19:39,690 --> 00:19:39,700
+door so let's all go up now and my game
+ 
+
+381
+00:19:39,700 --> 00:19:45,060
+door so let's all go up now and my game
+is getting laggy again yeah I think my
+
+382
+00:19:45,060 --> 00:19:45,070
+is getting laggy again yeah I think my
+ 
+
+383
+00:19:45,070 --> 00:19:48,899
+is getting laggy again yeah I think my
+computer is overdue for a reboot it's
+
+384
+00:19:48,899 --> 00:19:48,909
+computer is overdue for a reboot it's
+ 
+
+385
+00:19:48,909 --> 00:19:50,460
+computer is overdue for a reboot it's
+been on for like two weeks now without
+
+386
+00:19:50,460 --> 00:19:50,470
+been on for like two weeks now without
+ 
+
+387
+00:19:50,470 --> 00:20:06,299
+been on for like two weeks now without
+rebooting ok so that one works close
+
+388
+00:20:06,299 --> 00:20:06,309
+rebooting ok so that one works close
+ 
+
+389
+00:20:06,309 --> 00:20:12,720
+rebooting ok so that one works close
+that one oh crap
+
+390
+00:20:12,720 --> 00:20:12,730
+
+ 
+
+391
+00:20:12,730 --> 00:20:21,750
+
+uh hate to be cheap but oh no no I was
+
+392
+00:20:21,750 --> 00:20:21,760
+uh hate to be cheap but oh no no I was
+ 
+
+393
+00:20:21,760 --> 00:20:35,600
+uh hate to be cheap but oh no no I was
+on peaceful oh ok we're ending it here
+
+394
+00:20:35,600 --> 00:20:35,610
+on peaceful oh ok we're ending it here
+ 
+
+395
+00:20:35,610 --> 00:20:39,060
+on peaceful oh ok we're ending it here
+I'm gonna rebuild this and I'll see you
+
+396
+00:20:39,060 --> 00:20:39,070
+I'm gonna rebuild this and I'll see you
+ 
+
+397
+00:20:39,070 --> 00:20:41,460
+I'm gonna rebuild this and I'll see you
+next time
+

@@ -1,0 +1,3585 @@
+1
+00:00:00,000 --> 00:01:07,910
+
+I know what am i doing wasting all those
+
+2
+00:01:07,910 --> 00:01:07,920
+I know what am i doing wasting all those
+ 
+
+3
+00:01:07,920 --> 00:01:12,200
+I know what am i doing wasting all those
+arrows well I can now because the mop
+
+4
+00:01:12,200 --> 00:01:12,210
+arrows well I can now because the mop
+ 
+
+5
+00:01:12,210 --> 00:01:19,370
+arrows well I can now because the mop
+systems up and running so I've extended
+
+6
+00:01:19,370 --> 00:01:19,380
+systems up and running so I've extended
+ 
+
+7
+00:01:19,380 --> 00:01:22,219
+systems up and running so I've extended
+it it's now four layers stacked on top
+
+8
+00:01:22,219 --> 00:01:22,229
+it it's now four layers stacked on top
+ 
+
+9
+00:01:22,229 --> 00:01:25,760
+it it's now four layers stacked on top
+of each other each layer has four pads
+
+10
+00:01:25,760 --> 00:01:25,770
+of each other each layer has four pads
+ 
+
+11
+00:01:25,770 --> 00:01:29,679
+of each other each layer has four pads
+each pad is 32 blocks of spawning space
+
+12
+00:01:29,679 --> 00:01:29,689
+each pad is 32 blocks of spawning space
+ 
+
+13
+00:01:29,689 --> 00:01:34,160
+each pad is 32 blocks of spawning space
+that comes to a total of 32 times 4
+
+14
+00:01:34,160 --> 00:01:34,170
+that comes to a total of 32 times 4
+ 
+
+15
+00:01:34,170 --> 00:01:38,510
+that comes to a total of 32 times 4
+times 4 512 spawning spots inside that
+
+16
+00:01:38,510 --> 00:01:38,520
+times 4 512 spawning spots inside that
+ 
+
+17
+00:01:38,520 --> 00:01:46,670
+times 4 512 spawning spots inside that
+giant cube like box so how does it
+
+18
+00:01:46,670 --> 00:01:46,680
+giant cube like box so how does it
+ 
+
+19
+00:01:46,680 --> 00:01:52,910
+giant cube like box so how does it
+perform ah so-so
+
+20
+00:01:52,910 --> 00:01:52,920
+perform ah so-so
+ 
+
+21
+00:01:52,920 --> 00:01:55,550
+perform ah so-so
+if you look at your entity thing at the
+
+22
+00:01:55,550 --> 00:01:55,560
+if you look at your entity thing at the
+ 
+
+23
+00:01:55,560 --> 00:02:01,250
+if you look at your entity thing at the
+top over here the first number tells you
+
+24
+00:02:01,250 --> 00:02:01,260
+top over here the first number tells you
+ 
+
+25
+00:02:01,260 --> 00:02:04,550
+top over here the first number tells you
+how many entities you're looking at so a
+
+26
+00:02:04,550 --> 00:02:04,560
+how many entities you're looking at so a
+ 
+
+27
+00:02:04,560 --> 00:02:07,609
+how many entities you're looking at so a
+mob counts as an entity and I am only
+
+28
+00:02:07,609 --> 00:02:07,619
+mob counts as an entity and I am only
+ 
+
+29
+00:02:07,619 --> 00:02:13,340
+mob counts as an entity and I am only
+looking at 16 15 14 13 inside of this
+
+30
+00:02:13,340 --> 00:02:13,350
+looking at 16 15 14 13 inside of this
+ 
+
+31
+00:02:13,350 --> 00:02:20,390
+looking at 16 15 14 13 inside of this
+cube so could be better but actually
+
+32
+00:02:20,390 --> 00:02:20,400
+cube so could be better but actually
+ 
+
+33
+00:02:20,400 --> 00:02:21,920
+cube so could be better but actually
+this rate right now is probably better
+
+34
+00:02:21,920 --> 00:02:21,930
+this rate right now is probably better
+ 
+
+35
+00:02:21,930 --> 00:02:27,199
+this rate right now is probably better
+than my old mob system so I'm looking
+
+36
+00:02:27,199 --> 00:02:27,209
+than my old mob system so I'm looking
+ 
+
+37
+00:02:27,209 --> 00:02:30,199
+than my old mob system so I'm looking
+forward to maxing this thing out I think
+
+38
+00:02:30,199 --> 00:02:30,209
+forward to maxing this thing out I think
+ 
+
+39
+00:02:30,209 --> 00:02:37,040
+forward to maxing this thing out I think
+it'll be pretty good so it on average
+
+40
+00:02:37,040 --> 00:02:37,050
+it'll be pretty good so it on average
+ 
+
+41
+00:02:37,050 --> 00:02:39,080
+it'll be pretty good so it on average
+I'd say it does about 20 to 30 mobs
+
+42
+00:02:39,080 --> 00:02:39,090
+I'd say it does about 20 to 30 mobs
+ 
+
+43
+00:02:39,090 --> 00:02:40,850
+I'd say it does about 20 to 30 mobs
+right now it's a little slower for some
+
+44
+00:02:40,850 --> 00:02:40,860
+right now it's a little slower for some
+ 
+
+45
+00:02:40,860 --> 00:02:44,120
+right now it's a little slower for some
+reason probably have slimes down below
+
+46
+00:02:44,120 --> 00:02:44,130
+reason probably have slimes down below
+ 
+
+47
+00:02:44,130 --> 00:02:51,280
+reason probably have slimes down below
+again so the mob limits is I believe 79
+
+48
+00:02:51,280 --> 00:02:51,290
+again so the mob limits is I believe 79
+ 
+
+49
+00:02:51,290 --> 00:02:54,290
+again so the mob limits is I believe 79
+that means we can make this thing about
+
+50
+00:02:54,290 --> 00:02:54,300
+that means we can make this thing about
+ 
+
+51
+00:02:54,300 --> 00:02:58,550
+that means we can make this thing about
+4 times faster at max capacity using
+
+52
+00:02:58,550 --> 00:02:58,560
+4 times faster at max capacity using
+ 
+
+53
+00:02:58,560 --> 00:03:03,440
+4 times faster at max capacity using
+this design up in the sky so should be
+
+54
+00:03:03,440 --> 00:03:03,450
+this design up in the sky so should be
+ 
+
+55
+00:03:03,450 --> 00:03:16,670
+this design up in the sky so should be
+pretty cool when I get master
+
+56
+00:03:16,670 --> 00:03:16,680
+
+ 
+
+57
+00:03:16,680 --> 00:03:19,850
+
+yeah but lots and lots of resources to
+
+58
+00:03:19,850 --> 00:03:19,860
+yeah but lots and lots of resources to
+ 
+
+59
+00:03:19,860 --> 00:03:22,660
+yeah but lots and lots of resources to
+build it that's kind of why I recommend
+
+60
+00:03:22,660 --> 00:03:22,670
+build it that's kind of why I recommend
+ 
+
+61
+00:03:22,670 --> 00:03:27,289
+build it that's kind of why I recommend
+that original style just because it
+
+62
+00:03:27,289 --> 00:03:27,299
+that original style just because it
+ 
+
+63
+00:03:27,299 --> 00:03:29,270
+that original style just because it
+requires so many resources to build it
+
+64
+00:03:29,270 --> 00:03:29,280
+requires so many resources to build it
+ 
+
+65
+00:03:29,280 --> 00:03:33,080
+requires so many resources to build it
+in the sky like this I've used I think 2
+
+66
+00:03:33,080 --> 00:03:33,090
+in the sky like this I've used I think 2
+ 
+
+67
+00:03:33,090 --> 00:03:37,130
+in the sky like this I've used I think 2
+or 2 but 2 double chests cobblestone I
+
+68
+00:03:37,130 --> 00:03:37,140
+or 2 but 2 double chests cobblestone I
+ 
+
+69
+00:03:37,140 --> 00:03:40,009
+or 2 but 2 double chests cobblestone I
+think to build this thing four layers
+
+70
+00:03:40,009 --> 00:03:40,019
+think to build this thing four layers
+ 
+
+71
+00:03:40,019 --> 00:03:42,470
+think to build this thing four layers
+only and I need to make it I think two
+
+72
+00:03:42,470 --> 00:03:42,480
+only and I need to make it I think two
+ 
+
+73
+00:03:42,480 --> 00:03:46,580
+only and I need to make it I think two
+or three times larger yet I believe is
+
+74
+00:03:46,580 --> 00:03:46,590
+or three times larger yet I believe is
+ 
+
+75
+00:03:46,590 --> 00:03:50,330
+or three times larger yet I believe is
+what I'm going to do so it's a lot
+
+76
+00:03:50,330 --> 00:03:50,340
+what I'm going to do so it's a lot
+ 
+
+77
+00:03:50,340 --> 00:03:51,830
+what I'm going to do so it's a lot
+easier to build them underground it's
+
+78
+00:03:51,830 --> 00:03:51,840
+easier to build them underground it's
+ 
+
+79
+00:03:51,840 --> 00:03:54,310
+easier to build them underground it's
+faster build them underground
+
+80
+00:03:54,310 --> 00:03:54,320
+faster build them underground
+ 
+
+81
+00:03:54,320 --> 00:03:57,680
+faster build them underground
+and you gain resources building them
+
+82
+00:03:57,680 --> 00:03:57,690
+and you gain resources building them
+ 
+
+83
+00:03:57,690 --> 00:04:00,860
+and you gain resources building them
+underground and they don't make giant
+
+84
+00:04:00,860 --> 00:04:00,870
+underground and they don't make giant
+ 
+
+85
+00:04:00,870 --> 00:04:02,660
+underground and they don't make giant
+cubes in your sky if you build them
+
+86
+00:04:02,660 --> 00:04:02,670
+cubes in your sky if you build them
+ 
+
+87
+00:04:02,670 --> 00:04:03,229
+cubes in your sky if you build them
+underground
+
+88
+00:04:03,229 --> 00:04:03,239
+underground
+ 
+
+89
+00:04:03,239 --> 00:04:06,160
+underground
+so there's advantages to both methods
+
+90
+00:04:06,160 --> 00:04:06,170
+so there's advantages to both methods
+ 
+
+91
+00:04:06,170 --> 00:04:13,960
+so there's advantages to both methods
+this one obviously more efficient though
+
+92
+00:04:13,960 --> 00:04:13,970
+
+ 
+
+93
+00:04:13,970 --> 00:04:16,490
+
+yeah I just checked my slime farm here
+
+94
+00:04:16,490 --> 00:04:16,500
+yeah I just checked my slime farm here
+ 
+
+95
+00:04:16,500 --> 00:04:17,900
+yeah I just checked my slime farm here
+and it looks like there's tons of guys
+
+96
+00:04:17,900 --> 00:04:17,910
+and it looks like there's tons of guys
+ 
+
+97
+00:04:17,910 --> 00:04:20,120
+and it looks like there's tons of guys
+down here again and they were
+
+98
+00:04:20,120 --> 00:04:20,130
+down here again and they were
+ 
+
+99
+00:04:20,130 --> 00:04:21,770
+down here again and they were
+interfering what the numbers I just
+
+100
+00:04:21,770 --> 00:04:21,780
+interfering what the numbers I just
+ 
+
+101
+00:04:21,780 --> 00:04:24,020
+interfering what the numbers I just
+showed you normally I have I think
+
+102
+00:04:24,020 --> 00:04:24,030
+showed you normally I have I think
+ 
+
+103
+00:04:24,030 --> 00:04:27,350
+showed you normally I have I think
+around 30 to 40 mobs spawning in that
+
+104
+00:04:27,350 --> 00:04:27,360
+around 30 to 40 mobs spawning in that
+ 
+
+105
+00:04:27,360 --> 00:04:30,350
+around 30 to 40 mobs spawning in that
+giant Tower I just built but when I
+
+106
+00:04:30,350 --> 00:04:30,360
+giant Tower I just built but when I
+ 
+
+107
+00:04:30,360 --> 00:04:35,810
+giant Tower I just built but when I
+showed you is only about 15 to 20 and so
+
+108
+00:04:35,810 --> 00:04:35,820
+showed you is only about 15 to 20 and so
+ 
+
+109
+00:04:35,820 --> 00:04:37,430
+showed you is only about 15 to 20 and so
+these guys are taking on mob spots that
+
+110
+00:04:37,430 --> 00:04:37,440
+these guys are taking on mob spots that
+ 
+
+111
+00:04:37,440 --> 00:04:39,469
+these guys are taking on mob spots that
+could be going to this skeletons
+
+112
+00:04:39,469 --> 00:04:39,479
+could be going to this skeletons
+ 
+
+113
+00:04:39,479 --> 00:04:44,029
+could be going to this skeletons
+creepers zombies etc you need to get rid
+
+114
+00:04:44,029 --> 00:04:44,039
+creepers zombies etc you need to get rid
+ 
+
+115
+00:04:44,039 --> 00:04:49,880
+creepers zombies etc you need to get rid
+of these guys the two mob systems kind
+
+116
+00:04:49,880 --> 00:04:49,890
+of these guys the two mob systems kind
+ 
+
+117
+00:04:49,890 --> 00:04:51,589
+of these guys the two mob systems kind
+of work together the slime one and the
+
+118
+00:04:51,589 --> 00:04:51,599
+of work together the slime one and the
+ 
+
+119
+00:04:51,599 --> 00:04:54,050
+of work together the slime one and the
+other hostile one if you want a really
+
+120
+00:04:54,050 --> 00:04:54,060
+other hostile one if you want a really
+ 
+
+121
+00:04:54,060 --> 00:04:58,670
+other hostile one if you want a really
+good slime farm you need to constantly
+
+122
+00:04:58,670 --> 00:04:58,680
+good slime farm you need to constantly
+ 
+
+123
+00:04:58,680 --> 00:05:01,339
+good slime farm you need to constantly
+be killing the other hostile mobs
+
+124
+00:05:01,339 --> 00:05:01,349
+be killing the other hostile mobs
+ 
+
+125
+00:05:01,349 --> 00:05:03,200
+be killing the other hostile mobs
+because these guys have a slim chance of
+
+126
+00:05:03,200 --> 00:05:03,210
+because these guys have a slim chance of
+ 
+
+127
+00:05:03,210 --> 00:05:05,690
+because these guys have a slim chance of
+spawning but if you're killing people
+
+128
+00:05:05,690 --> 00:05:05,700
+spawning but if you're killing people
+ 
+
+129
+00:05:05,700 --> 00:05:11,060
+spawning but if you're killing people
+and that's quite often then ethic every
+
+130
+00:05:11,060 --> 00:05:11,070
+and that's quite often then ethic every
+ 
+
+131
+00:05:11,070 --> 00:05:12,890
+and that's quite often then ethic every
+time a new mob spawns there's a slim
+
+132
+00:05:12,890 --> 00:05:12,900
+time a new mob spawns there's a slim
+ 
+
+133
+00:05:12,900 --> 00:05:14,870
+time a new mob spawns there's a slim
+chance it will be a slime and you're
+
+134
+00:05:14,870 --> 00:05:14,880
+chance it will be a slime and you're
+ 
+
+135
+00:05:14,880 --> 00:05:16,790
+chance it will be a slime and you're
+just increasing the number of times that
+
+136
+00:05:16,790 --> 00:05:16,800
+just increasing the number of times that
+ 
+
+137
+00:05:16,800 --> 00:05:20,360
+just increasing the number of times that
+dice roll occurs so you will get more
+
+138
+00:05:20,360 --> 00:05:20,370
+dice roll occurs so you will get more
+ 
+
+139
+00:05:20,370 --> 00:05:21,950
+dice roll occurs so you will get more
+slimes if you're killing other mobs
+
+140
+00:05:21,950 --> 00:05:21,960
+slimes if you're killing other mobs
+ 
+
+141
+00:05:21,960 --> 00:05:25,130
+slimes if you're killing other mobs
+quickly that's why my slime firms
+
+142
+00:05:25,130 --> 00:05:25,140
+quickly that's why my slime firms
+ 
+
+143
+00:05:25,140 --> 00:05:29,899
+quickly that's why my slime firms
+filling up so fast now but also if you
+
+144
+00:05:29,899 --> 00:05:29,909
+filling up so fast now but also if you
+ 
+
+145
+00:05:29,909 --> 00:05:32,089
+filling up so fast now but also if you
+want a good hostile mob system you need
+
+146
+00:05:32,089 --> 00:05:32,099
+want a good hostile mob system you need
+ 
+
+147
+00:05:32,099 --> 00:05:34,580
+want a good hostile mob system you need
+a slime farm that you can shut off so I
+
+148
+00:05:34,580 --> 00:05:34,590
+a slime farm that you can shut off so I
+ 
+
+149
+00:05:34,590 --> 00:05:37,190
+a slime farm that you can shut off so I
+need some way of letting my slime pads
+
+150
+00:05:37,190 --> 00:05:37,200
+need some way of letting my slime pads
+ 
+
+151
+00:05:37,200 --> 00:05:39,350
+need some way of letting my slime pads
+when I get this thing finished but
+
+152
+00:05:39,350 --> 00:05:39,360
+when I get this thing finished but
+ 
+
+153
+00:05:39,360 --> 00:05:40,399
+when I get this thing finished but
+otherwise you're going to keep
+
+154
+00:05:40,399 --> 00:05:40,409
+otherwise you're going to keep
+ 
+
+155
+00:05:40,409 --> 00:05:42,620
+otherwise you're going to keep
+interfering with my numbers like they
+
+156
+00:05:42,620 --> 00:05:42,630
+interfering with my numbers like they
+ 
+
+157
+00:05:42,630 --> 00:05:47,469
+interfering with my numbers like they
+happen
+
+158
+00:05:47,469 --> 00:05:47,479
+
+ 
+
+159
+00:05:47,479 --> 00:05:51,219
+
+hehehe
+
+160
+00:05:51,219 --> 00:05:51,229
+
+ 
+
+161
+00:05:51,229 --> 00:05:53,479
+
+yeah there's a lot of slimes down there
+
+162
+00:05:53,479 --> 00:05:53,489
+yeah there's a lot of slimes down there
+ 
+
+163
+00:05:53,489 --> 00:06:00,169
+yeah there's a lot of slimes down there
+I did a test and I uh after I killed
+
+164
+00:06:00,169 --> 00:06:00,179
+I did a test and I uh after I killed
+ 
+
+165
+00:06:00,179 --> 00:06:01,609
+I did a test and I uh after I killed
+them I let that run for another minute
+
+166
+00:06:01,609 --> 00:06:01,619
+them I let that run for another minute
+ 
+
+167
+00:06:01,619 --> 00:06:03,289
+them I let that run for another minute
+or two then I went back down and there's
+
+168
+00:06:03,289 --> 00:06:03,299
+or two then I went back down and there's
+ 
+
+169
+00:06:03,299 --> 00:06:05,089
+or two then I went back down and there's
+about another ten slimes down there so
+
+170
+00:06:05,089 --> 00:06:05,099
+about another ten slimes down there so
+ 
+
+171
+00:06:05,099 --> 00:06:07,699
+about another ten slimes down there so
+they're definitely spawning quickly with
+
+172
+00:06:07,699 --> 00:06:07,709
+they're definitely spawning quickly with
+ 
+
+173
+00:06:07,709 --> 00:06:11,179
+they're definitely spawning quickly with
+that thing running but I just killed
+
+174
+00:06:11,179 --> 00:06:11,189
+that thing running but I just killed
+ 
+
+175
+00:06:11,189 --> 00:06:14,719
+that thing running but I just killed
+them all again and now this thing should
+
+176
+00:06:14,719 --> 00:06:14,729
+them all again and now this thing should
+ 
+
+177
+00:06:14,729 --> 00:06:19,159
+them all again and now this thing should
+be running little bit better course it
+
+178
+00:06:19,159 --> 00:06:19,169
+be running little bit better course it
+ 
+
+179
+00:06:19,169 --> 00:06:31,279
+be running little bit better course it
+is slightly random 17 20 30 - so if
+
+180
+00:06:31,279 --> 00:06:31,289
+is slightly random 17 20 30 - so if
+ 
+
+181
+00:06:31,289 --> 00:06:34,159
+is slightly random 17 20 30 - so if
+there's no mobs or no slimes I should
+
+182
+00:06:34,159 --> 00:06:34,169
+there's no mobs or no slimes I should
+ 
+
+183
+00:06:34,169 --> 00:06:36,889
+there's no mobs or no slimes I should
+say then this thing will handle about 30
+
+184
+00:06:36,889 --> 00:06:36,899
+say then this thing will handle about 30
+ 
+
+185
+00:06:36,899 --> 00:06:40,100
+say then this thing will handle about 30
+mobs at a time since the limit is 80 we
+
+186
+00:06:40,100 --> 00:06:40,110
+mobs at a time since the limit is 80 we
+ 
+
+187
+00:06:40,110 --> 00:06:45,529
+mobs at a time since the limit is 80 we
+want it up to 80 so this will be 2 to 3
+
+188
+00:06:45,529 --> 00:06:45,539
+want it up to 80 so this will be 2 to 3
+ 
+
+189
+00:06:45,539 --> 00:06:47,389
+want it up to 80 so this will be 2 to 3
+times faster than it is right now which
+
+190
+00:06:47,389 --> 00:06:47,399
+times faster than it is right now which
+ 
+
+191
+00:06:47,399 --> 00:06:50,329
+times faster than it is right now which
+would be awesome but to get that we
+
+192
+00:06:50,329 --> 00:06:50,339
+would be awesome but to get that we
+ 
+
+193
+00:06:50,339 --> 00:06:52,999
+would be awesome but to get that we
+neither we either need to make this
+
+194
+00:06:52,999 --> 00:06:53,009
+neither we either need to make this
+ 
+
+195
+00:06:53,009 --> 00:06:56,329
+neither we either need to make this
+bigger I'm thinking either expanding it
+
+196
+00:06:56,329 --> 00:06:56,339
+bigger I'm thinking either expanding it
+ 
+
+197
+00:06:56,339 --> 00:07:02,379
+bigger I'm thinking either expanding it
+or making 2 or 3 of them but before I
+
+198
+00:07:02,379 --> 00:07:02,389
+or making 2 or 3 of them but before I
+ 
+
+199
+00:07:02,389 --> 00:07:05,199
+or making 2 or 3 of them but before I
+think of doing that I'm going to make a
+
+200
+00:07:05,199 --> 00:07:05,209
+think of doing that I'm going to make a
+ 
+
+201
+00:07:05,209 --> 00:07:07,609
+think of doing that I'm going to make a
+strong effort to light up every single
+
+202
+00:07:07,609 --> 00:07:07,619
+strong effort to light up every single
+ 
+
+203
+00:07:07,619 --> 00:07:11,299
+strong effort to light up every single
+cave in the area and those are pretty
+
+204
+00:07:11,299 --> 00:07:11,309
+cave in the area and those are pretty
+ 
+
+205
+00:07:11,309 --> 00:07:15,499
+cave in the area and those are pretty
+easy to find if you use f3 like just
+
+206
+00:07:15,499 --> 00:07:15,509
+easy to find if you use f3 like just
+ 
+
+207
+00:07:15,509 --> 00:07:17,689
+easy to find if you use f3 like just
+looking at the ground there's two mobs
+
+208
+00:07:17,689 --> 00:07:17,699
+looking at the ground there's two mobs
+ 
+
+209
+00:07:17,699 --> 00:07:22,309
+looking at the ground there's two mobs
+below me somewhere in caves if you look
+
+210
+00:07:22,309 --> 00:07:22,319
+below me somewhere in caves if you look
+ 
+
+211
+00:07:22,319 --> 00:07:24,799
+below me somewhere in caves if you look
+at the an identity thing at the top left
+
+212
+00:07:24,799 --> 00:07:24,809
+at the an identity thing at the top left
+ 
+
+213
+00:07:24,809 --> 00:07:32,600
+at the an identity thing at the top left
+there 3 mom's 7 mom's 10 mom's so if you
+
+214
+00:07:32,600 --> 00:07:32,610
+there 3 mom's 7 mom's 10 mom's so if you
+ 
+
+215
+00:07:32,610 --> 00:07:38,649
+there 3 mom's 7 mom's 10 mom's so if you
+wander around your perimeter here try to
+
+216
+00:07:38,649 --> 00:07:38,659
+wander around your perimeter here try to
+ 
+
+217
+00:07:38,659 --> 00:07:40,759
+wander around your perimeter here try to
+even though you can't see the tags
+
+218
+00:07:40,759 --> 00:07:40,769
+even though you can't see the tags
+ 
+
+219
+00:07:40,769 --> 00:07:43,429
+even though you can't see the tags
+necessarily on the mobs you the game
+
+220
+00:07:43,429 --> 00:07:43,439
+necessarily on the mobs you the game
+ 
+
+221
+00:07:43,439 --> 00:07:45,619
+necessarily on the mobs you the game
+will pick them up at your entity thing
+
+222
+00:07:45,619 --> 00:07:45,629
+will pick them up at your entity thing
+ 
+
+223
+00:07:45,629 --> 00:07:52,399
+will pick them up at your entity thing
+here so it's kind of like radar to moms
+
+224
+00:07:52,399 --> 00:07:52,409
+here so it's kind of like radar to moms
+ 
+
+225
+00:07:52,409 --> 00:07:56,899
+here so it's kind of like radar to moms
+it's pretty good 3 4 so I would try to
+
+226
+00:07:56,899 --> 00:07:56,909
+it's pretty good 3 4 so I would try to
+ 
+
+227
+00:07:56,909 --> 00:07:58,789
+it's pretty good 3 4 so I would try to
+find a high concentration of them and
+
+228
+00:07:58,789 --> 00:07:58,799
+find a high concentration of them and
+ 
+
+229
+00:07:58,799 --> 00:08:02,960
+find a high concentration of them and
+then then dig down there
+
+230
+00:08:02,960 --> 00:08:02,970
+then then dig down there
+ 
+
+231
+00:08:02,970 --> 00:08:05,000
+then then dig down there
+I think I saw some actually really close
+
+232
+00:08:05,000 --> 00:08:05,010
+I think I saw some actually really close
+ 
+
+233
+00:08:05,010 --> 00:08:07,580
+I think I saw some actually really close
+to the surface here before let's check
+
+234
+00:08:07,580 --> 00:08:07,590
+to the surface here before let's check
+ 
+
+235
+00:08:07,590 --> 00:08:10,040
+to the surface here before let's check
+if let's check if they're there again
+
+236
+00:08:10,040 --> 00:08:10,050
+if let's check if they're there again
+ 
+
+237
+00:08:10,050 --> 00:08:12,830
+if let's check if they're there again
+ten eleven so this is a pretty bad spot
+
+238
+00:08:12,830 --> 00:08:12,840
+ten eleven so this is a pretty bad spot
+ 
+
+239
+00:08:12,840 --> 00:08:18,560
+ten eleven so this is a pretty bad spot
+near here and right below here I saw
+
+240
+00:08:18,560 --> 00:08:18,570
+near here and right below here I saw
+ 
+
+241
+00:08:18,570 --> 00:08:28,970
+near here and right below here I saw
+some four five don't really see any
+
+242
+00:08:28,970 --> 00:08:28,980
+some four five don't really see any
+ 
+
+243
+00:08:28,980 --> 00:08:32,029
+some four five don't really see any
+right now but I know there was some so
+
+244
+00:08:32,029 --> 00:08:32,039
+right now but I know there was some so
+ 
+
+245
+00:08:32,039 --> 00:08:40,300
+right now but I know there was some so
+let's go check it out
+
+246
+00:08:40,300 --> 00:08:40,310
+
+ 
+
+247
+00:08:40,310 --> 00:08:46,400
+
+this is how we did you know shion's yeah
+
+248
+00:08:46,400 --> 00:08:46,410
+this is how we did you know shion's yeah
+ 
+
+249
+00:08:46,410 --> 00:08:51,640
+this is how we did you know shion's yeah
+there's there's a bunch over there
+
+250
+00:08:51,640 --> 00:08:51,650
+
+ 
+
+251
+00:08:51,650 --> 00:08:58,390
+
+digging down is cool
+
+252
+00:08:58,390 --> 00:08:58,400
+
+ 
+
+253
+00:08:58,400 --> 00:09:01,090
+
+Wow there's a big cheat where they're
+
+254
+00:09:01,090 --> 00:09:01,100
+Wow there's a big cheat where they're
+ 
+
+255
+00:09:01,100 --> 00:09:08,750
+Wow there's a big cheat where they're
+directly below my base let's go check it
+
+256
+00:09:08,750 --> 00:09:08,760
+directly below my base let's go check it
+ 
+
+257
+00:09:08,760 --> 00:09:14,720
+directly below my base let's go check it
+out to see what's going on so I got to
+
+258
+00:09:14,720 --> 00:09:14,730
+out to see what's going on so I got to
+ 
+
+259
+00:09:14,730 --> 00:09:17,410
+out to see what's going on so I got to
+find all these tubes that are hidden
+
+260
+00:09:17,410 --> 00:09:17,420
+find all these tubes that are hidden
+ 
+
+261
+00:09:17,420 --> 00:09:21,170
+find all these tubes that are hidden
+light them up and then I will get many
+
+262
+00:09:21,170 --> 00:09:21,180
+light them up and then I will get many
+ 
+
+263
+00:09:21,180 --> 00:09:31,280
+light them up and then I will get many
+more mobs in my mob system iron you can
+
+264
+00:09:31,280 --> 00:09:31,290
+more mobs in my mob system iron you can
+ 
+
+265
+00:09:31,290 --> 00:09:40,670
+more mobs in my mob system iron you can
+hear them the tedious process though
+
+266
+00:09:40,670 --> 00:09:40,680
+hear them the tedious process though
+ 
+
+267
+00:09:40,680 --> 00:09:42,380
+hear them the tedious process though
+lighting up all the caves but usually
+
+268
+00:09:42,380 --> 00:09:42,390
+lighting up all the caves but usually
+ 
+
+269
+00:09:42,390 --> 00:09:44,330
+lighting up all the caves but usually
+when you do it to get tons of resources
+
+270
+00:09:44,330 --> 00:09:44,340
+when you do it to get tons of resources
+ 
+
+271
+00:09:44,340 --> 00:09:49,040
+when you do it to get tons of resources
+so you know I never just over resource
+
+272
+00:09:49,040 --> 00:09:49,050
+so you know I never just over resource
+ 
+
+273
+00:09:49,050 --> 00:09:50,390
+so you know I never just over resource
+hunting or anything like that there's
+
+274
+00:09:50,390 --> 00:09:50,400
+hunting or anything like that there's
+ 
+
+275
+00:09:50,400 --> 00:09:52,820
+hunting or anything like that there's
+always I'm always doing two things at
+
+276
+00:09:52,820 --> 00:09:52,830
+always I'm always doing two things at
+ 
+
+277
+00:09:52,830 --> 00:09:54,890
+always I'm always doing two things at
+once I'm I'm lighting up caves and
+
+278
+00:09:54,890 --> 00:09:54,900
+once I'm I'm lighting up caves and
+ 
+
+279
+00:09:54,900 --> 00:09:56,920
+once I'm I'm lighting up caves and
+getting resources and having fun
+
+280
+00:09:56,920 --> 00:09:56,930
+getting resources and having fun
+ 
+
+281
+00:09:56,930 --> 00:10:01,400
+getting resources and having fun
+exploring underground so kind of like
+
+282
+00:10:01,400 --> 00:10:01,410
+exploring underground so kind of like
+ 
+
+283
+00:10:01,410 --> 00:10:09,050
+exploring underground so kind of like
+multitasking I know that's not really
+
+284
+00:10:09,050 --> 00:10:09,060
+multitasking I know that's not really
+ 
+
+285
+00:10:09,060 --> 00:10:18,830
+multitasking I know that's not really
+what multitasking is whoa
+
+286
+00:10:18,830 --> 00:10:18,840
+
+ 
+
+287
+00:10:18,840 --> 00:10:21,480
+
+of course I don't have any armor on me
+
+288
+00:10:21,480 --> 00:10:21,490
+of course I don't have any armor on me
+ 
+
+289
+00:10:21,490 --> 00:10:24,300
+of course I don't have any armor on me
+or anything or food so might be
+
+290
+00:10:24,300 --> 00:10:24,310
+or anything or food so might be
+ 
+
+291
+00:10:24,310 --> 00:10:27,720
+or anything or food so might be
+switching to peaceful here wasn't really
+
+292
+00:10:27,720 --> 00:10:27,730
+switching to peaceful here wasn't really
+ 
+
+293
+00:10:27,730 --> 00:10:44,790
+switching to peaceful here wasn't really
+planning to go keep stuff creepy they're
+
+294
+00:10:44,790 --> 00:10:44,800
+planning to go keep stuff creepy they're
+ 
+
+295
+00:10:44,800 --> 00:10:53,940
+planning to go keep stuff creepy they're
+just watching me oh yeah I'm going to do
+
+296
+00:10:53,940 --> 00:10:53,950
+just watching me oh yeah I'm going to do
+ 
+
+297
+00:10:53,950 --> 00:11:14,610
+just watching me oh yeah I'm going to do
+it ah dang so yes is not a huge key but
+
+298
+00:11:14,610 --> 00:11:14,620
+it ah dang so yes is not a huge key but
+ 
+
+299
+00:11:14,620 --> 00:11:16,290
+it ah dang so yes is not a huge key but
+you saw how many moms were in here in
+
+300
+00:11:16,290 --> 00:11:16,300
+you saw how many moms were in here in
+ 
+
+301
+00:11:16,300 --> 00:11:21,480
+you saw how many moms were in here in
+such a small cave as you decrease the
+
+302
+00:11:21,480 --> 00:11:21,490
+such a small cave as you decrease the
+ 
+
+303
+00:11:21,490 --> 00:11:23,190
+such a small cave as you decrease the
+number of spots where they can spawn
+
+304
+00:11:23,190 --> 00:11:23,200
+number of spots where they can spawn
+ 
+
+305
+00:11:23,200 --> 00:11:25,680
+number of spots where they can spawn
+their concentrations will get higher in
+
+306
+00:11:25,680 --> 00:11:25,690
+their concentrations will get higher in
+ 
+
+307
+00:11:25,690 --> 00:11:33,390
+their concentrations will get higher in
+smaller areas and we can hear there's
+
+308
+00:11:33,390 --> 00:11:33,400
+smaller areas and we can hear there's
+ 
+
+309
+00:11:33,400 --> 00:11:35,460
+smaller areas and we can hear there's
+more Teebs near here so let's go check
+
+310
+00:11:35,460 --> 00:11:35,470
+more Teebs near here so let's go check
+ 
+
+311
+00:11:35,470 --> 00:11:46,950
+more Teebs near here so let's go check
+it out this is a stuff I usually do
+
+312
+00:11:46,950 --> 00:11:46,960
+it out this is a stuff I usually do
+ 
+
+313
+00:11:46,960 --> 00:11:51,690
+it out this is a stuff I usually do
+off-camera but try something a little
+
+314
+00:11:51,690 --> 00:11:51,700
+off-camera but try something a little
+ 
+
+315
+00:11:51,700 --> 00:11:56,070
+off-camera but try something a little
+different today just for a brief little
+
+316
+00:11:56,070 --> 00:11:56,080
+different today just for a brief little
+ 
+
+317
+00:11:56,080 --> 00:12:02,920
+different today just for a brief little
+while
+
+318
+00:12:02,920 --> 00:12:02,930
+
+ 
+
+319
+00:12:02,930 --> 00:12:05,930
+
+another small cave nothing major
+
+320
+00:12:05,930 --> 00:12:05,940
+another small cave nothing major
+ 
+
+321
+00:12:05,940 --> 00:12:07,850
+another small cave nothing major
+probably would never find it without
+
+322
+00:12:07,850 --> 00:12:07,860
+probably would never find it without
+ 
+
+323
+00:12:07,860 --> 00:12:12,710
+probably would never find it without
+using f3 I'm worried that feature soon
+
+324
+00:12:12,710 --> 00:12:12,720
+using f3 I'm worried that feature soon
+ 
+
+325
+00:12:12,720 --> 00:12:32,210
+using f3 I'm worried that feature soon
+be gone soon I use it a lot you so light
+
+326
+00:12:32,210 --> 00:12:32,220
+be gone soon I use it a lot you so light
+ 
+
+327
+00:12:32,220 --> 00:12:34,010
+be gone soon I use it a lot you so light
+up the caves don't be stingy with the
+
+328
+00:12:34,010 --> 00:12:34,020
+up the caves don't be stingy with the
+ 
+
+329
+00:12:34,020 --> 00:12:36,860
+up the caves don't be stingy with the
+torches or you'll regret it later make
+
+330
+00:12:36,860 --> 00:12:36,870
+torches or you'll regret it later make
+ 
+
+331
+00:12:36,870 --> 00:12:47,060
+torches or you'll regret it later make
+sure you have it light enough run
+
+332
+00:12:47,060 --> 00:12:47,070
+sure you have it light enough run
+ 
+
+333
+00:12:47,070 --> 00:12:51,440
+sure you have it light enough run
+through here at pretty small cave and I
+
+334
+00:12:51,440 --> 00:12:51,450
+through here at pretty small cave and I
+ 
+
+335
+00:12:51,450 --> 00:12:53,330
+through here at pretty small cave and I
+can see there's four more mobs down
+
+336
+00:12:53,330 --> 00:12:53,340
+can see there's four more mobs down
+ 
+
+337
+00:12:53,340 --> 00:12:56,240
+can see there's four more mobs down
+there very close and I think I saw some
+
+338
+00:12:56,240 --> 00:12:56,250
+there very close and I think I saw some
+ 
+
+339
+00:12:56,250 --> 00:13:00,470
+there very close and I think I saw some
+more somewhere over there so I'll do a
+
+340
+00:13:00,470 --> 00:13:00,480
+more somewhere over there so I'll do a
+ 
+
+341
+00:13:00,480 --> 00:13:02,060
+more somewhere over there so I'll do a
+little bit lighting here and I will meet
+
+342
+00:13:02,060 --> 00:13:02,070
+little bit lighting here and I will meet
+ 
+
+343
+00:13:02,070 --> 00:13:04,010
+little bit lighting here and I will meet
+you back at the surface and just a
+
+344
+00:13:04,010 --> 00:13:04,020
+you back at the surface and just a
+ 
+
+345
+00:13:04,020 --> 00:13:10,310
+you back at the surface and just a
+little sec a little while okay so we're
+
+346
+00:13:10,310 --> 00:13:10,320
+little sec a little while okay so we're
+ 
+
+347
+00:13:10,320 --> 00:13:12,260
+little sec a little while okay so we're
+back up here I thought it'd be good to
+
+348
+00:13:12,260 --> 00:13:12,270
+back up here I thought it'd be good to
+ 
+
+349
+00:13:12,270 --> 00:13:15,470
+back up here I thought it'd be good to
+take you up to the tower up close and
+
+350
+00:13:15,470 --> 00:13:15,480
+take you up to the tower up close and
+ 
+
+351
+00:13:15,480 --> 00:13:16,120
+take you up to the tower up close and
+personal
+
+352
+00:13:16,120 --> 00:13:16,130
+personal
+ 
+
+353
+00:13:16,130 --> 00:13:18,710
+personal
+I'll show you a little problem I have
+
+354
+00:13:18,710 --> 00:13:18,720
+I'll show you a little problem I have
+ 
+
+355
+00:13:18,720 --> 00:13:28,580
+I'll show you a little problem I have
+now pretty big Tower yes here we are
+
+356
+00:13:28,580 --> 00:13:28,590
+now pretty big Tower yes here we are
+ 
+
+357
+00:13:28,590 --> 00:13:33,080
+now pretty big Tower yes here we are
+this is the top this is how you can get
+
+358
+00:13:33,080 --> 00:13:33,090
+this is the top this is how you can get
+ 
+
+359
+00:13:33,090 --> 00:13:38,120
+this is the top this is how you can get
+down so maybe I'll point out one thing
+
+360
+00:13:38,120 --> 00:13:38,130
+down so maybe I'll point out one thing
+ 
+
+361
+00:13:38,130 --> 00:13:42,020
+down so maybe I'll point out one thing
+first a lot of people were concerned
+
+362
+00:13:42,020 --> 00:13:42,030
+first a lot of people were concerned
+ 
+
+363
+00:13:42,030 --> 00:13:43,880
+first a lot of people were concerned
+that mobs are going to walk into these
+
+364
+00:13:43,880 --> 00:13:43,890
+that mobs are going to walk into these
+ 
+
+365
+00:13:43,890 --> 00:13:46,490
+that mobs are going to walk into these
+water columns and then drown or get
+
+366
+00:13:46,490 --> 00:13:46,500
+water columns and then drown or get
+ 
+
+367
+00:13:46,500 --> 00:13:50,210
+water columns and then drown or get
+stuck or something doesn't happen these
+
+368
+00:13:50,210 --> 00:13:50,220
+stuck or something doesn't happen these
+ 
+
+369
+00:13:50,220 --> 00:13:53,120
+stuck or something doesn't happen these
+are considered drops so mobs don't walk
+
+370
+00:13:53,120 --> 00:13:53,130
+are considered drops so mobs don't walk
+ 
+
+371
+00:13:53,130 --> 00:13:55,460
+are considered drops so mobs don't walk
+off these things unless they're pushed
+
+372
+00:13:55,460 --> 00:13:55,470
+off these things unless they're pushed
+ 
+
+373
+00:13:55,470 --> 00:13:58,700
+off these things unless they're pushed
+and even if they are it happens very
+
+374
+00:13:58,700 --> 00:13:58,710
+and even if they are it happens very
+ 
+
+375
+00:13:58,710 --> 00:14:01,850
+and even if they are it happens very
+rare and they drown if it does happen I
+
+376
+00:14:01,850 --> 00:14:01,860
+rare and they drown if it does happen I
+ 
+
+377
+00:14:01,860 --> 00:14:03,230
+rare and they drown if it does happen I
+haven't really I think only saw it
+
+378
+00:14:03,230 --> 00:14:03,240
+haven't really I think only saw it
+ 
+
+379
+00:14:03,240 --> 00:14:05,650
+haven't really I think only saw it
+happen once
+
+380
+00:14:05,650 --> 00:14:05,660
+happen once
+ 
+
+381
+00:14:05,660 --> 00:14:10,360
+happen once
+it's very rare it's not a problem so
+
+382
+00:14:10,360 --> 00:14:10,370
+it's very rare it's not a problem so
+ 
+
+383
+00:14:10,370 --> 00:14:14,200
+it's very rare it's not a problem so
+don't worry about that we're at the top
+
+384
+00:14:14,200 --> 00:14:14,210
+don't worry about that we're at the top
+ 
+
+385
+00:14:14,210 --> 00:14:18,790
+don't worry about that we're at the top
+here we're at y-coordinate 124 basically
+
+386
+00:14:18,790 --> 00:14:18,800
+here we're at y-coordinate 124 basically
+ 
+
+387
+00:14:18,800 --> 00:14:21,220
+here we're at y-coordinate 124 basically
+the top of the world and that presents
+
+388
+00:14:21,220 --> 00:14:21,230
+the top of the world and that presents
+ 
+
+389
+00:14:21,230 --> 00:14:24,060
+the top of the world and that presents
+my next problem
+
+390
+00:14:24,060 --> 00:14:24,070
+my next problem
+ 
+
+391
+00:14:24,070 --> 00:14:26,860
+my next problem
+this final layer I put on is pretty
+
+392
+00:14:26,860 --> 00:14:26,870
+this final layer I put on is pretty
+ 
+
+393
+00:14:26,870 --> 00:14:29,230
+this final layer I put on is pretty
+close to the top we only have one two
+
+394
+00:14:29,230 --> 00:14:29,240
+close to the top we only have one two
+ 
+
+395
+00:14:29,240 --> 00:14:32,950
+close to the top we only have one two
+three four can we place four blocks down
+
+396
+00:14:32,950 --> 00:14:32,960
+three four can we place four blocks down
+ 
+
+397
+00:14:32,960 --> 00:14:35,860
+three four can we place four blocks down
+yet before we reach the top of the map
+
+398
+00:14:35,860 --> 00:14:35,870
+yet before we reach the top of the map
+ 
+
+399
+00:14:35,870 --> 00:14:41,650
+yet before we reach the top of the map
+and I need to build my spider shut off
+
+400
+00:14:41,650 --> 00:14:41,660
+and I need to build my spider shut off
+ 
+
+401
+00:14:41,660 --> 00:14:46,930
+and I need to build my spider shut off
+thing using water and also my lighting
+
+402
+00:14:46,930 --> 00:14:46,940
+thing using water and also my lighting
+ 
+
+403
+00:14:46,940 --> 00:14:50,620
+thing using water and also my lighting
+system using lava so I got to get water
+
+404
+00:14:50,620 --> 00:14:50,630
+system using lava so I got to get water
+ 
+
+405
+00:14:50,630 --> 00:14:53,320
+system using lava so I got to get water
+and labo down these oops these four
+
+406
+00:14:53,320 --> 00:14:53,330
+and labo down these oops these four
+ 
+
+407
+00:14:53,330 --> 00:14:56,890
+and labo down these oops these four
+holes here and that's a real challenge
+
+408
+00:14:56,890 --> 00:14:56,900
+holes here and that's a real challenge
+ 
+
+409
+00:14:56,900 --> 00:14:58,660
+holes here and that's a real challenge
+because we're at the top of the map and
+
+410
+00:14:58,660 --> 00:14:58,670
+because we're at the top of the map and
+ 
+
+411
+00:14:58,670 --> 00:15:05,100
+because we're at the top of the map and
+we have pretty much no working room so
+
+412
+00:15:05,100 --> 00:15:05,110
+
+ 
+
+413
+00:15:05,110 --> 00:15:08,440
+
+yeah I'm a little not really sure what
+
+414
+00:15:08,440 --> 00:15:08,450
+yeah I'm a little not really sure what
+ 
+
+415
+00:15:08,450 --> 00:15:12,760
+yeah I'm a little not really sure what
+to do so if I dump water here it'll go
+
+416
+00:15:12,760 --> 00:15:12,770
+to do so if I dump water here it'll go
+ 
+
+417
+00:15:12,770 --> 00:15:18,070
+to do so if I dump water here it'll go
+to three of the holes that's the thing I
+
+418
+00:15:18,070 --> 00:15:18,080
+to three of the holes that's the thing I
+ 
+
+419
+00:15:18,080 --> 00:15:20,200
+to three of the holes that's the thing I
+kind of need to put another layer on the
+
+420
+00:15:20,200 --> 00:15:20,210
+kind of need to put another layer on the
+ 
+
+421
+00:15:20,210 --> 00:15:26,970
+kind of need to put another layer on the
+top so light doesn't get down in and
+
+422
+00:15:26,970 --> 00:15:26,980
+top so light doesn't get down in and
+ 
+
+423
+00:15:26,980 --> 00:15:31,870
+top so light doesn't get down in and
+interfere because if this isn't covered
+
+424
+00:15:31,870 --> 00:15:31,880
+interfere because if this isn't covered
+ 
+
+425
+00:15:31,880 --> 00:15:33,760
+interfere because if this isn't covered
+directly above these holes light will
+
+426
+00:15:33,760 --> 00:15:33,770
+directly above these holes light will
+ 
+
+427
+00:15:33,770 --> 00:15:35,530
+directly above these holes light will
+get down here and then they'll light up
+
+428
+00:15:35,530 --> 00:15:35,540
+get down here and then they'll light up
+ 
+
+429
+00:15:35,540 --> 00:15:40,750
+get down here and then they'll light up
+the the pads and it will we won't be
+
+430
+00:15:40,750 --> 00:15:40,760
+the the pads and it will we won't be
+ 
+
+431
+00:15:40,760 --> 00:15:42,310
+the the pads and it will we won't be
+able to shut we won't be able to make it
+
+432
+00:15:42,310 --> 00:15:42,320
+able to shut we won't be able to make it
+ 
+
+433
+00:15:42,320 --> 00:15:46,410
+able to shut we won't be able to make it
+completely dark down there so kind of
+
+434
+00:15:46,410 --> 00:15:46,420
+completely dark down there so kind of
+ 
+
+435
+00:15:46,420 --> 00:15:49,630
+completely dark down there so kind of
+kind of troubling the other thing is if
+
+436
+00:15:49,630 --> 00:15:49,640
+kind of troubling the other thing is if
+ 
+
+437
+00:15:49,640 --> 00:15:53,560
+kind of troubling the other thing is if
+I pour lava in there I brought some lava
+
+438
+00:15:53,560 --> 00:15:53,570
+I pour lava in there I brought some lava
+ 
+
+439
+00:15:53,570 --> 00:15:55,900
+I pour lava in there I brought some lava
+I have that problem where it won't
+
+440
+00:15:55,900 --> 00:15:55,910
+I have that problem where it won't
+ 
+
+441
+00:15:55,910 --> 00:16:06,020
+I have that problem where it won't
+disappear takes forever
+
+442
+00:16:06,020 --> 00:16:06,030
+
+ 
+
+443
+00:16:06,030 --> 00:16:09,710
+
+because it goes horizontally like that
+
+444
+00:16:09,710 --> 00:16:09,720
+because it goes horizontally like that
+ 
+
+445
+00:16:09,720 --> 00:16:18,680
+because it goes horizontally like that
+and now if I remove it this this lava
+
+446
+00:16:18,680 --> 00:16:18,690
+
+ 
+
+447
+00:16:18,690 --> 00:16:21,570
+
+pile here won't disappear for a long
+
+448
+00:16:21,570 --> 00:16:21,580
+pile here won't disappear for a long
+ 
+
+449
+00:16:21,580 --> 00:16:24,540
+pile here won't disappear for a long
+time so it is a problem after all so I
+
+450
+00:16:24,540 --> 00:16:24,550
+time so it is a problem after all so I
+ 
+
+451
+00:16:24,550 --> 00:16:30,920
+time so it is a problem after all so I
+need to figure something out here
+
+452
+00:16:30,920 --> 00:16:30,930
+
+ 
+
+453
+00:16:30,930 --> 00:16:34,380
+
+the main annoyance I have with this
+
+454
+00:16:34,380 --> 00:16:34,390
+the main annoyance I have with this
+ 
+
+455
+00:16:34,390 --> 00:16:37,530
+the main annoyance I have with this
+design is it's based off of even numbers
+
+456
+00:16:37,530 --> 00:16:37,540
+design is it's based off of even numbers
+ 
+
+457
+00:16:37,540 --> 00:16:41,610
+design is it's based off of even numbers
+so I put water here it only flows to one
+
+458
+00:16:41,610 --> 00:16:41,620
+so I put water here it only flows to one
+ 
+
+459
+00:16:41,620 --> 00:16:46,470
+so I put water here it only flows to one
+hole same here so there's no real good
+
+460
+00:16:46,470 --> 00:16:46,480
+hole same here so there's no real good
+ 
+
+461
+00:16:46,480 --> 00:16:49,440
+hole same here so there's no real good
+trick to making it go to all four holes
+
+462
+00:16:49,440 --> 00:16:49,450
+trick to making it go to all four holes
+ 
+
+463
+00:16:49,450 --> 00:16:54,270
+trick to making it go to all four holes
+since it's an even number but if it
+
+464
+00:16:54,270 --> 00:16:54,280
+since it's an even number but if it
+ 
+
+465
+00:16:54,280 --> 00:16:57,180
+since it's an even number but if it
+would like this is a base for thing here
+
+466
+00:16:57,180 --> 00:16:57,190
+would like this is a base for thing here
+ 
+
+467
+00:16:57,190 --> 00:16:58,740
+would like this is a base for thing here
+if it was base five I could just put in
+
+468
+00:16:58,740 --> 00:16:58,750
+if it was base five I could just put in
+ 
+
+469
+00:16:58,750 --> 00:17:00,840
+if it was base five I could just put in
+the center and it would go to all four
+
+470
+00:17:00,840 --> 00:17:00,850
+the center and it would go to all four
+ 
+
+471
+00:17:00,850 --> 00:17:05,760
+the center and it would go to all four
+holes no problem hmm so I don't know
+
+472
+00:17:05,760 --> 00:17:05,770
+holes no problem hmm so I don't know
+ 
+
+473
+00:17:05,770 --> 00:17:10,560
+holes no problem hmm so I don't know
+what to do I've just been messing around
+
+474
+00:17:10,560 --> 00:17:10,570
+what to do I've just been messing around
+ 
+
+475
+00:17:10,570 --> 00:17:12,900
+what to do I've just been messing around
+with a few ideas this one is a
+
+476
+00:17:12,900 --> 00:17:12,910
+with a few ideas this one is a
+ 
+
+477
+00:17:12,910 --> 00:17:16,020
+with a few ideas this one is a
+possibility it's not perfect it is
+
+478
+00:17:16,020 --> 00:17:16,030
+possibility it's not perfect it is
+ 
+
+479
+00:17:16,030 --> 00:17:18,240
+possibility it's not perfect it is
+within one to three blocks like I need
+
+480
+00:17:18,240 --> 00:17:18,250
+within one to three blocks like I need
+ 
+
+481
+00:17:18,250 --> 00:17:23,240
+within one to three blocks like I need
+it to be if I flick the sleeper here
+
+482
+00:17:23,240 --> 00:17:23,250
+it to be if I flick the sleeper here
+ 
+
+483
+00:17:23,250 --> 00:17:29,720
+it to be if I flick the sleeper here
+water will go to three of the holes and
+
+484
+00:17:29,720 --> 00:17:29,730
+water will go to three of the holes and
+ 
+
+485
+00:17:29,730 --> 00:17:34,680
+water will go to three of the holes and
+then this one here would cause Labbit to
+
+486
+00:17:34,680 --> 00:17:34,690
+then this one here would cause Labbit to
+ 
+
+487
+00:17:34,690 --> 00:17:42,690
+then this one here would cause Labbit to
+go to the other three like that the only
+
+488
+00:17:42,690 --> 00:17:42,700
+go to the other three like that the only
+ 
+
+489
+00:17:42,700 --> 00:17:46,320
+go to the other three like that the only
+problem of course is lava takes oops
+
+490
+00:17:46,320 --> 00:17:46,330
+problem of course is lava takes oops
+ 
+
+491
+00:17:46,330 --> 00:17:49,050
+problem of course is lava takes oops
+let's well there's two problems that's
+
+492
+00:17:49,050 --> 00:17:49,060
+let's well there's two problems that's
+ 
+
+493
+00:17:49,060 --> 00:17:52,050
+let's well there's two problems that's
+another problem can't have them both
+
+494
+00:17:52,050 --> 00:17:52,060
+another problem can't have them both
+ 
+
+495
+00:17:52,060 --> 00:17:55,470
+another problem can't have them both
+going at the same time or you'll produce
+
+496
+00:17:55,470 --> 00:17:55,480
+going at the same time or you'll produce
+ 
+
+497
+00:17:55,480 --> 00:17:57,900
+going at the same time or you'll produce
+cobblestone the other problem is the
+
+498
+00:17:57,900 --> 00:17:57,910
+cobblestone the other problem is the
+ 
+
+499
+00:17:57,910 --> 00:18:05,340
+cobblestone the other problem is the
+lava takes a while to disappear
+
+500
+00:18:05,340 --> 00:18:05,350
+
+ 
+
+501
+00:18:05,350 --> 00:18:08,110
+
+so I don't know I'm trying to avoid
+
+502
+00:18:08,110 --> 00:18:08,120
+so I don't know I'm trying to avoid
+ 
+
+503
+00:18:08,120 --> 00:18:12,330
+so I don't know I'm trying to avoid
+having to use two pistons for each hole
+
+504
+00:18:12,330 --> 00:18:12,340
+
+ 
+
+505
+00:18:12,340 --> 00:18:20,110
+
+but it might not be possible at two
+
+506
+00:18:20,110 --> 00:18:20,120
+but it might not be possible at two
+ 
+
+507
+00:18:20,120 --> 00:18:22,060
+but it might not be possible at two
+piston per whole idea would probably
+
+508
+00:18:22,060 --> 00:18:22,070
+piston per whole idea would probably
+ 
+
+509
+00:18:22,070 --> 00:18:24,730
+piston per whole idea would probably
+work something like this have water and
+
+510
+00:18:24,730 --> 00:18:24,740
+work something like this have water and
+ 
+
+511
+00:18:24,740 --> 00:18:29,980
+work something like this have water and
+lava piston fuel down water goes down
+
+512
+00:18:29,980 --> 00:18:29,990
+lava piston fuel down water goes down
+ 
+
+513
+00:18:29,990 --> 00:18:33,700
+lava piston fuel down water goes down
+the hole switch it off
+
+514
+00:18:33,700 --> 00:18:33,710
+the hole switch it off
+ 
+
+515
+00:18:33,710 --> 00:18:42,850
+the hole switch it off
+lap it goes down but again the problem
+
+516
+00:18:42,850 --> 00:18:42,860
+lap it goes down but again the problem
+ 
+
+517
+00:18:42,860 --> 00:18:44,769
+lap it goes down but again the problem
+is there would be a lot of wiring there
+
+518
+00:18:44,769 --> 00:18:44,779
+is there would be a lot of wiring there
+ 
+
+519
+00:18:44,779 --> 00:18:47,799
+is there would be a lot of wiring there
+would be a lot of Pistons kind of sucked
+
+520
+00:18:47,799 --> 00:18:47,809
+would be a lot of Pistons kind of sucked
+ 
+
+521
+00:18:47,809 --> 00:18:52,600
+would be a lot of Pistons kind of sucked
+the build and you probably have the
+
+522
+00:18:52,600 --> 00:18:52,610
+the build and you probably have the
+ 
+
+523
+00:18:52,610 --> 00:18:54,310
+the build and you probably have the
+issue where they both can't be on at the
+
+524
+00:18:54,310 --> 00:18:54,320
+issue where they both can't be on at the
+ 
+
+525
+00:18:54,320 --> 00:19:05,169
+issue where they both can't be on at the
+same time lap is on and you got a
+
+526
+00:19:05,169 --> 00:19:05,179
+same time lap is on and you got a
+ 
+
+527
+00:19:05,179 --> 00:19:10,899
+same time lap is on and you got a
+cobblestone generator so yeah not the
+
+528
+00:19:10,899 --> 00:19:10,909
+cobblestone generator so yeah not the
+ 
+
+529
+00:19:10,909 --> 00:19:11,470
+cobblestone generator so yeah not the
+best idea
+
+530
+00:19:11,470 --> 00:19:11,480
+best idea
+ 
+
+531
+00:19:11,480 --> 00:19:17,440
+best idea
+oh man I was just about to give up on
+
+532
+00:19:17,440 --> 00:19:17,450
+oh man I was just about to give up on
+ 
+
+533
+00:19:17,450 --> 00:19:20,549
+oh man I was just about to give up on
+the idea of having a lighting system I
+
+534
+00:19:20,549 --> 00:19:20,559
+the idea of having a lighting system I
+ 
+
+535
+00:19:20,559 --> 00:19:23,169
+the idea of having a lighting system I
+decided to give it one more shot and I
+
+536
+00:19:23,169 --> 00:19:23,179
+decided to give it one more shot and I
+ 
+
+537
+00:19:23,179 --> 00:19:26,080
+decided to give it one more shot and I
+found something that works really well
+
+538
+00:19:26,080 --> 00:19:26,090
+found something that works really well
+ 
+
+539
+00:19:26,090 --> 00:19:30,070
+found something that works really well
+and does everything I wanted to it's
+
+540
+00:19:30,070 --> 00:19:30,080
+and does everything I wanted to it's
+ 
+
+541
+00:19:30,080 --> 00:19:32,580
+and does everything I wanted to it's
+still within the three block height
+
+542
+00:19:32,580 --> 00:19:32,590
+still within the three block height
+ 
+
+543
+00:19:32,590 --> 00:19:38,260
+still within the three block height
+boundary I'm limited limited to here it
+
+544
+00:19:38,260 --> 00:19:38,270
+boundary I'm limited limited to here it
+ 
+
+545
+00:19:38,270 --> 00:19:41,830
+boundary I'm limited limited to here it
+has a spider option and a lighting
+
+546
+00:19:41,830 --> 00:19:41,840
+has a spider option and a lighting
+ 
+
+547
+00:19:41,840 --> 00:19:46,360
+has a spider option and a lighting
+option and uses only two Pistons per 4
+
+548
+00:19:46,360 --> 00:19:46,370
+option and uses only two Pistons per 4
+ 
+
+549
+00:19:46,370 --> 00:19:51,190
+option and uses only two Pistons per 4
+holes so it's pretty good let's check it
+
+550
+00:19:51,190 --> 00:19:51,200
+holes so it's pretty good let's check it
+ 
+
+551
+00:19:51,200 --> 00:20:00,530
+holes so it's pretty good let's check it
+out first of all water water is in there
+
+552
+00:20:00,530 --> 00:20:00,540
+
+ 
+
+553
+00:20:00,540 --> 00:20:04,430
+
+and this is how it flows down goes to
+
+554
+00:20:04,430 --> 00:20:04,440
+and this is how it flows down goes to
+ 
+
+555
+00:20:04,440 --> 00:20:08,090
+and this is how it flows down goes to
+that hole this one and this one and this
+
+556
+00:20:08,090 --> 00:20:08,100
+that hole this one and this one and this
+ 
+
+557
+00:20:08,100 --> 00:20:16,270
+that hole this one and this one and this
+one so all four it's really good now
+
+558
+00:20:16,270 --> 00:20:16,280
+
+ 
+
+559
+00:20:16,280 --> 00:20:22,630
+
+shuts off quick
+
+560
+00:20:22,630 --> 00:20:22,640
+
+ 
+
+561
+00:20:22,640 --> 00:20:27,170
+
+see disappearing down there and we have
+
+562
+00:20:27,170 --> 00:20:27,180
+see disappearing down there and we have
+ 
+
+563
+00:20:27,180 --> 00:20:28,790
+see disappearing down there and we have
+the lighting option there's labid
+
+564
+00:20:28,790 --> 00:20:28,800
+the lighting option there's labid
+ 
+
+565
+00:20:28,800 --> 00:20:31,850
+the lighting option there's labid
+directly above so it flows down only one
+
+566
+00:20:31,850 --> 00:20:31,860
+directly above so it flows down only one
+ 
+
+567
+00:20:31,860 --> 00:20:36,140
+directly above so it flows down only one
+hole it's a vertical column so it will
+
+568
+00:20:36,140 --> 00:20:36,150
+hole it's a vertical column so it will
+ 
+
+569
+00:20:36,150 --> 00:20:44,620
+hole it's a vertical column so it will
+disappear quickly when we shut it off
+
+570
+00:20:44,620 --> 00:20:44,630
+
+ 
+
+571
+00:20:44,630 --> 00:20:47,810
+
+and here's the real beauty since it's a
+
+572
+00:20:47,810 --> 00:20:47,820
+and here's the real beauty since it's a
+ 
+
+573
+00:20:47,820 --> 00:20:53,020
+and here's the real beauty since it's a
+vertical thing it'll cut through water
+
+574
+00:20:53,020 --> 00:20:53,030
+vertical thing it'll cut through water
+ 
+
+575
+00:20:53,030 --> 00:20:55,490
+vertical thing it'll cut through water
+so if we turn it on when the water is
+
+576
+00:20:55,490 --> 00:20:55,500
+so if we turn it on when the water is
+ 
+
+577
+00:20:55,500 --> 00:21:08,030
+so if we turn it on when the water is
+still on doesn't matter
+
+578
+00:21:08,030 --> 00:21:08,040
+
+ 
+
+579
+00:21:08,040 --> 00:21:14,540
+
+coming down pretty cool now there is one
+
+580
+00:21:14,540 --> 00:21:14,550
+coming down pretty cool now there is one
+ 
+
+581
+00:21:14,550 --> 00:21:18,770
+coming down pretty cool now there is one
+slight problem with this still the very
+
+582
+00:21:18,770 --> 00:21:18,780
+slight problem with this still the very
+ 
+
+583
+00:21:18,780 --> 00:21:25,400
+slight problem with this still the very
+slight problem if we have lava here then
+
+584
+00:21:25,400 --> 00:21:25,410
+slight problem if we have lava here then
+ 
+
+585
+00:21:25,410 --> 00:21:27,200
+slight problem if we have lava here then
+it doesn't fully light up one of these
+
+586
+00:21:27,200 --> 00:21:27,210
+it doesn't fully light up one of these
+ 
+
+587
+00:21:27,210 --> 00:21:29,660
+it doesn't fully light up one of these
+pads because this is light level 15
+
+588
+00:21:29,660 --> 00:21:29,670
+pads because this is light level 15
+ 
+
+589
+00:21:29,670 --> 00:21:35,330
+pads because this is light level 15
+there 13 11 9 and 7 in the very corner
+
+590
+00:21:35,330 --> 00:21:35,340
+there 13 11 9 and 7 in the very corner
+ 
+
+591
+00:21:35,340 --> 00:21:38,600
+there 13 11 9 and 7 in the very corner
+one mobs can spawn on light level 7 even
+
+592
+00:21:38,600 --> 00:21:38,610
+one mobs can spawn on light level 7 even
+ 
+
+593
+00:21:38,610 --> 00:21:41,600
+one mobs can spawn on light level 7 even
+though it's not common the darker it is
+
+594
+00:21:41,600 --> 00:21:41,610
+though it's not common the darker it is
+ 
+
+595
+00:21:41,610 --> 00:21:44,780
+though it's not common the darker it is
+the more likely there to spawn it is
+
+596
+00:21:44,780 --> 00:21:44,790
+the more likely there to spawn it is
+ 
+
+597
+00:21:44,790 --> 00:21:48,980
+the more likely there to spawn it is
+possible though so I don't know I don't
+
+598
+00:21:48,980 --> 00:21:48,990
+possible though so I don't know I don't
+ 
+
+599
+00:21:48,990 --> 00:21:53,480
+possible though so I don't know I don't
+think it's going to be a big enough
+
+600
+00:21:53,480 --> 00:21:53,490
+think it's going to be a big enough
+ 
+
+601
+00:21:53,490 --> 00:21:55,190
+think it's going to be a big enough
+issue that it concerns me I think it'll
+
+602
+00:21:55,190 --> 00:21:55,200
+issue that it concerns me I think it'll
+ 
+
+603
+00:21:55,200 --> 00:21:58,280
+issue that it concerns me I think it'll
+be ok even though it is possible for
+
+604
+00:21:58,280 --> 00:21:58,290
+be ok even though it is possible for
+ 
+
+605
+00:21:58,290 --> 00:21:59,840
+be ok even though it is possible for
+them to spawn still it would be
+
+606
+00:21:59,840 --> 00:21:59,850
+them to spawn still it would be
+ 
+
+607
+00:21:59,850 --> 00:22:04,220
+them to spawn still it would be
+extremely rare I hope because there's
+
+608
+00:22:04,220 --> 00:22:04,230
+extremely rare I hope because there's
+ 
+
+609
+00:22:04,230 --> 00:22:07,300
+extremely rare I hope because there's
+only 4 blocks per layer four layers 16
+
+610
+00:22:07,300 --> 00:22:07,310
+only 4 blocks per layer four layers 16
+ 
+
+611
+00:22:07,310 --> 00:22:10,010
+only 4 blocks per layer four layers 16
+16 blocks will be at light level 7 in
+
+612
+00:22:10,010 --> 00:22:10,020
+16 blocks will be at light level 7 in
+ 
+
+613
+00:22:10,020 --> 00:22:19,190
+16 blocks will be at light level 7 in
+this whole thing and the water kind of
+
+614
+00:22:19,190 --> 00:22:19,200
+this whole thing and the water kind of
+ 
+
+615
+00:22:19,200 --> 00:22:28,960
+this whole thing and the water kind of
+waits for the Labbit to disappear
+
+616
+00:22:28,960 --> 00:22:28,970
+
+ 
+
+617
+00:22:28,970 --> 00:22:30,820
+
+kind of interesting how water does this
+
+618
+00:22:30,820 --> 00:22:30,830
+kind of interesting how water does this
+ 
+
+619
+00:22:30,830 --> 00:22:33,099
+kind of interesting how water does this
+it doesn't spill out all over the place
+
+620
+00:22:33,099 --> 00:22:33,109
+it doesn't spill out all over the place
+ 
+
+621
+00:22:33,109 --> 00:22:37,649
+it doesn't spill out all over the place
+it stays in a column that's kind of cool
+
+622
+00:22:37,649 --> 00:22:37,659
+it stays in a column that's kind of cool
+ 
+
+623
+00:22:37,659 --> 00:22:40,589
+it stays in a column that's kind of cool
+so I think this is what I'm going to do
+
+624
+00:22:40,589 --> 00:22:40,599
+so I think this is what I'm going to do
+ 
+
+625
+00:22:40,599 --> 00:22:43,839
+so I think this is what I'm going to do
+it's the best way but please if you have
+
+626
+00:22:43,839 --> 00:22:43,849
+it's the best way but please if you have
+ 
+
+627
+00:22:43,849 --> 00:22:45,639
+it's the best way but please if you have
+a better idea send me a video response
+
+628
+00:22:45,639 --> 00:22:45,649
+a better idea send me a video response
+ 
+
+629
+00:22:45,649 --> 00:22:48,999
+a better idea send me a video response
+or something and I will maybe use your
+
+630
+00:22:48,999 --> 00:22:49,009
+or something and I will maybe use your
+ 
+
+631
+00:22:49,009 --> 00:22:51,339
+or something and I will maybe use your
+ID instead because this one's not
+
+632
+00:22:51,339 --> 00:22:51,349
+ID instead because this one's not
+ 
+
+633
+00:22:51,349 --> 00:22:53,889
+ID instead because this one's not
+perfect it's the best one I found but
+
+634
+00:22:53,889 --> 00:22:53,899
+perfect it's the best one I found but
+ 
+
+635
+00:22:53,899 --> 00:22:59,080
+perfect it's the best one I found but
+it's not perfect I just made one more
+
+636
+00:22:59,080 --> 00:22:59,090
+it's not perfect I just made one more
+ 
+
+637
+00:22:59,090 --> 00:23:00,639
+it's not perfect I just made one more
+refinement to it too
+
+638
+00:23:00,639 --> 00:23:00,649
+refinement to it too
+ 
+
+639
+00:23:00,649 --> 00:23:03,759
+refinement to it too
+I was using a regular piston before then
+
+640
+00:23:03,759 --> 00:23:03,769
+I was using a regular piston before then
+ 
+
+641
+00:23:03,769 --> 00:23:05,560
+I was using a regular piston before then
+I realized that the lava the light from
+
+642
+00:23:05,560 --> 00:23:05,570
+I realized that the lava the light from
+ 
+
+643
+00:23:05,570 --> 00:23:08,589
+I realized that the lava the light from
+lava above could reach down to the
+
+644
+00:23:08,589 --> 00:23:08,599
+lava above could reach down to the
+ 
+
+645
+00:23:08,599 --> 00:23:11,680
+lava above could reach down to the
+spawning pads below so now I'm using a
+
+646
+00:23:11,680 --> 00:23:11,690
+spawning pads below so now I'm using a
+ 
+
+647
+00:23:11,690 --> 00:23:14,560
+spawning pads below so now I'm using a
+sticky piston with a solid block under
+
+648
+00:23:14,560 --> 00:23:14,570
+sticky piston with a solid block under
+ 
+
+649
+00:23:14,570 --> 00:23:17,789
+sticky piston with a solid block under
+the lava so it will be completely dark
+
+650
+00:23:17,789 --> 00:23:17,799
+the lava so it will be completely dark
+ 
+
+651
+00:23:17,799 --> 00:23:20,320
+the lava so it will be completely dark
+in here
+
+652
+00:23:20,320 --> 00:23:20,330
+in here
+ 
+
+653
+00:23:20,330 --> 00:23:22,509
+in here
+I will probably fill this room with half
+
+654
+00:23:22,509 --> 00:23:22,519
+I will probably fill this room with half
+ 
+
+655
+00:23:22,519 --> 00:23:25,799
+I will probably fill this room with half
+slabs or something because otherwise
+
+656
+00:23:25,799 --> 00:23:25,809
+slabs or something because otherwise
+ 
+
+657
+00:23:25,809 --> 00:23:28,419
+slabs or something because otherwise
+light would be able to go down this hole
+
+658
+00:23:28,419 --> 00:23:28,429
+light would be able to go down this hole
+ 
+
+659
+00:23:28,429 --> 00:23:32,310
+light would be able to go down this hole
+onto the pads which would cause problems
+
+660
+00:23:32,310 --> 00:23:32,320
+onto the pads which would cause problems
+ 
+
+661
+00:23:32,320 --> 00:23:39,609
+onto the pads which would cause problems
+so this should work and the wiring is
+
+662
+00:23:39,609 --> 00:23:39,619
+so this should work and the wiring is
+ 
+
+663
+00:23:39,619 --> 00:23:40,960
+so this should work and the wiring is
+going to be super simple for this
+
+664
+00:23:40,960 --> 00:23:40,970
+going to be super simple for this
+ 
+
+665
+00:23:40,970 --> 00:23:44,849
+going to be super simple for this
+because it's really close together here
+
+666
+00:23:44,849 --> 00:23:44,859
+because it's really close together here
+ 
+
+667
+00:23:44,859 --> 00:23:47,799
+because it's really close together here
+and I don't think I showed you what the
+
+668
+00:23:47,799 --> 00:23:47,809
+and I don't think I showed you what the
+ 
+
+669
+00:23:47,809 --> 00:23:55,089
+and I don't think I showed you what the
+lab is going any turn water on it still
+
+670
+00:23:55,089 --> 00:23:55,099
+lab is going any turn water on it still
+ 
+
+671
+00:23:55,099 --> 00:23:56,769
+lab is going any turn water on it still
+tries to go to that hole that lab is
+
+672
+00:23:56,769 --> 00:23:56,779
+tries to go to that hole that lab is
+ 
+
+673
+00:23:56,779 --> 00:24:00,999
+tries to go to that hole that lab is
+going down and it won't it won't flow
+
+674
+00:24:00,999 --> 00:24:01,009
+going down and it won't it won't flow
+ 
+
+675
+00:24:01,009 --> 00:24:03,460
+going down and it won't it won't flow
+out this way it'll just kind of wait for
+
+676
+00:24:03,460 --> 00:24:03,470
+out this way it'll just kind of wait for
+ 
+
+677
+00:24:03,470 --> 00:24:07,899
+out this way it'll just kind of wait for
+the lab ax to disappear and then when it
+
+678
+00:24:07,899 --> 00:24:07,909
+the lab ax to disappear and then when it
+ 
+
+679
+00:24:07,909 --> 00:24:11,869
+the lab ax to disappear and then when it
+does it decides to go so
+
+680
+00:24:11,869 --> 00:24:11,879
+does it decides to go so
+ 
+
+681
+00:24:11,879 --> 00:24:15,049
+does it decides to go so
+pretty cool but again if you have a
+
+682
+00:24:15,049 --> 00:24:15,059
+pretty cool but again if you have a
+ 
+
+683
+00:24:15,059 --> 00:24:17,059
+pretty cool but again if you have a
+better idea let me know because I'm
+
+684
+00:24:17,059 --> 00:24:17,069
+better idea let me know because I'm
+ 
+
+685
+00:24:17,069 --> 00:24:22,639
+better idea let me know because I'm
+always open for better ideas yep so
+
+686
+00:24:22,639 --> 00:24:22,649
+always open for better ideas yep so
+ 
+
+687
+00:24:22,649 --> 00:24:24,469
+always open for better ideas yep so
+that's the plan this is how I'm going to
+
+688
+00:24:24,469 --> 00:24:24,479
+that's the plan this is how I'm going to
+ 
+
+689
+00:24:24,479 --> 00:24:26,059
+that's the plan this is how I'm going to
+do it unless someone pitches me
+
+690
+00:24:26,059 --> 00:24:26,069
+do it unless someone pitches me
+ 
+
+691
+00:24:26,069 --> 00:24:33,019
+do it unless someone pitches me
+something better and you can see it goes
+
+692
+00:24:33,019 --> 00:24:33,029
+something better and you can see it goes
+ 
+
+693
+00:24:33,029 --> 00:24:45,529
+something better and you can see it goes
+down to every layer it's cool so now we
+
+694
+00:24:45,529 --> 00:24:45,539
+down to every layer it's cool so now we
+ 
+
+695
+00:24:45,539 --> 00:24:50,269
+down to every layer it's cool so now we
+have one other thing to figure out I'm
+
+696
+00:24:50,269 --> 00:24:50,279
+have one other thing to figure out I'm
+ 
+
+697
+00:24:50,279 --> 00:24:52,819
+have one other thing to figure out I'm
+pretty sure I have most of the caves lit
+
+698
+00:24:52,819 --> 00:24:52,829
+pretty sure I have most of the caves lit
+ 
+
+699
+00:24:52,829 --> 00:24:57,229
+pretty sure I have most of the caves lit
+up like the majority of it and it's
+
+700
+00:24:57,229 --> 00:24:57,239
+up like the majority of it and it's
+ 
+
+701
+00:24:57,239 --> 00:24:59,599
+up like the majority of it and it's
+still not going to be able to keep up at
+
+702
+00:24:59,599 --> 00:24:59,609
+still not going to be able to keep up at
+ 
+
+703
+00:24:59,609 --> 00:25:02,869
+still not going to be able to keep up at
+this size so I might need to make two of
+
+704
+00:25:02,869 --> 00:25:02,879
+this size so I might need to make two of
+ 
+
+705
+00:25:02,879 --> 00:25:09,739
+this size so I might need to make two of
+these possibly three and then hook them
+
+706
+00:25:09,739 --> 00:25:09,749
+these possibly three and then hook them
+ 
+
+707
+00:25:09,749 --> 00:25:13,549
+these possibly three and then hook them
+together so let's not take up a lot of
+
+708
+00:25:13,549 --> 00:25:13,559
+together so let's not take up a lot of
+ 
+
+709
+00:25:13,559 --> 00:25:21,399
+together so let's not take up a lot of
+space really and a lot of resources yep
+
+710
+00:25:21,399 --> 00:25:21,409
+space really and a lot of resources yep
+ 
+
+711
+00:25:21,409 --> 00:25:24,439
+space really and a lot of resources yep
+anyway that's it for today thank you for
+
+712
+00:25:24,439 --> 00:25:24,449
+anyway that's it for today thank you for
+ 
+
+713
+00:25:24,449 --> 00:25:28,189
+anyway that's it for today thank you for
+watching let me know any suggestions you
+
+714
+00:25:28,189 --> 00:25:28,199
+watching let me know any suggestions you
+ 
+
+715
+00:25:28,199 --> 00:25:31,669
+watching let me know any suggestions you
+have and I will see you again next time
+
+716
+00:25:31,669 --> 00:25:31,679
+have and I will see you again next time
+ 
+
+717
+00:25:31,679 --> 00:25:34,759
+have and I will see you again next time
+take care bye bye
+

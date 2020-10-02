@@ -1,0 +1,5055 @@
+1
+00:00:07,490 --> 00:00:09,470
+
+hello hello everyone
+
+2
+00:00:09,470 --> 00:00:09,480
+hello hello everyone
+ 
+
+3
+00:00:09,480 --> 00:00:13,549
+hello hello everyone
+ESO here how you guys doing today I hope
+
+4
+00:00:13,549 --> 00:00:13,559
+ESO here how you guys doing today I hope
+ 
+
+5
+00:00:13,559 --> 00:00:15,259
+ESO here how you guys doing today I hope
+you got your snacks ready I got mine
+
+6
+00:00:15,259 --> 00:00:15,269
+you got your snacks ready I got mine
+ 
+
+7
+00:00:15,269 --> 00:00:19,599
+you got your snacks ready I got mine
+here ready to go something I've been
+
+8
+00:00:19,599 --> 00:00:19,609
+here ready to go something I've been
+ 
+
+9
+00:00:19,609 --> 00:00:23,210
+here ready to go something I've been
+meaning to do is polish up the cave area
+
+10
+00:00:23,210 --> 00:00:23,220
+meaning to do is polish up the cave area
+ 
+
+11
+00:00:23,220 --> 00:00:25,519
+meaning to do is polish up the cave area
+a bit because the way it is right now is
+
+12
+00:00:25,519 --> 00:00:25,529
+a bit because the way it is right now is
+ 
+
+13
+00:00:25,529 --> 00:00:29,599
+a bit because the way it is right now is
+is it's not very nice we need stairs I'm
+
+14
+00:00:29,599 --> 00:00:29,609
+is it's not very nice we need stairs I'm
+ 
+
+15
+00:00:29,609 --> 00:00:31,780
+is it's not very nice we need stairs I'm
+jumping around all over the place
+
+16
+00:00:31,780 --> 00:00:31,790
+jumping around all over the place
+ 
+
+17
+00:00:31,790 --> 00:00:34,459
+jumping around all over the place
+random blocks everywhere I'm going to
+
+18
+00:00:34,459 --> 00:00:34,469
+random blocks everywhere I'm going to
+ 
+
+19
+00:00:34,469 --> 00:00:36,650
+random blocks everywhere I'm going to
+make it look better so I sort of started
+
+20
+00:00:36,650 --> 00:00:36,660
+make it look better so I sort of started
+ 
+
+21
+00:00:36,660 --> 00:00:39,500
+make it look better so I sort of started
+working on that over around this corner
+
+22
+00:00:39,500 --> 00:00:39,510
+working on that over around this corner
+ 
+
+23
+00:00:39,510 --> 00:00:43,310
+working on that over around this corner
+here and I before I could really do
+
+24
+00:00:43,310 --> 00:00:43,320
+here and I before I could really do
+ 
+
+25
+00:00:43,320 --> 00:00:45,040
+here and I before I could really do
+anything now I had to deal with these
+
+26
+00:00:45,040 --> 00:00:45,050
+anything now I had to deal with these
+ 
+
+27
+00:00:45,050 --> 00:00:48,020
+anything now I had to deal with these
+cave spider spawners because I I left
+
+28
+00:00:48,020 --> 00:00:48,030
+cave spider spawners because I I left
+ 
+
+29
+00:00:48,030 --> 00:00:51,889
+cave spider spawners because I I left
+them pretty much unfinished and I need
+
+30
+00:00:51,889 --> 00:00:51,899
+them pretty much unfinished and I need
+ 
+
+31
+00:00:51,899 --> 00:00:53,959
+them pretty much unfinished and I need
+to decide what to do so I got something
+
+32
+00:00:53,959 --> 00:00:53,969
+to decide what to do so I got something
+ 
+
+33
+00:00:53,969 --> 00:00:55,810
+to decide what to do so I got something
+set up here I spent a few hours on this
+
+34
+00:00:55,810 --> 00:00:55,820
+set up here I spent a few hours on this
+ 
+
+35
+00:00:55,820 --> 00:00:58,069
+set up here I spent a few hours on this
+trying to figure out their behavior and
+
+36
+00:00:58,069 --> 00:00:58,079
+trying to figure out their behavior and
+ 
+
+37
+00:00:58,079 --> 00:01:00,110
+trying to figure out their behavior and
+all that and I got it working really
+
+38
+00:01:00,110 --> 00:01:00,120
+all that and I got it working really
+ 
+
+39
+00:01:00,120 --> 00:01:03,920
+all that and I got it working really
+good actually it's pretty pretty awesome
+
+40
+00:01:03,920 --> 00:01:03,930
+good actually it's pretty pretty awesome
+ 
+
+41
+00:01:03,930 --> 00:01:07,219
+good actually it's pretty pretty awesome
+so I was going to do an on camera but I
+
+42
+00:01:07,219 --> 00:01:07,229
+so I was going to do an on camera but I
+ 
+
+43
+00:01:07,229 --> 00:01:08,929
+so I was going to do an on camera but I
+figured it would take a long time and it
+
+44
+00:01:08,929 --> 00:01:08,939
+figured it would take a long time and it
+ 
+
+45
+00:01:08,939 --> 00:01:11,990
+figured it would take a long time and it
+it did so we'll just go through it
+
+46
+00:01:11,990 --> 00:01:12,000
+it did so we'll just go through it
+ 
+
+47
+00:01:12,000 --> 00:01:15,920
+it did so we'll just go through it
+quickly this is my spiral spider
+
+48
+00:01:15,920 --> 00:01:15,930
+quickly this is my spiral spider
+ 
+
+49
+00:01:15,930 --> 00:01:22,249
+quickly this is my spiral spider
+elevator here yeah so there's a there's
+
+50
+00:01:22,249 --> 00:01:22,259
+elevator here yeah so there's a there's
+ 
+
+51
+00:01:22,259 --> 00:01:24,770
+elevator here yeah so there's a there's
+two spawners here we got them both
+
+52
+00:01:24,770 --> 00:01:24,780
+two spawners here we got them both
+ 
+
+53
+00:01:24,780 --> 00:01:30,640
+two spawners here we got them both
+working one of them is underneath here
+
+54
+00:01:30,640 --> 00:01:30,650
+working one of them is underneath here
+ 
+
+55
+00:01:30,650 --> 00:01:36,560
+working one of them is underneath here
+right over there and it brings the
+
+56
+00:01:36,560 --> 00:01:36,570
+right over there and it brings the
+ 
+
+57
+00:01:36,570 --> 00:01:39,530
+right over there and it brings the
+spiders into this elevator the problem I
+
+58
+00:01:39,530 --> 00:01:39,540
+spiders into this elevator the problem I
+ 
+
+59
+00:01:39,540 --> 00:01:41,390
+spiders into this elevator the problem I
+was having before the main issue with
+
+60
+00:01:41,390 --> 00:01:41,400
+was having before the main issue with
+ 
+
+61
+00:01:41,400 --> 00:01:43,609
+was having before the main issue with
+these cave spiders is that they would
+
+62
+00:01:43,609 --> 00:01:43,619
+these cave spiders is that they would
+ 
+
+63
+00:01:43,619 --> 00:01:46,249
+these cave spiders is that they would
+track you and then they wouldn't
+
+64
+00:01:46,249 --> 00:01:46,259
+track you and then they wouldn't
+ 
+
+65
+00:01:46,259 --> 00:01:48,080
+track you and then they wouldn't
+necessarily go where you wanted them to
+
+66
+00:01:48,080 --> 00:01:48,090
+necessarily go where you wanted them to
+ 
+
+67
+00:01:48,090 --> 00:01:50,569
+necessarily go where you wanted them to
+go they would fight water streams in
+
+68
+00:01:50,569 --> 00:01:50,579
+go they would fight water streams in
+ 
+
+69
+00:01:50,579 --> 00:01:52,520
+go they would fight water streams in
+that so I wanted to come up with a
+
+70
+00:01:52,520 --> 00:01:52,530
+that so I wanted to come up with a
+ 
+
+71
+00:01:52,530 --> 00:01:55,639
+that so I wanted to come up with a
+guaranteed way of dealing with them
+
+72
+00:01:55,639 --> 00:01:55,649
+guaranteed way of dealing with them
+ 
+
+73
+00:01:55,649 --> 00:01:57,440
+guaranteed way of dealing with them
+because I don't like having any dead
+
+74
+00:01:57,440 --> 00:01:57,450
+because I don't like having any dead
+ 
+
+75
+00:01:57,450 --> 00:02:01,039
+because I don't like having any dead
+zones or paths finding problems when I
+
+76
+00:02:01,039 --> 00:02:01,049
+zones or paths finding problems when I
+ 
+
+77
+00:02:01,049 --> 00:02:04,910
+zones or paths finding problems when I
+do this mob stuff and and this is pretty
+
+78
+00:02:04,910 --> 00:02:04,920
+do this mob stuff and and this is pretty
+ 
+
+79
+00:02:04,920 --> 00:02:06,590
+do this mob stuff and and this is pretty
+much the solution to it I got it figured
+
+80
+00:02:06,590 --> 00:02:06,600
+much the solution to it I got it figured
+ 
+
+81
+00:02:06,600 --> 00:02:09,800
+much the solution to it I got it figured
+out figured out a few tricks with cave
+
+82
+00:02:09,800 --> 00:02:09,810
+out figured out a few tricks with cave
+ 
+
+83
+00:02:09,810 --> 00:02:12,479
+out figured out a few tricks with cave
+spiders that work
+
+84
+00:02:12,479 --> 00:02:12,489
+spiders that work
+ 
+
+85
+00:02:12,489 --> 00:02:15,459
+spiders that work
+yeah so they all collect here they're
+
+86
+00:02:15,459 --> 00:02:15,469
+yeah so they all collect here they're
+ 
+
+87
+00:02:15,469 --> 00:02:18,220
+yeah so they all collect here they're
+one-hit kill because they drop 15 blocks
+
+88
+00:02:18,220 --> 00:02:18,230
+one-hit kill because they drop 15 blocks
+ 
+
+89
+00:02:18,230 --> 00:02:27,039
+one-hit kill because they drop 15 blocks
+and these guys go up there's also so we
+
+90
+00:02:27,039 --> 00:02:27,049
+and these guys go up there's also so we
+ 
+
+91
+00:02:27,049 --> 00:02:28,360
+and these guys go up there's also so we
+just went right over top the other
+
+92
+00:02:28,360 --> 00:02:28,370
+just went right over top the other
+ 
+
+93
+00:02:28,370 --> 00:02:34,449
+just went right over top the other
+spider spawner here these spiders they
+
+94
+00:02:34,449 --> 00:02:34,459
+spider spawner here these spiders they
+ 
+
+95
+00:02:34,459 --> 00:02:37,420
+spider spawner here these spiders they
+go to an elevator behind this wall can't
+
+96
+00:02:37,420 --> 00:02:37,430
+go to an elevator behind this wall can't
+ 
+
+97
+00:02:37,430 --> 00:02:38,559
+go to an elevator behind this wall can't
+really show it to you because it's
+
+98
+00:02:38,559 --> 00:02:38,569
+really show it to you because it's
+ 
+
+99
+00:02:38,569 --> 00:02:43,330
+really show it to you because it's
+closed up but that's what happens these
+
+100
+00:02:43,330 --> 00:02:43,340
+closed up but that's what happens these
+ 
+
+101
+00:02:43,340 --> 00:02:46,209
+closed up but that's what happens these
+ones they join in with that elevator it
+
+102
+00:02:46,209 --> 00:02:46,219
+ones they join in with that elevator it
+ 
+
+103
+00:02:46,219 --> 00:02:49,929
+ones they join in with that elevator it
+dropped some 15 blocks onto a fence post
+
+104
+00:02:49,929 --> 00:02:49,939
+dropped some 15 blocks onto a fence post
+ 
+
+105
+00:02:49,939 --> 00:02:58,000
+dropped some 15 blocks onto a fence post
+oh I do have a view up here cool yeah
+
+106
+00:02:58,000 --> 00:02:58,010
+oh I do have a view up here cool yeah
+ 
+
+107
+00:02:58,010 --> 00:02:59,679
+oh I do have a view up here cool yeah
+you can sorta see the elevator here it's
+
+108
+00:02:59,679 --> 00:02:59,689
+you can sorta see the elevator here it's
+ 
+
+109
+00:02:59,689 --> 00:03:01,839
+you can sorta see the elevator here it's
+going up and around spiraling up and
+
+110
+00:03:01,839 --> 00:03:01,849
+going up and around spiraling up and
+ 
+
+111
+00:03:01,849 --> 00:03:06,369
+going up and around spiraling up and
+then the very top oh maybe I'll poke my
+
+112
+00:03:06,369 --> 00:03:06,379
+then the very top oh maybe I'll poke my
+ 
+
+113
+00:03:06,379 --> 00:03:08,229
+then the very top oh maybe I'll poke my
+head in just for you guys I hate to do
+
+114
+00:03:08,229 --> 00:03:08,239
+head in just for you guys I hate to do
+ 
+
+115
+00:03:08,239 --> 00:03:10,539
+head in just for you guys I hate to do
+it because I'll probably get attacked
+
+116
+00:03:10,539 --> 00:03:10,549
+it because I'll probably get attacked
+ 
+
+117
+00:03:10,549 --> 00:03:15,429
+it because I'll probably get attacked
+here why do I have that in there they
+
+118
+00:03:15,429 --> 00:03:15,439
+here why do I have that in there they
+ 
+
+119
+00:03:15,439 --> 00:03:21,490
+here why do I have that in there they
+fall down here yeah you got me one at a
+
+120
+00:03:21,490 --> 00:03:21,500
+fall down here yeah you got me one at a
+ 
+
+121
+00:03:21,500 --> 00:03:23,979
+fall down here yeah you got me one at a
+time too so that there's no spiders
+
+122
+00:03:23,979 --> 00:03:23,989
+time too so that there's no spiders
+ 
+
+123
+00:03:23,989 --> 00:03:27,249
+time too so that there's no spiders
+underneath to get in the way of them
+
+124
+00:03:27,249 --> 00:03:27,259
+underneath to get in the way of them
+ 
+
+125
+00:03:27,259 --> 00:03:29,050
+underneath to get in the way of them
+taking fall damage I'm gonna die here
+
+126
+00:03:29,050 --> 00:03:29,060
+taking fall damage I'm gonna die here
+ 
+
+127
+00:03:29,060 --> 00:03:34,629
+taking fall damage I'm gonna die here
+I gotta go sometimes you guys can get
+
+128
+00:03:34,629 --> 00:03:34,639
+I gotta go sometimes you guys can get
+ 
+
+129
+00:03:34,639 --> 00:03:36,610
+I gotta go sometimes you guys can get
+you through blocks it's really unfair
+
+130
+00:03:36,610 --> 00:03:36,620
+you through blocks it's really unfair
+ 
+
+131
+00:03:36,620 --> 00:03:43,749
+you through blocks it's really unfair
+okay give me one moment the good thing
+
+132
+00:03:43,749 --> 00:03:43,759
+okay give me one moment the good thing
+ 
+
+133
+00:03:43,759 --> 00:03:45,849
+okay give me one moment the good thing
+is I actually do have a working on off
+
+134
+00:03:45,849 --> 00:03:45,859
+is I actually do have a working on off
+ 
+
+135
+00:03:45,859 --> 00:03:48,339
+is I actually do have a working on off
+switch for these spawners now so I got
+
+136
+00:03:48,339 --> 00:03:48,349
+switch for these spawners now so I got
+ 
+
+137
+00:03:48,349 --> 00:03:50,439
+switch for these spawners now so I got
+shut off we can look inside safely
+
+138
+00:03:50,439 --> 00:03:50,449
+shut off we can look inside safely
+ 
+
+139
+00:03:50,449 --> 00:03:55,709
+shut off we can look inside safely
+without the spiders jumping all over us
+
+140
+00:03:55,709 --> 00:03:55,719
+without the spiders jumping all over us
+ 
+
+141
+00:03:55,719 --> 00:03:59,559
+without the spiders jumping all over us
+okay so let's pillar up here I'll show
+
+142
+00:03:59,559 --> 00:03:59,569
+okay so let's pillar up here I'll show
+ 
+
+143
+00:03:59,569 --> 00:04:07,790
+okay so let's pillar up here I'll show
+you the drop area yeah okay so
+
+144
+00:04:07,790 --> 00:04:07,800
+you the drop area yeah okay so
+ 
+
+145
+00:04:07,800 --> 00:04:10,450
+you the drop area yeah okay so
+this is a stream that pushes them down
+
+146
+00:04:10,450 --> 00:04:10,460
+this is a stream that pushes them down
+ 
+
+147
+00:04:10,460 --> 00:04:12,910
+this is a stream that pushes them down
+see the block is coming towards us
+
+148
+00:04:12,910 --> 00:04:12,920
+see the block is coming towards us
+ 
+
+149
+00:04:12,920 --> 00:04:16,760
+see the block is coming towards us
+there's a sign here and above there is
+
+150
+00:04:16,760 --> 00:04:16,770
+there's a sign here and above there is
+ 
+
+151
+00:04:16,770 --> 00:04:19,250
+there's a sign here and above there is
+this water block this is to drown them
+
+152
+00:04:19,250 --> 00:04:19,260
+this water block this is to drown them
+ 
+
+153
+00:04:19,260 --> 00:04:22,820
+this water block this is to drown them
+in case they decide to start climbing up
+
+154
+00:04:22,820 --> 00:04:22,830
+in case they decide to start climbing up
+ 
+
+155
+00:04:22,830 --> 00:04:24,440
+in case they decide to start climbing up
+here and they somehow make it all the
+
+156
+00:04:24,440 --> 00:04:24,450
+here and they somehow make it all the
+ 
+
+157
+00:04:24,450 --> 00:04:27,410
+here and they somehow make it all the
+way to the top I don't want them jamming
+
+158
+00:04:27,410 --> 00:04:27,420
+way to the top I don't want them jamming
+ 
+
+159
+00:04:27,420 --> 00:04:30,530
+way to the top I don't want them jamming
+spiders from falling down here so that's
+
+160
+00:04:30,530 --> 00:04:30,540
+spiders from falling down here so that's
+ 
+
+161
+00:04:30,540 --> 00:04:32,240
+spiders from falling down here so that's
+a safety I don't think that actually
+
+162
+00:04:32,240 --> 00:04:32,250
+a safety I don't think that actually
+ 
+
+163
+00:04:32,250 --> 00:04:35,540
+a safety I don't think that actually
+happens though from what I can tell but
+
+164
+00:04:35,540 --> 00:04:35,550
+happens though from what I can tell but
+ 
+
+165
+00:04:35,550 --> 00:04:37,190
+happens though from what I can tell but
+just in case it's a little bit of a
+
+166
+00:04:37,190 --> 00:04:37,200
+just in case it's a little bit of a
+ 
+
+167
+00:04:37,200 --> 00:04:41,990
+just in case it's a little bit of a
+safety they fall down 15 blocks on to
+
+168
+00:04:41,990 --> 00:04:42,000
+safety they fall down 15 blocks on to
+ 
+
+169
+00:04:42,000 --> 00:04:48,290
+safety they fall down 15 blocks on to
+the fence post here there's that one one
+
+170
+00:04:48,290 --> 00:04:48,300
+the fence post here there's that one one
+ 
+
+171
+00:04:48,300 --> 00:04:50,720
+the fence post here there's that one one
+high gap I guess for them to fit through
+
+172
+00:04:50,720 --> 00:04:50,730
+high gap I guess for them to fit through
+ 
+
+173
+00:04:50,730 --> 00:04:52,580
+high gap I guess for them to fit through
+so they don't climb I think I added that
+
+174
+00:04:52,580 --> 00:04:52,590
+so they don't climb I think I added that
+ 
+
+175
+00:04:52,590 --> 00:04:57,140
+so they don't climb I think I added that
+recently then they fall down to that
+
+176
+00:04:57,140 --> 00:04:57,150
+recently then they fall down to that
+ 
+
+177
+00:04:57,150 --> 00:04:59,780
+recently then they fall down to that
+second chamber and that's this is really
+
+178
+00:04:59,780 --> 00:04:59,790
+second chamber and that's this is really
+ 
+
+179
+00:04:59,790 --> 00:05:02,630
+second chamber and that's this is really
+annoying I might not be able to get out
+
+180
+00:05:02,630 --> 00:05:02,640
+annoying I might not be able to get out
+ 
+
+181
+00:05:02,640 --> 00:05:06,820
+annoying I might not be able to get out
+of here come on come on
+
+182
+00:05:06,820 --> 00:05:06,830
+of here come on come on
+ 
+
+183
+00:05:06,830 --> 00:05:09,410
+of here come on come on
+yeah they fall into another chamber here
+
+184
+00:05:09,410 --> 00:05:09,420
+yeah they fall into another chamber here
+ 
+
+185
+00:05:09,420 --> 00:05:10,940
+yeah they fall into another chamber here
+this is just so that they're out of the
+
+186
+00:05:10,940 --> 00:05:10,950
+this is just so that they're out of the
+ 
+
+187
+00:05:10,950 --> 00:05:13,730
+this is just so that they're out of the
+way for more spiders to fall onto the
+
+188
+00:05:13,730 --> 00:05:13,740
+way for more spiders to fall onto the
+ 
+
+189
+00:05:13,740 --> 00:05:15,620
+way for more spiders to fall onto the
+fence post otherwise they might land on
+
+190
+00:05:15,620 --> 00:05:15,630
+fence post otherwise they might land on
+ 
+
+191
+00:05:15,630 --> 00:05:18,080
+fence post otherwise they might land on
+each other and take no fall damage which
+
+192
+00:05:18,080 --> 00:05:18,090
+each other and take no fall damage which
+ 
+
+193
+00:05:18,090 --> 00:05:20,750
+each other and take no fall damage which
+is an issue and then they fall into this
+
+194
+00:05:20,750 --> 00:05:20,760
+is an issue and then they fall into this
+ 
+
+195
+00:05:20,760 --> 00:05:26,870
+is an issue and then they fall into this
+three block area and I got I played
+
+196
+00:05:26,870 --> 00:05:26,880
+three block area and I got I played
+ 
+
+197
+00:05:26,880 --> 00:05:28,340
+three block area and I got I played
+around with this a bit and I think a
+
+198
+00:05:28,340 --> 00:05:28,350
+around with this a bit and I think a
+ 
+
+199
+00:05:28,350 --> 00:05:31,250
+around with this a bit and I think a
+three block area is best for them to the
+
+200
+00:05:31,250 --> 00:05:31,260
+three block area is best for them to the
+ 
+
+201
+00:05:31,260 --> 00:05:34,790
+three block area is best for them to the
+be in I'm able to hit them or reach all
+
+202
+00:05:34,790 --> 00:05:34,800
+be in I'm able to hit them or reach all
+ 
+
+203
+00:05:34,800 --> 00:05:37,070
+be in I'm able to hit them or reach all
+the way to the top there if they try to
+
+204
+00:05:37,070 --> 00:05:37,080
+the way to the top there if they try to
+ 
+
+205
+00:05:37,080 --> 00:05:39,020
+the way to the top there if they try to
+climb when you hit them they'll they'll
+
+206
+00:05:39,020 --> 00:05:39,030
+climb when you hit them they'll they'll
+ 
+
+207
+00:05:39,030 --> 00:05:40,760
+climb when you hit them they'll they'll
+touch this water scream and they'll fall
+
+208
+00:05:40,760 --> 00:05:40,770
+touch this water scream and they'll fall
+ 
+
+209
+00:05:40,770 --> 00:05:43,610
+touch this water scream and they'll fall
+back down instead of a staying at the
+
+210
+00:05:43,610 --> 00:05:43,620
+back down instead of a staying at the
+ 
+
+211
+00:05:43,620 --> 00:05:45,590
+back down instead of a staying at the
+top usually which is good because if
+
+212
+00:05:45,590 --> 00:05:45,600
+top usually which is good because if
+ 
+
+213
+00:05:45,600 --> 00:05:47,870
+top usually which is good because if
+they're if they're at the top here then
+
+214
+00:05:47,870 --> 00:05:47,880
+they're if they're at the top here then
+ 
+
+215
+00:05:47,880 --> 00:05:50,630
+they're if they're at the top here then
+spiders aren't able to flow in like
+
+216
+00:05:50,630 --> 00:05:50,640
+spiders aren't able to flow in like
+ 
+
+217
+00:05:50,640 --> 00:05:53,330
+spiders aren't able to flow in like
+while you're killing them which will
+
+218
+00:05:53,330 --> 00:05:53,340
+while you're killing them which will
+ 
+
+219
+00:05:53,340 --> 00:05:56,150
+while you're killing them which will
+plug up the drop area and then when more
+
+220
+00:05:56,150 --> 00:05:56,160
+plug up the drop area and then when more
+ 
+
+221
+00:05:56,160 --> 00:05:58,220
+plug up the drop area and then when more
+spiders fall in they might not take fall
+
+222
+00:05:58,220 --> 00:05:58,230
+spiders fall in they might not take fall
+ 
+
+223
+00:05:58,230 --> 00:06:04,250
+spiders fall in they might not take fall
+damage which is an issue yep and so they
+
+224
+00:06:04,250 --> 00:06:04,260
+damage which is an issue yep and so they
+ 
+
+225
+00:06:04,260 --> 00:06:06,650
+damage which is an issue yep and so they
+they always take 15 blocks fall damage
+
+226
+00:06:06,650 --> 00:06:06,660
+they always take 15 blocks fall damage
+ 
+
+227
+00:06:06,660 --> 00:06:09,370
+they always take 15 blocks fall damage
+that's being carefully controlled so I
+
+228
+00:06:09,370 --> 00:06:09,380
+that's being carefully controlled so I
+ 
+
+229
+00:06:09,380 --> 00:06:11,720
+that's being carefully controlled so I
+don't have to use a stone sword to kill
+
+230
+00:06:11,720 --> 00:06:11,730
+don't have to use a stone sword to kill
+ 
+
+231
+00:06:11,730 --> 00:06:14,170
+don't have to use a stone sword to kill
+them anymore I can use my fists it's
+
+232
+00:06:14,170 --> 00:06:14,180
+them anymore I can use my fists it's
+ 
+
+233
+00:06:14,180 --> 00:06:17,680
+them anymore I can use my fists it's
+regulated properly
+
+234
+00:06:17,680 --> 00:06:17,690
+regulated properly
+ 
+
+235
+00:06:17,690 --> 00:06:20,050
+regulated properly
+and the other thing the reason I'm doing
+
+236
+00:06:20,050 --> 00:06:20,060
+and the other thing the reason I'm doing
+ 
+
+237
+00:06:20,060 --> 00:06:21,640
+and the other thing the reason I'm doing
+the elevator like this I played around
+
+238
+00:06:21,640 --> 00:06:21,650
+the elevator like this I played around
+ 
+
+239
+00:06:21,650 --> 00:06:23,500
+the elevator like this I played around
+with a whole bunch of different ways of
+
+240
+00:06:23,500 --> 00:06:23,510
+with a whole bunch of different ways of
+ 
+
+241
+00:06:23,510 --> 00:06:25,900
+with a whole bunch of different ways of
+doing it I tried having solid water
+
+242
+00:06:25,900 --> 00:06:25,910
+doing it I tried having solid water
+ 
+
+243
+00:06:25,910 --> 00:06:28,510
+doing it I tried having solid water
+source blocks in a one by one area for
+
+244
+00:06:28,510 --> 00:06:28,520
+source blocks in a one by one area for
+ 
+
+245
+00:06:28,520 --> 00:06:31,450
+source blocks in a one by one area for
+them to swim up they don't like to swim
+
+246
+00:06:31,450 --> 00:06:31,460
+them to swim up they don't like to swim
+ 
+
+247
+00:06:31,460 --> 00:06:33,820
+them to swim up they don't like to swim
+properly like normal mobs they can
+
+248
+00:06:33,820 --> 00:06:33,830
+properly like normal mobs they can
+ 
+
+249
+00:06:33,830 --> 00:06:37,450
+properly like normal mobs they can
+actually go down solid water source
+
+250
+00:06:37,450 --> 00:06:37,460
+actually go down solid water source
+ 
+
+251
+00:06:37,460 --> 00:06:39,520
+actually go down solid water source
+blocks somehow like without swimming if
+
+252
+00:06:39,520 --> 00:06:39,530
+blocks somehow like without swimming if
+ 
+
+253
+00:06:39,530 --> 00:06:43,000
+blocks somehow like without swimming if
+they're tracking you then I tried using
+
+254
+00:06:43,000 --> 00:06:43,010
+they're tracking you then I tried using
+ 
+
+255
+00:06:43,010 --> 00:06:45,670
+they're tracking you then I tried using
+ladders for them to climb up that didn't
+
+256
+00:06:45,670 --> 00:06:45,680
+ladders for them to climb up that didn't
+ 
+
+257
+00:06:45,680 --> 00:06:49,270
+ladders for them to climb up that didn't
+work out all that well then I tried just
+
+258
+00:06:49,270 --> 00:06:49,280
+work out all that well then I tried just
+ 
+
+259
+00:06:49,280 --> 00:06:51,100
+work out all that well then I tried just
+having them climb on their own like if
+
+260
+00:06:51,100 --> 00:06:51,110
+having them climb on their own like if
+ 
+
+261
+00:06:51,110 --> 00:06:53,140
+having them climb on their own like if
+they'd get bunched together but that
+
+262
+00:06:53,140 --> 00:06:53,150
+they'd get bunched together but that
+ 
+
+263
+00:06:53,150 --> 00:06:56,470
+they'd get bunched together but that
+seems to depend on if they're tracking
+
+264
+00:06:56,470 --> 00:06:56,480
+seems to depend on if they're tracking
+ 
+
+265
+00:06:56,480 --> 00:07:01,690
+seems to depend on if they're tracking
+you if like you know if you have bunch
+
+266
+00:07:01,690 --> 00:07:01,700
+you if like you know if you have bunch
+ 
+
+267
+00:07:01,700 --> 00:07:03,220
+you if like you know if you have bunch
+of spiders in a one by one area like
+
+268
+00:07:03,220 --> 00:07:03,230
+of spiders in a one by one area like
+ 
+
+269
+00:07:03,230 --> 00:07:05,950
+of spiders in a one by one area like
+this sometimes they'll start climbing up
+
+270
+00:07:05,950 --> 00:07:05,960
+this sometimes they'll start climbing up
+ 
+
+271
+00:07:05,960 --> 00:07:07,830
+this sometimes they'll start climbing up
+and then they'll climb up to the top and
+
+272
+00:07:07,830 --> 00:07:07,840
+and then they'll climb up to the top and
+ 
+
+273
+00:07:07,840 --> 00:07:09,250
+and then they'll climb up to the top and
+stay there
+
+274
+00:07:09,250 --> 00:07:09,260
+stay there
+ 
+
+275
+00:07:09,260 --> 00:07:12,430
+stay there
+I had like a water stream at the top to
+
+276
+00:07:12,430 --> 00:07:12,440
+I had like a water stream at the top to
+ 
+
+277
+00:07:12,440 --> 00:07:15,790
+I had like a water stream at the top to
+push him when they did that over to the
+
+278
+00:07:15,790 --> 00:07:15,800
+push him when they did that over to the
+ 
+
+279
+00:07:15,800 --> 00:07:17,680
+push him when they did that over to the
+side and then fall down but that didn't
+
+280
+00:07:17,680 --> 00:07:17,690
+side and then fall down but that didn't
+ 
+
+281
+00:07:17,690 --> 00:07:20,080
+side and then fall down but that didn't
+work unless I was that near the thing
+
+282
+00:07:20,080 --> 00:07:20,090
+work unless I was that near the thing
+ 
+
+283
+00:07:20,090 --> 00:07:23,350
+work unless I was that near the thing
+for them to to start climbing if they're
+
+284
+00:07:23,350 --> 00:07:23,360
+for them to to start climbing if they're
+ 
+
+285
+00:07:23,360 --> 00:07:25,630
+for them to to start climbing if they're
+on their own they won't climb unless
+
+286
+00:07:25,630 --> 00:07:25,640
+on their own they won't climb unless
+ 
+
+287
+00:07:25,640 --> 00:07:29,050
+on their own they won't climb unless
+they're tracking you so I settled with
+
+288
+00:07:29,050 --> 00:07:29,060
+they're tracking you so I settled with
+ 
+
+289
+00:07:29,060 --> 00:07:30,970
+they're tracking you so I settled with
+this thing it's a little bit big and a
+
+290
+00:07:30,970 --> 00:07:30,980
+this thing it's a little bit big and a
+ 
+
+291
+00:07:30,980 --> 00:07:33,040
+this thing it's a little bit big and a
+little bit slow but it's guaranteed to
+
+292
+00:07:33,040 --> 00:07:33,050
+little bit slow but it's guaranteed to
+ 
+
+293
+00:07:33,050 --> 00:07:36,100
+little bit slow but it's guaranteed to
+get them up regardless of where you're
+
+294
+00:07:36,100 --> 00:07:36,110
+get them up regardless of where you're
+ 
+
+295
+00:07:36,110 --> 00:07:40,330
+get them up regardless of where you're
+standing it'll take them up and they
+
+296
+00:07:40,330 --> 00:07:40,340
+standing it'll take them up and they
+ 
+
+297
+00:07:40,340 --> 00:07:43,210
+standing it'll take them up and they
+won't drown in it they can't get stuck
+
+298
+00:07:43,210 --> 00:07:43,220
+won't drown in it they can't get stuck
+ 
+
+299
+00:07:43,220 --> 00:07:46,210
+won't drown in it they can't get stuck
+in it so it's it's a good compromise and
+
+300
+00:07:46,210 --> 00:07:46,220
+in it so it's it's a good compromise and
+ 
+
+301
+00:07:46,220 --> 00:07:48,130
+in it so it's it's a good compromise and
+I left I made this area here glass
+
+302
+00:07:48,130 --> 00:07:48,140
+I left I made this area here glass
+ 
+
+303
+00:07:48,140 --> 00:07:50,200
+I left I made this area here glass
+because I want to have a little clicking
+
+304
+00:07:50,200 --> 00:07:50,210
+because I want to have a little clicking
+ 
+
+305
+00:07:50,210 --> 00:07:53,440
+because I want to have a little clicking
+area see it in action just just for
+
+306
+00:07:53,440 --> 00:07:53,450
+area see it in action just just for
+ 
+
+307
+00:07:53,450 --> 00:07:56,320
+area see it in action just just for
+looks I'll probably put a stone wall or
+
+308
+00:07:56,320 --> 00:07:56,330
+looks I'll probably put a stone wall or
+ 
+
+309
+00:07:56,330 --> 00:07:58,870
+looks I'll probably put a stone wall or
+something in front with a little viewing
+
+310
+00:07:58,870 --> 00:07:58,880
+something in front with a little viewing
+ 
+
+311
+00:07:58,880 --> 00:08:04,120
+something in front with a little viewing
+area yeah so this area here still needs
+
+312
+00:08:04,120 --> 00:08:04,130
+area yeah so this area here still needs
+ 
+
+313
+00:08:04,130 --> 00:08:06,100
+area yeah so this area here still needs
+to be cleaned up quite a bit like the
+
+314
+00:08:06,100 --> 00:08:06,110
+to be cleaned up quite a bit like the
+ 
+
+315
+00:08:06,110 --> 00:08:10,000
+to be cleaned up quite a bit like the
+ceiling needs to be raised and walls and
+
+316
+00:08:10,000 --> 00:08:10,010
+ceiling needs to be raised and walls and
+ 
+
+317
+00:08:10,010 --> 00:08:11,890
+ceiling needs to be raised and walls and
+all that stuff I just wanted to show you
+
+318
+00:08:11,890 --> 00:08:11,900
+all that stuff I just wanted to show you
+ 
+
+319
+00:08:11,900 --> 00:08:14,680
+all that stuff I just wanted to show you
+this before I started covering
+
+320
+00:08:14,680 --> 00:08:14,690
+this before I started covering
+ 
+
+321
+00:08:14,690 --> 00:08:17,590
+this before I started covering
+everything even more so like like this
+
+322
+00:08:17,590 --> 00:08:17,600
+everything even more so like like this
+ 
+
+323
+00:08:17,600 --> 00:08:20,860
+everything even more so like like this
+wiring here I got wiring running all
+
+324
+00:08:20,860 --> 00:08:20,870
+wiring here I got wiring running all
+ 
+
+325
+00:08:20,870 --> 00:08:23,620
+wiring here I got wiring running all
+around the spawner area I'll show you
+
+326
+00:08:23,620 --> 00:08:23,630
+around the spawner area I'll show you
+ 
+
+327
+00:08:23,630 --> 00:08:26,650
+around the spawner area I'll show you
+how the lighting works to shut it on or
+
+328
+00:08:26,650 --> 00:08:26,660
+how the lighting works to shut it on or
+ 
+
+329
+00:08:26,660 --> 00:08:29,680
+how the lighting works to shut it on or
+to shut it that bad back turn it on or
+
+330
+00:08:29,680 --> 00:08:29,690
+to shut it that bad back turn it on or
+ 
+
+331
+00:08:29,690 --> 00:08:30,850
+to shut it that bad back turn it on or
+off
+
+332
+00:08:30,850 --> 00:08:30,860
+off
+ 
+
+333
+00:08:30,860 --> 00:08:34,969
+off
+let's just hop down here this is inside
+
+334
+00:08:34,969 --> 00:08:34,979
+let's just hop down here this is inside
+ 
+
+335
+00:08:34,979 --> 00:08:39,409
+let's just hop down here this is inside
+of the spawner area 8x8 room you can see
+
+336
+00:08:39,409 --> 00:08:39,419
+of the spawner area 8x8 room you can see
+ 
+
+337
+00:08:39,419 --> 00:08:43,459
+of the spawner area 8x8 room you can see
+we got pistons on up one on each side
+
+338
+00:08:43,459 --> 00:08:43,469
+we got pistons on up one on each side
+ 
+
+339
+00:08:43,469 --> 00:08:46,910
+we got pistons on up one on each side
+with a with a glowing pumpkin there you
+
+340
+00:08:46,910 --> 00:08:46,920
+with a with a glowing pumpkin there you
+ 
+
+341
+00:08:46,920 --> 00:08:49,250
+with a with a glowing pumpkin there you
+can use glowstone or a torch or
+
+342
+00:08:49,250 --> 00:08:49,260
+can use glowstone or a torch or
+ 
+
+343
+00:08:49,260 --> 00:08:53,540
+can use glowstone or a torch or
+something when that lever outside there
+
+344
+00:08:53,540 --> 00:08:53,550
+something when that lever outside there
+ 
+
+345
+00:08:53,550 --> 00:08:58,009
+something when that lever outside there
+is switched these Pistons extend which
+
+346
+00:08:58,009 --> 00:08:58,019
+is switched these Pistons extend which
+ 
+
+347
+00:08:58,019 --> 00:09:01,639
+is switched these Pistons extend which
+block that which allows the spiders to
+
+348
+00:09:01,639 --> 00:09:01,649
+block that which allows the spiders to
+ 
+
+349
+00:09:01,649 --> 00:09:07,040
+block that which allows the spiders to
+spawn again and then you can see he's
+
+350
+00:09:07,040 --> 00:09:07,050
+spawn again and then you can see he's
+ 
+
+351
+00:09:07,050 --> 00:09:08,540
+spawn again and then you can see he's
+fighting the water current that's right
+
+352
+00:09:08,540 --> 00:09:08,550
+fighting the water current that's right
+ 
+
+353
+00:09:08,550 --> 00:09:10,579
+fighting the water current that's right
+it's trying to avoid with this thing
+
+354
+00:09:10,579 --> 00:09:10,589
+it's trying to avoid with this thing
+ 
+
+355
+00:09:10,589 --> 00:09:13,940
+it's trying to avoid with this thing
+although not totally avoidable due to
+
+356
+00:09:13,940 --> 00:09:13,950
+although not totally avoidable due to
+ 
+
+357
+00:09:13,950 --> 00:09:19,639
+although not totally avoidable due to
+the positioning of this but as long as
+
+358
+00:09:19,639 --> 00:09:19,649
+the positioning of this but as long as
+ 
+
+359
+00:09:19,649 --> 00:09:21,620
+the positioning of this but as long as
+I'm on the opposite side of this wall
+
+360
+00:09:21,620 --> 00:09:21,630
+I'm on the opposite side of this wall
+ 
+
+361
+00:09:21,630 --> 00:09:23,990
+I'm on the opposite side of this wall
+they'll they'll go this towards this
+
+362
+00:09:23,990 --> 00:09:24,000
+they'll they'll go this towards this
+ 
+
+363
+00:09:24,000 --> 00:09:30,740
+they'll they'll go this towards this
+direction and they'll go on top of these
+
+364
+00:09:30,740 --> 00:09:30,750
+direction and they'll go on top of these
+ 
+
+365
+00:09:30,750 --> 00:09:32,780
+direction and they'll go on top of these
+stairs here this is the trick this is
+
+366
+00:09:32,780 --> 00:09:32,790
+stairs here this is the trick this is
+ 
+
+367
+00:09:32,790 --> 00:09:37,310
+stairs here this is the trick this is
+the trick I wanted to point out if the
+
+368
+00:09:37,310 --> 00:09:37,320
+the trick I wanted to point out if the
+ 
+
+369
+00:09:37,320 --> 00:09:39,410
+the trick I wanted to point out if the
+spiders have an air block above the
+
+370
+00:09:39,410 --> 00:09:39,420
+spiders have an air block above the
+ 
+
+371
+00:09:39,420 --> 00:09:40,819
+spiders have an air block above the
+water stream they're able to fight
+
+372
+00:09:40,819 --> 00:09:40,829
+water stream they're able to fight
+ 
+
+373
+00:09:40,829 --> 00:09:43,340
+water stream they're able to fight
+against it like you just saw but if they
+
+374
+00:09:43,340 --> 00:09:43,350
+against it like you just saw but if they
+ 
+
+375
+00:09:43,350 --> 00:09:45,980
+against it like you just saw but if they
+have a solid block above the water
+
+376
+00:09:45,980 --> 00:09:45,990
+have a solid block above the water
+ 
+
+377
+00:09:45,990 --> 00:09:48,069
+have a solid block above the water
+stream then they are not able to fight
+
+378
+00:09:48,069 --> 00:09:48,079
+stream then they are not able to fight
+ 
+
+379
+00:09:48,079 --> 00:09:51,939
+stream then they are not able to fight
+against it if they're tracking you so
+
+380
+00:09:51,939 --> 00:09:51,949
+against it if they're tracking you so
+ 
+
+381
+00:09:51,949 --> 00:09:54,590
+against it if they're tracking you so
+this is what I came up with I got a roll
+
+382
+00:09:54,590 --> 00:09:54,600
+this is what I came up with I got a roll
+ 
+
+383
+00:09:54,600 --> 00:09:57,050
+this is what I came up with I got a roll
+of stairs you could do this on all four
+
+384
+00:09:57,050 --> 00:09:57,060
+of stairs you could do this on all four
+ 
+
+385
+00:09:57,060 --> 00:09:58,540
+of stairs you could do this on all four
+sides really and it should work
+
+386
+00:09:58,540 --> 00:09:58,550
+sides really and it should work
+ 
+
+387
+00:09:58,550 --> 00:10:00,710
+sides really and it should work
+regardless of where you're standing I
+
+388
+00:10:00,710 --> 00:10:00,720
+regardless of where you're standing I
+ 
+
+389
+00:10:00,720 --> 00:10:04,400
+regardless of where you're standing I
+just have on one side because that's I
+
+390
+00:10:04,400 --> 00:10:04,410
+just have on one side because that's I
+ 
+
+391
+00:10:04,410 --> 00:10:07,100
+just have on one side because that's I
+don't know I might I might add it to all
+
+392
+00:10:07,100 --> 00:10:07,110
+don't know I might I might add it to all
+ 
+
+393
+00:10:07,110 --> 00:10:09,769
+don't know I might I might add it to all
+four sides but got a water stream
+
+394
+00:10:09,769 --> 00:10:09,779
+four sides but got a water stream
+ 
+
+395
+00:10:09,779 --> 00:10:12,139
+four sides but got a water stream
+pushing them on top the stairs there
+
+396
+00:10:12,139 --> 00:10:12,149
+pushing them on top the stairs there
+ 
+
+397
+00:10:12,149 --> 00:10:14,180
+pushing them on top the stairs there
+with these signs holding the water in
+
+398
+00:10:14,180 --> 00:10:14,190
+with these signs holding the water in
+ 
+
+399
+00:10:14,190 --> 00:10:17,740
+with these signs holding the water in
+place could use vents gates as well
+
+400
+00:10:17,740 --> 00:10:17,750
+place could use vents gates as well
+ 
+
+401
+00:10:17,750 --> 00:10:20,960
+place could use vents gates as well
+spiders oops will you push it onto the
+
+402
+00:10:20,960 --> 00:10:20,970
+spiders oops will you push it onto the
+ 
+
+403
+00:10:20,970 --> 00:10:23,240
+spiders oops will you push it onto the
+stairs and then the screen will push
+
+404
+00:10:23,240 --> 00:10:23,250
+stairs and then the screen will push
+ 
+
+405
+00:10:23,250 --> 00:10:26,240
+stairs and then the screen will push
+them this way they won't be able to
+
+406
+00:10:26,240 --> 00:10:26,250
+them this way they won't be able to
+ 
+
+407
+00:10:26,250 --> 00:10:30,170
+them this way they won't be able to
+fight the current and they get sucked up
+
+408
+00:10:30,170 --> 00:10:30,180
+fight the current and they get sucked up
+ 
+
+409
+00:10:30,180 --> 00:10:31,819
+fight the current and they get sucked up
+to this area here which is a bit
+
+410
+00:10:31,819 --> 00:10:31,829
+to this area here which is a bit
+ 
+
+411
+00:10:31,829 --> 00:10:37,189
+to this area here which is a bit
+complicated this is the start of the
+
+412
+00:10:37,189 --> 00:10:37,199
+complicated this is the start of the
+ 
+
+413
+00:10:37,199 --> 00:10:40,130
+complicated this is the start of the
+elevator right here but you'll notice I
+
+414
+00:10:40,130 --> 00:10:40,140
+elevator right here but you'll notice I
+ 
+
+415
+00:10:40,140 --> 00:10:44,450
+elevator right here but you'll notice I
+have this is the water source
+
+416
+00:10:44,450 --> 00:10:44,460
+have this is the water source
+ 
+
+417
+00:10:44,460 --> 00:10:48,889
+have this is the water source
+right there so kind of zigzags too over
+
+418
+00:10:48,889 --> 00:10:48,899
+right there so kind of zigzags too over
+ 
+
+419
+00:10:48,899 --> 00:10:52,280
+right there so kind of zigzags too over
+there the reason for that is when the
+
+420
+00:10:52,280 --> 00:10:52,290
+there the reason for that is when the
+ 
+
+421
+00:10:52,290 --> 00:10:53,840
+there the reason for that is when the
+spiders get pushed onto these stairs
+
+422
+00:10:53,840 --> 00:10:53,850
+spiders get pushed onto these stairs
+ 
+
+423
+00:10:53,850 --> 00:10:55,790
+spiders get pushed onto these stairs
+they're only going to be about half on
+
+424
+00:10:55,790 --> 00:10:55,800
+they're only going to be about half on
+ 
+
+425
+00:10:55,800 --> 00:10:57,680
+they're only going to be about half on
+the step they won't be right against
+
+426
+00:10:57,680 --> 00:10:57,690
+the step they won't be right against
+ 
+
+427
+00:10:57,690 --> 00:11:01,850
+the step they won't be right against
+this wall here so if you have a solid
+
+428
+00:11:01,850 --> 00:11:01,860
+this wall here so if you have a solid
+ 
+
+429
+00:11:01,860 --> 00:11:07,430
+this wall here so if you have a solid
+block where this stair is oops if that's
+
+430
+00:11:07,430 --> 00:11:07,440
+block where this stair is oops if that's
+ 
+
+431
+00:11:07,440 --> 00:11:09,920
+block where this stair is oops if that's
+solid blocks they're going to be
+
+432
+00:11:09,920 --> 00:11:09,930
+solid blocks they're going to be
+ 
+
+433
+00:11:09,930 --> 00:11:13,010
+solid blocks they're going to be
+somewhere around this position here
+
+434
+00:11:13,010 --> 00:11:13,020
+somewhere around this position here
+ 
+
+435
+00:11:13,020 --> 00:11:15,320
+somewhere around this position here
+between the two blocks they'll run into
+
+436
+00:11:15,320 --> 00:11:15,330
+between the two blocks they'll run into
+ 
+
+437
+00:11:15,330 --> 00:11:17,090
+between the two blocks they'll run into
+the wall and they'll they'll get stuck
+
+438
+00:11:17,090 --> 00:11:17,100
+the wall and they'll they'll get stuck
+ 
+
+439
+00:11:17,100 --> 00:11:24,190
+the wall and they'll they'll get stuck
+so you need to have two stairs here
+
+440
+00:11:24,190 --> 00:11:24,200
+
+ 
+
+441
+00:11:24,200 --> 00:11:26,840
+
+OOP that was a weird positioning I liked
+
+442
+00:11:26,840 --> 00:11:26,850
+OOP that was a weird positioning I liked
+ 
+
+443
+00:11:26,850 --> 00:11:28,389
+OOP that was a weird positioning I liked
+how you can get your stairs back now
+
+444
+00:11:28,389 --> 00:11:28,399
+how you can get your stairs back now
+ 
+
+445
+00:11:28,399 --> 00:11:32,240
+how you can get your stairs back now
+when you when you break them it's not
+
+446
+00:11:32,240 --> 00:11:32,250
+when you when you break them it's not
+ 
+
+447
+00:11:32,250 --> 00:11:33,949
+when you when you break them it's not
+going to let me put it in the right spot
+
+448
+00:11:33,949 --> 00:11:33,959
+going to let me put it in the right spot
+ 
+
+449
+00:11:33,959 --> 00:11:38,780
+going to let me put it in the right spot
+is it come on there we go yeah so if
+
+450
+00:11:38,780 --> 00:11:38,790
+is it come on there we go yeah so if
+ 
+
+451
+00:11:38,790 --> 00:11:40,670
+is it come on there we go yeah so if
+they're in between here and you have the
+
+452
+00:11:40,670 --> 00:11:40,680
+they're in between here and you have the
+ 
+
+453
+00:11:40,680 --> 00:11:45,470
+they're in between here and you have the
+stream going it's going that way and
+
+454
+00:11:45,470 --> 00:11:45,480
+stream going it's going that way and
+ 
+
+455
+00:11:45,480 --> 00:11:49,760
+stream going it's going that way and
+then zigzags it'll suck them up they
+
+456
+00:11:49,760 --> 00:11:49,770
+then zigzags it'll suck them up they
+ 
+
+457
+00:11:49,770 --> 00:11:51,440
+then zigzags it'll suck them up they
+have a block over top they won't be able
+
+458
+00:11:51,440 --> 00:11:51,450
+have a block over top they won't be able
+ 
+
+459
+00:11:51,450 --> 00:11:52,970
+have a block over top they won't be able
+to fight the current all the way up the
+
+460
+00:11:52,970 --> 00:11:52,980
+to fight the current all the way up the
+ 
+
+461
+00:11:52,980 --> 00:11:54,680
+to fight the current all the way up the
+elevator they'll they have a block over
+
+462
+00:11:54,680 --> 00:11:54,690
+elevator they'll they have a block over
+ 
+
+463
+00:11:54,690 --> 00:11:57,800
+elevator they'll they have a block over
+top except where the signs are and it
+
+464
+00:11:57,800 --> 00:11:57,810
+top except where the signs are and it
+ 
+
+465
+00:11:57,810 --> 00:12:01,310
+top except where the signs are and it
+seems to work okay got a sign on a sign
+
+466
+00:12:01,310 --> 00:12:01,320
+seems to work okay got a sign on a sign
+ 
+
+467
+00:12:01,320 --> 00:12:04,090
+seems to work okay got a sign on a sign
+here to hold this water in place and
+
+468
+00:12:04,090 --> 00:12:04,100
+here to hold this water in place and
+ 
+
+469
+00:12:04,100 --> 00:12:09,290
+here to hold this water in place and
+that's that's how that all works so I
+
+470
+00:12:09,290 --> 00:12:09,300
+that's that's how that all works so I
+ 
+
+471
+00:12:09,300 --> 00:12:13,550
+that's that's how that all works so I
+did that with both of them and yeah no
+
+472
+00:12:13,550 --> 00:12:13,560
+did that with both of them and yeah no
+ 
+
+473
+00:12:13,560 --> 00:12:18,860
+did that with both of them and yeah no
+problem so far so the plan for the rest
+
+474
+00:12:18,860 --> 00:12:18,870
+problem so far so the plan for the rest
+ 
+
+475
+00:12:18,870 --> 00:12:20,630
+problem so far so the plan for the rest
+of this episode is just to kind of clean
+
+476
+00:12:20,630 --> 00:12:20,640
+of this episode is just to kind of clean
+ 
+
+477
+00:12:20,640 --> 00:12:22,970
+of this episode is just to kind of clean
+this area up a little bit better we need
+
+478
+00:12:22,970 --> 00:12:22,980
+this area up a little bit better we need
+ 
+
+479
+00:12:22,980 --> 00:12:24,920
+this area up a little bit better we need
+to add some more features as well I want
+
+480
+00:12:24,920 --> 00:12:24,930
+to add some more features as well I want
+ 
+
+481
+00:12:24,930 --> 00:12:28,100
+to add some more features as well I want
+to add a lever here somewhere I'm not
+
+482
+00:12:28,100 --> 00:12:28,110
+to add a lever here somewhere I'm not
+ 
+
+483
+00:12:28,110 --> 00:12:32,300
+to add a lever here somewhere I'm not
+sure which side to turn the Steve spider
+
+484
+00:12:32,300 --> 00:12:32,310
+sure which side to turn the Steve spider
+ 
+
+485
+00:12:32,310 --> 00:12:35,240
+sure which side to turn the Steve spider
+spawning on or off so that they're not
+
+486
+00:12:35,240 --> 00:12:35,250
+spawning on or off so that they're not
+ 
+
+487
+00:12:35,250 --> 00:12:37,069
+spawning on or off so that they're not
+annoying us if we don't need them to be
+
+488
+00:12:37,069 --> 00:12:37,079
+annoying us if we don't need them to be
+ 
+
+489
+00:12:37,079 --> 00:12:41,870
+annoying us if we don't need them to be
+at the moment the wiring is the two
+
+490
+00:12:41,870 --> 00:12:41,880
+at the moment the wiring is the two
+ 
+
+491
+00:12:41,880 --> 00:12:44,690
+at the moment the wiring is the two
+spawners have isolated wiring this is a
+
+492
+00:12:44,690 --> 00:12:44,700
+spawners have isolated wiring this is a
+ 
+
+493
+00:12:44,700 --> 00:12:48,980
+spawners have isolated wiring this is a
+lever for one of them it goes around and
+
+494
+00:12:48,980 --> 00:12:48,990
+lever for one of them it goes around and
+ 
+
+495
+00:12:48,990 --> 00:12:54,319
+lever for one of them it goes around and
+I believe that piston is right here yeah
+
+496
+00:12:54,319 --> 00:12:54,329
+I believe that piston is right here yeah
+ 
+
+497
+00:12:54,329 --> 00:12:59,860
+I believe that piston is right here yeah
+so
+
+498
+00:12:59,860 --> 00:12:59,870
+
+ 
+
+499
+00:12:59,870 --> 00:13:03,320
+
+so this is how this works redstone
+
+500
+00:13:03,320 --> 00:13:03,330
+so this is how this works redstone
+ 
+
+501
+00:13:03,330 --> 00:13:05,990
+so this is how this works redstone
+wiring powers this block which powers
+
+502
+00:13:05,990 --> 00:13:06,000
+wiring powers this block which powers
+ 
+
+503
+00:13:06,000 --> 00:13:10,090
+wiring powers this block which powers
+the piston which is adjacent to it and
+
+504
+00:13:10,090 --> 00:13:10,100
+the piston which is adjacent to it and
+ 
+
+505
+00:13:10,100 --> 00:13:12,950
+the piston which is adjacent to it and
+we extend the wiring using a repeater
+
+506
+00:13:12,950 --> 00:13:12,960
+we extend the wiring using a repeater
+ 
+
+507
+00:13:12,960 --> 00:13:17,150
+we extend the wiring using a repeater
+here powers this block this wire pulls
+
+508
+00:13:17,150 --> 00:13:17,160
+here powers this block this wire pulls
+ 
+
+509
+00:13:17,160 --> 00:13:19,269
+here powers this block this wire pulls
+the current through that block and
+
+510
+00:13:19,269 --> 00:13:19,279
+the current through that block and
+ 
+
+511
+00:13:19,279 --> 00:13:22,010
+the current through that block and
+continues on here again there's a piston
+
+512
+00:13:22,010 --> 00:13:22,020
+continues on here again there's a piston
+ 
+
+513
+00:13:22,020 --> 00:13:26,870
+continues on here again there's a piston
+right behind this wood block get a
+
+514
+00:13:26,870 --> 00:13:26,880
+right behind this wood block get a
+ 
+
+515
+00:13:26,880 --> 00:13:28,820
+right behind this wood block get a
+little viewing area here for looking at
+
+516
+00:13:28,820 --> 00:13:28,830
+little viewing area here for looking at
+ 
+
+517
+00:13:28,830 --> 00:13:32,150
+little viewing area here for looking at
+the poor little spiders as they go with
+
+518
+00:13:32,150 --> 00:13:32,160
+the poor little spiders as they go with
+ 
+
+519
+00:13:32,160 --> 00:13:42,230
+the poor little spiders as they go with
+up the elevator okay so we need to
+
+520
+00:13:42,230 --> 00:13:42,240
+up the elevator okay so we need to
+ 
+
+521
+00:13:42,240 --> 00:13:47,750
+up the elevator okay so we need to
+connect this wiring with the with this
+
+522
+00:13:47,750 --> 00:13:47,760
+connect this wiring with the with this
+ 
+
+523
+00:13:47,760 --> 00:13:50,329
+connect this wiring with the with this
+wiring over here so you goes all the way
+
+524
+00:13:50,329 --> 00:13:50,339
+wiring over here so you goes all the way
+ 
+
+525
+00:13:50,339 --> 00:13:55,130
+wiring over here so you goes all the way
+around and hook up a lever so we can get
+
+526
+00:13:55,130 --> 00:13:55,140
+around and hook up a lever so we can get
+ 
+
+527
+00:13:55,140 --> 00:14:01,790
+around and hook up a lever so we can get
+control both of them
+
+528
+00:14:01,790 --> 00:14:01,800
+
+ 
+
+529
+00:14:01,800 --> 00:14:04,290
+
+it'll be pretty simple to connect the
+
+530
+00:14:04,290 --> 00:14:04,300
+it'll be pretty simple to connect the
+ 
+
+531
+00:14:04,300 --> 00:14:06,480
+it'll be pretty simple to connect the
+two together this this looks like a
+
+532
+00:14:06,480 --> 00:14:06,490
+two together this this looks like a
+ 
+
+533
+00:14:06,490 --> 00:14:08,760
+two together this this looks like a
+really good spot here to do it I'm going
+
+534
+00:14:08,760 --> 00:14:08,770
+really good spot here to do it I'm going
+ 
+
+535
+00:14:08,770 --> 00:14:11,160
+really good spot here to do it I'm going
+to change things around a little bit
+
+536
+00:14:11,160 --> 00:14:11,170
+to change things around a little bit
+ 
+
+537
+00:14:11,170 --> 00:14:15,690
+to change things around a little bit
+though move this repeater step we'll
+
+538
+00:14:15,690 --> 00:14:15,700
+though move this repeater step we'll
+ 
+
+539
+00:14:15,700 --> 00:14:19,890
+though move this repeater step we'll
+have wire there so you can either pull
+
+540
+00:14:19,890 --> 00:14:19,900
+have wire there so you can either pull
+ 
+
+541
+00:14:19,900 --> 00:14:22,140
+have wire there so you can either pull
+power through a block if you have the
+
+542
+00:14:22,140 --> 00:14:22,150
+power through a block if you have the
+ 
+
+543
+00:14:22,150 --> 00:14:24,780
+power through a block if you have the
+repeater on this side or you can put
+
+544
+00:14:24,780 --> 00:14:24,790
+repeater on this side or you can put
+ 
+
+545
+00:14:24,790 --> 00:14:26,190
+repeater on this side or you can put
+power through the block if you have it
+
+546
+00:14:26,190 --> 00:14:26,200
+power through the block if you have it
+ 
+
+547
+00:14:26,200 --> 00:14:29,310
+power through the block if you have it
+on the other side so let's go over there
+
+548
+00:14:29,310 --> 00:14:29,320
+on the other side so let's go over there
+ 
+
+549
+00:14:29,320 --> 00:14:33,450
+on the other side so let's go over there
+we're just going to switch that if we
+
+550
+00:14:33,450 --> 00:14:33,460
+we're just going to switch that if we
+ 
+
+551
+00:14:33,460 --> 00:14:39,860
+we're just going to switch that if we
+can get in there okay so instead of that
+
+552
+00:14:39,860 --> 00:14:39,870
+can get in there okay so instead of that
+ 
+
+553
+00:14:39,870 --> 00:14:48,329
+can get in there okay so instead of that
+we will have the repeater here and that
+
+554
+00:14:48,329 --> 00:14:48,339
+we will have the repeater here and that
+ 
+
+555
+00:14:48,339 --> 00:14:50,190
+we will have the repeater here and that
+will send power to the wire on the other
+
+556
+00:14:50,190 --> 00:14:50,200
+will send power to the wire on the other
+ 
+
+557
+00:14:50,200 --> 00:14:54,150
+will send power to the wire on the other
+side yeah okay and then we can just pull
+
+558
+00:14:54,150 --> 00:14:54,160
+side yeah okay and then we can just pull
+ 
+
+559
+00:14:54,160 --> 00:15:02,820
+side yeah okay and then we can just pull
+this down right here and we'll switch
+
+560
+00:15:02,820 --> 00:15:02,830
+this down right here and we'll switch
+ 
+
+561
+00:15:02,830 --> 00:15:05,880
+this down right here and we'll switch
+this repeater so yeah we could either
+
+562
+00:15:05,880 --> 00:15:05,890
+this repeater so yeah we could either
+ 
+
+563
+00:15:05,890 --> 00:15:09,540
+this repeater so yeah we could either
+put the repeater here or we could put it
+
+564
+00:15:09,540 --> 00:15:09,550
+put the repeater here or we could put it
+ 
+
+565
+00:15:09,550 --> 00:15:13,410
+put the repeater here or we could put it
+on this side doesn't matter this is fine
+
+566
+00:15:13,410 --> 00:15:13,420
+on this side doesn't matter this is fine
+ 
+
+567
+00:15:13,420 --> 00:15:16,079
+on this side doesn't matter this is fine
+I guess I'll get rid of this second
+
+568
+00:15:16,079 --> 00:15:16,089
+I guess I'll get rid of this second
+ 
+
+569
+00:15:16,089 --> 00:15:17,990
+I guess I'll get rid of this second
+lever since we don't need it anymore
+
+570
+00:15:17,990 --> 00:15:18,000
+lever since we don't need it anymore
+ 
+
+571
+00:15:18,000 --> 00:15:20,370
+lever since we don't need it anymore
+you can see it's steam powered all the
+
+572
+00:15:20,370 --> 00:15:20,380
+you can see it's steam powered all the
+ 
+
+573
+00:15:20,380 --> 00:15:27,630
+you can see it's steam powered all the
+way around now the reason I'm sending
+
+574
+00:15:27,630 --> 00:15:27,640
+way around now the reason I'm sending
+ 
+
+575
+00:15:27,640 --> 00:15:29,370
+way around now the reason I'm sending
+power through block like this is just to
+
+576
+00:15:29,370 --> 00:15:29,380
+power through block like this is just to
+ 
+
+577
+00:15:29,380 --> 00:15:31,199
+power through block like this is just to
+keep the wiring all at the same height
+
+578
+00:15:31,199 --> 00:15:31,209
+keep the wiring all at the same height
+ 
+
+579
+00:15:31,209 --> 00:15:33,420
+keep the wiring all at the same height
+instead of going over top to this
+
+580
+00:15:33,420 --> 00:15:33,430
+instead of going over top to this
+ 
+
+581
+00:15:33,430 --> 00:15:36,600
+instead of going over top to this
+pumpkin because I can't put wiring on a
+
+582
+00:15:36,600 --> 00:15:36,610
+pumpkin because I can't put wiring on a
+ 
+
+583
+00:15:36,610 --> 00:15:39,930
+pumpkin because I can't put wiring on a
+pumpkin so it seems like a good place to
+
+584
+00:15:39,930 --> 00:15:39,940
+pumpkin so it seems like a good place to
+ 
+
+585
+00:15:39,940 --> 00:15:43,840
+pumpkin so it seems like a good place to
+put the repeaters
+
+586
+00:15:43,840 --> 00:15:43,850
+
+ 
+
+587
+00:15:43,850 --> 00:15:48,530
+
+okay the next issue we have you probably
+
+588
+00:15:48,530 --> 00:15:48,540
+okay the next issue we have you probably
+ 
+
+589
+00:15:48,540 --> 00:15:51,769
+okay the next issue we have you probably
+saw it already but like if you kill the
+
+590
+00:15:51,769 --> 00:15:51,779
+saw it already but like if you kill the
+ 
+
+591
+00:15:51,779 --> 00:15:55,040
+saw it already but like if you kill the
+spiders here some of the drops are going
+
+592
+00:15:55,040 --> 00:15:55,050
+spiders here some of the drops are going
+ 
+
+593
+00:15:55,050 --> 00:16:00,050
+spiders here some of the drops are going
+to land on this iron bar yeah and
+
+594
+00:16:00,050 --> 00:16:00,060
+to land on this iron bar yeah and
+ 
+
+595
+00:16:00,060 --> 00:16:01,460
+to land on this iron bar yeah and
+there's one flaw with this as I'm
+
+596
+00:16:01,460 --> 00:16:01,470
+there's one flaw with this as I'm
+ 
+
+597
+00:16:01,470 --> 00:16:03,110
+there's one flaw with this as I'm
+hitting them like that they will be up
+
+598
+00:16:03,110 --> 00:16:03,120
+hitting them like that they will be up
+ 
+
+599
+00:16:03,120 --> 00:16:06,620
+hitting them like that they will be up
+at the water stream so that might cause
+
+600
+00:16:06,620 --> 00:16:06,630
+at the water stream so that might cause
+ 
+
+601
+00:16:06,630 --> 00:16:10,840
+at the water stream so that might cause
+one or two not to take the fall damage
+
+602
+00:16:10,840 --> 00:16:10,850
+one or two not to take the fall damage
+ 
+
+603
+00:16:10,850 --> 00:16:13,970
+one or two not to take the fall damage
+because they're blocking the area but
+
+604
+00:16:13,970 --> 00:16:13,980
+because they're blocking the area but
+ 
+
+605
+00:16:13,980 --> 00:16:15,230
+because they're blocking the area but
+yeah you see how the string is getting
+
+606
+00:16:15,230 --> 00:16:15,240
+yeah you see how the string is getting
+ 
+
+607
+00:16:15,240 --> 00:16:20,079
+yeah you see how the string is getting
+stuck on this bar here we could either
+
+608
+00:16:20,079 --> 00:16:20,089
+stuck on this bar here we could either
+ 
+
+609
+00:16:20,089 --> 00:16:22,490
+stuck on this bar here we could either
+could either put a piston behind there
+
+610
+00:16:22,490 --> 00:16:22,500
+could either put a piston behind there
+ 
+
+611
+00:16:22,500 --> 00:16:25,460
+could either put a piston behind there
+to push it off or we could use a water
+
+612
+00:16:25,460 --> 00:16:25,470
+to push it off or we could use a water
+ 
+
+613
+00:16:25,470 --> 00:16:30,350
+to push it off or we could use a water
+screen to push it off I'm not sure what
+
+614
+00:16:30,350 --> 00:16:30,360
+screen to push it off I'm not sure what
+ 
+
+615
+00:16:30,360 --> 00:16:35,269
+screen to push it off I'm not sure what
+we'll do the switch to turn the spawners
+
+616
+00:16:35,269 --> 00:16:35,279
+we'll do the switch to turn the spawners
+ 
+
+617
+00:16:35,279 --> 00:16:39,560
+we'll do the switch to turn the spawners
+on or off I think maybe putting on here
+
+618
+00:16:39,560 --> 00:16:39,570
+on or off I think maybe putting on here
+ 
+
+619
+00:16:39,570 --> 00:16:44,019
+on or off I think maybe putting on here
+a quiz okay
+
+620
+00:16:44,019 --> 00:16:44,029
+a quiz okay
+ 
+
+621
+00:16:44,029 --> 00:16:46,040
+a quiz okay
+yeah we should be able to take power
+
+622
+00:16:46,040 --> 00:16:46,050
+yeah we should be able to take power
+ 
+
+623
+00:16:46,050 --> 00:16:50,449
+yeah we should be able to take power
+from over here on that side and then
+
+624
+00:16:50,449 --> 00:16:50,459
+from over here on that side and then
+ 
+
+625
+00:16:50,459 --> 00:16:53,300
+from over here on that side and then
+maybe we'll have a button here we can
+
+626
+00:16:53,300 --> 00:16:53,310
+maybe we'll have a button here we can
+ 
+
+627
+00:16:53,310 --> 00:16:56,530
+maybe we'll have a button here we can
+press to push these items on somehow
+
+628
+00:16:56,530 --> 00:16:56,540
+press to push these items on somehow
+ 
+
+629
+00:16:56,540 --> 00:17:04,640
+press to push these items on somehow
+this side is clear yeah it's okay
+
+630
+00:17:04,640 --> 00:17:04,650
+this side is clear yeah it's okay
+ 
+
+631
+00:17:04,650 --> 00:17:07,049
+this side is clear yeah it's okay
+that's what we'll do we'll have a button
+
+632
+00:17:07,049 --> 00:17:07,059
+that's what we'll do we'll have a button
+ 
+
+633
+00:17:07,059 --> 00:17:11,159
+that's what we'll do we'll have a button
+here and maybe some glowstone polite the
+
+634
+00:17:11,159 --> 00:17:11,169
+here and maybe some glowstone polite the
+ 
+
+635
+00:17:11,169 --> 00:17:14,760
+here and maybe some glowstone polite the
+area cool thing I noticed ever since the
+
+636
+00:17:14,760 --> 00:17:14,770
+area cool thing I noticed ever since the
+ 
+
+637
+00:17:14,770 --> 00:17:16,529
+area cool thing I noticed ever since the
+recent patches I'm not getting Enderman
+
+638
+00:17:16,529 --> 00:17:16,539
+recent patches I'm not getting Enderman
+ 
+
+639
+00:17:16,539 --> 00:17:19,230
+recent patches I'm not getting Enderman
+down in my cave here which is cool
+
+640
+00:17:19,230 --> 00:17:19,240
+down in my cave here which is cool
+ 
+
+641
+00:17:19,240 --> 00:17:21,390
+down in my cave here which is cool
+because before they were teleporting
+
+642
+00:17:21,390 --> 00:17:21,400
+because before they were teleporting
+ 
+
+643
+00:17:21,400 --> 00:17:24,919
+because before they were teleporting
+down all the time which is annoying
+
+644
+00:17:24,919 --> 00:17:24,929
+down all the time which is annoying
+ 
+
+645
+00:17:24,929 --> 00:17:28,649
+down all the time which is annoying
+moving blocks around had me a little
+
+646
+00:17:28,649 --> 00:17:28,659
+moving blocks around had me a little
+ 
+
+647
+00:17:28,659 --> 00:17:30,330
+moving blocks around had me a little
+worried they were going to cause
+
+648
+00:17:30,330 --> 00:17:30,340
+worried they were going to cause
+ 
+
+649
+00:17:30,340 --> 00:17:34,080
+worried they were going to cause
+problems on future but hopefully that's
+
+650
+00:17:34,080 --> 00:17:34,090
+problems on future but hopefully that's
+ 
+
+651
+00:17:34,090 --> 00:17:43,380
+problems on future but hopefully that's
+not a problem anymore okay so that I was
+
+652
+00:17:43,380 --> 00:17:43,390
+not a problem anymore okay so that I was
+ 
+
+653
+00:17:43,390 --> 00:17:44,580
+not a problem anymore okay so that I was
+going to say something else but I can't
+
+654
+00:17:44,580 --> 00:17:44,590
+going to say something else but I can't
+ 
+
+655
+00:17:44,590 --> 00:17:50,820
+going to say something else but I can't
+remember now so I got a I got a path
+
+656
+00:17:50,820 --> 00:17:50,830
+remember now so I got a I got a path
+ 
+
+657
+00:17:50,830 --> 00:17:52,440
+remember now so I got a I got a path
+here for the wire it's it's really
+
+658
+00:17:52,440 --> 00:17:52,450
+here for the wire it's it's really
+ 
+
+659
+00:17:52,450 --> 00:17:56,820
+here for the wire it's it's really
+simple just goes down here I added this
+
+660
+00:17:56,820 --> 00:17:56,830
+simple just goes down here I added this
+ 
+
+661
+00:17:56,830 --> 00:17:58,649
+simple just goes down here I added this
+little bit and then it connects to our
+
+662
+00:17:58,649 --> 00:17:58,659
+little bit and then it connects to our
+ 
+
+663
+00:17:58,659 --> 00:18:02,519
+little bit and then it connects to our
+loop which goes around and then it goes
+
+664
+00:18:02,519 --> 00:18:02,529
+loop which goes around and then it goes
+ 
+
+665
+00:18:02,529 --> 00:18:04,950
+loop which goes around and then it goes
+to that other loop where we connected
+
+666
+00:18:04,950 --> 00:18:04,960
+to that other loop where we connected
+ 
+
+667
+00:18:04,960 --> 00:18:07,710
+to that other loop where we connected
+and it goes around the other spawner so
+
+668
+00:18:07,710 --> 00:18:07,720
+and it goes around the other spawner so
+ 
+
+669
+00:18:07,720 --> 00:18:17,590
+and it goes around the other spawner so
+this will take care of it all try it out
+
+670
+00:18:17,590 --> 00:18:17,600
+
+ 
+
+671
+00:18:17,600 --> 00:18:21,820
+
+yep this one's powered and is this other
+
+672
+00:18:21,820 --> 00:18:21,830
+yep this one's powered and is this other
+ 
+
+673
+00:18:21,830 --> 00:18:26,590
+yep this one's powered and is this other
+one powered yes it is
+
+674
+00:18:26,590 --> 00:18:26,600
+one powered yes it is
+ 
+
+675
+00:18:26,600 --> 00:18:28,620
+one powered yes it is
+so we have our switch on or off there
+
+676
+00:18:28,620 --> 00:18:28,630
+so we have our switch on or off there
+ 
+
+677
+00:18:28,630 --> 00:18:32,890
+so we have our switch on or off there
+let's hook up our our piston I think
+
+678
+00:18:32,890 --> 00:18:32,900
+let's hook up our our piston I think
+ 
+
+679
+00:18:32,900 --> 00:18:39,820
+let's hook up our our piston I think
+I'll use a piston I'm gonna try just
+
+680
+00:18:39,820 --> 00:18:39,830
+I'll use a piston I'm gonna try just
+ 
+
+681
+00:18:39,830 --> 00:18:41,440
+I'll use a piston I'm gonna try just
+stick it in the back here like right
+
+682
+00:18:41,440 --> 00:18:41,450
+stick it in the back here like right
+ 
+
+683
+00:18:41,450 --> 00:18:44,970
+stick it in the back here like right
+over here
+
+684
+00:18:44,970 --> 00:18:44,980
+
+ 
+
+685
+00:18:44,980 --> 00:18:52,770
+
+wrong way oh and we can't get it out now
+
+686
+00:18:52,770 --> 00:18:52,780
+
+ 
+
+687
+00:18:52,780 --> 00:18:55,270
+
+there okay
+
+688
+00:18:55,270 --> 00:18:55,280
+there okay
+ 
+
+689
+00:18:55,280 --> 00:19:03,340
+there okay
+put all that back there and if we put
+
+690
+00:19:03,340 --> 00:19:03,350
+put all that back there and if we put
+ 
+
+691
+00:19:03,350 --> 00:19:06,250
+put all that back there and if we put
+the button right here we could probably
+
+692
+00:19:06,250 --> 00:19:06,260
+the button right here we could probably
+ 
+
+693
+00:19:06,260 --> 00:19:11,710
+the button right here we could probably
+just put a wire over here and that'll be
+
+694
+00:19:11,710 --> 00:19:11,720
+just put a wire over here and that'll be
+ 
+
+695
+00:19:11,720 --> 00:19:18,130
+just put a wire over here and that'll be
+very very simple and hidden which is
+
+696
+00:19:18,130 --> 00:19:18,140
+very very simple and hidden which is
+ 
+
+697
+00:19:18,140 --> 00:19:22,270
+very very simple and hidden which is
+nice let's try it out though
+
+698
+00:19:22,270 --> 00:19:22,280
+nice let's try it out though
+ 
+
+699
+00:19:22,280 --> 00:19:25,180
+nice let's try it out though
+get some light on the area I'm going to
+
+700
+00:19:25,180 --> 00:19:25,190
+get some light on the area I'm going to
+ 
+
+701
+00:19:25,190 --> 00:19:30,340
+get some light on the area I'm going to
+throw some blocks on the bar hi shad
+
+702
+00:19:30,340 --> 00:19:30,350
+throw some blocks on the bar hi shad
+ 
+
+703
+00:19:30,350 --> 00:19:31,840
+throw some blocks on the bar hi shad
+really get some spiders in here because
+
+704
+00:19:31,840 --> 00:19:31,850
+really get some spiders in here because
+ 
+
+705
+00:19:31,850 --> 00:19:33,580
+really get some spiders in here because
+that might push them through the glass
+
+706
+00:19:33,580 --> 00:19:33,590
+that might push them through the glass
+ 
+
+707
+00:19:33,590 --> 00:19:38,830
+that might push them through the glass
+or something crazy yeah works like that
+
+708
+00:19:38,830 --> 00:19:38,840
+or something crazy yeah works like that
+ 
+
+709
+00:19:38,840 --> 00:19:40,570
+or something crazy yeah works like that
+I'm gonna get some spiders Oh make sure
+
+710
+00:19:40,570 --> 00:19:40,580
+I'm gonna get some spiders Oh make sure
+ 
+
+711
+00:19:40,580 --> 00:19:45,460
+I'm gonna get some spiders Oh make sure
+it doesn't do anything dangerous oh and
+
+712
+00:19:45,460 --> 00:19:45,470
+it doesn't do anything dangerous oh and
+ 
+
+713
+00:19:45,470 --> 00:19:47,590
+it doesn't do anything dangerous oh and
+I maybe I'll replace this with nether X
+
+714
+00:19:47,590 --> 00:19:47,600
+I maybe I'll replace this with nether X
+ 
+
+715
+00:19:47,600 --> 00:19:52,690
+I maybe I'll replace this with nether X
+or nether nether brick so we can see the
+
+716
+00:19:52,690 --> 00:19:52,700
+or nether nether brick so we can see the
+ 
+
+717
+00:19:52,700 --> 00:19:55,090
+or nether nether brick so we can see the
+button clear cuz right now it's it's the
+
+718
+00:19:55,090 --> 00:19:55,100
+button clear cuz right now it's it's the
+ 
+
+719
+00:19:55,100 --> 00:19:58,980
+button clear cuz right now it's it's the
+same colors the back
+
+720
+00:19:58,980 --> 00:19:58,990
+
+ 
+
+721
+00:19:58,990 --> 00:20:00,870
+
+yeah so this is one of the problems I'm
+
+722
+00:20:00,870 --> 00:20:00,880
+yeah so this is one of the problems I'm
+ 
+
+723
+00:20:00,880 --> 00:20:04,169
+yeah so this is one of the problems I'm
+having with this still they are tracking
+
+724
+00:20:04,169 --> 00:20:04,179
+having with this still they are tracking
+ 
+
+725
+00:20:04,179 --> 00:20:06,000
+having with this still they are tracking
+me if I'm on the other side of that wall
+
+726
+00:20:06,000 --> 00:20:06,010
+me if I'm on the other side of that wall
+ 
+
+727
+00:20:06,010 --> 00:20:08,760
+me if I'm on the other side of that wall
+just because of where the spawner is I
+
+728
+00:20:08,760 --> 00:20:08,770
+just because of where the spawner is I
+ 
+
+729
+00:20:08,770 --> 00:20:13,980
+just because of where the spawner is I
+couldn't really avoid that so even if
+
+730
+00:20:13,980 --> 00:20:13,990
+couldn't really avoid that so even if
+ 
+
+731
+00:20:13,990 --> 00:20:15,600
+couldn't really avoid that so even if
+this is covered they're still tracking
+
+732
+00:20:15,600 --> 00:20:15,610
+this is covered they're still tracking
+ 
+
+733
+00:20:15,610 --> 00:20:20,850
+this is covered they're still tracking
+me so basically I I just have to be on
+
+734
+00:20:20,850 --> 00:20:20,860
+me so basically I I just have to be on
+ 
+
+735
+00:20:20,860 --> 00:20:23,840
+me so basically I I just have to be on
+the other side of a imaginary line here
+
+736
+00:20:23,840 --> 00:20:23,850
+the other side of a imaginary line here
+ 
+
+737
+00:20:23,850 --> 00:20:27,149
+the other side of a imaginary line here
+I'm over here it's fine it works a lot
+
+738
+00:20:27,149 --> 00:20:27,159
+I'm over here it's fine it works a lot
+ 
+
+739
+00:20:27,159 --> 00:20:30,570
+I'm over here it's fine it works a lot
+better than it did before where I was
+
+740
+00:20:30,570 --> 00:20:30,580
+better than it did before where I was
+ 
+
+741
+00:20:30,580 --> 00:20:34,500
+better than it did before where I was
+doing that stare trick down there they
+
+742
+00:20:34,500 --> 00:20:34,510
+doing that stare trick down there they
+ 
+
+743
+00:20:34,510 --> 00:20:38,549
+doing that stare trick down there they
+really weren't cooperating because
+
+744
+00:20:38,549 --> 00:20:38,559
+really weren't cooperating because
+ 
+
+745
+00:20:38,559 --> 00:20:40,500
+really weren't cooperating because
+before I would pretty much have to be in
+
+746
+00:20:40,500 --> 00:20:40,510
+before I would pretty much have to be in
+ 
+
+747
+00:20:40,510 --> 00:20:43,230
+before I would pretty much have to be in
+the corner for it to work and and now I
+
+748
+00:20:43,230 --> 00:20:43,240
+the corner for it to work and and now I
+ 
+
+749
+00:20:43,240 --> 00:20:45,120
+the corner for it to work and and now I
+can just be somewhere on the sides does
+
+750
+00:20:45,120 --> 00:20:45,130
+can just be somewhere on the sides does
+ 
+
+751
+00:20:45,130 --> 00:20:45,600
+can just be somewhere on the sides does
+it matter
+
+752
+00:20:45,600 --> 00:20:45,610
+it matter
+ 
+
+753
+00:20:45,610 --> 00:20:49,250
+it matter
+and same with same with that one there
+
+754
+00:20:49,250 --> 00:20:49,260
+and same with same with that one there
+ 
+
+755
+00:20:49,260 --> 00:20:51,659
+and same with same with that one there
+the way of their position there was no
+
+756
+00:20:51,659 --> 00:20:51,669
+the way of their position there was no
+ 
+
+757
+00:20:51,669 --> 00:20:54,289
+the way of their position there was no
+way I could get them to all go into one
+
+758
+00:20:54,289 --> 00:20:54,299
+way I could get them to all go into one
+ 
+
+759
+00:20:54,299 --> 00:20:58,580
+way I could get them to all go into one
+stream together from the two spawners
+
+760
+00:20:58,580 --> 00:20:58,590
+stream together from the two spawners
+ 
+
+761
+00:20:58,590 --> 00:21:01,560
+stream together from the two spawners
+without them tracking me enough and not
+
+762
+00:21:01,560 --> 00:21:01,570
+without them tracking me enough and not
+ 
+
+763
+00:21:01,570 --> 00:21:06,350
+without them tracking me enough and not
+oh what am I saying
+
+764
+00:21:06,350 --> 00:21:06,360
+oh what am I saying
+ 
+
+765
+00:21:06,360 --> 00:21:08,430
+oh what am I saying
+disobeying the water streams they were
+
+766
+00:21:08,430 --> 00:21:08,440
+disobeying the water streams they were
+ 
+
+767
+00:21:08,440 --> 00:21:11,700
+disobeying the water streams they were
+disobeying the water streams before but
+
+768
+00:21:11,700 --> 00:21:11,710
+disobeying the water streams before but
+ 
+
+769
+00:21:11,710 --> 00:21:14,880
+disobeying the water streams before but
+now it works which is important I got
+
+770
+00:21:14,880 --> 00:21:14,890
+now it works which is important I got
+ 
+
+771
+00:21:14,890 --> 00:21:17,029
+now it works which is important I got
+the nether brick on the other side here
+
+772
+00:21:17,029 --> 00:21:17,039
+the nether brick on the other side here
+ 
+
+773
+00:21:17,039 --> 00:21:18,899
+the nether brick on the other side here
+not sure where I'm going to put the
+
+774
+00:21:18,899 --> 00:21:18,909
+not sure where I'm going to put the
+ 
+
+775
+00:21:18,909 --> 00:21:22,110
+not sure where I'm going to put the
+glowstone
+
+776
+00:21:22,110 --> 00:21:22,120
+
+ 
+
+777
+00:21:22,120 --> 00:21:26,000
+
+and maybe I'll put signs below your Adam
+
+778
+00:21:26,000 --> 00:21:26,010
+and maybe I'll put signs below your Adam
+ 
+
+779
+00:21:26,010 --> 00:21:31,019
+and maybe I'll put signs below your Adam
+will figure it out pretty happy with
+
+780
+00:21:31,019 --> 00:21:31,029
+will figure it out pretty happy with
+ 
+
+781
+00:21:31,029 --> 00:21:33,419
+will figure it out pretty happy with
+this let's try out the piston though see
+
+782
+00:21:33,419 --> 00:21:33,429
+this let's try out the piston though see
+ 
+
+783
+00:21:33,429 --> 00:21:43,019
+this let's try out the piston though see
+what it goes yeah it's fine even if even
+
+784
+00:21:43,019 --> 00:21:43,029
+what it goes yeah it's fine even if even
+ 
+
+785
+00:21:43,029 --> 00:21:44,519
+what it goes yeah it's fine even if even
+if it does add it won't crush the mob's
+
+786
+00:21:44,519 --> 00:21:44,529
+if it does add it won't crush the mob's
+ 
+
+787
+00:21:44,529 --> 00:21:47,159
+if it does add it won't crush the mob's
+piston piston arms you can't stuff I
+
+788
+00:21:47,159 --> 00:21:47,169
+piston piston arms you can't stuff I
+ 
+
+789
+00:21:47,169 --> 00:21:48,960
+piston piston arms you can't stuff I
+think the mobs and they're not getting
+
+790
+00:21:48,960 --> 00:21:48,970
+think the mobs and they're not getting
+ 
+
+791
+00:21:48,970 --> 00:21:50,640
+think the mobs and they're not getting
+pushed through the glass which is what I
+
+792
+00:21:50,640 --> 00:21:50,650
+pushed through the glass which is what I
+ 
+
+793
+00:21:50,650 --> 00:21:55,200
+pushed through the glass which is what I
+was worried about so all in all I'm
+
+794
+00:21:55,200 --> 00:21:55,210
+was worried about so all in all I'm
+ 
+
+795
+00:21:55,210 --> 00:22:00,750
+was worried about so all in all I'm
+pretty happy with this yeah so it's nice
+
+796
+00:22:00,750 --> 00:22:00,760
+pretty happy with this yeah so it's nice
+ 
+
+797
+00:22:00,760 --> 00:22:03,570
+pretty happy with this yeah so it's nice
+to have that more finished up now this
+
+798
+00:22:03,570 --> 00:22:03,580
+to have that more finished up now this
+ 
+
+799
+00:22:03,580 --> 00:22:05,310
+to have that more finished up now this
+is really good it works better than the
+
+800
+00:22:05,310 --> 00:22:05,320
+is really good it works better than the
+ 
+
+801
+00:22:05,320 --> 00:22:08,730
+is really good it works better than the
+other spider system a lot of people are
+
+802
+00:22:08,730 --> 00:22:08,740
+other spider system a lot of people are
+ 
+
+803
+00:22:08,740 --> 00:22:10,500
+other spider system a lot of people are
+wondering where that is so maybe I'll
+
+804
+00:22:10,500 --> 00:22:10,510
+wondering where that is so maybe I'll
+ 
+
+805
+00:22:10,510 --> 00:22:13,889
+wondering where that is so maybe I'll
+just run there directly here to show you
+
+806
+00:22:13,889 --> 00:22:13,899
+just run there directly here to show you
+ 
+
+807
+00:22:13,899 --> 00:22:17,159
+just run there directly here to show you
+this area here needs to be cleaned up a
+
+808
+00:22:17,159 --> 00:22:17,169
+this area here needs to be cleaned up a
+ 
+
+809
+00:22:17,169 --> 00:22:20,730
+this area here needs to be cleaned up a
+lot I can rip this out too now that's
+
+810
+00:22:20,730 --> 00:22:20,740
+lot I can rip this out too now that's
+ 
+
+811
+00:22:20,740 --> 00:22:23,220
+lot I can rip this out too now that's
+from the old system ax is messing around
+
+812
+00:22:23,220 --> 00:22:23,230
+from the old system ax is messing around
+ 
+
+813
+00:22:23,230 --> 00:22:29,340
+from the old system ax is messing around
+with get to the other cape spider system
+
+814
+00:22:29,340 --> 00:22:29,350
+with get to the other cape spider system
+ 
+
+815
+00:22:29,350 --> 00:22:31,919
+with get to the other cape spider system
+you just goes through the tree farm here
+
+816
+00:22:31,919 --> 00:22:31,929
+you just goes through the tree farm here
+ 
+
+817
+00:22:31,929 --> 00:22:36,269
+you just goes through the tree farm here
+and I believe we went too far it gets in
+
+818
+00:22:36,269 --> 00:22:36,279
+and I believe we went too far it gets in
+ 
+
+819
+00:22:36,279 --> 00:22:41,490
+and I believe we went too far it gets in
+here somewhere let's run down the tunnel
+
+820
+00:22:41,490 --> 00:22:41,500
+here somewhere let's run down the tunnel
+ 
+
+821
+00:22:41,500 --> 00:22:47,250
+here somewhere let's run down the tunnel
+and right over here it's kind of I got
+
+822
+00:22:47,250 --> 00:22:47,260
+and right over here it's kind of I got
+ 
+
+823
+00:22:47,260 --> 00:22:49,590
+and right over here it's kind of I got
+I'll clean up this area too eventually
+
+824
+00:22:49,590 --> 00:22:49,600
+I'll clean up this area too eventually
+ 
+
+825
+00:22:49,600 --> 00:22:55,930
+I'll clean up this area too eventually
+in time this is it
+
+826
+00:22:55,930 --> 00:22:55,940
+
+ 
+
+827
+00:22:55,940 --> 00:22:59,960
+
+lots of lots of pics here some of these
+
+828
+00:22:59,960 --> 00:22:59,970
+lots of lots of pics here some of these
+ 
+
+829
+00:22:59,970 --> 00:23:03,109
+lots of lots of pics here some of these
+are actually pretty good movies working
+
+830
+00:23:03,109 --> 00:23:03,119
+are actually pretty good movies working
+ 
+
+831
+00:23:03,119 --> 00:23:04,729
+are actually pretty good movies working
+dude I just got another fortune 3
+
+832
+00:23:04,729 --> 00:23:04,739
+dude I just got another fortune 3
+ 
+
+833
+00:23:04,739 --> 00:23:08,989
+dude I just got another fortune 3
+diamond pic is awesome nothing else on
+
+834
+00:23:08,989 --> 00:23:08,999
+diamond pic is awesome nothing else on
+ 
+
+835
+00:23:08,999 --> 00:23:09,560
+diamond pic is awesome nothing else on
+it though
+
+836
+00:23:09,560 --> 00:23:09,570
+it though
+ 
+
+837
+00:23:09,570 --> 00:23:12,350
+it though
+3 soon I'll be able to enchant something
+
+838
+00:23:12,350 --> 00:23:12,360
+3 soon I'll be able to enchant something
+ 
+
+839
+00:23:12,360 --> 00:23:17,450
+3 soon I'll be able to enchant something
+else and level 39 here with our cave
+
+840
+00:23:17,450 --> 00:23:17,460
+else and level 39 here with our cave
+ 
+
+841
+00:23:17,460 --> 00:23:20,119
+else and level 39 here with our cave
+system no we really need to pick out a
+
+842
+00:23:20,119 --> 00:23:20,129
+system no we really need to pick out a
+ 
+
+843
+00:23:20,129 --> 00:23:27,229
+system no we really need to pick out a
+theme like a wave like a block selection
+
+844
+00:23:27,229 --> 00:23:27,239
+theme like a wave like a block selection
+ 
+
+845
+00:23:27,239 --> 00:23:30,139
+theme like a wave like a block selection
+type thing for the ground I would like
+
+846
+00:23:30,139 --> 00:23:30,149
+type thing for the ground I would like
+ 
+
+847
+00:23:30,149 --> 00:23:32,210
+type thing for the ground I would like
+to have grass like I've been doing but
+
+848
+00:23:32,210 --> 00:23:32,220
+to have grass like I've been doing but
+ 
+
+849
+00:23:32,220 --> 00:23:35,749
+to have grass like I've been doing but
+maybe have some sort of a walkway to of
+
+850
+00:23:35,749 --> 00:23:35,759
+maybe have some sort of a walkway to of
+ 
+
+851
+00:23:35,759 --> 00:23:38,899
+maybe have some sort of a walkway to of
+another block like maybe maybe the stone
+
+852
+00:23:38,899 --> 00:23:38,909
+another block like maybe maybe the stone
+ 
+
+853
+00:23:38,909 --> 00:23:44,029
+another block like maybe maybe the stone
+bricks for the walls of the cave that's
+
+854
+00:23:44,029 --> 00:23:44,039
+bricks for the walls of the cave that's
+ 
+
+855
+00:23:44,039 --> 00:23:45,529
+bricks for the walls of the cave that's
+a problem I have right now I want
+
+856
+00:23:45,529 --> 00:23:45,539
+a problem I have right now I want
+ 
+
+857
+00:23:45,539 --> 00:23:47,210
+a problem I have right now I want
+everything to be stone bricks and it
+
+858
+00:23:47,210 --> 00:23:47,220
+everything to be stone bricks and it
+ 
+
+859
+00:23:47,220 --> 00:23:51,109
+everything to be stone bricks and it
+just doesn't we need more variety how do
+
+860
+00:23:51,109 --> 00:23:51,119
+just doesn't we need more variety how do
+ 
+
+861
+00:23:51,119 --> 00:23:54,080
+just doesn't we need more variety how do
+we work it in these nether bricks go
+
+862
+00:23:54,080 --> 00:23:54,090
+we work it in these nether bricks go
+ 
+
+863
+00:23:54,090 --> 00:23:57,229
+we work it in these nether bricks go
+great with them though I like as play
+
+864
+00:23:57,229 --> 00:23:57,239
+great with them though I like as play
+ 
+
+865
+00:23:57,239 --> 00:24:00,049
+great with them though I like as play
+around here maybe using them for my
+
+866
+00:24:00,049 --> 00:24:00,059
+around here maybe using them for my
+ 
+
+867
+00:24:00,059 --> 00:24:02,269
+around here maybe using them for my
+ceilings that's why I've been doing in
+
+868
+00:24:02,269 --> 00:24:02,279
+ceilings that's why I've been doing in
+ 
+
+869
+00:24:02,279 --> 00:24:04,399
+ceilings that's why I've been doing in
+my custom map and it looks awesome
+
+870
+00:24:04,399 --> 00:24:04,409
+my custom map and it looks awesome
+ 
+
+871
+00:24:04,409 --> 00:24:07,639
+my custom map and it looks awesome
+stone brick walls another brick ceiling
+
+872
+00:24:07,639 --> 00:24:07,649
+stone brick walls another brick ceiling
+ 
+
+873
+00:24:07,649 --> 00:24:11,479
+stone brick walls another brick ceiling
+and need to mix some sandstone with
+
+874
+00:24:11,479 --> 00:24:11,489
+and need to mix some sandstone with
+ 
+
+875
+00:24:11,489 --> 00:24:14,169
+and need to mix some sandstone with
+another brick and it looks even better
+
+876
+00:24:14,169 --> 00:24:14,179
+another brick and it looks even better
+ 
+
+877
+00:24:14,179 --> 00:24:17,269
+another brick and it looks even better
+so let me know what you think of that I
+
+878
+00:24:17,269 --> 00:24:17,279
+so let me know what you think of that I
+ 
+
+879
+00:24:17,279 --> 00:24:20,180
+so let me know what you think of that I
+also really like using wood planks and
+
+880
+00:24:20,180 --> 00:24:20,190
+also really like using wood planks and
+ 
+
+881
+00:24:20,190 --> 00:24:21,019
+also really like using wood planks and
+leaves and stuff
+
+882
+00:24:21,019 --> 00:24:21,029
+leaves and stuff
+ 
+
+883
+00:24:21,029 --> 00:24:24,529
+leaves and stuff
+Wood maybe we can mix that in somehow
+
+884
+00:24:24,529 --> 00:24:24,539
+Wood maybe we can mix that in somehow
+ 
+
+885
+00:24:24,539 --> 00:24:28,099
+Wood maybe we can mix that in somehow
+I'm not sure for this cave area though
+
+886
+00:24:28,099 --> 00:24:28,109
+I'm not sure for this cave area though
+ 
+
+887
+00:24:28,109 --> 00:24:30,409
+I'm not sure for this cave area though
+I'd like to kind of keep the shape of it
+
+888
+00:24:30,409 --> 00:24:30,419
+I'd like to kind of keep the shape of it
+ 
+
+889
+00:24:30,419 --> 00:24:33,080
+I'd like to kind of keep the shape of it
+like instead of squaring everything out
+
+890
+00:24:33,080 --> 00:24:33,090
+like instead of squaring everything out
+ 
+
+891
+00:24:33,090 --> 00:24:34,759
+like instead of squaring everything out
+that kind of want to keep the shape and
+
+892
+00:24:34,759 --> 00:24:34,769
+that kind of want to keep the shape and
+ 
+
+893
+00:24:34,769 --> 00:24:38,299
+that kind of want to keep the shape and
+just smooth it out a bit like dad paths
+
+894
+00:24:38,299 --> 00:24:38,309
+just smooth it out a bit like dad paths
+ 
+
+895
+00:24:38,309 --> 00:24:41,840
+just smooth it out a bit like dad paths
+and that kind of thing but I want the
+
+896
+00:24:41,840 --> 00:24:41,850
+and that kind of thing but I want the
+ 
+
+897
+00:24:41,850 --> 00:24:45,259
+and that kind of thing but I want the
+natural look of the cave I'm not sure
+
+898
+00:24:45,259 --> 00:24:45,269
+natural look of the cave I'm not sure
+ 
+
+899
+00:24:45,269 --> 00:24:47,419
+natural look of the cave I'm not sure
+how it would look if I replaced like
+
+900
+00:24:47,419 --> 00:24:47,429
+how it would look if I replaced like
+ 
+
+901
+00:24:47,429 --> 00:24:50,229
+how it would look if I replaced like
+these walls and stuff with stone bricks
+
+902
+00:24:50,229 --> 00:24:50,239
+these walls and stuff with stone bricks
+ 
+
+903
+00:24:50,239 --> 00:24:53,810
+these walls and stuff with stone bricks
+with this exact same shape type thing
+
+904
+00:24:53,810 --> 00:24:53,820
+with this exact same shape type thing
+ 
+
+905
+00:24:53,820 --> 00:24:56,960
+with this exact same shape type thing
+and maybe nether brick for the ceiling
+
+906
+00:24:56,960 --> 00:24:56,970
+and maybe nether brick for the ceiling
+ 
+
+907
+00:24:56,970 --> 00:24:59,570
+and maybe nether brick for the ceiling
+that might look a little strange it's
+
+908
+00:24:59,570 --> 00:24:59,580
+that might look a little strange it's
+ 
+
+909
+00:24:59,580 --> 00:25:02,629
+that might look a little strange it's
+hard to tell do you guys have any ideas
+
+910
+00:25:02,629 --> 00:25:02,639
+hard to tell do you guys have any ideas
+ 
+
+911
+00:25:02,639 --> 00:25:04,419
+hard to tell do you guys have any ideas
+what should I do
+
+912
+00:25:04,419 --> 00:25:04,429
+what should I do
+ 
+
+913
+00:25:04,429 --> 00:25:09,310
+what should I do
+I'm really bad at picking out blocks
+
+914
+00:25:09,310 --> 00:25:09,320
+I'm really bad at picking out blocks
+ 
+
+915
+00:25:09,320 --> 00:25:12,800
+I'm really bad at picking out blocks
+to make it look good that's the thing
+
+916
+00:25:12,800 --> 00:25:12,810
+to make it look good that's the thing
+ 
+
+917
+00:25:12,810 --> 00:25:15,080
+to make it look good that's the thing
+that I really think people should get
+
+918
+00:25:15,080 --> 00:25:15,090
+that I really think people should get
+ 
+
+919
+00:25:15,090 --> 00:25:19,490
+that I really think people should get
+into more make tutorials on how to make
+
+920
+00:25:19,490 --> 00:25:19,500
+into more make tutorials on how to make
+ 
+
+921
+00:25:19,500 --> 00:25:23,030
+into more make tutorials on how to make
+things pleasing looking like there's so
+
+922
+00:25:23,030 --> 00:25:23,040
+things pleasing looking like there's so
+ 
+
+923
+00:25:23,040 --> 00:25:24,920
+things pleasing looking like there's so
+many tutorials on how to build technical
+
+924
+00:25:24,920 --> 00:25:24,930
+many tutorials on how to build technical
+ 
+
+925
+00:25:24,930 --> 00:25:27,440
+many tutorials on how to build technical
+things but I would like to see tutorials
+
+926
+00:25:27,440 --> 00:25:27,450
+things but I would like to see tutorials
+ 
+
+927
+00:25:27,450 --> 00:25:30,710
+things but I would like to see tutorials
+on how to build aesthetically pleasing
+
+928
+00:25:30,710 --> 00:25:30,720
+on how to build aesthetically pleasing
+ 
+
+929
+00:25:30,720 --> 00:25:35,360
+on how to build aesthetically pleasing
+things tricks to it you know I think
+
+930
+00:25:35,360 --> 00:25:35,370
+things tricks to it you know I think
+ 
+
+931
+00:25:35,370 --> 00:25:38,240
+things tricks to it you know I think
+that's all that common and it would help
+
+932
+00:25:38,240 --> 00:25:38,250
+that's all that common and it would help
+ 
+
+933
+00:25:38,250 --> 00:25:40,640
+that's all that common and it would help
+me out a lot I think a lot of people
+
+934
+00:25:40,640 --> 00:25:40,650
+me out a lot I think a lot of people
+ 
+
+935
+00:25:40,650 --> 00:25:41,840
+me out a lot I think a lot of people
+learn that stuff when they play
+
+936
+00:25:41,840 --> 00:25:41,850
+learn that stuff when they play
+ 
+
+937
+00:25:41,850 --> 00:25:44,660
+learn that stuff when they play
+multiplayer they kind of pick up tricks
+
+938
+00:25:44,660 --> 00:25:44,670
+multiplayer they kind of pick up tricks
+ 
+
+939
+00:25:44,670 --> 00:25:46,340
+multiplayer they kind of pick up tricks
+that other people do and it adds to
+
+940
+00:25:46,340 --> 00:25:46,350
+that other people do and it adds to
+ 
+
+941
+00:25:46,350 --> 00:25:49,330
+that other people do and it adds to
+their variety with me though it's like
+
+942
+00:25:49,330 --> 00:25:49,340
+their variety with me though it's like
+ 
+
+943
+00:25:49,340 --> 00:25:51,710
+their variety with me though it's like
+plain boring stone brick walls
+
+944
+00:25:51,710 --> 00:25:51,720
+plain boring stone brick walls
+ 
+
+945
+00:25:51,720 --> 00:25:54,830
+plain boring stone brick walls
+everywhere I need I need more variety
+
+946
+00:25:54,830 --> 00:25:54,840
+everywhere I need I need more variety
+ 
+
+947
+00:25:54,840 --> 00:25:58,490
+everywhere I need I need more variety
+here but I'll think about it give me
+
+948
+00:25:58,490 --> 00:25:58,500
+here but I'll think about it give me
+ 
+
+949
+00:25:58,500 --> 00:26:00,370
+here but I'll think about it give me
+your feedback what should I do
+
+950
+00:26:00,370 --> 00:26:00,380
+your feedback what should I do
+ 
+
+951
+00:26:00,380 --> 00:26:04,970
+your feedback what should I do
+what do you think would look good so far
+
+952
+00:26:04,970 --> 00:26:04,980
+what do you think would look good so far
+ 
+
+953
+00:26:04,980 --> 00:26:07,520
+what do you think would look good so far
+I like how it looks but yeah I don't
+
+954
+00:26:07,520 --> 00:26:07,530
+I like how it looks but yeah I don't
+ 
+
+955
+00:26:07,530 --> 00:26:12,650
+I like how it looks but yeah I don't
+want big empty walls like this anyway
+
+956
+00:26:12,650 --> 00:26:12,660
+want big empty walls like this anyway
+ 
+
+957
+00:26:12,660 --> 00:26:15,800
+want big empty walls like this anyway
+I'll probably mix in some lab lighting
+
+958
+00:26:15,800 --> 00:26:15,810
+I'll probably mix in some lab lighting
+ 
+
+959
+00:26:15,810 --> 00:26:19,040
+I'll probably mix in some lab lighting
+in these walls because I want to hear it
+
+960
+00:26:19,040 --> 00:26:19,050
+in these walls because I want to hear it
+ 
+
+961
+00:26:19,050 --> 00:26:22,580
+in these walls because I want to hear it
+all these torches clean out this area
+
+962
+00:26:22,580 --> 00:26:22,590
+all these torches clean out this area
+ 
+
+963
+00:26:22,590 --> 00:26:24,800
+all these torches clean out this area
+I'll probably get rid of this big chunk
+
+964
+00:26:24,800 --> 00:26:24,810
+I'll probably get rid of this big chunk
+ 
+
+965
+00:26:24,810 --> 00:26:28,610
+I'll probably get rid of this big chunk
+here like a path I might rip this out
+
+966
+00:26:28,610 --> 00:26:28,620
+here like a path I might rip this out
+ 
+
+967
+00:26:28,620 --> 00:26:34,130
+here like a path I might rip this out
+and put a path down here somewhere this
+
+968
+00:26:34,130 --> 00:26:34,140
+and put a path down here somewhere this
+ 
+
+969
+00:26:34,140 --> 00:26:36,170
+and put a path down here somewhere this
+area really needs to be leveled out and
+
+970
+00:26:36,170 --> 00:26:36,180
+area really needs to be leveled out and
+ 
+
+971
+00:26:36,180 --> 00:26:39,830
+area really needs to be leveled out and
+cleaned up stupid Enderman
+
+972
+00:26:39,830 --> 00:26:39,840
+cleaned up stupid Enderman
+ 
+
+973
+00:26:39,840 --> 00:26:41,330
+cleaned up stupid Enderman
+I don't know when that happened but he
+
+974
+00:26:41,330 --> 00:26:41,340
+I don't know when that happened but he
+ 
+
+975
+00:26:41,340 --> 00:26:43,600
+I don't know when that happened but he
+brought a grass block down I'll probably
+
+976
+00:26:43,600 --> 00:26:43,610
+brought a grass block down I'll probably
+ 
+
+977
+00:26:43,610 --> 00:26:46,400
+brought a grass block down I'll probably
+switch that to grass too doesn't matter
+
+978
+00:26:46,400 --> 00:26:46,410
+switch that to grass too doesn't matter
+ 
+
+979
+00:26:46,410 --> 00:26:52,690
+switch that to grass too doesn't matter
+now and I'll clean this up some more
+
+980
+00:26:52,690 --> 00:26:52,700
+now and I'll clean this up some more
+ 
+
+981
+00:26:52,700 --> 00:26:56,210
+now and I'll clean this up some more
+this door here is for a wire room like a
+
+982
+00:26:56,210 --> 00:26:56,220
+this door here is for a wire room like a
+ 
+
+983
+00:26:56,220 --> 00:26:58,460
+this door here is for a wire room like a
+way of getting down to the wire because
+
+984
+00:26:58,460 --> 00:26:58,470
+way of getting down to the wire because
+ 
+
+985
+00:26:58,470 --> 00:27:01,670
+way of getting down to the wire because
+this will all be covered eventually so
+
+986
+00:27:01,670 --> 00:27:01,680
+this will all be covered eventually so
+ 
+
+987
+00:27:01,680 --> 00:27:03,470
+this will all be covered eventually so
+it would be nice to have some type of
+
+988
+00:27:03,470 --> 00:27:03,480
+it would be nice to have some type of
+ 
+
+989
+00:27:03,480 --> 00:27:06,740
+it would be nice to have some type of
+access although I might move where that
+
+990
+00:27:06,740 --> 00:27:06,750
+access although I might move where that
+ 
+
+991
+00:27:06,750 --> 00:27:09,709
+access although I might move where that
+door is
+
+992
+00:27:09,709 --> 00:27:09,719
+
+ 
+
+993
+00:27:09,719 --> 00:27:15,049
+
+might start adding some paths here like
+
+994
+00:27:15,049 --> 00:27:15,059
+might start adding some paths here like
+ 
+
+995
+00:27:15,059 --> 00:27:20,959
+might start adding some paths here like
+I was thinking maybe bricks or or stone
+
+996
+00:27:20,959 --> 00:27:20,969
+I was thinking maybe bricks or or stone
+ 
+
+997
+00:27:20,969 --> 00:27:24,139
+I was thinking maybe bricks or or stone
+bricks or something do a path this is
+
+998
+00:27:24,139 --> 00:27:24,149
+bricks or something do a path this is
+ 
+
+999
+00:27:24,149 --> 00:27:29,419
+bricks or something do a path this is
+pretty common oh we need to do I don't
+
+1000
+00:27:29,419 --> 00:27:29,429
+pretty common oh we need to do I don't
+ 
+
+1001
+00:27:29,429 --> 00:27:31,299
+pretty common oh we need to do I don't
+have what I need for this I need some
+
+1002
+00:27:31,299 --> 00:27:31,309
+have what I need for this I need some
+ 
+
+1003
+00:27:31,309 --> 00:27:37,539
+have what I need for this I need some
+half slabs
+
+1004
+00:27:37,539 --> 00:27:37,549
+
+ 
+
+1005
+00:27:37,549 --> 00:27:40,279
+
+we'll just see how it looks small sample
+
+1006
+00:27:40,279 --> 00:27:40,289
+we'll just see how it looks small sample
+ 
+
+1007
+00:27:40,289 --> 00:27:48,619
+we'll just see how it looks small sample
+here that holes all over the place
+
+1008
+00:27:48,619 --> 00:27:48,629
+here that holes all over the place
+ 
+
+1009
+00:27:48,629 --> 00:27:52,759
+here that holes all over the place
+and I just fell in it darn it okay I got
+
+1010
+00:27:52,759 --> 00:27:52,769
+and I just fell in it darn it okay I got
+ 
+
+1011
+00:27:52,769 --> 00:27:55,039
+and I just fell in it darn it okay I got
+to fill this
+
